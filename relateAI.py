@@ -42,6 +42,8 @@ def make_pairs():
                 url = f"{API_BASE}/{id}.json"
                 r = requests.get(url)
                 r.raise_for_status()
+            except KeyboardInterrupt:
+                raise
             except:
                 continue
             
@@ -79,6 +81,8 @@ def generate(start_line):
                         ],
                         temperature = 0
                     )
+                except KeyboardInterrupt:
+                    raise
                 except:
                     continue
 
@@ -111,4 +115,4 @@ def parse_response(text):
     return relatedness, generality
 
 
-generate(6063)
+generate()
