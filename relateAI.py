@@ -6,7 +6,7 @@ from groq import Groq
 
 # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")
+    api_key=""
 )
 
 API_BASE = "https://www.inphoproject.org/idea"
@@ -56,7 +56,7 @@ def make_pairs():
 # make_pairs()
 
 def generate(start_line):
-    with open("ai_researcher.csv", "a", newline="") as fout:
+    with open("llama_researcher.csv", "a", newline="") as fout:
         writer = csv.writer(fout)
 
         with open("pairs.csv", newline="") as fin:
@@ -115,4 +115,5 @@ def parse_response(text):
     return relatedness, generality
 
 
-generate()
+if "__name__" == "__main__":
+    generate(2)

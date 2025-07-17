@@ -1,0 +1,6 @@
+1. Majority of the ideas in idea_evaluation by humans was not in llama_researcher,
+   meaning that the idea.json/relatedness portion did not catch everything
+
+2. the AI NEVER recorded "Highly related" and barely did "Not related" (wants to stay "safe")
+
+3. agreement matrix seems like pretty weak relation for human 4.0 proficiency & llama_researcher
