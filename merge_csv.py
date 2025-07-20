@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import os
 
 REL_MAP = {
     "Not Related": 0, "Marginally Related": 1, "Somewhat Related": 2,
@@ -10,10 +11,10 @@ GEN_MAP = {
     "As General As": 2,   "More General Than": 3,
 }
 
-AI_FILE   = "llama_researcher.csv"
+AI_FILE   = "llama_novice.csv"
 HUM_FILE  = "idea_evaluation_with_all_user_info.csv"
 MAP_FILE  = "idea_id_label_mapping.csv"
-OUT_FILE  = "expert_ai_pairs.csv"
+OUT_FILE  = "novice_ai_expert_human.csv"
 
 """
 - loop through rows in HUM_FILE, and regard only the rows with proficiency 4.0
@@ -60,7 +61,7 @@ from relateAI import parse_response
 from groq import Groq
 
 client = Groq(
-    api_key=""
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 def fill_unknown(idA, idB):
@@ -68,7 +69,7 @@ def fill_unknown(idA, idB):
         model = "llama-3.1-8b-instant",
         messages=[
             {"role": "system", "content": """
-            You’re a philosophy researcher familiar with the Stanford Encyclopedia of Philosophy.
+            You’re a novice interested in philosophy.
     For each pair of ideas, please answer:
     1) “How related is <Idea A> to <Idea B>?”
     — Not Related / Marginally Related / Somewhat Related / Related / Highly Related

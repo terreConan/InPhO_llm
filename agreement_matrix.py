@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("expert_ai_pairs.csv")
+df = pd.read_csv("novice_ai_expert_human.csv")
 
 REL_LABELS = ["Not Related","Marginally Related","Somewhat Related","Related","Highly Related"]
 GEN_LABELS = ["N/A","Incomparable To","More Specific Than","As General As","More General Than"]
@@ -33,8 +33,8 @@ def plot_cm(cm, labels, order, title):
                      color="white" if not pd.isna(val) and val > .5 else "black",
                      fontsize=9)
 
-    plt.xlabel("AI rating")
-    plt.ylabel("Human rating")
+    plt.xlabel("Novice AI rating")
+    plt.ylabel("Expert Human rating")
     plt.title(title)
     plt.xticks(rotation=45, ha="right")
     plt.yticks(rotation=0)

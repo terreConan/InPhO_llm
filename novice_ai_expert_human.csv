@@ -1,0 +1,2163 @@
+ideaA,ideaB,aiRelatedness,aiGenerality,humanRelatedness,humanGenerality
+folk psychology,cognitive science,3,3,4,2
+symbolic processing,artificial intelligence,3,1,4,0
+turing test,artificial intelligence,3,1,4,0
+externalism about mental content,cognitive science,3,2,3,3
+logic and artificial intelligence,artificial intelligence,3,0,4,0
+eliminative materialism,cognitive science,3,3,4,2
+animal cognition,cognitive science,3,3,4,0
+neural network,cognitive science,3,1,4,0
+teleological theories of mental content,cognitive science,3,3,3,3
+computational theory of mind,cognitive science,3,2,4,0
+folk psychology as mental simulation,folk psychology,3,2,4,0
+connectionism,cognitive science,3,1,4,0
+output unit,artificial intelligence,3,1,4,0
+distributed representation,cognitive science,3,3,4,0
+frame problem,artificial intelligence,3,3,4,0
+distributed representation,artificial intelligence,3,1,4,0
+thinking machine,artificial intelligence,3,1,4,0
+logic and computation,artificial intelligence,3,3,3,1
+simulation theory,folk psychology,2,0,4,0
+computationalism,cognitive science,3,3,4,0
+philosophy of computer science,cognitive science,3,0,4,2
+language learning,cognitive science,3,1,4,2
+mental representation,cognitive science,3,1,4,2
+symbolic processing,folk psychology,3,3,3,1
+input unit,folk psychology,1,0,1,3
+network model,cognitive science,3,3,4,0
+activation value,folk psychology,1,0,1,3
+dynamical system,cognitive science,3,3,3,0
+chinese room argument,cognitive science,3,3,4,0
+identity theory of mind,folk psychology,3,0,3,2
+logic and computation,cognitive science,3,2,4,2
+metaphysics of mind,cognitive science,3,0,4,2
+qualia,cognitive science,3,2,4,2
+consciousness and psychology,cognitive science,3,2,4,3
+intentional stance,cognitive science,3,3,4,3
+classicism,cognitive science,1,-1,0,-1
+theories of mental content,cognitive science,3,2,4,3
+consciousness and intentionality,cognitive science,3,2,4,3
+output unit,cognitive science,3,1,4,0
+diagrams,cognitive science,3,3,2,3
+symbol system,cognitive science,3,3,4,0
+blindsight,cognitive science,3,2,4,0
+autism,folk psychology,2,3,3,0
+artificial intelligence,cognitive science,3,3,4,0
+animal cognition,folk psychology,3,3,4,0
+irrealism,cognitive science,1,0,0,-1
+psychological relation,cognitive science,3,3,0,-1
+leibniz's philosophy of mind,cognitive science,3,3,0,-1
+transcendental arguments,cognitive science,2,3,0,-1
+folk psychology as mental simulation,cognitive science,3,1,4,0
+reductive materialism,cognitive science,3,3,4,3
+nativism,cognitive science,3,1,4,0
+semantic holism,cognitive science,3,3,3,0
+meaning holism,cognitive science,3,2,2,1
+church-turing thesis,cognitive science,1,0,3,3
+intertheory relations in physics,cognitive science,2,3,0,-1
+thermodynamic asymmetry in time,statistical mechanics and thermodynamics,3,3,4,0
+symmetry and symmetry breaking,symmetry and invariance,3,2,4,2
+molecular biology,philosophy of biology,2,3,4,0
+molecular biology,philosophy of biology,3,3,4,0
+conservation biology,philosophy of biology,3,3,4,0
+teleological theories of mental content,philosophy of biology,2,-1,3,0
+scientific explanation,philosophy of biology,3,3,2,3
+creationism,philosophy of biology,3,3,3,3
+gradualism,philosophy of biology,3,3,4,0
+animal behavior,philosophy of biology,3,3,3,0
+biological altruism,philosophy of biology,3,3,4,0
+idiolects,philosophy of language,3,1,2,0
+logic and language,philosophy of language,3,3,4,3
+classical logic,philosophy of language,3,3,2,3
+language of thought hypothesis,philosophy of language,3,2,3,3
+first-order model theory,philosophy of language,3,3,2,3
+logical form,philosophy of language,3,1,4,0
+consequence relations and algebraic logic,philosophy of language,3,3,1,3
+model theory,philosophy of language,3,0,3,3
+semantics,philosophy of language,3,1,4,0
+compositionality,philosophy of language,3,1,4,0
+plural quantification,philosophy of language,3,1,3,0
+language learning,philosophy of language,3,3,3,0
+modal logic,philosophy of language,3,3,2,3
+speaker meaning,philosophy of language,3,1,4,1
+other minds,philosophy of mind,3,3,4,3
+wittgenstein's aesthetics,parts of speech,1,3,0,-1
+existence,parts of speech,1,-1,0,-1
+medieval theories of singular terms,parts of speech,2,3,2,3
+implicature,pragmatics,3,1,4,0
+logic,artificial intelligence,3,3,4,1
+chinese room argument,artificial intelligence,3,3,4,0
+probabilistic causation,causation,3,1,4,0
+computer ethics,ethics,3,1,4,0
+philosophy of physics,philosophy of mind,3,0,3,-1
+panpsychism,metaphysics of mind,3,2,3,0
+malebranche's theory of ideas and vision in god,philosophy of mind,3,3,2,-1
+kant's view of the mind and consciousness of self,philosophy of mind,3,3,3,-1
+medieval problem of universals,philosophy of mind,2,3,2,-1
+other minds,philosophy of mind,3,3,4,-1
+consciousness and intentionality,philosophy of mind,3,2,4,-1
+chinese room argument,philosophy of mind,3,3,3,-1
+18th century british aesthetics,philosophy of mind,2,3,1,-1
+leibniz's philosophy of mind,philosophy of mind,3,2,2,-1
+descartes' modal metaphysics,philosophy of mind,3,0,3,-1
+mind,philosophy of mind,3,3,4,-1
+panpsychism,philosophy of mind,3,2,3,-1
+aristotle's psychology,philosophy of mind,3,3,1,-1
+descartes' epistemology,philosophy of mind,3,0,3,-1
+japanese zen buddhist philosophy,philosophy of mind,2,0,1,-1
+mental representation in medieval philosophy,philosophy of mind,3,3,2,-1
+cognitive science,philosophy of mind,3,0,4,-1
+folk psychology as a theory,philosophy of mind,3,3,4,-1
+computational theory of mind,philosophy of mind,3,0,4,-1
+animal consciousness,philosophy of mind,3,3,4,-1
+matter,philosophy of mind,1,0,3,-1
+mental causation,philosophy of mind,3,3,4,-1
+scottish philosophy in the 19th century,philosophy of mind,3,3,2,-1
+dualism,philosophy of mind,3,3,4,-1
+philosophy of psychology,philosophy of mind,3,0,4,-1
+consciousness,philosophy of mind,3,2,4,-1
+psychiatry,philosophy of mind,3,0,4,-1
+philosophies of the particular sciences,philosophy of mind,3,0,3,-1
+folk psychology,philosophy of mind,3,2,4,-1
+ideas,philosophy of mind,3,3,3,-1
+philosophy of physics,philosophy of mind,3,0,1,-1
+eliminative materialism,philosophy of mind,3,1,4,-1
+epistemological problems of memory,philosophy of mind,3,0,3,-1
+teleological arguments for god's existence,philosophy of mind,1,-1,1,-1
+mental representation,philosophy of mind,3,3,4,-1
+ancient theories of soul,philosophy of mind,3,3,2,-1
+metaphysics of mind,philosophy of mind,3,0,4,-1
+syntactic analysis,philosophy of mind,2,3,2,-1
+spinoza's psychological theory,philosophy of mind,3,3,2,-1
+philosophy of nature,philosophy of mind,2,3,2,-1
+20th century continental philosophy,philosophy of mind,3,0,3,-1
+origin of aesthetic,philosophy of mind,2,3,2,-1
+cartesian dualism,philosophy of mind,3,1,4,-1
+great apes,philosophy of mind,1,3,3,-1
+modularity of mind,philosophy of mind,3,3,4,-1
+probability and statistics,philosophy of mind,1,0,1,-1
+everett's relative-state formulation of quantum mechanics,philosophy of mind,3,0,1,-1
+intentionality,philosophy of mind,3,3,4,-1
+body,philosophy of mind,3,3,3,-1
+aspects of mind,philosophy of mind,3,2,4,-1
+propositional attitude,philosophy of mind,3,3,4,-1
+perception,philosophy of mind,3,1,4,-1
+philosophy of chemistry,philosophy of mind,2,3,0,-1
+philosophy of perception,philosophy of mind,3,2,4,-1
+abstract object,philosophy of mind,3,3,2,-1
+sense-data,philosophy of mind,3,1,4,-1
+unity of consciousness,philosophy of mind,3,3,3,-1
+ancient philosophy (aristotle),philosophy of mind,3,3,1,-1
+existence,philosophy of mind,3,1,1,-1
+korean philosophy,philosophy of mind,2,0,1,-1
+proper names,philosophy of mind,1,3,1,-1
+consciousness and content,philosophy of mind,3,0,4,-1
+realism and anti-realism,philosophy of mind,3,0,2,-1
+internalism and externalism,philosophy of mind,3,0,4,-1
+nonhuman animals,philosophy of mind,3,3,3,-1
+realism and anti-realism,philosophy of mind,3,0,2,-1
+sense data,philosophy of mind,3,1,4,-1
+universals,philosophy of mind,2,0,3,-1
+problem of perception,philosophy of mind,3,3,4,-1
+externalism,philosophy of mind,3,3,4,-1
+induction,philosophy of mind,2,3,2,-1
+artificial intelligence,philosophy of mind,3,0,3,-1
+consciousness and psychology,philosophy of mind,3,2,4,-1
+mental content,philosophy of mind,3,3,4,-1
+philosophy of science and the sciences,philosophy of mind,3,0,2,-1
+philosophy of computer science,philosophy of mind,3,0,2,-1
+philosophy of biology,philosophy of mind,3,0,2,-1
+interactionism,philosophy of mind,3,2,4,-1
+mental state,philosophy of mind,3,3,4,-1
+modularity,philosophy of mind,3,1,4,-1
+philosophy of art,philosophy of mind,2,3,1,-1
+symbolic processing,philosophy of mind,3,2,3,-1
+realism,philosophy of mind,3,0,3,-1
+modern philosophy,philosophy of mind,3,0,3,-1
+epistemological problems of perception,philosophy of mind,3,2,4,-1
+computation and representation,philosophy of mind,3,3,4,-1
+introspection,philosophy of mind,3,2,4,-1
+mind-body problem,philosophy of mind,3,3,4,-1
+imagery,philosophy of mind,3,2,3,-1
+digital philosophy,philosophy of mind,3,0,2,-1
+simulation theory,philosophy of mind,3,2,4,-1
+mathematical logic,philosophy of mind,1,0,2,-1
+internalism,philosophy of mind,3,3,4,-1
+virtues and vices,philosophy of mind,1,-1,2,-1
+social epistemology,epistemology,3,3,4,0
+logic and artificial intelligence,artificial intelligence,3,0,4,-1
+turing test,artificial intelligence,3,1,4,-1
+frame problem,artificial intelligence,3,3,4,-1
+logic and computation,artificial intelligence,3,3,4,-1
+many-valued logic,artificial intelligence,3,3,3,-1
+philosophy of computer science,artificial intelligence,3,3,4,-1
+philosophy of computer science,artificial intelligence,3,3,4,-1
+symbolic processing,artificial intelligence,3,1,4,-1
+distributed representation,artificial intelligence,3,1,4,-1
+temporal logic,artificial intelligence,3,3,3,-1
+logic and language,artificial intelligence,3,3,4,-1
+dynamic logic,artificial intelligence,3,3,4,-1
+chinese room argument,artificial intelligence,3,3,4,-1
+activation value,artificial intelligence,3,1,3,-1
+input unit,artificial intelligence,3,1,4,-1
+output unit,artificial intelligence,3,1,4,-1
+modern history of computing,artificial intelligence,3,3,3,-1
+leibniz's philosophy of mind,artificial intelligence,3,3,2,-1
+computation and representation,artificial intelligence,3,3,4,-1
+computational theory of mind,artificial intelligence,3,0,4,-1
+computation,artificial intelligence,3,1,4,-1
+informal logic,artificial intelligence,1,0,3,-1
+connectionist model,artificial intelligence,3,1,4,-1
+thinking machine,artificial intelligence,3,1,4,-1
+folk psychology,artificial intelligence,3,3,3,-1
+turing machine,artificial intelligence,3,3,4,-1
+mental imagery,artificial intelligence,3,0,3,-1
+logical behaviorism,artificial intelligence,1,0,3,-1
+logic of conditionals,artificial intelligence,3,3,3,-1
+connectionism,artificial intelligence,3,1,4,-1
+cognitive science,artificial intelligence,3,3,4,-1
+proof theory,artificial intelligence,3,3,4,-1
+epistemic logic,artificial intelligence,3,3,3,-1
+non-classical logic,artificial intelligence,3,3,3,-1
+absent qualia,artificial intelligence,2,3,4,-1
+boolean algebra,artificial intelligence,3,3,3,-1
+speaker meaning,artificial intelligence,3,3,3,-1
+mentalese,artificial intelligence,3,0,3,-1
+modularity,artificial intelligence,3,3,3,-1
+neural network,artificial intelligence,3,1,4,-1
+19th century philosophy,artificial intelligence,2,3,2,-1
+church-turing thesis,artificial intelligence,3,3,4,-1
+modal logic,artificial intelligence,3,3,3,-1
+network model,artificial intelligence,3,1,4,-1
+classical logic,artificial intelligence,3,3,3,-1
+chauvinism,artificial intelligence,1,0,1,-1
+quantum computing,artificial intelligence,3,0,3,-1
+deontic logic,artificial intelligence,1,0,3,-1
+classicism,artificial intelligence,1,0,3,-1
+probabilistic causation,artificial intelligence,3,3,2,-1
+psychological theory,artificial intelligence,3,0,4,-1
+dynamical system,artificial intelligence,3,3,3,-1
+human intelligence,artificial intelligence,3,0,4,-1
+intuitionistic logic,artificial intelligence,1,0,3,-1
+eliminative materialism,artificial intelligence,2,3,4,-1
+explanatory gap,artificial intelligence,1,0,4,-1
+causal processes,artificial intelligence,3,3,3,-1
+multiple realizability,artificial intelligence,3,0,4,-1
+qualia,artificial intelligence,2,0,4,-1
+inductive logic,artificial intelligence,3,3,4,-1
+consciousness and science,artificial intelligence,0,-1,4,-1
+relevance logic,artificial intelligence,3,3,3,-1
+digital philosophy,artificial intelligence,3,3,3,-1
+logicism,artificial intelligence,2,3,3,-1
+semantic theories,artificial intelligence,3,3,4,-1
+phenomenal consciousness,artificial intelligence,2,0,4,-1
+language of thought hypothesis,artificial intelligence,3,0,4,-1
+common knowledge,artificial intelligence,1,0,3,-1
+molecular biology,artificial intelligence,1,3,2,-1
+model theory,artificial intelligence,2,-1,3,-1
+solipsism,artificial intelligence,1,0,3,-1
+deductive reasoning,artificial intelligence,3,3,4,-1
+symbol system,artificial intelligence,3,3,4,-1
+algebra,artificial intelligence,2,3,2,-1
+cartesian dualism,artificial intelligence,2,3,3,-1
+probability,artificial intelligence,3,3,3,-1
+polish philosophy,artificial intelligence,1,-1,1,-1
+mathematical logic,artificial intelligence,3,3,3,-1
+self-deception,artificial intelligence,1,3,2,-1
+philosophy of neuroscience,artificial intelligence,3,0,2,-1
+human cognition,artificial intelligence,3,0,4,-1
+implicature,artificial intelligence,2,3,2,-1
+logical constant,artificial intelligence,2,3,3,-1
+representationalism,artificial intelligence,2,3,4,-1
+set theory,artificial intelligence,2,3,3,-1
+replication,artificial intelligence,2,3,3,-1
+moral psychology,artificial intelligence,1,0,3,-1
+logical truth,artificial intelligence,2,3,3,-1
+game theory,artificial intelligence,3,3,3,-1
+science and society,artificial intelligence,3,3,4,-1
+scientific explanation,artificial intelligence,2,3,3,-1
+connectives,artificial intelligence,3,3,3,-1
+speech act,artificial intelligence,2,0,3,-1
+existentialism,artificial intelligence,1,0,2,-1
+decision theory,artificial intelligence,3,3,3,-1
+denotation,artificial intelligence,1,0,4,-1
+russian philosophy,artificial intelligence,1,-1,1,-1
+ancient philosophy,artificial intelligence,1,3,1,-1
+privacy,artificial intelligence,3,3,2,-1
+computing,artificial intelligence,3,1,4,-1
+mental imagery,cognitive science,3,1,4,-1
+computation and representation,cognitive science,3,2,4,-1
+symbolic processing,cognitive science,3,3,4,-1
+kant's view of the mind and consciousness of self,cognitive science,3,3,2,-1
+folk psychology,cognitive science,3,3,4,-1
+connectionist model,cognitive science,3,1,4,-1
+connectionism,cognitive science,3,1,4,-1
+externalism about mental content,cognitive science,3,2,3,-1
+neural network,cognitive science,3,1,4,-1
+philosophy of science,cognitive science,3,3,3,-1
+computationalism,cognitive science,3,3,4,-1
+animal cognition,cognitive science,3,3,4,-1
+teleological theories of mental content,cognitive science,3,3,3,-1
+philosophy of computer science,cognitive science,3,0,4,-1
+distributed representation,cognitive science,3,3,4,-1
+computational theory of mind,cognitive science,3,2,4,-1
+consciousness and mental content,cognitive science,3,2,4,-1
+intertheory relations,cognitive science,3,3,3,-1
+philosophy of neuroscience,cognitive science,3,2,4,-1
+philosophy of neuroscience,cognitive science,3,0,4,-1
+psychiatry,cognitive science,3,3,3,-1
+logic and computation,cognitive science,3,2,4,-1
+phenomenal consciousness,cognitive science,3,2,4,-1
+intentional stance,cognitive science,3,3,4,-1
+ordinary language philosophy,cognitive science,1,0,2,-1
+chinese room argument,cognitive science,3,3,4,-1
+causal theories of mental content,cognitive science,3,3,3,-1
+metaphysics of mind,cognitive science,3,0,3,-1
+mentalese,cognitive science,3,1,4,-1
+philosophy of psychology,cognitive science,3,0,4,-1
+qualia,cognitive science,3,2,3,-1
+the theory theory,cognitive science,3,3,4,-1
+consciousness and content,cognitive science,3,2,4,-1
+blindsight,cognitive science,3,2,4,-1
+teleosemantics,cognitive science,3,3,3,-1
+newtonianism,cognitive science,1,-1,2,-1
+dynamical system,cognitive science,3,3,4,-1
+theories of mental content,cognitive science,3,2,3,-1
+psychological relation,cognitive science,3,3,4,-1
+performance,cognitive science,3,3,4,-1
+consciousness and intentionality,cognitive science,3,2,4,-1
+consciousness and psychology,cognitive science,3,2,4,-1
+artificial intelligence,cognitive science,3,3,4,-1
+non-conceptual content,cognitive science,3,3,4,-1
+language of thought hypothesis,cognitive science,3,3,4,-1
+philosophy of action,cognitive science,2,0,3,-1
+folk psychology as mental simulation,cognitive science,3,1,4,-1
+semantic conceptions of information,cognitive science,3,3,4,-1
+reductive materialism,cognitive science,3,3,4,-1
+scientific theory,cognitive science,3,3,4,-1
+nativism,cognitive science,3,1,4,-1
+speaker meaning,cognitive science,3,3,3,-1
+language learning,cognitive science,3,1,4,-1
+quantum computing,cognitive science,2,3,3,-1
+intertheory relations in physics,cognitive science,2,3,3,-1
+meaning holism,cognitive science,3,2,4,-1
+evolutionary psychology,cognitive science,3,1,3,-1
+classicism,cognitive science,1,-1,4,-1
+higher-order theories of consciousness,cognitive science,3,3,4,-1
+materialism,cognitive science,3,3,4,-1
+simulation theory,cognitive science,3,3,3,-1
+nonhuman animals,cognitive science,3,3,3,-1
+nonconceptual mental content,cognitive science,3,3,3,-1
+falsificationism,cognitive science,1,3,2,-1
+emergent properties,cognitive science,3,3,4,-1
+transcendental arguments,cognitive science,2,3,1,-1
+model theory,cognitive science,2,-1,3,-1
+pineal gland,cognitive science,3,3,2,-1
+bayesianism,cognitive science,3,3,3,-1
+epistemology of science,cognitive science,3,3,3,-1
+neural correlates,cognitive science,3,1,4,-1
+causal processes,cognitive science,3,3,3,-1
+leibniz's philosophy of mind,cognitive science,3,3,2,-1
+vitalism,cognitive science,1,0,2,-1
+cartesian dualism,cognitive science,3,3,2,-1
+rule-following,cognitive science,3,1,4,-1
+philosophy of logic,cognitive science,3,3,4,-1
+indeterminacy of translation,cognitive science,3,3,3,-1
+church-turing thesis,cognitive science,1,0,4,-1
+20th century philosophy,cognitive science,3,3,3,-1
+mental causation,cognitive science,3,1,3,-1
+methodological individualism,cognitive science,1,3,4,-1
+phenomenological approaches to self-consciousness,cognitive science,3,2,3,-1
+irrealism,cognitive science,1,0,3,-1
+deductive reasoning,cognitive science,3,1,4,-1
+animal consciousness,cognitive science,3,3,4,-1
+compositionality,cognitive science,3,3,4,-1
+scientific progress,cognitive science,3,3,4,-1
+atheism and agnosticism,cognitive science,1,0,2,-1
+scientific methodology,cognitive science,3,3,3,-1
+other minds,cognitive science,3,3,4,-1
+representationalism,cognitive science,3,2,4,-1
+externalism,cognitive science,3,2,3,-1
+self-reference,cognitive science,3,2,3,-1
+human cognition,cognitive science,3,2,4,-1
+modularity,cognitive science,3,3,4,-1
+bayesian epistemology,cognitive science,3,3,3,-1
+human intelligence,cognitive science,3,3,4,-1
+biological notion of an individual,cognitive science,3,3,3,-1
+metaphysics of science,cognitive science,3,0,4,-1
+malebranche's theory of ideas and vision in god,philosophy of mind,3,3,1,0
+kant's view of the mind and consciousness of self,philosophy of mind,3,3,1,0
+medieval problem of universals,philosophy of mind,2,3,0,-1
+other minds,philosophy of mind,3,3,3,0
+consciousness and intentionality,philosophy of mind,3,2,4,0
+chinese room argument,philosophy of mind,3,3,4,0
+18th century british aesthetics,philosophy of mind,2,3,0,-1
+leibniz's philosophy of mind,philosophy of mind,3,2,3,0
+descartes' modal metaphysics,philosophy of mind,3,0,4,0
+mind,philosophy of mind,3,3,4,1
+panpsychism,philosophy of mind,3,2,4,0
+aristotle's psychology,philosophy of mind,3,3,1,0
+descartes' epistemology,philosophy of mind,3,0,2,0
+japanese zen buddhist philosophy,philosophy of mind,2,0,1,1
+mental representation in medieval philosophy,philosophy of mind,3,3,3,0
+cognitive science,philosophy of mind,3,0,4,2
+folk psychology as a theory,philosophy of mind,3,3,4,0
+computational theory of mind,philosophy of mind,3,0,4,0
+animal consciousness,philosophy of mind,3,3,3,0
+matter,philosophy of mind,1,0,2,1
+mental causation,philosophy of mind,3,3,4,0
+scottish philosophy in the 19th century,philosophy of mind,3,3,0,-1
+dualism,philosophy of mind,3,3,4,0
+philosophy of psychology,philosophy of mind,3,0,4,0
+consciousness,philosophy of mind,3,2,4,0
+psychiatry,philosophy of mind,3,0,3,2
+philosophies of the particular sciences,philosophy of mind,3,0,0,-1
+folk psychology,philosophy of mind,3,2,4,0
+ideas,philosophy of mind,3,3,3,0
+philosophy of physics,philosophy of mind,3,0,2,3
+eliminative materialism,philosophy of mind,3,1,4,0
+epistemological problems of memory,philosophy of mind,3,0,4,0
+teleological arguments for god's existence,philosophy of mind,1,3,0,-1
+mental representation,philosophy of mind,3,3,4,0
+ancient theories of soul,philosophy of mind,3,3,2,3
+metaphysics of mind,philosophy of mind,3,0,4,0
+syntactic analysis,philosophy of mind,2,3,3,0
+spinoza's psychological theory,philosophy of mind,3,3,2,0
+philosophy of nature,philosophy of mind,2,3,1,2
+20th century continental philosophy,philosophy of mind,3,0,1,1
+origin of aesthetic,philosophy of mind,2,3,0,-1
+cartesian dualism,philosophy of mind,3,1,4,0
+great apes,philosophy of mind,1,3,1,2
+modularity of mind,philosophy of mind,3,3,4,0
+probability and statistics,philosophy of mind,1,0,0,-1
+everett's relative-state formulation of quantum mechanics,philosophy of mind,3,0,0,-1
+intentionality,philosophy of mind,3,3,4,0
+body,philosophy of mind,3,3,3,2
+aspects of mind,philosophy of mind,3,2,4,0
+propositional attitude,philosophy of mind,3,3,4,0
+perception,philosophy of mind,3,1,4,3
+philosophy of chemistry,philosophy of mind,2,3,1,3
+philosophy of perception,philosophy of mind,3,2,3,3
+abstract object,philosophy of mind,3,3,1,3
+sense-data,philosophy of mind,3,1,4,3
+unity of consciousness,philosophy of mind,3,3,4,0
+ancient philosophy (aristotle),philosophy of mind,3,3,0,-1
+existence,philosophy of mind,3,1,0,-1
+korean philosophy,philosophy of mind,2,0,0,-1
+proper names,philosophy of mind,1,3,2,3
+consciousness and content,philosophy of mind,3,0,4,0
+probability,philosophy of mind,1,3,0,-1
+realism and anti-realism,philosophy of mind,3,0,2,2
+internalism and externalism,philosophy of mind,3,0,4,0
+nonhuman animals,philosophy of mind,3,3,3,1
+realism and anti-realism,philosophy of mind,3,0,2,2
+sense data,philosophy of mind,3,1,4,2
+universals,philosophy of mind,2,0,1,1
+problem of perception,philosophy of mind,3,3,3,0
+externalism,philosophy of mind,3,3,4,0
+induction,philosophy of mind,2,3,2,0
+artificial intelligence,philosophy of mind,3,0,4,0
+consciousness and psychology,philosophy of mind,3,2,4,0
+mental content,philosophy of mind,3,3,4,0
+philosophy of science and the sciences,philosophy of mind,3,0,3,3
+philosophy of computer science,philosophy of mind,3,0,3,2
+philosophy of biology,philosophy of mind,3,0,2,2
+interactionism,philosophy of mind,3,2,4,0
+mental state,philosophy of mind,3,3,4,0
+modularity,philosophy of mind,3,1,4,0
+philosophy of art,philosophy of mind,2,3,0,-1
+symbolic processing,philosophy of mind,3,2,4,0
+realism,philosophy of mind,3,0,2,2
+modern philosophy,philosophy of mind,3,0,2,1
+epistemological problems of perception,philosophy of mind,3,2,3,0
+computation and representation,philosophy of mind,3,3,4,0
+introspection,philosophy of mind,3,2,4,0
+mind-body problem,philosophy of mind,3,3,4,0
+imagery,philosophy of mind,3,2,4,0
+digital philosophy,philosophy of mind,3,0,3,2
+simulation theory,philosophy of mind,3,2,4,0
+mathematical logic,philosophy of mind,1,0,1,3
+internalism,philosophy of mind,3,3,4,0
+virtues and vices,philosophy of mind,1,-1,0,-1
+kant's critique of metaphysics,metaphysics,3,3,2,0
+metaphysics of science,metaphysics,3,2,3,0
+philosophy of physics,metaphysics,3,1,2,3
+process theism,metaphysics,3,3,2,0
+philosophies of the particular sciences,metaphysics,3,3,3,3
+medieval theories of the categories,metaphysics,3,3,3,0
+philosophy of science and the sciences,metaphysics,3,3,3,3
+aristotle on causality,metaphysics,3,3,2,0
+philosophy of psychology,metaphysics,3,0,2,3
+matter,metaphysics,3,3,3,0
+metaphysics of mind,metaphysics,3,2,4,0
+philosophy of mathematics,metaphysics,3,1,2,3
+feminist metaphysics,metaphysics,3,0,3,0
+aristotle and mathematics,metaphysics,3,1,3,2
+medieval theories of analogy,metaphysics,3,3,1,0
+realism and anti-realism,metaphysics,3,2,4,0
+realism and anti-realism,metaphysics,3,2,4,0
+natural philosophy,metaphysics,3,3,3,2
+philosophy of science,metaphysics,3,3,3,3
+aristotle's logic,metaphysics,3,3,1,0
+realism,metaphysics,3,3,4,0
+kant's philosophy of religion,metaphysics,3,3,3,0
+medieval theories of relations,metaphysics,3,3,3,0
+kant's philosophical development,metaphysics,3,3,1,0
+18th century german aesthetics,metaphysics,3,3,0,-1
+philosophy of space and time,metaphysics,3,3,3,3
+existence,metaphysics,3,3,4,0
+ancient philosophy (aristotle),metaphysics,3,3,2,3
+hylomorphism,metaphysics,3,3,4,0
+philosophy of mind,metaphysics,3,0,3,2
+scottish philosophy in the 19th century,metaphysics,3,3,0,-1
+analytic feminism,metaphysics,3,0,0,-1
+inherence,metaphysics,3,3,4,0
+mind-body problem,metaphysics,3,3,4,0
+plato on utopia,metaphysics,3,3,0,-1
+modern philosophy,metaphysics,3,3,3,3
+kant's philosophy of science,metaphysics,3,2,1,0
+medieval theories of causality,metaphysics,3,3,4,0
+logos,metaphysics,3,3,3,0
+philosophy of perception,metaphysics,3,3,1,3
+philosophy of chemistry,metaphysics,3,3,2,3
+universals,metaphysics,3,3,4,0
+principle of sufficient reason,metaphysics,3,3,3,3
+aristotle's natural philosophy,metaphysics,3,3,3,0
+time,metaphysics,3,3,3,3
+abstract object,metaphysics,3,3,4,3
+plato's middle period metaphysics and epistemology,metaphysics,3,3,2,0
+mind,metaphysics,3,3,3,3
+proper names,metaphysics,3,3,1,0
+personal identity and ethics,metaphysics,3,3,3,3
+cosmology,metaphysics,3,3,3,2
+continuant,metaphysics,3,3,4,0
+cause and effect,metaphysics,3,3,3,3
+theory of forms,metaphysics,3,3,4,0
+interpretation,metaphysics,3,3,0,-1
+leibniz's influence on kant,metaphysics,3,2,2,3
+aristotelianism,metaphysics,3,3,3,0
+existence of god,metaphysics,3,3,3,3
+motion and time,metaphysics,3,3,3,3
+laws of nature,metaphysics,3,3,3,3
+mathematical logic,metaphysics,3,0,1,2
+descartes' modal metaphysics,metaphysics,3,2,4,0
+metaphysics of causation,metaphysics,3,2,4,0
+theory of truth,metaphysics,3,3,1,2
+vitalism,metaphysics,3,3,2,0
+arabic philosophy and islamic philosophy,metaphysics,3,2,1,0
+singular propositions,metaphysics,3,3,2,0
+philosophy of biology,metaphysics,3,3,2,3
+philosophy of art,metaphysics,3,3,0,-1
+natural theology,metaphysics,3,3,3,3
+peripatetic,metaphysics,3,3,2,0
+compositionality and logical form,metaphysics,3,3,0,-1
+eternity of the world,metaphysics,3,3,3,0
+ideas,metaphysics,3,3,2,3
+meaning,metaphysics,3,3,0,2
+sophists,metaphysics,2,3,2,0
+epistemology of science,metaphysics,3,0,1,0
+social philosophy and political philosophy,metaphysics,3,0,0,-1
+social and political philosophy,metaphysics,3,3,0,-1
+goodness,metaphysics,3,3,2,0
+mereology,metaphysics,3,3,4,0
+identity theory of truth,metaphysics,3,3,2,0
+analysis,metaphysics,3,3,3,0
+Eternity in Christian Thought,metaphysics,3,3,3,0
+goodness and value theory,metaphysics,3,3,1,2
+platonism,metaphysics,3,3,4,0
+episteme and techne,metaphysics,3,0,2,0
+identity of indiscernibles,metaphysics,3,2,4,0
+identity and individuality in quantum theory,metaphysics,3,3,3,0
+simultaneity,metaphysics,3,3,3,0
+substance,metaphysics,3,3,3,0
+confirmation and induction,metaphysics,3,3,1,0
+process philosophy,metaphysics,3,3,2,0
+religious diversity,philosophy of religion,3,3,3,0
+religion,philosophy of religion,3,1,4,1
+kant's philosophy of religion,philosophy of religion,3,0,2,0
+epistemology of religion,philosophy of religion,3,0,4,0
+religion and science,philosophy of religion,3,2,4,0
+fideism,philosophy of religion,3,2,4,0
+hume on religion,philosophy of religion,3,2,4,0
+religion and morality,philosophy of religion,3,3,4,0
+science and religion,philosophy of religion,3,2,4,0
+pantheism,philosophy of religion,3,2,3,0
+definition of morality,philosophy of religion,2,3,2,3
+locke's political philosophy,philosophy of religion,2,0,1,-1
+pragmatic arguments and belief in god,philosophy of religion,3,2,3,0
+religious language,philosophy of religion,3,3,3,0
+theism,philosophy of religion,3,3,4,0
+concepts of god,philosophy of religion,3,3,4,0
+miracles,philosophy of religion,3,3,4,0
+influence of islamic thought on maimonides,philosophy of religion,3,2,3,0
+cosmological arguments for the existence of god,philosophy of religion,3,3,4,0
+arguments for the existence of god,philosophy of religion,3,2,4,0
+christian theology,philosophy of religion,3,0,4,0
+problem of evil,philosophy of religion,3,3,4,0
+ontological argument,philosophy of religion,3,1,4,0
+afterlife,philosophy of religion,3,3,3,3
+philosophy and christian theology,philosophy of religion,3,3,4,0
+modern philosophy,philosophy of religion,3,2,3,3
+islamic philosophy,philosophy of religion,3,0,3,0
+atheism,philosophy of religion,3,3,4,3
+cosmological argument,philosophy of religion,3,3,4,0
+Eternity in Christian Thought,philosophy of religion,3,3,3,3
+atonement,philosophy of religion,3,3,2,0
+evolutionary psychology,philosophy of religion,1,0,2,3
+creationism,philosophy of religion,3,2,3,3
+church and state,philosophy of religion,3,3,3,3
+omniscience,philosophy of religion,3,3,4,0
+divine revelation,philosophy of religion,3,3,4,0
+divine law,philosophy of religion,3,3,3,3
+monotheism,philosophy of religion,3,3,4,0
+sovereignty,philosophy of religion,2,0,3,0
+agnosticism,philosophy of religion,3,2,4,0
+social epistemology,epistemology,3,3,4,0
+feminist social epistemology,epistemology,3,1,4,0
+naturalized epistemology,epistemology,3,3,4,0
+virtue epistemology,epistemology,3,2,4,0
+coherentism,epistemology,3,2,4,0
+epistemology of religion,epistemology,3,2,2,0
+moral epistemology,epistemology,3,1,2,0
+epistemology of science,epistemology,3,2,3,0
+evolutionary epistemology,epistemology,3,1,2,0
+knowledge,epistemology,3,3,4,0
+foundationalism,epistemology,3,3,4,0
+reliabilism,epistemology,3,3,4,0
+feminist philosophy,epistemology,3,0,2,1
+contextualism,epistemology,3,3,4,0
+belief,epistemology,3,3,4,0
+philosophy of psychology,epistemology,3,3,3,2
+psychiatry,epistemology,2,3,2,1
+naturalism in legal philosophy,epistemology,3,3,0,3
+philosophy of science,epistemology,3,3,3,1
+coherentist theories of justification,epistemology,3,2,4,0
+philosophy of science and the sciences,epistemology,3,3,2,1
+philosophies of the particular sciences,epistemology,3,3,2,2
+philosophy of physics,epistemology,3,3,1,1
+realism and anti-realism,epistemology,3,0,3,2
+philosophy of nature,epistemology,2,3,1,1
+plato's middle period metaphysics and epistemology,epistemology,3,3,0,-1
+probability and statistics,epistemology,3,3,3,0
+gettier problem,epistemology,3,1,4,0
+realism,epistemology,3,3,3,0
+early philosophical interpretations of general relativity,epistemology,3,3,0,-1
+introspection,epistemology,3,1,4,0
+experiment in physics,epistemology,3,3,1,2
+confirmation and induction,epistemology,3,3,4,0
+philosophy of mathematics,epistemology,3,3,2,1
+other minds,epistemology,3,3,3,0
+epistemological problems of memory,epistemology,3,2,4,0
+philosophy of perception,epistemology,3,1,4,2
+internalism and externalism,epistemology,3,0,4,0
+plato on utopia,epistemology,2,3,0,-1
+testimony,epistemology,3,3,4,0
+perception,epistemology,3,1,4,1
+melanism,epistemology,1,-1,0,-1
+matter,epistemology,1,-1,0,-1
+internalism,epistemology,3,3,4,0
+metaphysics of science,epistemology,3,3,1,2
+induction,epistemology,3,3,4,0
+justified true belief,epistemology,3,3,4,0
+externalism,epistemology,3,3,4,0
+philosophy of mind,epistemology,3,0,3,2
+philosophy of biology,epistemology,2,0,3,2
+knowledge by acquaintance and knowledge by description,epistemology,3,1,4,0
+ideas,epistemology,3,3,4,0
+probability,epistemology,3,3,4,0
+frame problem,epistemology,3,1,4,0
+inductive logic and decision theory,epistemology,3,3,4,0
+inductive logic and decision theory,epistemology,3,3,4,0
+scientific methodology,epistemology,3,3,3,0
+perspectivism,epistemology,3,3,4,0
+anti-realism,epistemology,3,3,4,0
+philosophy of social science,epistemology,3,3,3,1
+sense data,epistemology,3,1,4,0
+bounded rationality,epistemology,3,1,3,2
+scientific theory,epistemology,3,3,3,1
+defeasible reasoning,epistemology,3,3,4,0
+general relativity,epistemology,2,3,1,1
+theory of forms,epistemology,3,3,1,1
+platonic realism,epistemology,3,3,1,1
+philosophy of chemistry,epistemology,3,1,1,1
+logos,epistemology,3,3,0,-1
+history of science,epistemology,3,3,3,1
+analysis,epistemology,3,3,3,1
+laws of nature,epistemology,3,3,3,1
+methods in feminism,epistemology,3,1,2,1
+optimism,epistemology,2,3,0,-1
+indeterminism,epistemology,3,3,3,2
+transworld identity,epistemology,2,3,0,-1
+baptism,epistemology,1,0,0,-1
+ambiguity,epistemology,3,-1,0,-1
+vitalism,epistemology,1,-1,0,-1
+interpretation,epistemology,3,3,3,0
+logic and language,epistemology,3,3,2,1
+history of feminism,epistemology,2,0,1,1
+falsificationism,epistemology,3,3,4,0
+proper names,epistemology,2,3,0,-1
+social philosophy and political philosophy,epistemology,1,0,0,-1
+social and political philosophy,epistemology,3,3,0,-1
+logical construction,epistemology,3,3,3,0
+philosophy of logic,epistemology,3,0,4,1
+modern philosophy,epistemology,3,3,3,1
+pragmatist feminism,epistemology,3,3,0,-1
+internalist vs. externalist conceptions of epistemic justification,justification,3,0,4,0
+foundationalist theories of epistemic justification,justification,3,3,4,0
+analysis of knowledge,justification,3,0,4,1
+coherentist theories of epistemic justification,justification,3,2,4,0
+public justification,justification,3,0,4,2
+coherentism,justification,3,0,4,0
+internalism,justification,3,3,4,0
+internalism and externalism,justification,3,0,4,0
+knowledge,justification,3,1,4,1
+virtue epistemology,justification,3,0,4,1
+reliabilism,justification,3,0,4,0
+foundationalism,justification,3,3,4,0
+mentalism,justification,2,0,4,0
+probability and statistics,justification,1,0,3,2
+punishment,justification,2,0,0,-1
+moral relativism,justification,3,0,0,-1
+epistemological problems of testimony,justification,3,2,4,1
+coherentist theories of justification,justification,3,2,4,2
+matter,justification,1,3,0,-1
+legal punishment,justification,3,0,0,-1
+induction,justification,3,0,3,1
+political authority,justification,3,0,2,1
+confirmation and induction,justification,3,3,4,2
+philosophies of the particular sciences,justification,3,3,0,-1
+externalism,justification,3,0,4,0
+social contract,justification,3,3,0,-1
+justified true belief,justification,3,1,4,1
+philosophy of nature,justification,2,0,0,-1
+coercion,justification,2,1,3,1
+liberty,justification,2,3,0,-1
+philosophy of psychology,justification,3,3,3,1
+taxation,justification,2,0,0,-1
+psychiatry,justification,1,-1,0,-1
+political morality,justification,3,0,0,-1
+social philosophy and political philosophy,justification,3,0,0,-1
+social and political philosophy,justification,3,3,0,-1
+toleration,justification,2,0,0,-1
+belief,justification,3,3,4,2
+realism and anti-realism,justification,3,0,3,1
+rights,justification,3,0,0,-1
+realism and anti-realism,justification,3,0,3,1
+philosophy of mathematics,justification,3,3,3,1
+realism,justification,1,0,3,1
+common good,justification,3,3,0,-1
+terrorism,justification,2,0,0,-1
+positive law,justification,3,3,0,-1
+philosophy of physics,justification,3,3,3,1
+voting,justification,2,0,0,-1
+gettier problem,justification,3,1,4,1
+political obligation,justification,3,0,0,-1
+utilitarianism,justification,3,0,0,-1
+privacy,justification,1,3,0,-1
+social norm,justification,2,0,3,1
+distributive and economic justice,justification,3,2,0,-1
+well-being,justification,2,3,0,-1
+philosophy of mind,justification,3,0,3,1
+action,justification,3,0,3,1
+testimony,justification,3,3,4,0
+public reason,justification,3,3,4,1
+social justice,justification,3,0,0,-1
+time,justification,2,0,0,-1
+democracy,justification,3,0,0,-1
+equality,justification,2,3,0,-1
+function,justification,2,3,0,-1
+inductive logic and decision theory,justification,3,0,4,1
+inductive logic and decision theory,justification,3,0,4,1
+liberalism,justification,3,0,0,-1
+philosophy of science,justification,3,3,4,1
+naturalized epistemology,justification,3,3,4,1
+political legitimacy,justification,3,0,0,-1
+meaning,justification,3,0,0,-1
+semantics,justification,2,3,0,-1
+war,justification,3,0,0,-1
+philosophy of perception,justification,3,0,4,1
+relativism,justification,3,0,4,1
+value,justification,3,0,4,1
+confirmation,justification,3,0,4,1
+instrumentalism,justification,3,0,4,1
+forms of government,justification,3,3,0,-1
+philosophy of biology,justification,2,3,4,1
+social epistemology,justification,3,3,4,1
+function and teleology,justification,1,0,0,-1
+general will,justification,2,0,0,-1
+friendship,justification,1,3,0,-1
+goodness,justification,2,3,0,-1
+interpretation,justification,3,0,3,1
+philosophy of science and the sciences,justification,3,3,4,1
+publicity,justification,1,3,0,-1
+perception,justification,3,0,4,1
+philosophy of social science,justification,3,3,4,1
+original sin,justification,3,3,0,-1
+negation,justification,2,3,0,-1
+goodness and value theory,justification,3,0,0,-1
+logic and language,justification,3,3,2,1
+epistemic basing relation,justification,3,2,4,0
+analysis,justification,3,0,4,1
+coherentist theories of epistemic justification,coherentism,3,2,4,0
+coherence theory of truth,coherentism,3,2,4,1
+virtue epistemology,coherentism,1,0,4,1
+epistemological problems of memory,coherentism,3,1,4,1
+value of knowledge,coherentism,3,3,4,1
+pyrrhonian skepticism,coherentism,1,0,4,1
+logic of belief revision,coherentism,3,0,4,1
+internalist vs. externalist conceptions of epistemic justification,coherentism,1,0,4,0
+gettier problem,coherentism,3,0,4,1
+foundationalism,coherentism,3,0,4,0
+rule consequentialism,coherentism,1,-1,0,-1
+epistemological problems of testimony,coherentism,3,0,4,1
+social epistemology,coherentism,3,0,4,1
+moral naturalism,coherentism,1,-1,0,-1
+moral epistemology,coherentism,3,3,3,1
+analysis of knowledge,coherentism,3,3,4,1
+common knowledge,coherentism,3,3,4,1
+contextualism,coherentism,1,0,4,2
+kochen-specker theorem,contextualism,2,3,0,-1
+virtue epistemology,contextualism,2,3,4,1
+sorites paradox,contextualism,2,0,0,-1
+dewey's moral philosophy,contextualism,3,3,0,-1
+many-valued logic,contextualism,2,0,0,-1
+coherentism,contextualism,1,0,4,2
+epistemological problems of testimony,contextualism,3,0,4,1
+reliabilism,contextualism,2,3,4,2
+gettier problem,contextualism,1,0,4,1
+dogmatism,contextualism,2,3,0,-1
+ontological dependence,contextualism,2,3,0,-1
+moral epistemology,contextualism,2,0,0,-1
+moral naturalism,contextualism,2,3,0,-1
+social epistemology,contextualism,3,0,4,1
+unity of science,contextualism,1,0,1,1
+implicature,contextualism,3,0,3,1
+indexicals,contextualism,3,0,4,1
+scientific progress,contextualism,2,-1,2,-1
+justified true belief,contextualism,1,0,2,1
+science and society,contextualism,2,0,2,1
+statistical mechanics,contextualism,1,0,0,-1
+probability and statistics,contextualism,1,0,0,-1
+replication,contextualism,1,3,0,-1
+classical logic,contextualism,2,3,0,-1
+language learning,contextualism,2,3,0,-1
+symbolic processing,dynamical system,1,0,4,2
+causal determinism,dynamical system,3,3,3,1
+supertasks,dynamical system,2,0,3,1
+philosophy of statistical mechanics,dynamical system,3,3,2,1
+bohmian mechanics,dynamical system,3,1,0,-1
+mental imagery,dynamical system,1,-1,2,0
+folk psychology,dynamical system,1,-1,3,2
+kochen-specker theorem,dynamical system,1,0,0,-1
+hole argument,dynamical system,1,-1,0,-1
+consciousness and science,dynamical system,3,0,2,1
+population genetics,dynamical system,2,0,1,1
+molecular biology,dynamical system,2,0,1,1
+logic and computation,dynamical system,3,0,4,2
+spacetime,dynamical system,3,3,0,-1
+multiple realizability,dynamical system,1,-1,4,1
+unity of science,dynamical system,2,0,2,1
+connectionism,dynamical system,3,0,4,2
+quantum field theory,dynamical system,2,0,0,-1
+neural network,dynamical system,3,0,4,0
+science and society,dynamical system,3,3,3,1
+electromagnetism,dynamical system,2,3,0,-1
+classical physics,dynamical system,3,3,1,1
+statistical mechanics,dynamical system,3,3,0,-1
+problem of perception,perception,3,2,4,0
+leibniz's philosophy of mind,perception,3,1,3,0
+plato on knowledge in the theaetetus,perception,3,2,3,0
+leibniz on causation,perception,2,3,2,0
+malebranche's theory of ideas and vision in god,perception,3,3,3,0
+experience and perception of time,perception,3,2,2,0
+descartes' epistemology,perception,3,3,4,0
+aristotle's psychology,perception,3,3,3,0
+sense-data,perception,3,1,4,0
+object,perception,3,3,4,2
+mental imagery,perception,3,2,3,2
+nonconceptual mental content,perception,3,1,4,0
+phenomenological approaches to self-consciousness,perception,3,2,2,2
+higher-order theories of consciousness,perception,3,3,3,0
+dewey's aesthetics,perception,3,3,2,-1
+descartes' ontological argument,perception,2,-1,1,0
+scottish philosophy in the 19th century,perception,3,3,2,0
+kant's view of the mind and consciousness of self,perception,3,3,3,0
+epistemological problems of perception,perception,3,3,4,0
+ideas,perception,3,3,4,2
+neutral monism,perception,3,3,1,0
+mysticism,perception,3,2,0,-1
+collapse theories,perception,3,3,2,0
+sense data,perception,3,1,4,0
+self-knowledge,perception,3,3,3,2
+leibniz's influence on kant,perception,2,0,3,3
+ancient theories of soul,perception,3,3,3,0
+plato's middle period metaphysics and epistemology,perception,3,3,3,0
+consciousness and intentionality,perception,3,2,4,2
+unitarianism,perception,1,0,0,-1
+ancient skepticism,perception,3,3,3,0
+18th century german aesthetics,perception,3,3,3,0
+consciousness and content,perception,3,0,4,2
+blindsight,perception,3,1,3,0
+17th and 18th century theories of emotions,perception,2,3,1,0
+epistemological problems of testimony,perception,2,3,3,0
+introspection,perception,3,0,4,2
+18th century british aesthetics,perception,3,3,2,0
+matter,perception,3,2,3,2
+consciousness,perception,3,2,4,2
+imagery,perception,3,2,4,2
+descartes and the pineal gland,perception,3,3,3,0
+non-conceptual content,perception,3,3,4,0
+externalism,perception,3,3,3,3
+folk psychology,perception,2,0,3,3
+cognitive science,perception,3,3,4,2
+a posteriori knowledge,perception,3,1,4,2
+current philosophy,perception,3,3,4,1
+reliabilism,perception,3,3,3,0
+mental representation,perception,3,2,4,0
+cartesian dualism,perception,3,3,3,3
+philosophy of physics,perception,3,3,1,1
+animal cognition,perception,3,2,3,1
+hylomorphism,perception,3,3,0,-1
+aristotle on non-contradiction,perception,2,3,0,-1
+intentionality,perception,3,3,3,2
+unity of consciousness,perception,3,3,3,0
+body,perception,3,3,3,2
+representationalism,perception,3,3,4,0
+gettier problem,perception,3,3,2,3
+internalism and externalism,perception,3,0,3,1
+dialectical materialism,perception,2,3,0,-1
+logos,perception,2,-1,1,3
+qualia,perception,3,2,4,2
+propositional attitude,perception,2,3,4,0
+justified true belief,perception,3,3,2,3
+absolute knowledge,perception,3,3,0,-1
+modern philosophy,perception,3,3,4,1
+perspectivism,perception,3,2,2,0
+cognitive value of art,perception,3,3,2,0
+hard problem,perception,3,3,3,0
+artistic representation,perception,3,3,3,0
+consciousness and science,perception,3,2,3,2
+hegelianism,perception,2,0,0,-1
+korean philosophy,perception,3,3,1,3
+computation and representation,perception,3,3,2,2
+causal theories of mental content,perception,3,3,4,2
+process philosophy,perception,3,3,0,-1
+philosophy of perception,perception,3,1,4,2
+neural correlates,perception,3,1,3,0
+computational linguistics,perception,2,3,0,-1
+pakistani philosophy,perception,2,3,0,-1
+connectionist model,perception,3,3,2,0
+teleosemantics,perception,3,3,2,2
+expressionism,perception,3,2,0,-1
+abstract expressionism,perception,3,3,0,-1
+measurement in quantum theory,perception,3,0,1,0
+existence,perception,3,3,2,2
+autism,perception,3,1,1,3
+identity theory of mind,perception,3,0,3,2
+surrealism,perception,3,3,2,0
+dadaism,perception,3,3,0,-1
+philosophy of psychology,perception,3,1,4,1
+psychological theory,perception,3,3,4,1
+magnetism,perception,2,3,0,-1
+cause and effect,perception,3,3,2,2
+psychological relation,perception,3,1,4,1
+concepts,perception,3,3,4,2
+free will,consciousness and physics,1,3,2,1
+quantum approaches to consciousness,consciousness and neuroscience,3,2,2,0
+reductive materialism,consciousness and neuroscience,3,3,4,1
+self-consciousness,aspects of consciousness,3,2,4,0
+unity of consciousness,aspects of consciousness,3,2,4,0
+function of consciousness,aspects of consciousness,3,2,4,0
+higher-order theories of consciousness,aspects of consciousness,3,2,3,3
+heaven and hell,afterlife,3,3,4,0
+meaning of life,afterlife,3,0,3,2
+eternity of the world,afterlife,1,0,2,2
+african sage philosophy,afterlife,2,3,2,3
+incompatibilism,afterlife,1,-1,2,3
+chinese room argument,chinese philosophy,1,0,0,-1
+chinese-western comparative philosophy,chinese philosophy,3,3,4,1
+japanese confucian philosophy,japanese philosophy,3,1,4,0
+dynamism,japanese philosophy,3,3,-1,-1
+social philosophy,social and political philosophy,3,2,4,1
+hobbes's moral and political philosophy,social and political philosophy,3,2,4,0
+medieval political philosophy,social and political philosophy,3,3,4,0
+metaphysics of causation,causation,3,3,4,0
+counterfactual theories of causation,causation,3,3,4,0
+probabilistic causation,causation,3,1,4,0
+leibniz on causation,causation,3,1,4,0
+backward causation,causation,3,0,4,0
+causation and manipulability,causation,1,0,4,0
+mental causation,causation,3,1,4,0
+causal processes,causation,3,1,4,0
+incompatibilist theories of free will,causation,3,3,4,0
+explanation,causation,3,3,4,2
+zen buddhism,chinese philosophy,3,3,4,3
+buddhist philosophy,chinese philosophy,3,3,4,3
+cartesian dualism,philosophy of mind,3,1,4,0
+internalism and externalism,philosophy of mind,3,0,4,0
+internalism and externalism,philosophy of mind,3,0,4,0
+modularity of mind,philosophy of mind,3,3,3,0
+20th century continental philosophy,philosophy of mind,3,0,2,3
+philosophy of science and the sciences,philosophy of mind,3,0,3,3
+dualism,philosophy of mind,3,3,4,1
+externalism,philosophy of mind,3,3,4,0
+origin of aesthetic,philosophy of mind,2,3,0,-1
+malebranche's theory of ideas and vision in god,philosophy of mind,3,3,2,3
+kant's view of the mind and consciousness of self,philosophy of mind,3,3,4,0
+perception,philosophy of mind,3,1,4,0
+functionalism,philosophy of mind,3,3,4,1
+abstract object,philosophy of mind,3,3,2,3
+philosophy of computer science,philosophy of mind,3,0,2,2
+induction,philosophy of mind,2,3,0,3
+occasionalism,philosophy of mind,3,3,2,0
+the theory theory,philosophy of mind,3,3,3,0
+aspects of mind,philosophy of mind,3,2,3,0
+change,philosophy of mind,2,0,0,-1
+proper names,philosophy of mind,1,3,1,3
+foreknowledge and free will,free will,3,0,4,-1
+divine providence,free will,3,0,4,-1
+causal determinism,free will,3,0,4,-1
+problem of evil,free will,3,0,4,-1
+faith,free will,3,0,0,-1
+moral responsibility,free will,3,0,4,-1
+fatalism,free will,3,0,4,-1
+determinism,free will,3,0,4,-1
+moral luck,free will,3,0,4,-1
+perfect goodness,free will,2,0,0,-1
+hypnotism,free will,2,0,2,-1
+omniscience,free will,3,0,3,-1
+divine law,free will,3,0,-1,-1
+lutheranism,free will,2,3,-1,-1
+vitalism,free will,3,0,1,-1
+process theism,free will,3,0,0,-1
+future contingents,free will,3,0,2,-1
+omnipotence,free will,3,0,1,-1
+paganism,free will,1,-1,-1,-1
+a posteriori knowledge,free will,2,3,2,-1
+causation and occasionalism,free will,3,3,4,-1
+neural correlates,free will,3,0,3,-1
+arguments for the existence of god,free will,2,3,0,-1
+eternity and time,free will,2,0,3,-1
+animal consciousness,consciousness,3,1,4,-1
+animal consciousness,consciousness,3,1,4,-1
+phenomenal consciousness,consciousness,3,1,4,-1
+kant's view of the mind and consciousness of self,consciousness,3,2,4,-1
+consciousness and content,consciousness,3,3,4,-1
+higher-order theories of consciousness,consciousness,3,3,4,-1
+phenomenological approaches to self-consciousness,consciousness,3,3,4,-1
+self,consciousness,3,2,4,-1
+zombies,consciousness,3,3,4,-1
+consciousness and psychology,consciousness,3,0,4,-1
+function of consciousness,consciousness,3,1,4,-1
+qualia,consciousness,3,1,4,-1
+self-consciousness,consciousness,3,1,4,-1
+distributive justice,distributive and economic justice,3,2,4,-1
+economic justice,distributive and economic justice,3,2,4,-1
+international justice,distributive and economic justice,3,3,4,-1
+economics and economic justice,distributive and economic justice,3,2,4,-1
+egalitarianism,distributive and economic justice,3,3,4,-1
+redistribution,distributive and economic justice,3,2,4,-1
+game theory and ethics,distributive and economic justice,3,3,4,-1
+social justice,distributive and economic justice,3,3,4,-1
+analytic feminism,naturalized epistemology,2,3,0,-1
+analytic feminism,naturalized epistemology,1,0,0,-1
+feminist social epistemology,naturalized epistemology,3,0,1,-1
+feminist epistemology and philosophy of science,naturalized epistemology,3,0,1,-1
+moral epistemology,naturalized epistemology,2,0,2,-1
+problem of induction,naturalized epistemology,3,1,3,-1
+geocentrism,naturalized epistemology,1,3,0,-1
+moral naturalism,naturalized epistemology,3,0,2,-1
+evolutionism,naturalized epistemology,1,0,3,-1
+naturalism in legal philosophy,naturalized epistemology,3,2,2,-1
+epistemology of science,naturalized epistemology,3,2,2,-1
+evolutionary epistemology,naturalized epistemology,3,2,4,-1
+reliabilism,naturalized epistemology,3,0,4,-1
+social epistemology,naturalized epistemology,3,0,2,-1
+moral non-naturalism,naturalized epistemology,1,-1,1,-1
+psychological relation,naturalized epistemology,3,3,1,-1
+inductive logic,naturalized epistemology,3,0,1,-1
+molecular biology,naturalized epistemology,1,0,1,-1
+units and levels of selection,naturalized epistemology,1,0,2,-1
+population genetics,naturalized epistemology,1,3,3,-1
+conservatism,naturalized epistemology,1,-1,0,-1
+logic and language,philosophy of language,3,3,-1,0
+idiolects,philosophy of language,3,1,-1,0
+infinitary logic,philosophy of language,3,0,-1,3
+private language,philosophy of language,3,1,-1,0
+feminist philosophy of language,philosophy of language,3,2,-1,0
+tarski's truth definition,philosophy of language,3,3,-1,0
+language learning,philosophy of language,3,3,-1,0
+axiomatic theories of truth,philosophy of language,3,3,-1,0
+law and language,philosophy of language,3,3,-1,2
+argument,philosophy of language,3,1,-1,3
+private language argument,philosophy of language,3,3,-1,0
+revision theory of truth,philosophy of language,3,3,-1,0
+language of thought hypothesis,philosophy of language,3,2,-1,0
+propositional consequence relations and algebraic logic,philosophy of language,3,3,-1,3
+compositionality,philosophy of language,3,1,-1,0
+model theory,philosophy of language,3,0,-1,3
+logical form,philosophy of language,3,1,-1,0
+first-order model theory,philosophy of language,3,3,-1,2
+meaning,philosophy of language,3,2,-1,0
+interpretation,philosophy of language,3,3,-1,0
+sentence,philosophy of language,3,3,-1,0
+metaphysics and language,philosophy of language,3,3,-1,2
+compositionality and logical form,philosophy of language,3,1,-1,0
+syntax,philosophy of language,3,1,-1,0
+connectives,philosophy of language,3,3,-1,0
+language and society,philosophy of language,3,3,-1,2
+modal logic,philosophy of language,3,3,-1,2
+self-reference,philosophy of language,3,3,-1,0
+quantifiers and quanitification,philosophy of language,3,3,-1,0
+matter,philosophy of language,1,-1,-1,3
+animal language,philosophy of language,3,3,-1,0
+function,philosophy of language,3,3,-1,0
+negation,philosophy of language,3,3,-1,0
+philosophy of mind,philosophy of language,3,0,-1,2
+function and teleology,philosophy of language,1,0,-1,3
+wittgenstein's aesthetics,philosophy of language,3,0,-1,3
+logical truth,philosophy of language,3,3,-1,0
+philosophies of the particular sciences,philosophy of language,2,3,-1,2
+disjunction,philosophy of language,3,3,-1,0
+philosophy of computer science,philosophy of language,2,3,-1,2
+animal cognition,philosophy of language,2,3,-1,2
+mentalese,philosophy of language,3,1,-1,0
+philosophy of psychology,philosophy of language,2,3,-1,2
+nature of language,philosophy of language,3,3,-1,0
+psychiatry,philosophy of language,1,-1,-1,1
+second-order and higher-order logic,philosophy of language,3,3,-1,0
+medieval semiotics,philosophy of language,3,3,-1,0
+philosophy of physics,philosophy of language,2,3,-1,2
+religious language,philosophy of language,3,3,-1,0
+reference,philosophy of language,3,1,-1,0
+logical constant,philosophy of language,3,1,-1,0
+proper names,philosophy of language,3,1,-1,0
+confirmation and induction,philosophy of language,3,3,-1,0
+set theory,philosophy of language,3,0,-1,2
+proof theory,philosophy of language,3,0,-1,2
+ideas,philosophy of language,3,3,-1,1
+knowledge and skepticism,philosophy of language,3,0,-1,2
+medieval theories of the categories,philosophy of language,3,3,-1,2
+goodman's aesthetics,philosophy of language,2,3,-1,3
+logic and ontology,philosophy of language,3,0,-1,2
+induction,philosophy of language,2,3,-1,3
+denotation,philosophy of language,3,1,-1,0
+logic and artificial intelligence,philosophy of language,3,0,-1,2
+combining logics,philosophy of language,3,3,-1,2
+plural quantification,philosophy of language,3,1,-1,0
+analysis,philosophy of language,3,3,-1,3
+many-valued logic,philosophy of language,3,3,-1,0
+knowledge,philosophy of language,3,3,-1,1
+philosophy of science,philosophy of language,2,3,-1,2
+liar paradox,philosophy of language,3,1,-1,0
+propositional attitude,philosophy of language,3,3,-1,0
+semantic theories,philosophy of language,3,1,-1,0
+reference and denotation,philosophy of language,3,1,-1,0
+philosophy of perception,philosophy of language,2,3,-1,3
+generalized quantifiers,philosophy of language,3,3,-1,0
+value,philosophy of language,2,3,-1,3
+ordinary language philosophy,philosophy of language,3,2,-1,0
+bilingualism,philosophy of language,3,3,-1,0
+predication and instantiation,philosophy of language,3,3,-1,0
+cognitive science,philosophy of language,3,2,-1,1
+perception,philosophy of language,3,3,-1,3
+theory of truth,philosophy of language,3,3,-1,2
+actualism,philosophy of language,1,0,-1,0
+philosophy of art,philosophy of language,2,0,-1,2
+logic of conditionals,philosophy of language,3,1,-1,0
+models and idealization,philosophy of language,1,0,-1,2
+nativism,philosophy of language,3,1,-1,0
+names,philosophy of language,3,3,-1,0
+philosophy of science and the sciences,philosophy of language,1,0,-1,2
+possible worlds,philosophy of language,3,3,-1,0
+time,philosophy of language,2,3,-1,3
+realism and anti-realism,philosophy of language,3,0,-1,0
+realism and anti-realism,philosophy of language,3,0,-1,0
+probability and statistics,philosophy of language,2,3,-1,1
+mathematical logic,philosophy of language,3,0,-1,2
+life,philosophy of language,2,3,-1,1
+scientific realism,scientific theory,3,3,4,0
+probability and statistics,scientific theory,3,3,4,0
+probability,scientific theory,3,3,4,2
+folk psychology,scientific theory,2,3,4,2
+philosophy of mathematics,scientific theory,1,3,-1,0
+scientific explanation,scientific theory,3,3,4,2
+observation,scientific theory,3,1,4,1
+social epistemology,epistemology,3,3,4,0
+feminist social epistemology,epistemology,3,1,4,0
+virtue epistemology,epistemology,3,2,4,0
+naturalized epistemology,epistemology,3,3,4,0
+coherentism,epistemology,3,2,4,0
+moral epistemology,epistemology,3,1,4,0
+epistemology of science,epistemology,3,2,4,0
+epistemology of religion,epistemology,3,2,4,0
+evolutionary epistemology,epistemology,3,1,4,0
+religious diversity,philosophy of religion,3,3,4,0
+feminist philosophy of religion,philosophy of religion,3,1,3,2
+phenomenology of religion,philosophy of religion,3,0,4,0
+emotions in the christian tradition,philosophy of religion,3,2,4,0
+religion,philosophy of religion,3,1,4,1
+kant's philosophy of religion,philosophy of religion,3,0,4,0
+religious experience,philosophy of religion,3,3,4,0
+religious experience,philosophy of religion,3,3,4,0
+hume on religion,philosophy of religion,3,2,4,0
+epistemology of religion,philosophy of religion,3,0,4,0
+life,philosophy of religion,3,3,4,1
+religion and science,philosophy of religion,3,2,4,0
+religion and morality,philosophy of religion,3,3,4,0
+science and religion,philosophy of religion,3,2,4,0
+definition of morality,philosophy of religion,2,3,4,0
+pantheism,philosophy of religion,3,2,4,0
+locke's political philosophy,philosophy of religion,2,0,2,2
+religion and politics,philosophy of religion,3,3,4,0
+toleration,philosophy of religion,2,0,4,0
+judaism,philosophy of religion,3,3,4,0
+belief,philosophy of religion,3,3,4,0
+belief,philosophy of religion,3,3,4,0
+taoism,philosophy of religion,3,2,4,0
+hinduism,philosophy of religion,3,3,4,0
+concepts of god,philosophy of religion,3,3,4,0
+feminist philosophy,philosophy of religion,2,3,3,2
+pragmatic arguments and belief in god,philosophy of religion,3,2,4,0
+secularism,philosophy of religion,3,3,4,0
+theism,philosophy of religion,3,3,4,0
+divine attributes,philosophy of religion,3,3,4,0
+hobbes's moral and political philosophy,philosophy of religion,1,0,2,2
+matter,philosophy of religion,1,-1,1,1
+secular humanism,philosophy of religion,1,0,1,0
+mysticism,philosophy of religion,3,2,4,0
+satanism,philosophy of religion,3,3,3,0
+arguments for the existence of god,philosophy of religion,3,2,4,0
+influence of islamic thought on maimonides,philosophy of religion,3,2,4,0
+existence of god,philosophy of religion,3,3,4,0
+lebensphilosophie,philosophy of religion,2,3,4,1
+christian theology,philosophy of religion,3,0,4,0
+polytheism,philosophy of religion,3,2,4,0
+miracles,philosophy of religion,3,3,4,0
+medieval political philosophy,philosophy of religion,2,0,2,2
+church and state,philosophy of religion,3,3,4,0
+afterlife,philosophy of religion,3,3,4,0
+law and morality,philosophy of religion,1,0,4,0
+ethnocentrism,philosophy of religion,2,,4,1
+indian philosophy,philosophy of religion,3,3,4,0
+forms of government,philosophy of religion,1,3,2,2
+language and society,philosophy of religion,2,0,2,2
+culture,philosophy of religion,3,3,4,1
+public reason,philosophy of religion,1,0,4,2
+natural law tradition,philosophy of religion,3,3,2,1
+pietism,philosophy of religion,3,3,4,0
+atheism,philosophy of religion,3,3,4,0
+transcendentalism,philosophy of religion,3,2,4,0
+pacifism,philosophy of religion,1,0,2,1
+daoism,philosophy of religion,2,0,4,0
+political authority,philosophy of religion,2,3,4,0
+natural theology,philosophy of religion,3,2,4,0
+hobbes's moral and political philosophy,religion and politics,3,3,4,0
+secularism,religion and politics,3,3,4,0
+divine providence,religion and politics,3,3,4,0
+lutheranism,religion and politics,3,3,0,-1
+kant's philosophy of religion,religion and politics,3,3,3,0
+polytheism,religion and politics,3,3,0,-1
+revelation,religion and politics,3,2,0,-1
+influence of islamic thought on maimonides,religion and politics,3,3,4,0
+political authority,religion and politics,3,3,4,0
+political obligation,religion and politics,3,3,4,0
+natural law theories,religion and politics,3,3,4,0
+divine law,religion and politics,3,3,4,0
+homosexuality,religion and politics,3,0,0,-1
+faith and reason,religion and politics,3,2,0,-1
+problem of evil,religion and politics,3,3,0,-1
+equality of opportunity,religion and politics,3,3,0,-1
+political legitimacy,religion and politics,3,3,4,0
+ontological argument,religion and politics,3,3,0,-1
+anarchism,religion and politics,3,3,4,0
+german philosophy,religion and politics,3,3,-1,1
+catholicism,religion and politics,2,3,-1,1
+eternity of the world,religion and politics,3,3,-1,1
+divine illumination,religion and politics,3,3,3,0
+toleration,religion and politics,3,3,4,0
+sovereignty,religion and politics,3,3,4,0
+feminist bioethics,bioethics,3,1,4,0
+cloning,bioethics,3,3,4,0
+biomedical ethics,bioethics,3,0,4,2
+personal identity and ethics,bioethics,3,3,2,1
+business ethics,bioethics,2,3,2,2
+applied ethics,bioethics,3,1,4,1
+personal autonomy,bioethics,3,3,4,0
+feminist ethics,bioethics,2,0,2,1
+doctrine of double effect,bioethics,3,3,4,0
+cultural relativism,bioethics,2,3,1,1
+environmental ethics,applied ethics,3,3,4,0
+malebranche's theory of ideas and vision in god,philosophy of mind,3,3,3,-1
+kant's view of the mind and consciousness of self,philosophy of mind,3,3,3,-1
+medieval problem of universals,philosophy of mind,2,3,0,-1
+other minds,philosophy of mind,3,3,4,-1
+consciousness and intentionality,philosophy of mind,3,2,4,-1
+neutral monism,philosophy of mind,3,2,3,-1
+18th century british aesthetics,philosophy of mind,2,3,0,-1
+leibniz's philosophy of mind,philosophy of mind,3,2,2,-1
+chinese room argument,philosophy of mind,3,3,4,-1
+mind,philosophy of mind,3,3,4,-1
+aristotle's psychology,philosophy of mind,3,3,2,0
+panpsychism,philosophy of mind,3,2,3,0
+continental rationalism,philosophy of mind,3,3,2,0
+descartes' epistemology,philosophy of mind,3,0,1,0
+animal cognition,philosophy of mind,3,0,4,0
+japanese zen buddhist philosophy,philosophy of mind,2,0,2,0
+mental representation in medieval philosophy,philosophy of mind,3,3,2,0
+computational theory of mind,philosophy of mind,3,0,4,0
+folk psychology as a theory,philosophy of mind,3,3,4,0
+matter,philosophy of mind,1,0,2,1
+cognitive science,philosophy of mind,3,0,4,0
+philosophies of the particular sciences,philosophy of mind,3,0,3,0
+japanese confucian philosophy,philosophy of mind,1,3,1,0
+animal consciousness,philosophy of mind,3,3,4,0
+mental imagery,philosophy of mind,3,1,4,0
+folk psychology,philosophy of mind,3,2,4,0
+philosophy of psychology,philosophy of mind,3,0,4,0
+controversies surrounding innateness,philosophy of mind,3,3,4,1
+psychiatry,philosophy of mind,3,0,4,1
+ideas,philosophy of mind,3,3,4,1
+mental causation,philosophy of mind,3,3,4,0
+mental representation,philosophy of mind,3,3,4,0
+teleological arguments for god's existence,philosophy of mind,1,3,1,3
+epistemological problems of memory,philosophy of mind,3,0,3,0
+philosophy of mathematics,philosophy of mind,2,3,1,2
+ancient theories of soul,philosophy of mind,3,3,1,0
+eliminative materialism,philosophy of mind,3,1,4,0
+metaphysics of mind,philosophy of mind,3,0,4,0
+probability and statistics,philosophy of mind,1,0,2,1
+body,philosophy of mind,3,3,4,1
+cartesian dualism,philosophy of mind,3,1,4,0
+internalism and externalism,philosophy of mind,3,0,4,1
+internalism and externalism,philosophy of mind,3,0,4,1
+modularity of mind,philosophy of mind,3,3,4,0
+20th century continental philosophy,philosophy of mind,3,0,2,3
+philosophy of science and the sciences,philosophy of mind,3,0,4,1
+dualism,philosophy of mind,3,3,4,0
+externalism,philosophy of mind,3,3,4,1
+origin of aesthetic,philosophy of mind,2,3,1,0
+philosophy of perception,philosophy of mind,3,2,4,2
+perception,philosophy of mind,3,1,4,0
+evolutionary psychology,philosophy of mind,3,0,4,0
+abstract object,philosophy of mind,3,3,1,1
+occasionalism,philosophy of mind,3,3,4,0
+the theory theory,philosophy of mind,3,3,4,0
+aspects of mind,philosophy of mind,3,2,3,3
+induction,philosophy of mind,2,3,3,1
+self-consciousness,philosophy of mind,3,3,4,0
+change,philosophy of mind,2,0,2,1
+modularity,philosophy of mind,3,1,4,0
+philosophy of computer science,philosophy of mind,3,0,4,2
+proper names,philosophy of mind,1,3,3,0
+confirmation and induction,philosophy of mind,1,0,2,1
+probability,philosophy of mind,1,3,2,1
+everett's relative-state formulation of quantum mechanics,philosophy of mind,3,0,1,0
+realism and anti-realism,philosophy of mind,3,0,2,1
+sense-data,philosophy of mind,3,1,3,1
+intentionality,philosophy of mind,3,3,4,0
+existence,philosophy of mind,3,1,4,1
+realism and anti-realism,philosophy of mind,3,0,4,1
+philosophy of chemistry,philosophy of mind,2,3,1,2
+logic and language,philosophy of mind,3,0,1,3
+simulation theory,philosophy of mind,3,2,4,0
+philosophy of biology,philosophy of mind,3,0,3,2
+propositional attitude,philosophy of mind,3,3,4,0
+mathematical logic,philosophy of mind,1,0,1,3
+unity of consciousness,philosophy of mind,3,3,4,0
+motion and time,philosophy of mind,1,0,2,1
+monism,philosophy of mind,3,2,4,1
+realism,philosophy of mind,3,0,4,1
+consciousness and psychology,philosophy of mind,3,2,4,0
+internalism,philosophy of mind,3,3,4,1
+philosophy of art,philosophy of mind,2,3,1,2
+identity theory of mind,philosophy of mind,3,2,4,0
+syntactic analysis,philosophy of mind,2,3,3,0
+medieval theories of the categories,philosophy of mind,2,3,1,0
+metaphysics and language,philosophy of mind,3,0,4,1
+virtues and vices,philosophy of mind,1,-1,1,2
+sense data,philosophy of mind,3,1,4,1
+problem of perception,philosophy of mind,3,3,4,1
+ancient philosophy (aristotle),philosophy of mind,3,3,1,1
+computation and representation,philosophy of mind,3,3,4,0
+epistemological problems of perception,philosophy of mind,3,2,4,0
+nonhuman animals,philosophy of mind,3,3,2,3
+imagery,philosophy of mind,3,2,4,0
+inherence,philosophy of mind,3,1,0,-1
+existence of god,philosophy of mind,1,0,1,1
+concepts,philosophy of mind,3,3,4,0
+mathematical logic,philosophy of mind,1,0,1,3
+social epistemology,epistemology,3,3,4,0
+feminist social epistemology,epistemology,3,1,4,0
+virtue epistemology,epistemology,3,2,4,0
+naturalized epistemology,epistemology,3,3,4,0
+coherentism,epistemology,3,2,3,0
+moral epistemology,epistemology,3,1,4,0
+epistemology of science,epistemology,3,2,4,0
+evolutionary epistemology,epistemology,3,1,4,0
+epistemology of religion,epistemology,3,2,4,0
+matter,epistemology,1,-1,0,-1
+knowledge and skepticism,epistemology,3,1,3,3
+feminist epistemology and philosophy of science,epistemology,3,0,2,1
+knowledge,epistemology,3,3,4,1
+foundationalism,epistemology,3,3,4,0
+formal epistemology,epistemology,3,1,4,0
+analytic feminism,epistemology,3,3,1,1
+perceptual experience,epistemology,3,3,3,1
+reliabilism,epistemology,3,3,4,0
+epistemological problems of perception,epistemology,3,2,4,0
+virtues and vices,epistemology,1,0,1,1
+epistemological problems of testimony,epistemology,3,2,3,0
+philosophy of science,epistemology,3,3,3,2
+philosophies of the particular sciences,epistemology,3,3,1,0
+value of knowledge,epistemology,3,3,2,0
+philosophy of psychology,epistemology,3,3,3,0
+psychiatry,epistemology,2,3,1,3
+philosophy of mathematics,epistemology,3,3,1,0
+moral epistemology and moral reasoning,epistemology,3,1,2,0
+interpretation,epistemology,3,3,1,1
+probability and statistics,philosophy of science and the sciences,3,3,2,1
+probability,philosophy of science and the sciences,3,3,2,1
+philosophies of the particular sciences,philosophy of science and the sciences,3,3,3,0
+philosophy of mathematics,philosophy of science and the sciences,3,0,1,2
+interpretations of probability,philosophy of science and the sciences,3,3,2,0
+folk psychology,philosophy of science and the sciences,3,3,1,0
+social dimensions of scientific knowledge,philosophy of science and the sciences,3,3,2,0
+molecular biology,philosophy of science and the sciences,3,3,-1,-1
+unity of science,philosophy of science and the sciences,3,3,4,0
+philosophy of science,philosophy of science and the sciences,3,0,4,2
+philosophy of computer science,philosophy of science and the sciences,3,3,3,0
+scientific realism,philosophy of science and the sciences,3,3,4,0
+bayes's theorem,philosophy of science and the sciences,3,3,3,0
+philosophy of physics,philosophy of science and the sciences,3,1,3,0
+constructive mathematics,philosophy of science and the sciences,3,3,0,-1
+historicist theories of rationality,philosophy of science and the sciences,3,3,3,0
+boltzmann's work in statistical physics,philosophy of science and the sciences,3,3,-1,-1
+indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,3,3,4,0
+aristotle and mathematics,philosophy of science and the sciences,3,3,1,0
+explanation,philosophy of science and the sciences,3,3,4,0
+evolutionary psychology,philosophy of science and the sciences,3,3,1,0
+molecular biology and genetics,philosophy of science and the sciences,3,1,0,-1
+einstein's philosophy of science,philosophy of science and the sciences,3,2,3,0
+conservation biology,philosophy of science and the sciences,3,3,1,0
+methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,3,3,3,0
+folk psychology as a theory,philosophy of science and the sciences,2,3,3,0
+hilbert's program,philosophy of science and the sciences,3,3,1,0
+scientific progress,philosophy of science and the sciences,3,1,4,0
+classical physics,philosophy of science and the sciences,3,3,2,0
+literature,philosophy of science and the sciences,1,0,0,-1
+malebranche's theory of ideas and vision in god,philosophy of mind,3,3,0,-1
+kant's view of the mind and consciousness of self,philosophy of mind,3,3,1,-1
+medieval problem of universals,philosophy of mind,2,3,0,-1
+other minds,philosophy of mind,3,3,4,-1
+consciousness and intentionality,philosophy of mind,3,2,4,-1
+neutral monism,philosophy of mind,3,2,0,-1
+18th century british aesthetics,philosophy of mind,2,3,0,-1
+chinese room argument,philosophy of mind,3,3,0,-1
+leibniz's philosophy of mind,philosophy of mind,3,2,0,-1
+mind,philosophy of mind,3,3,4,-1
+aristotle's psychology,philosophy of mind,3,3,0,-1
+panpsychism,philosophy of mind,3,2,0,-1
+continental rationalism,philosophy of mind,3,3,0,-1
+descartes' epistemology,philosophy of mind,3,0,0,-1
+animal cognition,philosophy of mind,3,0,0,-1
+japanese zen buddhist philosophy,philosophy of mind,2,0,0,-1
+mental representation in medieval philosophy,philosophy of mind,3,3,0,-1
+computational theory of mind,philosophy of mind,3,0,3,-1
+folk psychology as a theory,philosophy of mind,3,3,4,-1
+matter,philosophy of mind,1,0,0,-1
+higher-order theories of consciousness,aspects of mind,3,3,3,-1
+consciousness and psychology,aspects of mind,3,2,2,-1
+theories of mental content,mental content,3,2,3,-1
+externalism about mental content,mental content,3,0,4,-1
+teleological theories of mental content,mental content,3,2,1,-1
+narrow mental content,mental content,3,1,3,-1
+consciousness and intentionality,mental content,3,3,3,-1
+consciousness and mental content,mental content,3,2,4,-1
+causal theories of mental content,mental content,3,1,0,-1
+externalism,mental content,3,3,4,-1
+internalism and externalism,mental content,3,0,4,-1
+western philosophy,mental content,3,3,4,-1
+game theory in ethics,ethics,3,3,4,0
+religion and morality,ethics,3,3,4,3
+medieval theories of practical reason,ethics,3,3,1,0
+environmental aesthetics,aesthetics,3,1,4,0
+existence of god,existence,3,3,3,0
+essence and existence,existence,3,3,4,0
+properties,existence,3,2,4,3
+aspects of consciousness,consciousness,3,2,4,1
+aspects of consciousness,diversity,1,3,0,3
+aspects of consciousness,mind in indian buddhist philosophy,3,2,3,3
+aspects of consciousness,self,3,2,4,3
+aspects of consciousness,conscience,1,0,3,3
+aspects of consciousness,literature,2,3,0,3
+aspects of consciousness,models and idealization,2,0,0,3
+aspects of consciousness,perceptual experience,3,2,4,0
+aspects of consciousness,consciousness and intentionality,3,2,4,1
+eliminative materialism,materialism,3,1,4,1
+eliminative materialism,folk psychology,3,3,4,1
+eliminative materialism,philosophy of psychology,3,3,4,1
+eliminative materialism,psychiatry,3,3,3,1
+eliminative materialism,eliminativism,3,2,4,2
+eliminative materialism,philosophies of the particular sciences,3,3,2,1
+eliminative materialism,mental state,3,3,4,1
+eliminative materialism,philosophy of science and the sciences,3,3,2,1
+eliminative materialism,belief,3,3,4,0
+mind-body problem,mind,3,1,4,1
+mind-body problem,neutral monism,3,0,4,0
+mind-body problem,consciousness,3,0,4,1
+mind-body problem,philosophy of mind,3,3,4,1
+mind-body problem,metaphysics,3,3,4,1
+mind-body problem,pain,3,0,3,0
+mind-body problem,functionalism,3,3,4,0
+mind-body problem,philosophy of psychology,3,3,3,1
+mind-body problem,psychiatry,3,3,2,1
+behaviorism,philosophy of psychology,3,3,4,1
+behaviorism,psychiatry,3,3,3,1
+behaviorism,functionalism,2,0,4,2
+behaviorism,functionalism,2,0,4,2
+behaviorism,mental state,2,3,4,1
+behaviorism,philosophies of the particular sciences,3,3,3,1
+behaviorism,cognitive science,3,3,4,3
+behaviorism,philosophy of mind,3,1,4,1
+behaviorism,reference and denotation,1,-1,1,3
+dualism,mind,3,3,4,1
+dualism,body,3,3,4,1
+dualism,property dualism,3,2,4,0
+dualism,substance,3,3,4,1
+dualism,cartesian dualism,3,2,4,0
+dualism,materialism,1,0,4,2
+dualism,matter,3,3,2,1
+dualism,consciousness,3,3,4,1
+functionalism,mental state,3,3,4,1
+functionalism,pain,1,0,3,3
+functionalism,behaviorism,2,0,4,2
+functionalism,behaviorism,2,0,4,2
+functionalism,belief,3,0,3,3
+functionalism,qualia,3,0,3,3
+functionalism,qualia,3,0,3,3
+functionalism,desire,3,0,3,3
+functionalism,inverted qualia,3,1,4,0
+functionalism,desires,3,3,3,3
+physicalism,supervenience,3,0,4,1
+physicalism,supervenience,3,0,4,1
+physicalism,property and ownership,1,3,4,1
+physicalism,knowledge argument,1,0,4,0
+physicalism,knowledge argument,3,0,4,0
+physicalism,a priori and a posteriori,1,0,3,3
+physicalism,materialism,3,0,4,2
+physicalism,properties,3,3,4,1
+physicalism,zombies,1,0,4,3
+physicalism,zombies,2,0,4,3
+physicalism,philosophy of physics,3,3,2,1
+physicalism,naturalism,3,0,4,1
+philosophy of mind,mind,3,1,4,2
+philosophy of mind,body,3,3,3,2
+philosophy of mind,ideas,3,3,4,0
+philosophy of mind,matter,3,3,3,1
+philosophy of mind,attention,2,0,3,0
+philosophy of mind,existence,3,1,2,1
+philosophy of mind,concepts,3,3,4,0
+philosophy of mind,change,2,0,1,1
+philosophy of mind,literature,2,3,0,3
+japanese philosophy,zen buddhism,3,1,-1,0
+moral character,space and time,1,0,0,-1
+moral character,god,3,3,4,3
+moral character,philosophy of education,2,0,4,3
+moral character,philosophy of psychology,3,3,4,1
+moral character,virtues and vices,3,1,4,0
+moral character,ancient philosophy (aristotle),3,3,3,1
+moral character,philosophy of economics,1,-1,2,1
+moral character,social philosophy and political philosophy,3,3,3,1
+philosophy of mind,mental state,3,3,4,1
+philosophy of mind,occasionalism,1,0,4,0
+philosophy of mind,dualism and metaphysics of mind,3,1,4,0
+philosophy of mind,divine illumination,1,0,4,1
+philosophy of mind,spinoza's psychological theory,3,3,4,0
+philosophy of mind,modularity of mind,3,3,4,0
+philosophy of mind,mental representation in medieval philosophy,3,3,4,0
+philosophy of mind,syntactic analysis,2,3,2,1
+philosophy of mind,artificial intelligence,3,0,4,0
+philosophy of mind,consciousness,3,2,4,0
+philosophy of mind,mental content,3,3,4,0
+mental content,concepts,3,3,4,2
+mental content,mental representation,3,2,4,2
+mental content,non-conceptual content,1,0,4,0
+mental content,narrow mental content,3,1,4,0
+mental content,nonconceptual mental content,3,0,4,0
+mental content,intentionality,3,2,4,2
+mental content,internalism and externalism,3,0,4,0
+mental content,propositional attitude,3,1,4,2
+mental content,theories of mental content,3,3,4,0
+mental content,consciousness and mental content,3,0,4,0
+mental content,contents of perception,3,2,4,0
+mental content,mental imagery,3,2,4,2
+mental content,externalism,3,3,4,1
+mental content,representation,3,2,4,1
+chinese philosophy,chinese buddhism,3,3,4,0
+chinese philosophy,taoism,3,2,4,0
+chinese philosophy,philosophy of education,2,3,0,-1
+a priori and a posteriori,a priori justification and knowledge,3,3,4,0
+a priori and a posteriori,knowledge and skepticism,3,3,4,1
+a priori and a posteriori,epistemology,3,1,4,-1
+a priori and a posteriori,epistemology,3,1,-1,1
+a priori and a posteriori,reference,2,3,2,2
+a priori and a posteriori,philosophy of mind,3,3,1,1
+a priori and a posteriori,war and pacifism,0,-1,0,-1
+a priori and a posteriori,philosophy of science,3,3,2,1
+knowledge,rationalism vs. empiricism,3,0,4,0
+knowledge,plato on knowledge in the theaetetus,3,0,4,0
+knowledge,analysis of knowledge,3,3,4,0
+philosophy of mind,metaphysics of mind,3,0,0,0
+philosophy of mind,metaphysics of mind,3,0,4,-1
+turing machine,function and teleology,3,3,0,-1
+turing machine,universals,1,0,0,-1
+sophists,method and metaphysics in plato's sophist and statesman,3,3,3,3
+sophists,method and metaphysics in plato's sophist and statesman,3,3,3,3
+sophists,names,1,0,2,1
+sophists,philosophy of art,3,3,0,-1
+sophists,virtues and vices,3,3,2,1
+sophists,wisdom,1,0,4,1
+sophists,abilities,3,3,0,-1
+sophists,purpose,2,3,0,-1
+sophists,attention,2,3,0,-1
+sophists,philosophy of education,3,3,1,1
+sophists,death,1,0,0,-1
+zen buddhism,philosophy of religion,3,0,4,1
+consciousness and mental content,mental content,3,2,2,-1
+pietism,philosophy of religion,3,3,4,1
+aristotle's logic,syllogism,3,1,4,1
+aristotle's logic,categories,3,3,4,1
+aristotle's logic,argument,3,1,4,1
+aristotle's logic,contradiction,3,3,-1,3
+aristotle's logic,metaphysics,3,3,3,3
+empathy,empirical approaches to moral psychology,3,1,4,3
+empathy,altruism,3,2,4,2
+empathy,person,3,1,2,3
+empathy,abilities,1,0,1,3
+empathy,situations,3,1,0,-1
+empathy,emotion,3,2,4,1
+empathy,recognition,3,2,1,3
+empathy,desires,2,3,-1,-1
+empathy,philosophy of mind,3,1,3,1
+empathy,psychiatry,3,3,3,1
+perception,imagery,3,2,4,2
+perception,self-knowledge,3,3,2,2
+perception,ancient skepticism,3,3,4,3
+perception,artistic representation,3,2,4,2
+revision theory of truth,truth,3,3,4,1
+revision theory of truth,truth,3,3,4,1
+truth,relativism,3,0,4,-1
+philosophy of mathematics,attention,1,0,0,-1
+philosophy of mathematics,analysis,3,3,2,3
+philosophy of mind,purpose,3,3,3,0
+units and levels of selection,trait,3,3,4,2
+units and levels of selection,evolution,3,3,4,1
+units and levels of selection,gene,3,3,4,0
+units and levels of selection,models and idealization,2,0,3,3
+units and levels of selection,natural selection,3,3,4,1
+units and levels of selection,fitness,3,3,4,1
+units and levels of selection,species,3,3,4,1
+ethics and art,philosophy of art,3,3,4,1
+naturalized epistemology,population genetics,1,3,0,-1
+ethics,social contract,3,1,4,1
+psychiatry,attention,3,3,3,2
+intentionality,consciousness,3,1,4,2
+intentionality,consciousness and intentionality,3,0,4,0
+intentionality,consciousness and intentionality,3,2,4,0
+intentionality,mental state,3,3,4,1
+turing machine,computation,3,1,4,0
+metaphor,philosophy of language,3,3,4,-1
+existence,possible worlds,3,3,3,2
+ancient philosophy,knowledge,3,3,1,3
+postmodernism,feminist epistemology and philosophy of science,3,0,2,3
+postmodernism,deconstruction,3,2,4,1
+postmodernism,rationalism and empiricism,1,0,3,2
+postmodernism,meaning,3,2,3,3
+perspectivism,life,3,2,0,-1
+perspectivism,historicism,2,0,1,2
+computation and representation,cognitive science,3,2,4,0
+computation and representation,philosophy of psychology,3,3,3,0
+computation and representation,artificial intelligence,3,3,4,0
+computation and representation,psychiatry,1,0,1,3
+computation and representation,folk psychology,2,3,3,0
+computation and representation,connectionism,3,1,4,3
+computation and representation,philosophies of the particular sciences,3,3,2,0
+computation and representation,events,2,0,2,0
+computation and representation,neural network,3,1,3,3
+computation and representation,mental representation,3,3,4,0
+philosophy of language,private language,3,3,4,1
+physicalism,identity theory of mind,3,0,4,1
+quantum mechanics,interpretation,3,3,1,3
+quantum mechanics,philosophy of physics,3,2,4,0
+quantum mechanics,bohmian mechanics,3,0,4,1
+quantum mechanics,bohmian mechanics,3,0,4,1
+quantum mechanics,probability,3,1,3,3
+quantum mechanics,classical physics,3,3,3,2
+quantum mechanics,descriptions,3,3,0,-1
+quantum mechanics,philosophies of the particular sciences,3,3,4,0
+quantum mechanics,formalism,3,3,0,-1
+quantum mechanics,probability and statistics,3,3,3,3
+quantum mechanics,bell's theorem,3,1,4,1
+cognitive science,philosophies of the particular sciences,3,3,4,0
+cognitive science,philosophy of science and the sciences,3,3,4,0
+cognitive science,philosophy of psychology,3,0,4,2
+cognitive science,philosophy of mind,3,0,4,2
+cognitive science,embodied cognition,3,2,4,1
+cognitive science,psychiatry,3,3,3,2
+cognitive science,representation,3,3,4,1
+cognitive science,models and idealization,3,3,4,3
+cognitive science,philosophy of science,3,3,4,0
+cognitive science,explanation,3,3,4,3
+cognitive science,Information,3,3,4,3
+cognitive science,attention,3,3,4,1
+cognitive science,descriptions,3,3,1,3
+cognitive science,mental representation,3,1,4,1
+cognitive science,memory,3,3,4,1
+cognitive science,philosophy of neuroscience,3,2,4,2
+cognitive science,philosophy of neuroscience,3,0,4,2
+cognitive science,computation,3,3,4,3
+cognitive science,observation,3,3,1,0
+cognitive science,body,3,3,3,3
+cognitive science,mechanism,3,3,4,3
+cognitive science,philosophy of language,3,2,3,2
+cognitive science,function and teleology,3,3,2,1
+cognitive science,concepts,3,3,4,1
+cognitive science,function,3,3,4,1
+absurdity,contradiction,2,0,3,2
+absurdity,existence,3,2,4,0
+absurdity,meaning,3,0,4,0
+absurdity,purpose,3,0,4,0
+logic,philosophies of the particular sciences,3,3,1,3
+logic,consequences,3,3,4,1
+modernism,idealism,2,-1,-1,-1
+modernism,change,3,3,4,0
+continental philosophy,epistemology,3,3,4,0
+continental philosophy,attention,2,,2,1
+continental philosophy,feminism,3,2,3,1
+continental philosophy,history of philosophy,3,3,4,0
+continental philosophy,analytic philosophy,1,0,4,2
+continental philosophy,psychoanalysis,3,3,4,1
+continental philosophy,continental feminism,3,2,3,1
+philosophy of art,aesthetics,3,2,4,2
+artistic form,artistic object,3,1,4,2
+judaic philosophy,interpretation,3,3,1,3
+Eternity in Christian Thought,space and time,3,3,3,2
+Eternity in Christian Thought,time,3,3,4,0
+Eternity in Christian Thought,god,3,3,4,2
+Eternity in Christian Thought,god,3,3,4,2
+interpretation,meaning,3,2,4,0
+interpretation,purpose,3,3,2,3
+interpretation,time,2,3,0,-1
+interpretation,reference and denotation,3,3,3,1
+interpretation,attention,2,3,1,3
+philosophy of chemistry,philosophies of the particular sciences,3,3,4,0
+philosophy of chemistry,philosophy of science and the sciences,3,3,4,0
+philosophy of chemistry,philosophy of physics,3,2,4,2
+philosophy of chemistry,philosophy of biology,3,2,3,2
+philosophy of chemistry,substance,3,3,2,3
+philosophy of chemistry,explanation,3,3,3,1
+philosophy of chemistry,atomism from the 17th to the 20th century,3,3,4,2
+philosophy of chemistry,atomism from the 17th to the 20th century,3,3,4,2
+philosophy of chemistry,atomism,3,1,3,3
+philosophy of chemistry,mechanism,3,3,3,1
+philosophy of chemistry,reduction and emergence,3,3,4,1
+philosophy of chemistry,observation,3,3,3,1
+philosophy of chemistry,philosophy of psychology,2,3,1,2
+philosophy of chemistry,literature,1,3,0,-1
+taoism,daoism,3,2,4,2
+taoism,confucianism,3,3,3,2
+taoism,buddhism,3,0,3,2
+taoism,philosophy of religion,3,2,3,0
+taoism,names,1,0,1,3
+taoism,chinese philosophy,3,3,4,0
+taoism,Neo-Daoism,3,2,4,1
+chinese philosophy,daoism,3,1,4,1
+sado-masochism,fetishism,3,0,2,2
+sado-masochism,homosexuality,1,3,1,3
+anarchism,philosophy of war,2,0,1,3
+anarchism,authority,3,3,4,2
+anarchism,Revolution,3,0,3,3
+anarchism,political philosophy,3,3,4,0
+anarchism,time,1,-1,0,-1
+anarchism,consequences,3,3,0,-1
+anarchism,autonomy,3,2,2,3
+solipsism,idealism,3,2,2,2
+solipsism,recognition,2,0,0,-1
+solipsism,philosophy of mind,3,2,3,0
+solipsism,self,3,3,4,2
+developmental biology,philosophy of biology,3,3,4,0
+developmental biology,philosophies of the particular sciences,3,3,4,0
+developmental biology,philosophy of science and the sciences,3,3,3,0
+developmental biology,evolutionary theory,3,3,4,2
+developmental biology,molecular biology and genetics,3,3,4,2
+developmental biology,gene,3,1,4,2
+developmental biology,molecular biology,3,3,4,2
+developmental biology,trait,3,1,4,2
+developmental biology,evolution,3,3,4,2
+developmental biology,mechanism,3,1,4,3
+metaphysics,ontology,3,3,4,1
+metaphysics,matter,3,3,3,1
+metaphysics,existence,3,3,4,1
+metaphysics,attention,2,3,0,-1
+metaphysics,universals,3,3,4,1
+metaphysics,time,3,3,3,3
+metaphysics,philosophy of science,3,3,2,3
+metaphysics,philosophy of mind,3,0,3,3
+metaphysics,space and time,3,3,4,3
+aesthetic experience,aesthetics,3,1,4,1
+fallacies_(duplicate_to_remove),argument,3,1,4,0
+fallacies_(duplicate_to_remove),ontology,2,3,1,3
+fallacies_(duplicate_to_remove),inference,3,1,4,0
+fallacies_(duplicate_to_remove),reference,1,-1,2,3
+fallacies_(duplicate_to_remove),consequences,2,3,2,3
+fallacies_(duplicate_to_remove),analysis,2,3,3,3
+fallacies_(duplicate_to_remove),definition,2,3,2,3
+fallacies_(duplicate_to_remove),interpretation,2,3,1,3
+lesbianism,sexuality,3,1,4,0
+lesbianism,homosexuality,3,0,4,0
+lesbianism,race,1,0,2,3
+lesbianism,definition,1,,0,-1
+david lewis's metaphysics,possible worlds,3,1,4,3
+context of discovery,context of justification,3,3,4,2
+context of discovery,justification,3,3,2,3
+context of discovery,scientific theory,3,1,4,0
+context of discovery,Scientific Discovery,3,1,4,0
+context of discovery,ontology,2,0,2,3
+context of discovery,history of science,3,3,4,3
+context of discovery,philosophy of physics,1,0,3,3
+context of discovery,progress,3,3,1,3
+context of discovery,rationalism and empiricism,3,0,3,3
+context of discovery,scientific methodology,3,3,4,0
+context of discovery,analysis,3,3,1,3
+context of discovery,empiricism,3,3,4,0
+context of discovery,philosophy of biology,1,-1,2,3
+context of discovery,reference and denotation,1,0,0,-1
+context of discovery,reference,1,0,0,-1
+context of discovery,evidence,3,3,4,3
+context of discovery,philosophy of science,3,3,4,0
+context of discovery,respect,1,,0,-1
+context of discovery,knowledge and skepticism,3,3,1,3
+context of discovery,attention,2,3,0,-1
+context of discovery,knowledge,3,1,1,3
+context of discovery,concepts,3,3,2,3
+parsimony,simplicity,3,2,4,2
+parsimony,ontology,3,3,3,3
+chinese philosophy,Science and Chinese Philosophy,3,0,4,1
+chinese philosophy,confucianism,3,1,4,1
+chinese philosophy,ontology,3,3,2,3
+chinese philosophy,Translating and Interpreting Chinese Philosophy,3,1,4,1
+chinese philosophy,buddhism,3,3,3,2
+chinese philosophy,wisdom,3,2,3,0
+chinese philosophy,chinese-western comparative philosophy,3,3,4,3
+chinese philosophy,western philosophy,3,0,2,2
+chinese philosophy,culture,3,3,3,0
+chinese philosophy,ethics,3,3,4,3
+pain,pleasure,3,0,3,2
+pain,pleasure,3,0,3,2
+pain,ontology,2,3,0,-1
+pain,attention,2,3,1,3
+pain,virtues and vices,1,0,1,3
+pain,matter,3,3,0,-1
+pain,respect,1,3,0,-1
+pain,consequences,2,1,1,3
+pain,qualities,1,-1,1,0
+pain,mind,3,1,4,0
+pain,philosophy of mind,3,3,4,0
+pain,body,3,1,3,3
+pain,existence,2,0,0,-1
+pain,purpose,2,3,0,-1
+pain,life,3,3,1,0
+pain,reference and denotation,1,-1,0,-1
+pain,change,2,3,0,-1
+metaphysics,goodness,3,3,0,-1
+consciousness,unity of consciousness,3,1,4,1
+consciousness,ontology,3,0,1,3
+consciousness,self,3,2,4,2
+consciousness,philosophy of mind,3,2,4,0
+consciousness,attention,3,0,4,2
+consciousness,animal consciousness,3,1,4,1
+consciousness,animal consciousness,3,1,4,1
+consciousness,perception,3,2,4,2
+consciousness,philosophy of perception,3,2,4,2
+consciousness,consciousness and intentionality,3,0,4,2
+consciousness,consciousness and intentionality,3,2,4,2
+fallacies,fallacies_(duplicate_to_remove),3,0,4,2
+fallacies,argument,3,3,3,2
+fallacies,ontology,2,0,1,3
+fallacies,inference,3,1,4,0
+fallacies,reference and denotation,1,-1,0,-1
+fallacies,analysis,2,3,0,-1
+fallacies,consequences,3,3,0,-1
+fallacies,reference,1,,0,-1
+fallacies,definition,3,3,0,-1
+fallacies,interpretation,3,1,0,-1
+bounded rationality,rationality,3,1,4,0
+bounded rationality,Information,3,3,3,3
+bounded rationality,probability,3,3,3,3
+bounded rationality,philosophy of technology,2,0,0,-1
+bounded rationality,philosophy of economics,3,3,3,3
+medieval theories of causality,medieval theories of causation,3,2,4,2
+medieval theories of causality,medieval philosophy,3,3,4,0
+medieval theories of causality,literature,2,3,0,-1
+defaults in semantics and pragmatics,defaults,0,,4,0
+daoism,taoism,3,2,4,2
+taoism,religion,3,3,4,0
+rule-consequentialism,rule consequentialism,3,2,4,2
+essential versus accidental properties,essential vs. accidental properties,0,-1,4,2
+essential versus accidental properties,property and ownership,3,1,4,0
+essential versus accidental properties,properties,3,1,4,0
+essential versus accidental properties,essentialism,3,3,4,0
+essential versus accidental properties,object,3,1,4,0
+essential versus accidental properties,abstract object,1,0,4,0
+Experiment in Biology,philosophy of biology,3,3,4,0
+Experiment in Biology,molecular biology and genetics,3,1,4,1
+Experiment in Biology,mechanism,3,3,4,3
+Experiment in Biology,philosophies of the particular sciences,3,3,4,0
+Experiment in Biology,experimentation,3,0,4,0
+Experiment in Biology,evidence,3,3,4,0
+Experiment in Biology,replication,3,1,3,3
+Experiment in Biology,models and idealization,3,3,3,3
+eliminativism,ontology,3,3,4,0
+eliminativism,eliminative materialism,3,2,4,2
+eliminativism,argument,1,0,0,-1
+eliminativism,existence,3,0,2,3
+eliminativism,attention,1,0,1,3
+eliminativism,pain,1,0,2,3
+eliminativism,psychiatry,2,0,3,3
+eliminativism,attributes,2,3,1,3
+eliminativism,interpretation,1,0,0,-1
+eliminativism,philosophy of psychology,3,3,4,0
+eliminativism,literature,1,3,0,-1
+eliminativism,relations,1,3,0,-1
+eliminativism,virtues and vices,1,3,0,-1
+eliminativism,belief,3,3,4,3
+eliminativism,philosophies of the particular sciences,3,3,4,0
+eliminativism,reference and denotation,3,3,1,3
+eliminativism,descriptions,2,3,1,3
+eliminativism,propositional attitude,2,0,4,3
+eliminativism,mental state,3,3,4,3
+eliminativism,purpose,2,3,2,3
+foundationalism,coherentism,3,0,4,2
+foundationalism,epistemology,3,3,4,0
+foundationalism,justification,3,3,4,0
+foundationalism,belief,3,3,4,3
+foundationalism,epistemological problems of perception,3,3,4,3
+foundationalism,ontology,3,3,2,3
+foundationalism,foundationalist theories of epistemic justification,3,2,4,1
+foundationalism,explanation,3,3,1,3
+foundationalism,skepticism,3,0,4,2
+foundationalism,facts,3,3,3,3
+computational complexity theory,computation,3,1,4,0
+computational complexity theory,ontology,2,3,2,3
+computational complexity theory,computability and complexity,3,2,4,2
+computational complexity theory,logic,3,3,3,0
+computational complexity theory,function and teleology,1,0,0,-1
+computational complexity theory,literature,1,-1,0,-1
+computational complexity theory,function,3,3,1,3
+computational complexity theory,change,1,0,0,-1
+computational complexity theory,Information,3,3,3,3
+computational complexity theory,second-order and higher-order logic,3,0,2,3
+computational complexity theory,situations,1,-1,0,-1
+computational complexity theory,interpretation,1,0,0,-1
+computational complexity theory,facts,1,-1,0,-1
+computational complexity theory,semantics,1,3,0,-1
+computational complexity theory,syntax,2,3,0,-1
+computational complexity theory,respect,1,0,0,-1
+computational complexity theory,intuition,1,-1,0,-1
+computational complexity theory,formalism,3,3,2,3
+computational complexity theory,inference,3,3,1,3
+computational complexity theory,models and idealization,2,0,1,3
+brains in a vat,reference,3,3,3,3
+brains in a vat,Skepticism and Content Externalism,3,2,4,0
+brains in a vat,ontology,3,3,2,3
+brains in a vat,mental state,3,2,4,3
+brains in a vat,sounds,1,0,0,-1
+brains in a vat,semantics,2,0,4,3
+brains in a vat,situations,3,3,1,3
+brains in a vat,skepticism,3,3,3,3
+brains in a vat,belief,3,2,4,3
+brains in a vat,argument,3,3,1,3
+church-turing thesis,turing machine,3,0,4,1
+church-turing thesis,turing machine,3,1,4,1
+church-turing thesis,function,3,3,2,3
+Suffering,ontology,2,3,0,-1
+Suffering,life,3,3,2,0
+Suffering,pain,3,1,4,2
+Suffering,person,3,1,2,3
+Suffering,consequences,3,3,0,-1
+Suffering,death,3,3,3,3
+Suffering,purpose,2,3,1,3
+Suffering,attention,2,3,1,3
+Suffering,matter,1,0,0,-1
+Suffering,respect,1,3,0,-1
+Suffering,individuals,3,1,1,3
+Suffering,situations,3,1,0,-1
+Suffering,action,2,3,1,3
+Suffering,virtues and vices,2,3,1,3
+Suffering,abilities,1,3,0,-1
+Suffering,desire,2,3,2,2
+Suffering,desires,2,1,2,2
+Suffering,value,2,3,3,3
+Suffering,rights,2,3,2,3
+Suffering,family,2,3,0,-1
+panpsychism,consciousness,3,2,4,0
+panpsychism,monism and pluralism,3,0,1,3
+panpsychism,monism,3,2,3,3
+panpsychism,physicalism,3,0,2,3
+panpsychism,matter,3,3,2,3
+panpsychism,mind,3,2,4,0
+panpsychism,philosophy of mind,3,2,4,0
+panpsychism,reduction and emergence,3,3,3,2
+panpsychism,qualities,3,3,3,3
+panpsychism,emergence,3,0,3,2
+panpsychism,philosophy of physics,3,0,1,3
+panpsychism,dualism,3,0,3,2
+panpsychism,argument,1,-1,0,-1
+panpsychism,neutral monism,2,0,3,2
+panpsychism,materialism,3,0,3,2
+panpsychism,mind-body problem,3,2,4,0
+panpsychism,philosophy of psychology,3,2,2,3
+Realism and Theory Change in Science,philosophy of science and the sciences,3,3,4,0
+Realism and Theory Change in Science,philosophy of science,3,3,4,0
+Realism and Theory Change in Science,history of science,3,3,4,0
+Realism and Theory Change in Science,realism,3,0,4,0
+Realism and Theory Change in Science,realism and anti-realism,3,2,4,2
+Realism and Theory Change in Science,induction,3,3,3,3
+Realism and Theory Change in Science,scientific theory,3,2,4,0
+Realism and Theory Change in Science,pessimism,1,0,2,3
+Realism and Theory Change in Science,confirmation and induction,3,3,4,2
+Realism and Theory Change in Science,argument,2,0,2,3
+ceteris paribus laws,philosophy of law,3,3,0,-1
+ceteris paribus laws,philosophy of science,3,1,4,0
+ceteris paribus laws,counterfactuals,3,2,2,3
+ceteris paribus laws,philosophy of science and the sciences,3,3,4,0
+ceteris paribus laws,philosophy of physics,3,3,3,0
+ceteris paribus laws,supposition and copulation,0,-1,0,-1
+ceteris paribus laws,philosophies of the particular sciences,3,3,4,0
+ceteris paribus laws,philosophy of economics,3,3,4,3
+ceteris paribus laws,inference,3,3,0,-1
+natural law,philosophy of law,3,3,4,0
+natural law,natural law theories,3,2,4,2
+natural law,natural law tradition in ethics,3,2,4,1
+natural law,rights,3,3,4,2
+natural law,natural law tradition,3,3,4,1
+natural law,matter,1,-1,0,-1
+natural law,reference,1,0,0,-1
+natural law,authority,3,3,2,3
+natural law,ontology,3,3,3,3
+continental philosophy,intersections between pragmatist and continental feminism,3,2,4,1
+continental philosophy,history of philosophy,3,3,3,3
+continental philosophy,approaches to feminist philosophy,3,2,3,3
+continental philosophy,ontology,3,3,2,3
+continental philosophy,reduction and emergence,3,3,0,-1
+continental philosophy,knowledge and skepticism,3,3,3,3
+continental philosophy,knowledge,3,3,3,3
+continental philosophy,philosophy of history,2,0,2,3
+continental philosophy,attention,2,,0,-1
+continental philosophy,situations,2,3,0,-1
+continental philosophy,phenomenology,3,1,4,1
+continental philosophy,culture,3,3,2,3
+continental philosophy,hermeneutics,3,3,4,1
+continental philosophy,pragmatism,2,-1,2,2
+continental philosophy,interpretation,3,3,2,3
+continental philosophy,models and idealization,2,-1,0,-1
+continental philosophy,pragmatics,2,-1,0,-1
+continental philosophy,philosophy of science,2,3,1,3
+continental philosophy,body,3,3,3,3
+continental philosophy,purpose,2,-1,0,-1
+philosophy of science,philosophy of science and the sciences,3,0,4,1
+philosophy of science,philosophies of the particular sciences,3,3,4,2
+philosophy of science,ontology,3,3,3,3
+philosophy of science,philosophy of social science,3,2,4,1
+philosophy of science,cognitive science,3,3,3,3
+philosophy of science,explanation,3,3,4,1
+history of philosophy,ontology,3,3,3,3
+history of philosophy,philosophy of science,2,0,4,1
+counterfactuals,causation,3,3,3,3
+counterfactuals,counterfactual theories of causation,3,1,4,1
+counterfactuals,counterfactual theories of causation,3,3,4,1
+counterfactuals,truth,3,3,3,2
+counterfactuals,possible worlds,3,2,4,2
+other minds,mind,3,1,4,0
+other minds,inference,2,3,3,3
+other minds,mental state,3,3,4,2
+other minds,knowledge and skepticism,3,3,3,3
+other minds,knowledge,3,3,3,3
+other minds,pain,1,0,3,3
+other minds,perception,3,3,2,3
+other minds,evidence,3,3,2,3
+other minds,skepticism,3,3,3,0
+aesthetics,aesthetics and philosophy of art,3,2,4,2
+ethics,ontology,3,3,1,3
+logic of conditionals,probability and statistics,3,3,4,3
+logic of conditionals,models and idealization,2,0,4,3
+philosophy of biology,mechanism,3,3,4,3
+philosophy of biology,explanation,3,3,4,3
+philosophy of biology,evolution,3,3,4,3
+philosophy of biology,evolution,3,3,4,3
+philosophy of biology,Philosophy of Systems and Synthetic Biology,3,3,4,3
+philosophy of biology,Philosophy of Systems and Synthetic Biology,3,3,4,3
+philosophy of biology,philosophy of science,3,3,4,3
+philosophy of biology,molecular biology,2,3,4,3
+philosophy of biology,molecular biology,3,3,4,3
+philosophy of biology,molecular biology and genetics,3,1,4,3
+philosophy of medicine,purpose,3,3,4,3
+philosophy of medicine,life,3,3,4,3
+philosophy of science and the sciences,probability and statistics,3,3,4,3
+philosophy of science and the sciences,philosophy of biology,3,3,4,3
+philosophy of science and the sciences,philosophy of psychology,3,3,4,3
+philosophy of science and the sciences,philosophy of science,3,3,4,3
+philosophy of mathematics,philosophy of science,3,0,4,3
+philosophy of mathematics,Questions,3,3,4,3
+philosophy of mathematics,consequences,2,3,4,3
+philosophy of mathematics,analysis,3,3,4,3
+philosophy of mathematics,platonism,3,1,4,3
+philosophy of mathematics,set theory,3,3,4,3
+artificial intelligence,logic,3,1,3,3
+Formal Approaches to Social Procedures,common knowledge,1,,3,0
+definition of art,aesthetic properties,3,1,3,2
+definition of art,aesthetics and philosophy of art,3,2,4,0
+definition of art,aesthetics,3,2,4,0
+definition of art,definition,3,2,3,0
+definition of art,philosophy of art,3,3,4,0
+definition of art,concepts,3,3,1,3
+animal consciousness,consciousness,3,1,4,0
+animal consciousness,consciousness,3,1,4,0
+animal consciousness,phenomenal consciousness,3,2,3,2
+animal consciousness,animal behavior,3,0,3,3
+animal consciousness,pain,3,0,3,2
+animal consciousness,mental state,3,2,4,0
+animal consciousness,great apes,3,3,3,3
+animal consciousness,nonhuman animals,3,1,4,0
+animal consciousness,Animal Mind,3,0,4,0
+animal consciousness,mind,3,2,4,0
+animal consciousness,philosophy of mind,3,3,3,0
+animal consciousness,blindsight,3,2,2,3
+animal consciousness,evidence,2,0,1,3
+animal consciousness,function of consciousness,3,3,4,3
+animal consciousness,emotion,3,2,3,3
+animal consciousness,animal cognition,3,0,4,2
+animal consciousness,animal cognition,3,2,4,2
+animal consciousness,evolution of consciousness,3,3,4,2
+animal consciousness,neural correlates,3,1,4,3
+animal consciousness,species,3,1,2,3
+animal consciousness,distribution,1,0,0,-1
+animal consciousness,animal welfare,3,2,4,2
+animal consciousness,consciousness and neuroscience,3,2,3,2
+externalism about mental content,externalism,3,2,3,0
+externalism about mental content,internalism and externalism,3,0,4,0
+cognitive science,mind,3,3,4,0
+Animal Mind,philosophy of mind,3,1,4,0
+Animal Mind,mind,3,2,4,0
+Animal Mind,animal cognition,3,0,4,2
+Animal Mind,animal consciousness,3,0,4,1
+Animal Mind,human cognition,3,3,3,2
+Animal Mind,animal behavior,3,2,3,2
+Animal Mind,modality,1,0,0,-1
+Animal Mind,explanation,3,3,2,3
+Animal Mind,nonhuman animals,3,1,4,0
+Animal Mind,epistemology,2,1,3,3
+chinese philosophy,Philosophy in Han Dynasty China,3,3,4,1
+chinese philosophy,chinese and western,3,3,3,1
+chinese philosophy,The Emotions in Early Chinese Philosophy,3,1,4,1

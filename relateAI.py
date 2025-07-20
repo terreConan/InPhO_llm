@@ -6,7 +6,7 @@ from groq import Groq
 
 # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 client = Groq(
-    api_key=""
+    api_key=os.getenv("GROQ_API_KEY")
 ) 
 
 API_BASE = "https://www.inphoproject.org/idea"
