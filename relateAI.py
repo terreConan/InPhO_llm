@@ -7,7 +7,7 @@ from groq import Groq
 # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 client = Groq(
     api_key=""
-)
+) 
 
 API_BASE = "https://www.inphoproject.org/idea"
 PAIRS_CSV = "pairs.csv"
