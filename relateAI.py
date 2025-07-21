@@ -55,6 +55,13 @@ def make_pairs():
 
 # make_pairs()
 
+### TODO:
+# wipe memory of AI after each response
+# order seems to not matter when it should for prompting
+# add column of model used in csv file
+# try at least one more model
+# ONCE SEP is collected, then compare on a pair-by basis
+
 def generate(start_line):
     with open("llama_researcher.csv", "a", newline="") as fout:
         writer = csv.writer(fout)
@@ -115,5 +122,5 @@ def parse_response(text):
     return relatedness, generality
 
 
-if "__name__" == "__main__":
-    generate(2)
+# if "__name__" == "__main__":
+#     generate(2)

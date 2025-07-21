@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("novice_ai_expert_human.csv")
+df = pd.read_csv("expert_ai_expert_human.csv")
 
 REL_LABELS = ["Not Related","Marginally Related","Somewhat Related","Related","Highly Related"]
 GEN_LABELS = ["N/A","Incomparable To","More Specific Than","As General As","More General Than"]
