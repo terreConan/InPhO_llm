@@ -1,0 +1,75 @@
+key,ideaA,ideaB,humanRelatedness,humanGenerality
+"('japaneseaesthetics', 'japanesephilosophy')",japanese aesthetics,japanese philosophy,2,0
+"('japanesephilosophy', 'japanesezenbuddhistphilosophy')",japanese zen buddhist philosophy,japanese philosophy,2,0
+"('japaneseconfucianphilosophy', 'japanesephilosophy')",japanese confucian philosophy,japanese philosophy,2,0
+"('dynamism', 'japanesephilosophy')",dynamism,japanese philosophy,1,1
+"('chinesephilosophy', 'mohistcanons')",mohist canons,chinese philosophy,3,0
+"('chineseethics', 'chinesephilosophy')",chinese ethics,chinese philosophy,2,0
+"('chinesebuddhism', 'chinesephilosophy')",chinese buddhism,chinese philosophy,2,0
+"('chinesephilosophy', 'mohism')",mohism,chinese philosophy,3,0
+"('chineseandwestern', 'chinesephilosophy')",chinese and western,chinese philosophy,-1,-1
+"('chinesephilosophy', 'legalism')",legalism,chinese philosophy,2,-1
+"('chinesephilosophy', 'taoism')",taoism,chinese philosophy,3,0
+"('chinesephilosophy', 'hardproblem')",hard problem,chinese philosophy,0,-1
+"('chinesephilosophy', 'deductivereasoning')",deductive reasoning,chinese philosophy,0,-1
+"('chinesephilosophy', 'primitivism')",primitivism,chinese philosophy,0,-1
+"('chinesephilosophy', 'fatalism')",fatalism,chinese philosophy,0,-1
+"('chinesephilosophy', 'stoicism')",stoicism,chinese philosophy,1,2
+"('chinesephilosophy', 'communitarianism')",communitarianism,chinese philosophy,-1,3
+"('anarchy', 'chinesephilosophy')",anarchy,chinese philosophy,0,-1
+"('historyoflogic', 'medievaltheoriesofthesyllogism')",medieval theories of the syllogism,history of logic,4,-1
+"('historyoflogic', 'informallogic')",informal logic,history of logic,4,-1
+"('ancientlogic', 'historyoflogic')",ancient logic,history of logic,4,-1
+"('historyoflogic', 'hypotheticalsyllogism')",hypothetical syllogism,history of logic,4,-1
+"('bolzanoslogic', 'historyoflogic')",bolzano's logic,history of logic,3,-1
+"('determinatesvsdeterminables', 'historyoflogic')",determinates vs. determinables,history of logic,-1,-1
+"('historyoflogic', 'paradoxesandcontemporarylogic')",paradoxes and contemporary logic,history of logic,3,-1
+"('historyoflogic', 'logicandgames')",logic and games,history of logic,2,-1
+"('analyticfeminism', 'historyoflogic')",analytic feminism,history of logic,1,-1
+"('historyoflogic', 'scholasticism')",scholasticism,history of logic,4,-1
+"('historyoflogic', 'linearlogic')",linear logic,history of logic,2,-1
+"('historyoflogic', 'squareofopposition')",square of opposition,history of logic,4,-1
+"('historyoflogic', 'inductivelogic')",inductive logic,history of logic,3,-1
+"('historyoflogic', 'medievallogic')",medieval logic,history of logic,4,-1
+"('historyoflogic', 'intuitionisticlogic')",intuitionistic logic,history of logic,3,-1
+"('historyoflogic', 'propositionalfunction')",propositional function,history of logic,4,-1
+"('historyoflogic', 'manyvaluedlogic')",many-valued logic,history of logic,4,-1
+"('epistemiclogic', 'historyoflogic')",epistemic logic,history of logic,4,-1
+"('historyoflogic', 'philosophyoflogic')",philosophy of logic,history of logic,4,-1
+"('historyoflogic', 'liarparadox')",liar paradox,history of logic,4,-1
+"('historyoflogic', 'prooftheory')",proof theory,history of logic,3,-1
+"('historyoflogic', 'logicandontology')",logic and ontology,history of logic,2,-1
+"('historyoflogic', 'modeltheory')",model theory,history of logic,3,-1
+"('futurecontingents', 'historyoflogic')",future contingents,history of logic,4,-1
+"('historyoflogic', 'logicalconstant')",logical constant,history of logic,3,-1
+"('scientificmethodology', 'thescientificmethod')",the scientific method,scientific methodology,4,-1
+"('scientificmethodology', 'scientificrealism')",scientific realism,scientific methodology,3,-1
+"('molecularbiology', 'scientificmethodology')",molecular biology,scientific methodology,1,-1
+"('probabilityandstatistics', 'scientificmethodology')",probability and statistics,scientific methodology,2,-1
+"('methodologicaldebatesincosmologythe1930sand1940s', 'scientificmethodology')",methodological debates in cosmology the 1930s and 1940s,scientific methodology,1,-1
+"('scientificmethodology', 'unityofscience')",unity of science,scientific methodology,2,-1
+"('falsificationism', 'scientificmethodology')",falsificationism,scientific methodology,4,0
+"('emergence', 'scientificmethodology')",emergence,scientific methodology,2,-1
+"('ethics', 'utilitarianism')",ethics,utilitarianism,4,0
+"('intellectualism', 'philosophyofreligion')",intellectualism,philosophy of religion,4,0
+"('epistemology', 'moralepistemologyandmoralreasoning')",epistemology,moral epistemology and moral reasoning,2,-1
+"('civildisobedience', 'philosophyoflaw')",philosophy of law,civil disobedience,3,1
+"('deontology', 'ethics')",ethics,deontology,4,1
+"('happiness', 'wellbeing')",well-being,happiness,4,2
+"('feministperspectivesonsexmarkets', 'pornographyandcensorship')",feminist perspectives on sex markets,pornography and censorship,3,3
+"('meaning', 'philosophyoflanguage')",philosophy of language,meaning,2,0
+"('epistemology', 'questions')",epistemology,Questions,3,2
+"('philosophyofbiology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of biology,4,3
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of science,4,3
+"('philosophyofscienceandthesciences', 'probabilityandstatistics')",philosophy of science and the sciences,probability and statistics,4,3
+"('causation', 'causationinthelaw')",causation in the law,causation,4,0
+"('causationinthelaw', 'philosophyoflaw')",causation in the law,philosophy of law,4,0
+"('causationinthelaw', 'test')",causation in the law,test,0,-1
+"('causationinthelaw', 'counterfactuals')",causation in the law,counterfactuals,0,-1
+"('causationinthelaw', 'skepticism')",causation in the law,skepticism,3,3
+"('causationinthelaw', 'legalconcepts')",causation in the law,legal concepts,4,0
+"('causationinthelaw', 'metaphysicsofcausation')",causation in the law,metaphysics of causation,4,2
+"('causationinthelaw', 'concepts')",causation in the law,concepts,2,3
+"('causationinthelaw', 'facts')",causation in the law,facts,4,0
+"('causationinthelaw', 'retributivejustice')",causation in the law,Retributive Justice,3,0
+"('aprioriandaposteriori', 'ontology')",a priori and a posteriori,ontology,4,1

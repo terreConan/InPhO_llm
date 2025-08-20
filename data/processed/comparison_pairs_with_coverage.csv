@@ -1,0 +1,713 @@
+key,ideaA,ideaB,num_levels,levels,has_amateur,has_course_taker,has_phd_student,has_expert
+"('chinesephilosophy', 'taoism')",taoism,chinese philosophy,4,"amateur, course_taker, phd_student, expert",True,True,True,True
+"('meaning', 'philosophyoflanguage')",philosophy of language,meaning,4,"amateur, course_taker, phd_student, expert",True,True,True,True
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of science,3,"amateur, phd_student, expert",True,False,True,True
+"('epistemology', 'epistemologyofscience')",epistemology,epistemology of science,3,"course_taker, phd_student, expert",False,True,True,True
+"('metaphysics', 'substance')",metaphysics,substance,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofbiology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of biology,3,"amateur, phd_student, expert",True,False,True,True
+"('artificialintelligence', 'neuralnetwork')",artificial intelligence,neural network,3,"course_taker, phd_student, expert",False,True,True,True
+"('epistemology', 'moralepistemologyandmoralreasoning')",epistemology,moral epistemology and moral reasoning,3,"amateur, phd_student, expert",True,False,True,True
+"('revisiontheoryoftruth', 'truth')",revision theory of truth,truth,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofreligion', 'religion')",philosophy of religion,religion,3,"course_taker, phd_student, expert",False,True,True,True
+"('artificialintelligence', 'thinkingmachine')",thinking machine,artificial intelligence,3,"course_taker, phd_student, expert",False,True,True,True
+"('belief', 'philosophyofreligion')",philosophy of religion,belief,3,"course_taker, phd_student, expert",False,True,True,True
+"('chinesephilosophy', 'daoism')",chinese philosophy,daoism,3,"course_taker, phd_student, expert",False,True,True,True
+"('artificialintelligence', 'philosophyofcomputerscience')",artificial intelligence,philosophy of computer science,3,"course_taker, phd_student, expert",False,True,True,True
+"('cognitivescience', 'philosophyofscience')",cognitive science,philosophy of science,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofreligion', 'religiousdiversity')",philosophy of religion,religious diversity,3,"course_taker, phd_student, expert",False,True,True,True
+"('cognitivescience', 'mind')",cognitive science,mind,3,"course_taker, phd_student, expert",False,True,True,True
+"('japaneseconfucianphilosophy', 'japanesephilosophy')",japanese confucian philosophy,japanese philosophy,3,"amateur, phd_student, expert",True,False,True,True
+"('artificialintelligence', 'logicandartificialintelligence')",artificial intelligence,logic and artificial intelligence,3,"course_taker, phd_student, expert",False,True,True,True
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofmathematics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mathematics,3,"course_taker, phd_student, expert",False,True,True,True
+"('cognitivescience', 'connectionism')",connectionism,cognitive science,3,"course_taker, phd_student, expert",False,True,True,True
+"('feministphilosophyofreligion', 'philosophyofreligion')",philosophy of religion,feminist philosophy of religion,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofreligion', 'religionandscience')",philosophy of religion,religion and science,3,"course_taker, phd_student, expert",False,True,True,True
+"('chinesebuddhism', 'chinesephilosophy')",chinese buddhism,chinese philosophy,3,"amateur, phd_student, expert",True,False,True,True
+"('cognitivescience', 'philosophyofpsychology')",cognitive science,philosophy of psychology,3,"course_taker, phd_student, expert",False,True,True,True
+"('cognitivescience', 'representation')",cognitive science,representation,3,"course_taker, phd_student, expert",False,True,True,True
+"('philosophyofscienceandthesciences', 'probabilityandstatistics')",philosophy of science and the sciences,probability and statistics,3,"amateur, phd_student, expert",True,False,True,True
+"('artificialintelligence', 'logic')",artificial intelligence,logic,3,"course_taker, phd_student, expert",False,True,True,True
+"('bioethics', 'biomedicalethics')",biomedical ethics,bioethics,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'representation')",representation,mental content,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'folkpsychology')",folk psychology,cognitive science,2,"phd_student, expert",False,False,True,True
+"('aristotleonnoncontradiction', 'perception')",aristotle on non-contradiction,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'realism')",realism,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,epistemology,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'realismandantirealism')",realism and anti-realism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('einsteinsphilosophyofscience', 'philosophyofscienceandthesciences')",einstein's philosophy of science,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('medievaltheoriesofrelations', 'metaphysics')",medieval theories of relations,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'probability')",probability,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemologicalproblemsoftestimony', 'epistemology')",epistemological problems of testimony,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'reliabilism')",reliabilism,epistemology,2,"phd_student, expert",False,False,True,True
+"('connectionism', 'connectionistmodel')",connectionism,connectionist model,2,"course_taker, phd_student",False,True,True,False
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('autism', 'perception')",autism,perception,2,"phd_student, expert",False,False,True,True
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('knowledge', 'rationalismvsempiricism')",rationalism vs. empiricism,knowledge,2,"phd_student, expert",False,False,True,True
+"('higherordertheoriesofconsciousness', 'perception')",higher-order theories of consciousness,perception,2,"phd_student, expert",False,False,True,True
+"('artisticrepresentation', 'perception')",artistic representation,perception,2,"phd_student, expert",False,False,True,True
+"('chineseandwestern', 'chinesephilosophy')",chinese and western,chinese philosophy,2,"amateur, expert",True,False,False,True
+"('philosophyofcomputerscience', 'philosophyofmathematics')",philosophy of computer science,philosophy of mathematics,2,"course_taker, phd_student",False,True,True,False
+"('epistemologicalproblemsoftestimony', 'perception')",epistemological problems of testimony,perception,2,"phd_student, expert",False,False,True,True
+"('everettsrelativestateformulationofquantummechanics', 'philosophyofmind')",everett's relative-state formulation of quantum mechanics,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'unityofconsciousness')",unity of consciousness,consciousness,2,"phd_student, expert",False,False,True,True
+"('foreknowledgeandfreewill', 'freewill')",foreknowledge and free will,free will,2,"phd_student, expert",False,False,True,True
+"('aristotleslogic', 'metaphysics')",aristotle's logic,metaphysics,2,"phd_student, expert",False,False,True,True
+"('intentionality', 'perception')",intentionality,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyandchristiantheology', 'philosophyofreligion')",philosophy and christian theology,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('computationallinguistics', 'perception')",computational linguistics,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'naturaltheology')",natural theology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'outputunit')",output unit,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyoflanguage', 'sentence')",sentence,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('perception', 'selfknowledge')",self-knowledge,perception,2,"phd_student, expert",False,False,True,True
+"('continuant', 'metaphysics')",continuant,metaphysics,2,"phd_student, expert",False,False,True,True
+"('matter', 'philosophyofreligion')",matter,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofart')",philosophy of art,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofscience', 'philosophyofsocialscience')",philosophy of social science,philosophy of science,2,"phd_student, expert",False,False,True,True
+"('aesthetics', 'aestheticsandphilosophyofart')",aesthetics,aesthetics and philosophy of art,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'probabilityandstatistics')",probability and statistics,epistemology,2,"phd_student, expert",False,False,True,True
+"('essenceandexistence', 'existence')",essence and existence,existence,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'foundationalism')",foundationalism,epistemology,2,"phd_student, expert",False,False,True,True
+"('body', 'philosophyofmind')",body,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofcomputerscience', 'philosophyofscience')",philosophy of computer science,philosophy of science,2,"course_taker, phd_student",False,True,True,False
+"('causalprocesses', 'causation')",causal processes,causation,2,"phd_student, expert",False,False,True,True
+"('ethics', 'gametheoryinethics')",game theory in ethics,ethics,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,cognitive science,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'realism')",realism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('perception', 'sensedata')",sense-data,perception,2,"phd_student, expert",False,False,True,True
+"('continentalphilosophy', 'philosophyofhistory')",philosophy of history,continental philosophy,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'mentalimagery')",mental imagery,cognitive science,2,"phd_student, expert",False,False,True,True
+"('humeonreligion', 'philosophyofreligion')",hume on religion,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'justifiedtruebelief')",justified true belief,epistemology,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'cloning')",cloning,bioethics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'knowledge')",knowledge,epistemology,2,"phd_student, expert",False,False,True,True
+"('civildisobedience', 'philosophyoflaw')",philosophy of law,civil disobedience,2,"amateur, phd_student",True,False,True,False
+"('emergence', 'panpsychism')",panpsychism,emergence,2,"phd_student, expert",False,False,True,True
+"('kantsphilosophyofscience', 'metaphysics')",kant's philosophy of science,metaphysics,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'medievallogic')",medieval logic,history of logic,2,"amateur, phd_student",True,False,True,False
+"('idiolects', 'philosophyoflanguage')",idiolects,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('divineillumination', 'philosophyofmind')",divine illumination,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'consciousnessandintentionality')",consciousness and intentionality,consciousness,2,"phd_student, expert",False,False,True,True
+"('ethnocentrism', 'philosophyofreligion')",ethnocentrism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('foundationalism', 'skepticism')",foundationalism,skepticism,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'philosophyofmind')",folk psychology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('perception', 'qualia')",qualia,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'motionandtime')",motion and time,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'naturalphilosophy')",natural philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('pantheism', 'philosophyofreligion')",pantheism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'naturalizedepistemology')",naturalized epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('logos', 'perception')",logos,perception,2,"phd_student, expert",False,False,True,True
+"('analyticfeminism', 'metaphysics')",analytic feminism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'chinesewesterncomparativephilosophy')",chinese-western comparative philosophy,chinese philosophy,2,"phd_student, expert",False,False,True,True
+"('koreanphilosophy', 'perception')",korean philosophy,perception,2,"phd_student, expert",False,False,True,True
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('connectionism', 'trainingset')",connectionism,training set,2,"course_taker, phd_student",False,True,True,False
+"('evolution', 'unitsandlevelsofselection')",units and levels of selection,evolution,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'consciousnessandcontent')",consciousness and content,consciousness,2,"phd_student, expert",False,False,True,True
+"('perception', 'philosophyofphysics')",philosophy of physics,perception,2,"phd_student, expert",False,False,True,True
+"('dynamicalsystem', 'supertasks')",supertasks,dynamical system,2,"phd_student, expert",False,False,True,True
+"('modularity', 'philosophyofmind')",modularity,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('logic', 'philosophyofmathematics')",logic,philosophy of mathematics,2,"course_taker, phd_student",False,True,True,False
+"('defeasiblereasoning', 'epistemology')",defeasible reasoning,epistemology,2,"phd_student, expert",False,False,True,True
+"('descartesontologicalargument', 'perception')",descartes' ontological argument,perception,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'feministbioethics')",feminist bioethics,bioethics,2,"phd_student, expert",False,False,True,True
+"('justifiedtruebelief', 'perception')",justified true belief,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'polytheism')",polytheism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'philosophyofpsychology')",philosophy of psychology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,metaphysics,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'phenomenalconsciousness')",phenomenal consciousness,consciousness,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'logicandcomputation')",logic and computation,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('analysis', 'philosophyofmathematics')",analysis,philosophy of mathematics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'principleofsufficientreason')",principle of sufficient reason,metaphysics,2,"phd_student, expert",False,False,True,True
+"('perception', 'unityofconsciousness')",unity of consciousness,perception,2,"phd_student, expert",False,False,True,True
+"('meaning', 'metaphysics')",meaning,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophiesoftheparticularsciences', 'philosophyofscienceandthesciences')",philosophies of the particular sciences,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'mind')",mind,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'propernames')",proper names,epistemology,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'simultaneity')",simultaneity,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofmathematics', 'settheory')",philosophy of mathematics,set theory,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'medievaltheoriesofthesyllogism')",medieval theories of the syllogism,history of logic,2,"amateur, phd_student",True,False,True,False
+"('metaphysicsofmind', 'panpsychism')",panpsychism,metaphysics of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'symbolicprocessing')",symbolic processing,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('modernphilosophy', 'philosophyofmind')",modern philosophy,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('chineseroomargument', 'cognitivescience')",chinese room argument,cognitive science,2,"phd_student, expert",False,False,True,True
+"('arabicphilosophyandislamicphilosophy', 'metaphysics')",arabic philosophy and islamic philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,consciousness,2,"phd_student, expert",False,False,True,True
+"('afterlife', 'meaningoflife')",meaning of life,afterlife,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'syntacticanalysis')",syntactic analysis,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'universals')",universals,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'matter')",matter,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'religiousexperience')",philosophy of religion,religious experience,2,"course_taker, expert",False,True,False,True
+"('interpretation', 'judaicphilosophy')",judaic philosophy,interpretation,2,"course_taker, expert",False,True,False,True
+"('epistemology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,epistemology,2,"phd_student, expert",False,False,True,True
+"('causeandeffect', 'perception')",cause and effect,perception,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'westernphilosophy')",western philosophy,chinese philosophy,2,"phd_student, expert",False,False,True,True
+"('naturallaw', 'philosophyoflaw')",natural law,philosophy of law,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'zenbuddhism')",zen buddhism,chinese philosophy,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'metaphysicsofscience')",metaphysics of science,metaphysics,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'philosophyofscienceandthesciences')",cognitive science,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'modernphilosophy')",modern philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'personalidentityandethics')",personal identity and ethics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('perception', 'unitarianism')",unitarianism,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'feministepistemologyandphilosophyofscience')",feminist epistemology and philosophy of science,epistemology,2,"phd_student, expert",False,False,True,True
+"('18thcenturygermanaesthetics', 'metaphysics')",18th century german aesthetics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('activationvalue', 'folkpsychology')",activation value,folk psychology,2,"phd_student, expert",False,False,True,True
+"('hilbertsprogram', 'philosophyofmathematics')",hilbert's program,philosophy of mathematics,2,"course_taker, phd_student",False,True,True,False
+"('eliminativematerialism', 'philosophyofmind')",eliminative materialism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'intuitionisticlogic')",intuitionistic logic,history of logic,2,"amateur, phd_student",True,False,True,False
+"('blindsight', 'perception')",blindsight,perception,2,"phd_student, expert",False,False,True,True
+"('scientificmethodology', 'unityofscience')",unity of science,scientific methodology,2,"amateur, phd_student",True,False,True,False
+"('cognitivescience', 'neuralnetwork')",neural network,cognitive science,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'time')",time,metaphysics,2,"phd_student, expert",False,False,True,True
+"('functionalism', 'philosophyofmind')",functionalism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('foundationalism', 'foundationalisttheoriesofepistemicjustification')",foundationalist theories of epistemic justification,foundationalism,2,"phd_student, expert",False,False,True,True
+"('intuitionisticlogic', 'logic')",logic,intuitionistic logic,2,"course_taker, phd_student",False,True,True,False
+"('connectionism', 'neuralnetwork')",connectionism,neural network,2,"course_taker, phd_student",False,True,True,False
+"('causaltheoriesofmentalcontent', 'perception')",causal theories of mental content,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'mindbodyproblem')",mind-body problem,metaphysics,2,"phd_student, expert",False,False,True,True
+"('greatapes', 'philosophyofmind')",great apes,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'problemofevil')",problem of evil,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'gettierproblem')",gettier problem,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'internalism')",internalism,epistemology,2,"phd_student, expert",False,False,True,True
+"('eternityinchristianthought', 'philosophyofreligion')",Eternity in Christian Thought,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('miracles', 'philosophyofreligion')",miracles,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('existence', 'metaphysics')",existence,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'sovereignty')",sovereignty,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyofpsychology', 'philosophyofscienceandthesciences')",philosophy of psychology,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'naturalisminlegalphilosophy')",naturalism in legal philosophy,epistemology,2,"phd_student, expert",False,False,True,True
+"('perception', 'philosophyofperception')",philosophy of perception,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'platonicrealism')",platonic realism,epistemology,2,"phd_student, expert",False,False,True,True
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('civilrights', 'racism')",racism,civil rights,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'feministsocialepistemology')",feminist social epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('leibnizoncausation', 'perception')",leibniz on causation,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofscienceandthesciences', 'scientificprogress')",scientific progress,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'sensedata')",sense data,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'testimony')",testimony,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'scientifictheory')",scientific theory,epistemology,2,"phd_student, expert",False,False,True,True
+"('medievaltheoriesofcausality', 'metaphysics')",medieval theories of causality,metaphysics,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'connectionistmodel')",connectionist model,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('classicallogic', 'logic')",logic,classical logic,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'modernphilosophy')",modern philosophy,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'scienceandreligion')",science and religion,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'spinozaspsychologicaltheory')",spinoza's psychological theory,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('intellectualism', 'philosophyofreligion')",intellectualism,philosophy of religion,2,"amateur, phd_student",True,False,True,False
+"('existence', 'existenceofgod')",existence of god,existence,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('introspection', 'philosophyofmind')",introspection,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('physicalism', 'zombies')",zombies,physicalism,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'theoryoftruth')",theory of truth,metaphysics,2,"phd_student, expert",False,False,True,True
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'theoryofforms')",theory of forms,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'historyoffeminism')",history of feminism,epistemology,2,"phd_student, expert",False,False,True,True
+"('causation', 'metaphysicsofcausation')",metaphysics of causation,causation,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'perception')",folk psychology,perception,2,"phd_student, expert",False,False,True,True
+"('computerethics', 'ethics')",computer ethics,ethics,2,"phd_student, expert",False,False,True,True
+"('essentialversusaccidentalproperties', 'propertyandownership')",essential versus accidental properties,property and ownership,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'publicreason')",public reason,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('agnosticism', 'philosophyofreligion')",agnosticism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'confucianism')",chinese philosophy,confucianism,2,"course_taker, expert",False,True,False,True
+"('symmetryandinvariance', 'symmetryandsymmetrybreaking')",symmetry and symmetry breaking,symmetry and invariance,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'socialandpoliticalphilosophy')",social and political philosophy,epistemology,2,"phd_student, expert",False,False,True,True
+"('ideas', 'metaphysics')",ideas,metaphysics,2,"phd_student, expert",False,False,True,True
+"('matter', 'perception')",matter,perception,2,"phd_student, expert",False,False,True,True
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofmathematics')",philosophy of mathematics,epistemology,2,"phd_student, expert",False,False,True,True
+"('churchturingthesis', 'turingmachine')",church-turing thesis,turing machine,2,"phd_student, expert",False,False,True,True
+"('cognitivevalueofart', 'perception')",cognitive value of art,perception,2,"phd_student, expert",False,False,True,True
+"('kantscritiqueofmetaphysics', 'metaphysics')",kant's critique of metaphysics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('koreanphilosophy', 'philosophyofmind')",korean philosophy,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'churchturingthesis')",church-turing thesis,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('nonconceptualmentalcontent', 'perception')",nonconceptual mental content,perception,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'eliminativematerialism')",eliminative materialism,cognitive science,2,"phd_student, expert",False,False,True,True
+"('epistemologyofscience', 'metaphysics')",epistemology of science,metaphysics,2,"phd_student, expert",False,False,True,True
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('bellstheorem', 'quantummechanics')",bell's theorem,quantum mechanics,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'akanphilosophyoftheperson')",akan philosophy of the person,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'theoryofforms')",theory of forms,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofscienceandthesciences', 'socialdimensionsofscientificknowledge')",social dimensions of scientific knowledge,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'chineseroomargument')",chinese room argument,chinese philosophy,2,"phd_student, expert",False,False,True,True
+"('inherence', 'metaphysics')",inherence,metaphysics,2,"phd_student, expert",False,False,True,True
+"('cosmologicalargumentsfortheexistenceofgod', 'philosophyofreligion')",cosmological arguments for the existence of god,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('logic', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,logic,2,"phd_student, expert",False,False,True,True
+"('analyticfeminism', 'epistemology')",analytic feminism,epistemology,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'perception')",cognitive science,perception,2,"phd_student, expert",False,False,True,True
+"('confirmationandinduction', 'metaphysics')",confirmation and induction,metaphysics,2,"phd_student, expert",False,False,True,True
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofphysics', 'quantummechanics')",quantum mechanics,philosophy of physics,2,"phd_student, expert",False,False,True,True
+"('relativism', 'truth')",relativism,truth,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'theism')",theism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('fregestheoremandfoundationsforarithmetic', 'philosophyoflaw')",frege's theorem and foundations for arithmetic,philosophy of law,2,"course_taker, phd_student",False,True,True,False
+"('futurecontingents', 'historyoflogic')",future contingents,history of logic,2,"amateur, phd_student",True,False,True,False
+"('nonconceptualcontent', 'perception')",non-conceptual content,perception,2,"phd_student, expert",False,False,True,True
+"('foundationalisttheoriesofepistemicjustification', 'justification')",foundationalist theories of epistemic justification,justification,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'selfconsciousness')",self-consciousness,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'philosophyofmind')",artificial intelligence,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('animalconsciousness', 'consciousness')",animal consciousness,consciousness,2,"phd_student, expert",False,False,True,True
+"('17thand18thcenturytheoriesofemotions', 'perception')",17th and 18th century theories of emotions,perception,2,"phd_student, expert",False,False,True,True
+"('combininglogics', 'logic')",logic,combining logics,2,"course_taker, phd_student",False,True,True,False
+"('consciousnessandscience', 'perception')",consciousness and science,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'otherminds')",other minds,epistemology,2,"phd_student, expert",False,False,True,True
+"('mindbodyproblem', 'philosophyofmind')",mind-body problem,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('existence', 'possibleworlds')",possible worlds,existence,2,"phd_student, expert",False,False,True,True
+"('afterlife', 'incompatibilism')",incompatibilism,afterlife,2,"phd_student, expert",False,False,True,True
+"('mathematicallogic', 'metaphysics')",mathematical logic,metaphysics,2,"phd_student, expert",False,False,True,True
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'teleologicalargumentsforgodsexistence')",teleological arguments for god's existence,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('christiantheology', 'philosophyofreligion')",christian theology,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('historicisttheoriesofrationality', 'philosophyofscienceandthesciences')",historicist theories of rationality,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('explanation', 'philosophyofscienceandthesciences')",explanation,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('modernphilosophy', 'perception')",modern philosophy,perception,2,"phd_student, expert",False,False,True,True
+"('culture', 'philosophyofreligion')",culture,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'mentalrepresentation')",mental representation,mental content,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'connectionistmodel')",connectionist model,cognitive science,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofmind')",philosophy of mind,epistemology,2,"phd_student, expert",False,False,True,True
+"('conservationbiology', 'philosophyofscienceandthesciences')",conservation biology,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('coherentisttheoriesofjustification', 'epistemology')",coherentist theories of justification,epistemology,2,"phd_student, expert",False,False,True,True
+"('eliminativematerialism', 'philosophyofscienceandthesciences')",eliminative materialism,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'inputunit')",input unit,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('lebensphilosophie', 'philosophyofreligion')",lebensphilosophie,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('perception', 'platoonknowledgeinthetheaetetus')",plato on knowledge in the theaetetus,perception,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'nativism')",nativism,cognitive science,2,"phd_student, expert",False,False,True,True
+"('conceptsofgod', 'philosophyofreligion')",concepts of god,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('churchturingthesis', 'philosophyofcomputerscience')",philosophy of computer science,church-turing thesis,2,"course_taker, phd_student",False,True,True,False
+"('hylomorphism', 'metaphysics')",hylomorphism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'symbolicprocessing')",symbolic processing,cognitive science,2,"phd_student, expert",False,False,True,True
+"('pacifism', 'philosophyofreligion')",pacifism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'lawsofnature')",laws of nature,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'probabilityandstatistics')",probability and statistics,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofperception')",philosophy of perception,metaphysics,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'modularity')",modularity,cognitive science,2,"phd_student, expert",False,False,True,True
+"('matter', 'metaphysics')",matter,metaphysics,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'cognitivescience')",artificial intelligence,cognitive science,2,"course_taker, expert",False,True,False,True
+"('cartesiandualism', 'dualism')",cartesian dualism,dualism,2,"phd_student, expert",False,False,True,True
+"('definitionofmorality', 'philosophyofreligion')",definition of morality,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('aesthetics', 'environmentalaesthetics')",environmental aesthetics,aesthetics,2,"phd_student, expert",False,False,True,True
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('descartesmodalmetaphysics', 'metaphysics')",descartes' modal metaphysics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('logic', 'philosophyoflanguage')",logic,philosophy of language,2,"course_taker, phd_student",False,True,True,False
+"('atomism', 'philosophyofchemistry')",atomism,philosophy of chemistry,2,"phd_student, expert",False,False,True,True
+"('philosophyofbiology', 'philosophyofscience')",philosophy of biology,philosophy of science,2,"phd_student, expert",False,False,True,True
+"('molecularbiology', 'philosophyofscienceandthesciences')",molecular biology,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'induction')",induction,epistemology,2,"phd_student, expert",False,False,True,True
+"('causeandeffect', 'metaphysics')",cause and effect,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'metaphysicsofmind')",metaphysics,metaphysics of mind,2,"phd_student, expert",False,False,True,True
+"('contextualism', 'epistemology')",contextualism,epistemology,2,"phd_student, expert",False,False,True,True
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'propernames')",proper names,metaphysics,2,"phd_student, expert",False,False,True,True
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'religionandpolitics')",religion and politics,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('18thcenturygermanaesthetics', 'perception')",18th century german aesthetics,perception,2,"phd_student, expert",False,False,True,True
+"('knowledge', 'platoonknowledgeinthetheaetetus')",plato on knowledge in the theaetetus,knowledge,2,"phd_student, expert",False,False,True,True
+"('appliedethics', 'bioethics')",bioethics,applied ethics,2,"phd_student, expert",False,False,True,True
+"('gettierproblem', 'perception')",gettier problem,perception,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'mohism')",mohism,chinese philosophy,2,"amateur, phd_student",True,False,True,False
+"('artificialintelligence', 'computationandrepresentation')",computation and representation,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('epistemologicalproblemsofmemory', 'epistemology')",epistemological problems of memory,epistemology,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('confirmationandinduction', 'epistemology')",confirmation and induction,epistemology,2,"phd_student, expert",False,False,True,True
+"('islamicphilosophy', 'philosophyofreligion')",islamic philosophy,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('boltzmannsworkinstatisticalphysics', 'philosophyofscienceandthesciences')",boltzmann's work in statistical physics,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('formsofgovernment', 'philosophyofreligion')",forms of government,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('logicalform', 'philosophyoflanguage')",philosophy of language,logical form,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'religiouslanguage')",religious language,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('perception', 'philosophyofmind')",perception,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'propositionalattitude')",propositional attitude,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('neuralcorrelates', 'perception')",neural correlates,perception,2,"phd_student, expert",False,False,True,True
+"('descartesandthepinealgland', 'perception')",descartes and the pineal gland,perception,2,"phd_student, expert",False,False,True,True
+"('literature', 'philosophyofscienceandthesciences')",literature,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('perception', 'surrealism')",surrealism,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'toleration')",toleration,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofmind')",philosophy of mind,metaphysics,2,"phd_student, expert",False,False,True,True
+"('aspectsofconsciousness', 'functionofconsciousness')",function of consciousness,aspects of consciousness,2,"phd_student, expert",False,False,True,True
+"('earlyphilosophicalinterpretationsofgeneralrelativity', 'epistemology')",early philosophical interpretations of general relativity,epistemology,2,"phd_student, expert",False,False,True,True
+"('medievaltheoriesofanalogy', 'metaphysics')",medieval theories of analogy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'platoonutopia')",plato on utopia,metaphysics,2,"phd_student, expert",False,False,True,True
+"('continentalphilosophy', 'pragmatism')",continental philosophy,pragmatism,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'symbolicprocessing')",symbolic processing,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('aristotlesnaturalphilosophy', 'metaphysics')",aristotle's natural philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('consciousnessandintentionality', 'perception')",consciousness and intentionality,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofpsychology')",philosophy of psychology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofperception')",philosophy of perception,epistemology,2,"phd_student, expert",False,False,True,True
+"('hinduism', 'philosophyofreligion')",hinduism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'psychiatry')",cognitive science,psychiatry,2,"course_taker, expert",False,True,False,True
+"('causaltheoriesofmentalcontent', 'cognitivescience')",causal theories of mental content,cognitive science,2,"phd_student, expert",False,False,True,True
+"('philosophyofbiology', 'philosophyofchemistry')",philosophy of chemistry,philosophy of biology,2,"phd_student, expert",False,False,True,True
+"('perception', 'propositionalattitude')",propositional attitude,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'politicalauthority')",political authority,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('influenceofislamicthoughtonmaimonides', 'philosophyofreligion')",influence of islamic thought on maimonides,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('kantsviewofthemindandconsciousnessofself', 'perception')",kant's view of the mind and consciousness of self,perception,2,"phd_student, expert",False,False,True,True
+"('coherentism', 'epistemology')",coherentism,epistemology,2,"phd_student, expert",False,False,True,True
+"('internalistvsexternalistconceptionsofepistemicjustification', 'justification')",internalist vs. externalist conceptions of epistemic justification,justification,2,"phd_student, expert",False,False,True,True
+"('externalismaboutmentalcontent', 'internalismandexternalism')",externalism about mental content,internalism and externalism,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'secularism')",secularism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'philosophyofmind')",mental content,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('animalcognition', 'philosophyofmind')",animal cognition,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysicsofmind', 'philosophyofmind')",metaphysics of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'nonconceptualcontent')",non-conceptual content,mental content,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'folkpsychologyasmentalsimulation')",folk psychology as mental simulation,folk psychology,2,"phd_student, expert",False,False,True,True
+"('18thcenturybritishaesthetics', 'perception')",18th century british aesthetics,perception,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'businessethics')",business ethics,bioethics,2,"phd_student, expert",False,False,True,True
+"('18thcenturygermanaesthetics', 'aestheticsandphilosophyofart')",aesthetics and philosophy of art,18th century german aesthetics,2,"course_taker, phd_student",False,True,True,False
+"('ideas', 'philosophyofmind')",ideas,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('methodologicaldebatesincosmologythe1930sand1940s', 'philosophyofscienceandthesciences')",methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('compositionalityandlogicalform', 'metaphysics')",compositionality and logical form,metaphysics,2,"phd_student, expert",False,False,True,True
+"('leibnizsinfluenceonkant', 'perception')",leibniz's influence on kant,perception,2,"phd_student, expert",False,False,True,True
+"('chinesephilosophy', 'mohistcanons')",mohist canons,chinese philosophy,2,"amateur, phd_student",True,False,True,False
+"('deweysaesthetics', 'perception')",dewey's aesthetics,perception,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'perception')",consciousness,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofpsychology')",philosophy of psychology,epistemology,2,"phd_student, expert",False,False,True,True
+"('logos', 'metaphysics')",logos,metaphysics,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'turingmachine')",turing machine,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('interpretation', 'philosophyoflanguage')",philosophy of language,interpretation,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'dynamicalsystem')",dynamical system,cognitive science,2,"phd_student, expert",False,False,True,True
+"('churchandstate', 'philosophyofreligion')",church and state,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('bohmianmechanics', 'quantummechanics')",bohmian mechanics,quantum mechanics,2,"phd_student, expert",False,False,True,True
+"('philosophyofart', 'philosophyofmind')",philosophy of art,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('africansagephilosophy', 'afterlife')",african sage philosophy,afterlife,2,"phd_student, expert",False,False,True,True
+"('ethicsandart', 'philosophyofart')",philosophy of art,ethics and art,2,"phd_student, expert",False,False,True,True
+"('modernphilosophy', 'philosophyofreligion')",modern philosophy,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('imagery', 'philosophyofmind')",imagery,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'zenbuddhism')",zen buddhism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('kantsphilosophyofreligion', 'philosophyofreligion')",kant's philosophy of religion,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'networkmodel')",network model,cognitive science,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'squareofopposition')",square of opposition,history of logic,2,"amateur, phd_student",True,False,True,False
+"('epistemology', 'falsificationism')",falsificationism,epistemology,2,"phd_student, expert",False,False,True,True
+"('dynamism', 'japanesephilosophy')",dynamism,japanese philosophy,2,"amateur, expert",True,False,False,True
+"('cosmology', 'metaphysics')",cosmology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('autism', 'folkpsychology')",autism,folk psychology,2,"phd_student, expert",False,False,True,True
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('nonhumananimals', 'philosophyofmind')",nonhuman animals,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('languagelearning', 'philosophyoflanguage')",philosophy of language,language learning,2,"phd_student, expert",False,False,True,True
+"('pakistaniphilosophy', 'perception')",pakistani philosophy,perception,2,"phd_student, expert",False,False,True,True
+"('dualism', 'propertydualism')",property dualism,dualism,2,"phd_student, expert",False,False,True,True
+"('analysisofknowledge', 'knowledge')",analysis of knowledge,knowledge,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('causaldeterminism', 'freewill')",causal determinism,free will,2,"phd_student, expert",False,False,True,True
+"('leibnizsinfluenceonkant', 'metaphysics')",leibniz's influence on kant,metaphysics,2,"phd_student, expert",False,False,True,True
+"('conservationbiology', 'philosophyofbiology')",conservation biology,philosophy of biology,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'platonism')",platonism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'metaphysicsofscience')",metaphysics of science,epistemology,2,"phd_student, expert",False,False,True,True
+"('afterlife', 'philosophyofreligion')",afterlife,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('perception', 'reliabilism')",reliabilism,perception,2,"phd_student, expert",False,False,True,True
+"('evolutionarypsychology', 'philosophyofmind')",evolutionary psychology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('interactionism', 'philosophyofmind')",interactionism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'computationandrepresentation')",computation and representation,cognitive science,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'hypotheticalsyllogism')",hypothetical syllogism,history of logic,2,"amateur, phd_student",True,False,True,False
+"('currentphilosophy', 'perception')",current philosophy,perception,2,"phd_student, expert",False,False,True,True
+"('hobbessmoralandpoliticalphilosophy', 'socialandpoliticalphilosophy')",hobbes's moral and political philosophy,social and political philosophy,2,"phd_student, expert",False,False,True,True
+"('magnetism', 'perception')",magnetism,perception,2,"phd_student, expert",False,False,True,True
+"('mentalcausation', 'philosophyofmind')",mental causation,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'ethnophilosophy')",ethnophilosophy,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'generalrelativity')",general relativity,epistemology,2,"phd_student, expert",False,False,True,True
+"('induction', 'philosophyofmind')",induction,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemologyofreligion', 'philosophyofreligion')",epistemology of religion,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('mentalimagery', 'philosophyofmind')",mental imagery,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('baptism', 'epistemology')",baptism,epistemology,2,"phd_student, expert",False,False,True,True
+"('causation', 'probabilisticcausation')",probabilistic causation,causation,2,"phd_student, expert",False,False,True,True
+"('measurementinquantumtheory', 'perception')",measurement in quantum theory,perception,2,"phd_student, expert",False,False,True,True
+"('interpretation', 'metaphysics')",interpretation,metaphysics,2,"phd_student, expert",False,False,True,True
+"('perception', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofchemistry', 'philosophyofscienceandthesciences')",philosophy of chemistry,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('goodness', 'metaphysics')",goodness,metaphysics,2,"phd_student, expert",False,False,True,True
+"('concepts', 'mentalcontent')",concepts,mental content,2,"phd_student, expert",False,False,True,True
+"('languageandsociety', 'philosophyoflanguage')",philosophy of language,language and society,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofsocialscience')",philosophy of social science,epistemology,2,"phd_student, expert",False,False,True,True
+"('perception', 'representationalism')",representationalism,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'secularhumanism')",secular humanism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'philosophyofnature')",philosophy of nature,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofchemistry')",philosophy of chemistry,metaphysics,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'africanphilosophy')",african philosophy,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('japaneseaesthetics', 'japanesephilosophy')",japanese aesthetics,japanese philosophy,2,"amateur, phd_student",True,False,True,False
+"('ancientlogic', 'historyoflogic')",ancient logic,history of logic,2,"amateur, phd_student",True,False,True,False
+"('philosophyofreligion', 'pietism')",pietism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('ontologicalargument', 'philosophyofreligion')",ontological argument,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('eliminativematerialism', 'folkpsychology')",eliminative materialism,folk psychology,2,"phd_student, expert",False,False,True,True
+"('externalism', 'perception')",externalism,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'experimentinphysics')",experiment in physics,epistemology,2,"phd_student, expert",False,False,True,True
+"('existenceofgod', 'metaphysics')",existence of god,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofcomputerscience', 'philosophyofscienceandthesciences')",philosophy of computer science,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('ethics', 'utilitarianism')",ethics,utilitarianism,2,"amateur, phd_student",True,False,True,False
+"('scientificmethodology', 'scientificrealism')",scientific realism,scientific methodology,2,"amateur, phd_student",True,False,True,False
+"('metaphysics', 'philosophyofscience')",philosophy of science,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'introspection')",introspection,epistemology,2,"phd_student, expert",False,False,True,True
+"('logicandlanguage', 'philosophyofcomputerscience')",philosophy of computer science,logic and language,2,"course_taker, phd_student",False,True,True,False
+"('medievaltheoriesofthecategories', 'metaphysics')",medieval theories of the categories,metaphysics,2,"phd_student, expert",False,False,True,True
+"('lockespoliticalphilosophy', 'philosophyofreligion')",locke's political philosophy,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,consciousness,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofphysics')",philosophy of physics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('identitytheoryofmind', 'perception')",identity theory of mind,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'vitalism')",vitalism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'realism')",realism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('imagery', 'perception')",imagery,perception,2,"phd_student, expert",False,False,True,True
+"('aspectsofconsciousness', 'selfconsciousness')",self-consciousness,aspects of consciousness,2,"phd_student, expert",False,False,True,True
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('languageofthoughthypothesis', 'philosophyoflanguage')",language of thought hypothesis,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('probabilityandstatistics', 'scientificmethodology')",probability and statistics,scientific methodology,2,"amateur, phd_student",True,False,True,False
+"('externalismaboutmentalcontent', 'mentalcontent')",externalism about mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('descartesepistemology', 'perception')",descartes' epistemology,perception,2,"phd_student, expert",False,False,True,True
+"('mereology', 'metaphysics')",mereology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'turingtest')",turing test,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'universals')",universals,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('consciousnessandcontent', 'philosophyofmind')",consciousness and content,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmathematics', 'zenosparadoxes')",zeno's paradoxes,philosophy of mathematics,2,"course_taker, phd_student",False,True,True,False
+"('chineseethics', 'chinesephilosophy')",chinese ethics,chinese philosophy,2,"amateur, phd_student",True,False,True,False
+"('matter', 'philosophyofmind')",matter,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemologicalproblemsofperception', 'epistemology')",epistemological problems of perception,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'knowledgebyacquaintanceandknowledgebydescription')",knowledge by acquaintance and knowledge by description,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofscienceandthesciences', 'unityofscience')",unity of science,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('eternityoftheworld', 'metaphysics')",eternity of the world,metaphysics,2,"phd_student, expert",False,False,True,True
+"('consciousnessandmentalcontent', 'mentalcontent')",consciousness and mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'taoism')",taoism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'personalidentityandethics')",personal identity and ethics,bioethics,2,"phd_student, expert",False,False,True,True
+"('ancienttheoriesofsoul', 'philosophyofmind')",ancient theories of soul,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('atheism', 'philosophyofreligion')",atheism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('cartesiandualism', 'perception')",cartesian dualism,perception,2,"phd_student, expert",False,False,True,True
+"('aristotelianism', 'metaphysics')",aristotelianism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('ethics', 'religionandmorality')",religion and morality,ethics,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'satanism')",satanism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('perception', 'teleosemantics')",teleosemantics,perception,2,"phd_student, expert",False,False,True,True
+"('internalismandexternalism', 'perception')",internalism and externalism,perception,2,"phd_student, expert",False,False,True,True
+"('hilbertsprogram', 'philosophyofscienceandthesciences')",hilbert's program,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'pragmaticargumentsandbeliefingod')",pragmatic arguments and belief in god,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('continentalfeminism', 'continentalphilosophy')",continental feminism,continental philosophy,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'logos')",logos,epistemology,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'computation')",artificial intelligence,computation,2,"course_taker, expert",False,True,False,True
+"('classicalphysics', 'philosophyofscienceandthesciences')",classical physics,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('feministmetaphysics', 'metaphysics')",feminist metaphysics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('japanesephilosophy', 'zenbuddhism')",zen buddhism,japanese philosophy,2,"phd_student, expert",False,False,True,True
+"('socialandpoliticalphilosophy', 'socialphilosophy')",social philosophy,social and political philosophy,2,"phd_student, expert",False,False,True,True
+"('philosophyoflanguage', 'privatelanguageargument')",private language argument,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('implicature', 'pragmatics')",implicature,pragmatics,2,"phd_student, expert",False,False,True,True
+"('axiomatictheoriesoftruth', 'philosophyoflanguage')",axiomatic theories of truth,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('naturallawtradition', 'philosophyofreligion')",natural law tradition,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('bayesstheorem', 'philosophyofscienceandthesciences')",bayes's theorem,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('biologicalaltruism', 'philosophyofbiology')",biological altruism,philosophy of biology,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'temporallogic')",temporal logic,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('metaphysicsandlanguage', 'philosophyoflanguage')",metaphysics and language,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('ethics', 'medievaltheoriesofpracticalreason')",medieval theories of practical reason,ethics,2,"phd_student, expert",False,False,True,True
+"('indispensabilityargumentsinthephilosophyofmathematics', 'philosophyofscienceandthesciences')",indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'metaphysicsofcausation')",metaphysics of causation,metaphysics,2,"phd_student, expert",False,False,True,True
+"('activationvalue', 'artificialintelligence')",activation value,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('developmentalbiology', 'trait')",trait,developmental biology,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'doctrineofdoubleeffect')",doctrine of double effect,bioethics,2,"phd_student, expert",False,False,True,True
+"('philosophyofchemistry', 'philosophyofphysics')",philosophy of chemistry,philosophy of physics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('statisticalmechanicsandthermodynamics', 'thermodynamicasymmetryintime')",thermodynamic asymmetry in time,statistical mechanics and thermodynamics,2,"phd_student, expert",False,False,True,True
+"('interpretation', 'quantummechanics')",interpretation,quantum mechanics,2,"phd_student, expert",False,False,True,True
+"('approachestofeministphilosophy', 'continentalphilosophy')",approaches to feminist philosophy,continental philosophy,2,"phd_student, expert",False,False,True,True
+"('life', 'philosophyofreligion')",life,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('contentsofperception', 'mentalcontent')",contents of perception,mental content,2,"phd_student, expert",False,False,True,True
+"('mentalrepresentation', 'perception')",mental representation,perception,2,"phd_student, expert",False,False,True,True
+"('goodnessandvaluetheory', 'metaphysics')",goodness and value theory,metaphysics,2,"phd_student, expert",False,False,True,True
+"('intentionality', 'philosophyofmind')",intentionality,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('hardproblem', 'perception')",hard problem,perception,2,"phd_student, expert",False,False,True,True
+"('concepts', 'perception')",concepts,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'philosophyofscienceandthesciences')",folk psychology,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('computationandrepresentation', 'philosophyofmind')",computation and representation,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('mentalrepresentation', 'philosophyofmind')",mental representation,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'processphilosophy')",process philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofmathematics')",philosophy of mathematics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'epistemologyofreligion')",epistemology of religion,epistemology,2,"phd_student, expert",False,False,True,True
+"('ancientphilosophyaristotle', 'metaphysics')",ancient philosophy (aristotle),metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofchemistry', 'philosophyofmind')",philosophy of chemistry,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('japanesephilosophy', 'japanesezenbuddhistphilosophy')",japanese zen buddhist philosophy,japanese philosophy,2,"amateur, phd_student",True,False,True,False
+"('perception', 'philosophyofpsychology')",philosophy of psychology,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'feministphilosophy')",feminist philosophy,epistemology,2,"phd_student, expert",False,False,True,True
+"('aristotleoncausality', 'metaphysics')",aristotle on causality,metaphysics,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'inductivelogic')",inductive logic,history of logic,2,"amateur, phd_student",True,False,True,False
+"('philosophyofmind', 'psychiatry')",psychiatry,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemologicalproblemsofmemory', 'philosophyofmind')",epistemological problems of memory,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('medievalpoliticalphilosophy', 'philosophyofreligion')",medieval political philosophy,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('lawandlanguage', 'philosophyoflanguage')",law and language,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('perception', 'problemofperception')",problem of perception,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofbiology', 'philosophyofmind')",philosophy of biology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'socialandpoliticalphilosophy')",social and political philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('continentalphilosophy', 'intersectionsbetweenpragmatistandcontinentalfeminism')",intersections between pragmatist and continental feminism,continental philosophy,2,"phd_student, expert",False,False,True,True
+"('ethics', 'virtuesandvices')",ethics,virtues and vices,2,"course_taker, phd_student",False,True,True,False
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('eternityinchristianthought', 'metaphysics')",Eternity in Christian Thought,metaphysics,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'logicandgames')",logic and games,history of logic,2,"amateur, phd_student",True,False,True,False
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('falsificationism', 'scientificmethodology')",falsificationism,scientific methodology,2,"amateur, phd_student",True,False,True,False
+"('perception', 'psychologicalrelation')",psychological relation,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofscienceandthesciences', 'probability')",probability,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('ethics', 'socialcontract')",social contract,ethics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofbiology')",philosophy of biology,epistemology,2,"phd_student, expert",False,False,True,True
+"('identityofindiscernibles', 'metaphysics')",identity of indiscernibles,metaphysics,2,"phd_student, expert",False,False,True,True
+"('backwardcausation', 'causation')",backward causation,causation,2,"phd_student, expert",False,False,True,True
+"('aestheticsandphilosophyofart', 'philosophyofcomposition')",aesthetics and philosophy of art,philosophy of composition,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'scientificmethodology')",scientific methodology,epistemology,2,"phd_student, expert",False,False,True,True
+"('animalcognition', 'cognitivescience')",animal cognition,cognitive science,2,"phd_student, expert",False,False,True,True
+"('argumentsfortheexistenceofgod', 'philosophyofreligion')",arguments for the existence of god,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('identityandindividualityinquantumtheory', 'metaphysics')",identity and individuality in quantum theory,metaphysics,2,"phd_student, expert",False,False,True,True
+"('mentalstate', 'philosophyofmind')",mental state,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmathematics', 'philosophyofscience')",philosophy of mathematics,philosophy of science,2,"phd_student, expert",False,False,True,True
+"('monotheism', 'philosophyofreligion')",monotheism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('logicandlanguage', 'philosophyofmind')",logic and language,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('neutralmonism', 'philosophyofmind')",neutral monism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,consciousness,2,"phd_student, expert",False,False,True,True
+"('omniscience', 'philosophyofreligion')",omniscience,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemeandtechne', 'metaphysics')",episteme and techne,metaphysics,2,"phd_student, expert",False,False,True,True
+"('aristotleandmathematics', 'philosophyofmathematics')",aristotle and mathematics,philosophy of mathematics,2,"course_taker, phd_student",False,True,True,False
+"('logic', 'philosophyofcomputerscience')",philosophy of computer science,logic,2,"course_taker, phd_student",False,True,True,False
+"('thinkingmachine', 'turingtest')",thinking machine,turing test,2,"course_taker, phd_student",False,True,True,False
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofnature')",philosophy of nature,epistemology,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'religionandmorality')",religion and morality,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyoflanguage', 'privatelanguage')",private language,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'indeterminism')",indeterminism,epistemology,2,"phd_student, expert",False,False,True,True
+"('evolutionarypsychology', 'philosophyofreligion')",evolutionary psychology,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'philosophyofperception')",philosophy of perception,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('algebra', 'philosophyofmathematics')",philosophy of mathematics,algebra,2,"course_taker, phd_student",False,True,True,False
+"('metaphysics', 'philosophyofbiology')",philosophy of biology,metaphysics,2,"phd_student, expert",False,False,True,True
+"('afterlife', 'eternityoftheworld')",eternity of the world,afterlife,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'modernhistoryofcomputing')",modern history of computing,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('ambiguity', 'epistemology')",ambiguity,epistemology,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'frameproblem')",frame problem,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('consciousnessandcontent', 'perception')",consciousness and content,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'interpretation')",interpretation,epistemology,2,"phd_student, expert",False,False,True,True
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'philosophiesoftheparticularsciences')",cognitive science,philosophies of the particular sciences,2,"phd_student, expert",False,False,True,True
+"('animalcognition', 'perception')",animal cognition,perception,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'virtueepistemology')",virtue epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'theoriesofmentalcontent')",theories of mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'mentalimagery')",mental imagery,mental content,2,"phd_student, expert",False,False,True,True
+"('continentalphilosophy', 'feminism')",feminism,continental philosophy,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'psychiatry')",psychiatry,epistemology,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'africansagephilosophy')",african sage philosophy,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('molecularbiology', 'philosophyofbiology')",molecular biology,philosophy of biology,2,"phd_student, expert",False,False,True,True
+"('churchturingthesis', 'function')",church-turing thesis,function,2,"phd_student, expert",False,False,True,True
+"('analysis', 'metaphysics')",analysis,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyoflanguage', 'syntax')",philosophy of language,syntax,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'race')",race,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('cognitivescience', 'languagelearning')",language learning,cognitive science,2,"phd_student, expert",False,False,True,True
+"('aspectsofconsciousness', 'unityofconsciousness')",unity of consciousness,aspects of consciousness,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'transworldidentity')",transworld identity,epistemology,2,"phd_student, expert",False,False,True,True
+"('judaism', 'philosophyofreligion')",judaism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'processtheism')",process theism,metaphysics,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,metaphysics,2,"phd_student, expert",False,False,True,True
+"('creationism', 'philosophyofreligion')",creationism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'historyofscience')",history of science,epistemology,2,"phd_student, expert",False,False,True,True
+"('causation', 'counterfactualtheoriesofcausation')",counterfactual theories of causation,causation,2,"phd_student, expert",False,False,True,True
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('descartesmodalmetaphysics', 'philosophyofmind')",descartes' modal metaphysics,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'explanation')",cognitive science,explanation,2,"course_taker, expert",False,True,False,True
+"('philosophyofmind', 'probability')",probability,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('dadaism', 'perception')",dadaism,perception,2,"phd_student, expert",False,False,True,True
+"('cognitivescience', 'computationaltheoryofmind')",computational theory of mind,cognitive science,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'chineseroomargument')",chinese room argument,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('daoism', 'philosophyofreligion')",daoism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'evolutionaryepistemology')",evolutionary epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('causationinthelaw', 'philosophyoflaw')",causation in the law,philosophy of law,2,"amateur, phd_student",True,False,True,False
+"('philosophyofmind', 'problemofperception')",problem of perception,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('consciousnessandpsychology', 'philosophyofmind')",consciousness and psychology,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('body', 'perception')",body,perception,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'singularpropositions')",singular propositions,metaphysics,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'philosophyofphysics')",philosophy of physics,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('aposterioriknowledge', 'perception')",a posteriori knowledge,perception,2,"phd_student, expert",False,False,True,True
+"('emotionsinthechristiantradition', 'philosophyofreligion')",emotions in the christian tradition,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('consciousnessandintentionality', 'intentionality')",consciousness and intentionality,intentionality,2,"phd_student, expert",False,False,True,True
+"('perception', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,perception,2,"phd_student, expert",False,False,True,True
+"('antirealism', 'epistemology')",anti-realism,epistemology,2,"phd_student, expert",False,False,True,True
+"('experienceandperceptionoftime', 'perception')",experience and perception of time,perception,2,"phd_student, expert",False,False,True,True
+"('scientificmethodology', 'thescientificmethod')",the scientific method,scientific methodology,2,"amateur, phd_student",True,False,True,False
+"('mentalcontent', 'nonconceptualmentalcontent')",nonconceptual mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofphysics')",philosophy of physics,epistemology,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'peripatetic')",peripatetic,metaphysics,2,"phd_student, expert",False,False,True,True
+"('expressionism', 'perception')",expressionism,perception,2,"phd_student, expert",False,False,True,True
+"('philosophiesoftheparticularsciences', 'philosophyofmind')",philosophies of the particular sciences,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('africanamericanphilosophy', 'africanandafricanamericanphilosophy')",african american philosophy,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('philosophyofmind', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('aristotleandmathematics', 'metaphysics')",aristotle and mathematics,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'logicandlanguage')",logic and language,epistemology,2,"phd_student, expert",False,False,True,True
+"('idealism', 'modernism')",modernism,idealism,2,"course_taker, expert",False,True,False,True
+"('epistemology', 'philosophyofchemistry')",philosophy of chemistry,epistemology,2,"phd_student, expert",False,False,True,True
+"('africanandafricanamericanphilosophy', 'humanrights')",human rights,african and african-american philosophy,2,"course_taker, phd_student",False,True,True,False
+"('logic', 'modallogic')",logic,modal logic,2,"course_taker, phd_student",False,True,True,False
+"('epistemology', 'platoonutopia')",plato on utopia,epistemology,2,"phd_student, expert",False,False,True,True
+"('introspection', 'perception')",introspection,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofreligion', 'transcendentalism')",transcendentalism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('connectionistmodel', 'perception')",connectionist model,perception,2,"phd_student, expert",False,False,True,True
+"('philosophyofcomputerscience', 'philosophyoflanguage')",philosophy of computer science,philosophy of language,2,"course_taker, expert",False,True,False,True
+"('atonement', 'philosophyofreligion')",atonement,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('cosmologicalargument', 'philosophyofreligion')",cosmological argument,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'internalismandexternalism')",internalism and externalism,epistemology,2,"phd_student, expert",False,False,True,True
+"('historyoflogic', 'informallogic')",informal logic,history of logic,2,"amateur, phd_student",True,False,True,False
+"('metaphysics', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,metaphysics,2,"phd_student, expert",False,False,True,True
+"('medievalpoliticalphilosophy', 'socialandpoliticalphilosophy')",medieval political philosophy,social and political philosophy,2,"phd_student, expert",False,False,True,True
+"('determinatesvsdeterminables', 'historyoflogic')",determinates vs. determinables,history of logic,2,"amateur, phd_student",True,False,True,False
+"('epistemology', 'optimism')",optimism,epistemology,2,"phd_student, expert",False,False,True,True
+"('phenomenologyofreligion', 'philosophyofreligion')",phenomenology of religion,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'philosophyofspaceandtime')",philosophy of space and time,metaphysics,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyoflogic')",philosophy of logic,epistemology,2,"phd_student, expert",False,False,True,True
+"('existence', 'perception')",existence,perception,2,"phd_student, expert",False,False,True,True
+"('computationandrepresentation', 'perception')",computation and representation,perception,2,"phd_student, expert",False,False,True,True
+"('ancientphilosophyaristotle', 'philosophyofmind')",ancient philosophy (aristotle),philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'virtuesandvices')",virtues and vices,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'ideas')",ideas,epistemology,2,"phd_student, expert",False,False,True,True
+"('identitytheoryoftruth', 'metaphysics')",identity theory of truth,metaphysics,2,"phd_student, expert",False,False,True,True
+"('abstractobject', 'metaphysics')",abstract object,metaphysics,2,"phd_student, expert",False,False,True,True
+"('internalism', 'philosophyofmind')",internalism,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'distributedrepresentation')",distributed representation,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('consciousness', 'philosophyofmind')",consciousness,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'inductivelogicanddecisiontheory')",inductive logic and decision theory,epistemology,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'inputunit')",input unit,folk psychology,2,"phd_student, expert",False,False,True,True
+"('dualismandmetaphysicsofmind', 'philosophyofmind')",dualism and metaphysics of mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('philosophyofphysics', 'philosophyofscienceandthesciences')",philosophy of physics,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('mentalimagery', 'perception')",mental imagery,perception,2,"phd_student, expert",False,False,True,True
+"('afterlife', 'heavenandhell')",heaven and hell,afterlife,2,"phd_student, expert",False,False,True,True
+"('divinerevelation', 'philosophyofreligion')",divine revelation,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('mind', 'philosophyofmind')",mind,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('folkpsychology', 'simulationtheory')",simulation theory,folk psychology,2,"phd_student, expert",False,False,True,True
+"('existence', 'existentialism')",existentialism,existence,2,"course_taker, phd_student",False,True,True,False
+"('interpretationsofprobability', 'philosophyofscienceandthesciences')",interpretations of probability,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('deontology', 'ethics')",ethics,deontology,2,"amateur, phd_student",True,False,True,False
+"('logic', 'logicandlanguage')",logic,logic and language,2,"course_taker, phd_student",False,True,True,False
+"('constructivemathematics', 'philosophyofscienceandthesciences')",constructive mathematics,philosophy of science and the sciences,2,"phd_student, expert",False,False,True,True
+"('philosophyofmind', 'unityofconsciousness')",unity of consciousness,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('perception', 'psychologicaltheory')",psychological theory,perception,2,"phd_student, expert",False,False,True,True
+"('knowledgeargument', 'physicalism')",knowledge argument,physicalism,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'moralepistemology')",moral epistemology,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'externalism')",externalism,epistemology,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'realismandantirealism')",realism and anti-realism,epistemology,2,"phd_student, expert",False,False,True,True
+"('object', 'perception')",object,perception,2,"phd_student, expert",False,False,True,True
+"('artificialintelligence', 'logicandlanguage')",logic and language,artificial intelligence,2,"phd_student, expert",False,False,True,True
+"('animalcognition', 'folkpsychology')",animal cognition,folk psychology,2,"phd_student, expert",False,False,True,True
+"('metaphysics', 'sophists')",sophists,metaphysics,2,"phd_student, expert",False,False,True,True
+"('fideism', 'philosophyofreligion')",fideism,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('logicandlanguage', 'philosophyoflanguage')",logic and language,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('determinism', 'freewill')",determinism,free will,2,"phd_student, expert",False,False,True,True
+"('kantsphilosophyofreligion', 'metaphysics')",kant's philosophy of religion,metaphysics,2,"phd_student, expert",False,False,True,True
+"('causaltheoriesofmentalcontent', 'mentalcontent')",causal theories of mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('bioethics', 'culturalrelativism')",cultural relativism,bioethics,2,"phd_student, expert",False,False,True,True
+"('judaicphilosophy', 'judaism')",judaic philosophy,judaism,2,"course_taker, phd_student",False,True,True,False
+"('epistemologicalproblemsofperception', 'philosophyofmind')",epistemological problems of perception,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemologicalproblemsofperception', 'perception')",epistemological problems of perception,perception,2,"phd_student, expert",False,False,True,True
+"('kantsphilosophicaldevelopment', 'metaphysics')",kant's philosophical development,metaphysics,2,"phd_student, expert",False,False,True,True
+"('abstractexpressionism', 'perception')",abstract expressionism,perception,2,"phd_student, expert",False,False,True,True
+"('mentalcontent', 'narrowmentalcontent')",narrow mental content,mental content,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'perception')",perception,epistemology,2,"phd_student, expert",False,False,True,True
+"('causaltheoriesofmentalcontent', 'theoriesofmentalcontent')",theories of mental content,causal theories of mental content,2,"course_taker, phd_student",False,True,True,False
+"('philosophyofmind', 'sensedata')",sense-data,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('belief', 'epistemology')",belief,epistemology,2,"phd_student, expert",False,False,True,True
+"('feministphilosophyoflanguage', 'philosophyoflanguage')",feminist philosophy of language,philosophy of language,2,"phd_student, expert",False,False,True,True
+"('divinelaw', 'philosophyofreligion')",divine law,philosophy of religion,2,"phd_student, expert",False,False,True,True
+"('existence', 'philosophyofmind')",existence,philosophy of mind,2,"phd_student, expert",False,False,True,True
+"('epistemology', 'philosophyofscience')",philosophy of science,epistemology,2,"phd_student, expert",False,False,True,True
+"('lawsofnature', 'metaphysics')",laws of nature,metaphysics,2,"phd_student, expert",False,False,True,True
+"('ideas', 'perception')",ideas,perception,2,"phd_student, expert",False,False,True,True

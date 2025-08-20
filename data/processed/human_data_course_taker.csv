@@ -1,0 +1,143 @@
+key,ideaA,ideaB,humanRelatedness,humanGenerality
+"('hilbertsprogram', 'philosophyofmathematics')",hilbert's program,philosophy of mathematics,3,0
+"('aristotleandmathematics', 'philosophyofmathematics')",aristotle and mathematics,philosophy of mathematics,4,0
+"('philosophyofmathematics', 'zenosparadoxes')",zeno's paradoxes,philosophy of mathematics,3,0
+"('philosophyofmathematics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mathematics,1,2
+"('africanandafricanamericanphilosophy', 'africanphilosophy')",african philosophy,african and african-american philosophy,4,0
+"('africanamericanphilosophy', 'africanandafricanamericanphilosophy')",african american philosophy,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'politicalrepresentation')",political representation,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'dwarfism')",dwarfism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'identitypolitics')",identity politics,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'separatism')",separatism,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'equalityofopportunity')",equality of opportunity,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'immigration')",immigration,african and african-american philosophy,2,3
+"('africanandafricanamericanphilosophy', 'civildisobedience')",civil disobedience,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'sadism')",sadism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'feministperspectivesonclassandwork')",feminist perspectives on class and work,african and african-american philosophy,1,3
+"('africanandafricanamericanphilosophy', 'racism')",racism,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'trainingset')",training set,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'consciousnessandmentalcontent')",consciousness and mental content,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'civilrights')",civil rights,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'rawlsianliberalism')",rawlsian liberalism,african and african-american philosophy,1,0
+"('africanandafricanamericanphilosophy', 'simpsonsparadox')",simpson's paradox,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'pregnancy')",pregnancy,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'pragmatistfeminism')",pragmatist feminism,african and african-american philosophy,0,0
+"('africanandafricanamericanphilosophy', 'nepotism')",nepotism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'historyoffeminism')",history of feminism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'westernphilosophy')",western philosophy,african and african-american philosophy,2,3
+"('africanandafricanamericanphilosophy', 'africansagephilosophy')",african sage philosophy,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'ethnophilosophy')",ethnophilosophy,african and african-american philosophy,4,1
+"('affirmativeaction', 'africanandafricanamericanphilosophy')",affirmative action,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'environmentalracism')",environmental racism,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'intersectionsbetweenanalyticandcontinentalfeminism')",intersections between analytic and continental feminism,african and african-american philosophy,1,3
+"('africanandafricanamericanphilosophy', 'humanrights')",human rights,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'akanphilosophyoftheperson')",akan philosophy of the person,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'internationalorganizations')",international organizations,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'race')",race,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'greatapes')",great apes,african and african-american philosophy,0,3
+"('africanandafricanamericanphilosophy', 'distributivejustice')",distributive justice,african and african-american philosophy,3,0
+"('africanandafricanamericanphilosophy', 'intersectionsbetweenpragmatistandcontinentalfeminism')",intersections between pragmatist and continental feminism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'distributiveandeconomicjustice')",distributive and economic justice,african and african-american philosophy,3,0
+"('africanandafricanamericanphilosophy', 'animalconsciousness')",animal consciousness,african and african-american philosophy,0,0
+"('africanandafricanamericanphilosophy', 'egalitarianism')",egalitarianism,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'feministperspectivesonreproductionandthefamily')",feminist perspectives on reproduction and the family,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'animalcognition')",animal cognition,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'counseling')",counseling,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'socialjustice')",social justice,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'probabilityandstatistics')",probability and statistics,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'civiceducation')",civic education,african and african-american philosophy,2,0
+"('africanandafricanamericanphilosophy', 'antisemitism')",anti-semitism,african and african-american philosophy,3,0
+"('africanandafricanamericanphilosophy', 'genotypeandphenotype')",genotype and phenotype,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'feministaesthetics')",feminist aesthetics,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'protestantism')",protestantism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'childhood')",childhood,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'heroism')",heroism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'legalrights')",legal rights,african and african-american philosophy,4,0
+"('africanandafricanamericanphilosophy', 'molecularbiologyandgenetics')",molecular biology and genetics,african and african-american philosophy,3,0
+"('africanandafricanamericanphilosophy', 'continentalfeminism')",continental feminism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'methodsinfeminism')",methods in feminism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'catholicism')",catholicism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'grouprights')",group rights,african and african-american philosophy,4,-1
+"('africanandafricanamericanphilosophy', 'terrorism')",terrorism,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'publicreason')",public reason,african and african-american philosophy,2,-1
+"('africanandafricanamericanphilosophy', 'bioethics')",bioethics,african and african-american philosophy,0,-1
+"('africanandafricanamericanphilosophy', 'sexism')",sexism,african and african-american philosophy,3,-1
+"('epistemology', 'epistemologyofscience')",epistemology,epistemology of science,-1,-1
+"('concepts', 'fregestheoremandfoundationsforarithmetic')",frege's theorem and foundations for arithmetic,concepts,4,3
+"('fregestheoremandfoundationsforarithmetic', 'philosophyoflaw')",frege's theorem and foundations for arithmetic,philosophy of law,0,3
+"('philosophyofcomputerscience', 'philosophyofscience')",philosophy of computer science,philosophy of science,3,1
+"('logic', 'philosophyofcomputerscience')",philosophy of computer science,logic,4,0
+"('abstraction', 'philosophyofcomputerscience')",philosophy of computer science,abstraction,4,0
+"('logicandlanguage', 'philosophyofcomputerscience')",philosophy of computer science,logic and language,3,0
+"('philosophyofcomputerscience', 'philosophyofmathematics')",philosophy of computer science,philosophy of mathematics,3,2
+"('philosophyofcomputerscience', 'philosophyoflanguage')",philosophy of computer science,philosophy of language,3,2
+"('philosophyofcomputerscience', 'semantics')",philosophy of computer science,semantics,3,0
+"('cognitivescience', 'philosophyofscience')",cognitive science,philosophy of science,4,1
+"('cognitivescience', 'philosophyofpsychology')",cognitive science,philosophy of psychology,4,2
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,4,2
+"('cognitivescience', 'psychiatry')",cognitive science,psychiatry,4,0
+"('cognitivescience', 'mind')",cognitive science,mind,4,0
+"('cognitivescience', 'representation')",cognitive science,representation,4,0
+"('cognitivescience', 'explanation')",cognitive science,explanation,3,0
+"('artificialintelligence', 'logic')",artificial intelligence,logic,4,2
+"('artificialintelligence', 'logicandartificialintelligence')",artificial intelligence,logic and artificial intelligence,4,0
+"('artificialintelligence', 'computation')",artificial intelligence,computation,4,1
+"('artificialintelligence', 'philosophyofcomputerscience')",artificial intelligence,philosophy of computer science,4,1
+"('artificialintelligence', 'formalism')",artificial intelligence,formalism,2,1
+"('artificialintelligence', 'neuralnetwork')",artificial intelligence,neural network,4,0
+"('artificialintelligence', 'cognitivescience')",artificial intelligence,cognitive science,4,1
+"('thinkingmachine', 'turingtest')",thinking machine,turing test,4,0
+"('artificialintelligence', 'thinkingmachine')",thinking machine,artificial intelligence,4,1
+"('behaviorism', 'thinkingmachine')",thinking machine,behaviorism,2,1
+"('computation', 'thinkingmachine')",thinking machine,computation,4,1
+"('functionalism', 'thinkingmachine')",thinking machine,functionalism,4,1
+"('humancognition', 'thinkingmachine')",thinking machine,human cognition,3,1
+"('connectionism', 'neuralnetwork')",connectionism,neural network,4,1
+"('connectionism', 'connectionistmodel')",connectionism,connectionist model,4,0
+"('connectionism', 'modelsandidealization')",connectionism,models and idealization,3,1
+"('connectionism', 'trainingset')",connectionism,training set,4,0
+"('connectionism', 'hiddenunit')",connectionism,hidden unit,4,0
+"('cognitivescience', 'connectionism')",connectionism,cognitive science,4,1
+"('logic', 'modallogic')",logic,modal logic,4,0
+"('logic', 'logicandlanguage')",logic,logic and language,3,0
+"('classicallogic', 'logic')",logic,classical logic,4,0
+"('intuitionisticlogic', 'logic')",logic,intuitionistic logic,-1,0
+"('logic', 'philosophyofmathematics')",logic,philosophy of mathematics,4,2
+"('combininglogics', 'logic')",logic,combining logics,3,0
+"('logic', 'semantics')",logic,semantics,3,0
+"('philosophyofreligion', 'religion')",philosophy of religion,religion,4,2
+"('god', 'philosophyofreligion')",philosophy of religion,god,4,0
+"('faith', 'philosophyofreligion')",philosophy of religion,faith,4,0
+"('belief', 'philosophyofreligion')",philosophy of religion,belief,4,0
+"('feministphilosophyofreligion', 'philosophyofreligion')",philosophy of religion,feminist philosophy of religion,3,0
+"('philosophyofreligion', 'religiousexperience')",philosophy of religion,religious experience,4,0
+"('philosophyofreligion', 'religiousdiversity')",philosophy of religion,religious diversity,3,0
+"('philosophyofreligion', 'religionandscience')",philosophy of religion,religion and science,4,0
+"('existentialism', 'existentialistaesthetics')",existentialism,existentialist aesthetics,3,0
+"('existence', 'existentialism')",existentialism,existence,4,1
+"('existentialism', 'meaning')",existentialism,meaning,4,1
+"('chinesephilosophy', 'daoism')",chinese philosophy,daoism,3,0
+"('chinesephilosophy', 'taoism')",chinese philosophy,taoism,3,0
+"('culture', 'racism')",racism,culture,0,-1
+"('africanandafricanamericanphilosophy', 'racism')",african and african-american philosophy,racism,3,1
+"('judaicphilosophy', 'judaism')",judaic philosophy,judaism,4,-1
+"('metaphysics', 'substance')",metaphysics,substance,4,1
+"('civilrights', 'racism')",racism,civil rights,4,2
+"('feminism', 'feministphilosophy')",feminist philosophy,feminism,4,2
+"('chinesephilosophy', 'confucianism')",chinese philosophy,confucianism,4,0
+"('folkpsychology', 'psychiatry')",folk psychology,psychiatry,4,1
+"('18thcenturygermanaesthetics', 'aestheticsandphilosophyofart')",aesthetics and philosophy of art,18th century german aesthetics,4,0
+"('modelsandidealization', 'revisiontheoryoftruth')",revision theory of truth,models and idealization,-1,-1
+"('revisiontheoryoftruth', 'truth')",revision theory of truth,truth,-1,-1
+"('causaltheoriesofmentalcontent', 'theoriesofmentalcontent')",theories of mental content,causal theories of mental content,3,0
+"('aestheticsandphilosophyofart', 'philosophyofcomposition')",aesthetics and philosophy of art,philosophy of composition,2,-1
+"('aestheticsandphilosophyofart', 'philosophyofcomposition')",aesthetics and philosophy of art,philosophy of composition,-1,-1
+"('meaning', 'philosophyoflanguage')",philosophy of language,meaning,4,1
+"('algebra', 'philosophyofmathematics')",philosophy of mathematics,algebra,4,1
+"('churchturingthesis', 'philosophyofcomputerscience')",philosophy of computer science,church-turing thesis,-1,-1
+"('interpretation', 'judaicphilosophy')",judaic philosophy,interpretation,3,0
+"('logic', 'philosophyoflanguage')",logic,philosophy of language,4,2
+"('body', 'substance')",substance,body,4,1
+"('idealism', 'modernism')",modernism,idealism,3,2
+"('ethics', 'virtuesandvices')",ethics,virtues and vices,4,1
+"('qualities', 'substance')",substance,qualities,4,0

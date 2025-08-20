@@ -1,0 +1,2134 @@
+key,ideaA,ideaB,humanRelatedness,humanGenerality
+"('cognitivescience', 'folkpsychology')",folk psychology,cognitive science,4,2
+"('artificialintelligence', 'symbolicprocessing')",symbolic processing,artificial intelligence,4,0
+"('artificialintelligence', 'turingtest')",turing test,artificial intelligence,4,0
+"('cognitivescience', 'externalismaboutmentalcontent')",externalism about mental content,cognitive science,3,3
+"('artificialintelligence', 'logicandartificialintelligence')",logic and artificial intelligence,artificial intelligence,4,0
+"('cognitivescience', 'eliminativematerialism')",eliminative materialism,cognitive science,4,2
+"('animalcognition', 'cognitivescience')",animal cognition,cognitive science,4,0
+"('cognitivescience', 'neuralnetwork')",neural network,cognitive science,4,0
+"('cognitivescience', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,cognitive science,3,3
+"('cognitivescience', 'computationaltheoryofmind')",computational theory of mind,cognitive science,4,0
+"('folkpsychology', 'folkpsychologyasmentalsimulation')",folk psychology as mental simulation,folk psychology,4,0
+"('cognitivescience', 'connectionism')",connectionism,cognitive science,4,0
+"('artificialintelligence', 'outputunit')",output unit,artificial intelligence,4,0
+"('cognitivescience', 'distributedrepresentation')",distributed representation,cognitive science,4,0
+"('artificialintelligence', 'frameproblem')",frame problem,artificial intelligence,4,0
+"('artificialintelligence', 'distributedrepresentation')",distributed representation,artificial intelligence,4,0
+"('artificialintelligence', 'thinkingmachine')",thinking machine,artificial intelligence,4,0
+"('artificialintelligence', 'logicandcomputation')",logic and computation,artificial intelligence,3,1
+"('folkpsychology', 'simulationtheory')",simulation theory,folk psychology,4,0
+"('cognitivescience', 'computationalism')",computationalism,cognitive science,4,0
+"('cognitivescience', 'philosophyofcomputerscience')",philosophy of computer science,cognitive science,4,2
+"('cognitivescience', 'languagelearning')",language learning,cognitive science,4,2
+"('cognitivescience', 'mentalrepresentation')",mental representation,cognitive science,4,2
+"('folkpsychology', 'symbolicprocessing')",symbolic processing,folk psychology,3,1
+"('folkpsychology', 'inputunit')",input unit,folk psychology,1,3
+"('cognitivescience', 'networkmodel')",network model,cognitive science,4,0
+"('activationvalue', 'folkpsychology')",activation value,folk psychology,1,3
+"('cognitivescience', 'dynamicalsystem')",dynamical system,cognitive science,3,0
+"('chineseroomargument', 'cognitivescience')",chinese room argument,cognitive science,4,0
+"('folkpsychology', 'identitytheoryofmind')",identity theory of mind,folk psychology,3,2
+"('cognitivescience', 'logicandcomputation')",logic and computation,cognitive science,4,2
+"('cognitivescience', 'metaphysicsofmind')",metaphysics of mind,cognitive science,4,2
+"('cognitivescience', 'qualia')",qualia,cognitive science,4,2
+"('cognitivescience', 'consciousnessandpsychology')",consciousness and psychology,cognitive science,4,3
+"('cognitivescience', 'intentionalstance')",intentional stance,cognitive science,4,3
+"('classicism', 'cognitivescience')",classicism,cognitive science,0,-1
+"('cognitivescience', 'theoriesofmentalcontent')",theories of mental content,cognitive science,4,3
+"('cognitivescience', 'consciousnessandintentionality')",consciousness and intentionality,cognitive science,4,3
+"('cognitivescience', 'outputunit')",output unit,cognitive science,4,0
+"('cognitivescience', 'diagrams')",diagrams,cognitive science,2,3
+"('cognitivescience', 'symbolsystem')",symbol system,cognitive science,4,0
+"('blindsight', 'cognitivescience')",blindsight,cognitive science,4,0
+"('autism', 'folkpsychology')",autism,folk psychology,3,0
+"('artificialintelligence', 'cognitivescience')",artificial intelligence,cognitive science,4,0
+"('animalcognition', 'folkpsychology')",animal cognition,folk psychology,4,0
+"('cognitivescience', 'irrealism')",irrealism,cognitive science,0,-1
+"('cognitivescience', 'psychologicalrelation')",psychological relation,cognitive science,0,-1
+"('cognitivescience', 'leibnizsphilosophyofmind')",leibniz's philosophy of mind,cognitive science,0,-1
+"('cognitivescience', 'transcendentalarguments')",transcendental arguments,cognitive science,0,-1
+"('cognitivescience', 'folkpsychologyasmentalsimulation')",folk psychology as mental simulation,cognitive science,4,0
+"('cognitivescience', 'reductivematerialism')",reductive materialism,cognitive science,4,3
+"('cognitivescience', 'nativism')",nativism,cognitive science,4,0
+"('cognitivescience', 'semanticholism')",semantic holism,cognitive science,3,0
+"('cognitivescience', 'meaningholism')",meaning holism,cognitive science,2,1
+"('churchturingthesis', 'cognitivescience')",church-turing thesis,cognitive science,3,3
+"('cognitivescience', 'intertheoryrelationsinphysics')",intertheory relations in physics,cognitive science,0,-1
+"('statisticalmechanicsandthermodynamics', 'thermodynamicasymmetryintime')",thermodynamic asymmetry in time,statistical mechanics and thermodynamics,4,0
+"('symmetryandinvariance', 'symmetryandsymmetrybreaking')",symmetry and symmetry breaking,symmetry and invariance,4,2
+"('molecularbiology', 'philosophyofbiology')",molecular biology,philosophy of biology,4,0
+"('conservationbiology', 'philosophyofbiology')",conservation biology,philosophy of biology,4,0
+"('philosophyofbiology', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,philosophy of biology,3,0
+"('philosophyofbiology', 'scientificexplanation')",scientific explanation,philosophy of biology,2,3
+"('creationism', 'philosophyofbiology')",creationism,philosophy of biology,3,3
+"('gradualism', 'philosophyofbiology')",gradualism,philosophy of biology,4,0
+"('animalbehavior', 'philosophyofbiology')",animal behavior,philosophy of biology,3,0
+"('biologicalaltruism', 'philosophyofbiology')",biological altruism,philosophy of biology,4,0
+"('idiolects', 'philosophyoflanguage')",idiolects,philosophy of language,2,0
+"('logicandlanguage', 'philosophyoflanguage')",logic and language,philosophy of language,4,3
+"('classicallogic', 'philosophyoflanguage')",classical logic,philosophy of language,2,3
+"('languageofthoughthypothesis', 'philosophyoflanguage')",language of thought hypothesis,philosophy of language,3,3
+"('firstordermodeltheory', 'philosophyoflanguage')",first-order model theory,philosophy of language,2,3
+"('logicalform', 'philosophyoflanguage')",logical form,philosophy of language,4,0
+"('consequencerelationsandalgebraiclogic', 'philosophyoflanguage')",consequence relations and algebraic logic,philosophy of language,1,3
+"('modeltheory', 'philosophyoflanguage')",model theory,philosophy of language,3,3
+"('philosophyoflanguage', 'semantics')",semantics,philosophy of language,4,0
+"('compositionality', 'philosophyoflanguage')",compositionality,philosophy of language,4,0
+"('philosophyoflanguage', 'pluralquantification')",plural quantification,philosophy of language,3,0
+"('languagelearning', 'philosophyoflanguage')",language learning,philosophy of language,3,0
+"('modallogic', 'philosophyoflanguage')",modal logic,philosophy of language,2,3
+"('philosophyoflanguage', 'speakermeaning')",speaker meaning,philosophy of language,4,1
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,4,3
+"('partsofspeech', 'wittgensteinsaesthetics')",wittgenstein's aesthetics,parts of speech,0,-1
+"('existence', 'partsofspeech')",existence,parts of speech,0,-1
+"('medievaltheoriesofsingularterms', 'partsofspeech')",medieval theories of singular terms,parts of speech,2,3
+"('implicature', 'pragmatics')",implicature,pragmatics,4,0
+"('artificialintelligence', 'logic')",logic,artificial intelligence,4,1
+"('artificialintelligence', 'chineseroomargument')",chinese room argument,artificial intelligence,4,0
+"('causation', 'probabilisticcausation')",probabilistic causation,causation,4,0
+"('computerethics', 'ethics')",computer ethics,ethics,4,0
+"('philosophyofmind', 'philosophyofphysics')",philosophy of physics,philosophy of mind,3,-1
+"('metaphysicsofmind', 'panpsychism')",panpsychism,metaphysics of mind,3,0
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,2,-1
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,3,-1
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,2,-1
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,4,-1
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,4,-1
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,3,-1
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,1,-1
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,2,-1
+"('descartesmodalmetaphysics', 'philosophyofmind')",descartes' modal metaphysics,philosophy of mind,3,-1
+"('mind', 'philosophyofmind')",mind,philosophy of mind,4,-1
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,3,-1
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,1,-1
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,3,-1
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,1,-1
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,2,-1
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,4,-1
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,4,-1
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,4,-1
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,4,-1
+"('matter', 'philosophyofmind')",matter,philosophy of mind,3,-1
+"('mentalcausation', 'philosophyofmind')",mental causation,philosophy of mind,4,-1
+"('philosophyofmind', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,philosophy of mind,2,-1
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,4,-1
+"('philosophyofmind', 'philosophyofpsychology')",philosophy of psychology,philosophy of mind,4,-1
+"('consciousness', 'philosophyofmind')",consciousness,philosophy of mind,4,-1
+"('philosophyofmind', 'psychiatry')",psychiatry,philosophy of mind,4,-1
+"('philosophiesoftheparticularsciences', 'philosophyofmind')",philosophies of the particular sciences,philosophy of mind,3,-1
+"('folkpsychology', 'philosophyofmind')",folk psychology,philosophy of mind,4,-1
+"('ideas', 'philosophyofmind')",ideas,philosophy of mind,3,-1
+"('philosophyofmind', 'philosophyofphysics')",philosophy of physics,philosophy of mind,1,-1
+"('eliminativematerialism', 'philosophyofmind')",eliminative materialism,philosophy of mind,4,-1
+"('epistemologicalproblemsofmemory', 'philosophyofmind')",epistemological problems of memory,philosophy of mind,3,-1
+"('philosophyofmind', 'teleologicalargumentsforgodsexistence')",teleological arguments for god's existence,philosophy of mind,1,-1
+"('mentalrepresentation', 'philosophyofmind')",mental representation,philosophy of mind,4,-1
+"('ancienttheoriesofsoul', 'philosophyofmind')",ancient theories of soul,philosophy of mind,2,-1
+"('metaphysicsofmind', 'philosophyofmind')",metaphysics of mind,philosophy of mind,4,-1
+"('philosophyofmind', 'syntacticanalysis')",syntactic analysis,philosophy of mind,2,-1
+"('philosophyofmind', 'spinozaspsychologicaltheory')",spinoza's psychological theory,philosophy of mind,2,-1
+"('philosophyofmind', 'philosophyofnature')",philosophy of nature,philosophy of mind,2,-1
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,3,-1
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,2,-1
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,4,-1
+"('greatapes', 'philosophyofmind')",great apes,philosophy of mind,3,-1
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,4,-1
+"('philosophyofmind', 'probabilityandstatistics')",probability and statistics,philosophy of mind,1,-1
+"('everettsrelativestateformulationofquantummechanics', 'philosophyofmind')",everett's relative-state formulation of quantum mechanics,philosophy of mind,1,-1
+"('intentionality', 'philosophyofmind')",intentionality,philosophy of mind,4,-1
+"('body', 'philosophyofmind')",body,philosophy of mind,3,-1
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,4,-1
+"('philosophyofmind', 'propositionalattitude')",propositional attitude,philosophy of mind,4,-1
+"('perception', 'philosophyofmind')",perception,philosophy of mind,4,-1
+"('philosophyofchemistry', 'philosophyofmind')",philosophy of chemistry,philosophy of mind,0,-1
+"('philosophyofmind', 'philosophyofperception')",philosophy of perception,philosophy of mind,4,-1
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,2,-1
+"('philosophyofmind', 'sensedata')",sense-data,philosophy of mind,4,-1
+"('philosophyofmind', 'unityofconsciousness')",unity of consciousness,philosophy of mind,3,-1
+"('ancientphilosophyaristotle', 'philosophyofmind')",ancient philosophy (aristotle),philosophy of mind,1,-1
+"('existence', 'philosophyofmind')",existence,philosophy of mind,1,-1
+"('koreanphilosophy', 'philosophyofmind')",korean philosophy,philosophy of mind,1,-1
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,1,-1
+"('consciousnessandcontent', 'philosophyofmind')",consciousness and content,philosophy of mind,4,-1
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,-1
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,-1
+"('nonhumananimals', 'philosophyofmind')",nonhuman animals,philosophy of mind,3,-1
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,-1
+"('philosophyofmind', 'sensedata')",sense data,philosophy of mind,4,-1
+"('philosophyofmind', 'universals')",universals,philosophy of mind,3,-1
+"('philosophyofmind', 'problemofperception')",problem of perception,philosophy of mind,4,-1
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,4,-1
+"('induction', 'philosophyofmind')",induction,philosophy of mind,2,-1
+"('artificialintelligence', 'philosophyofmind')",artificial intelligence,philosophy of mind,3,-1
+"('consciousnessandpsychology', 'philosophyofmind')",consciousness and psychology,philosophy of mind,4,-1
+"('mentalcontent', 'philosophyofmind')",mental content,philosophy of mind,4,-1
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,2,-1
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,2,-1
+"('philosophyofbiology', 'philosophyofmind')",philosophy of biology,philosophy of mind,2,-1
+"('interactionism', 'philosophyofmind')",interactionism,philosophy of mind,4,-1
+"('mentalstate', 'philosophyofmind')",mental state,philosophy of mind,4,-1
+"('modularity', 'philosophyofmind')",modularity,philosophy of mind,4,-1
+"('philosophyofart', 'philosophyofmind')",philosophy of art,philosophy of mind,1,-1
+"('philosophyofmind', 'symbolicprocessing')",symbolic processing,philosophy of mind,3,-1
+"('philosophyofmind', 'realism')",realism,philosophy of mind,3,-1
+"('modernphilosophy', 'philosophyofmind')",modern philosophy,philosophy of mind,3,-1
+"('epistemologicalproblemsofperception', 'philosophyofmind')",epistemological problems of perception,philosophy of mind,4,-1
+"('computationandrepresentation', 'philosophyofmind')",computation and representation,philosophy of mind,4,-1
+"('introspection', 'philosophyofmind')",introspection,philosophy of mind,4,-1
+"('mindbodyproblem', 'philosophyofmind')",mind-body problem,philosophy of mind,4,-1
+"('imagery', 'philosophyofmind')",imagery,philosophy of mind,3,-1
+"('digitalphilosophy', 'philosophyofmind')",digital philosophy,philosophy of mind,2,-1
+"('philosophyofmind', 'simulationtheory')",simulation theory,philosophy of mind,4,-1
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,2,-1
+"('internalism', 'philosophyofmind')",internalism,philosophy of mind,4,-1
+"('philosophyofmind', 'virtuesandvices')",virtues and vices,philosophy of mind,2,-1
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,4,0
+"('artificialintelligence', 'logicandartificialintelligence')",logic and artificial intelligence,artificial intelligence,4,-1
+"('artificialintelligence', 'turingtest')",turing test,artificial intelligence,4,-1
+"('artificialintelligence', 'frameproblem')",frame problem,artificial intelligence,4,-1
+"('artificialintelligence', 'logicandcomputation')",logic and computation,artificial intelligence,4,-1
+"('artificialintelligence', 'manyvaluedlogic')",many-valued logic,artificial intelligence,3,-1
+"('artificialintelligence', 'philosophyofcomputerscience')",philosophy of computer science,artificial intelligence,4,-1
+"('artificialintelligence', 'symbolicprocessing')",symbolic processing,artificial intelligence,4,-1
+"('artificialintelligence', 'distributedrepresentation')",distributed representation,artificial intelligence,4,-1
+"('artificialintelligence', 'temporallogic')",temporal logic,artificial intelligence,3,-1
+"('artificialintelligence', 'logicandlanguage')",logic and language,artificial intelligence,4,-1
+"('artificialintelligence', 'dynamiclogic')",dynamic logic,artificial intelligence,4,-1
+"('artificialintelligence', 'chineseroomargument')",chinese room argument,artificial intelligence,4,-1
+"('activationvalue', 'artificialintelligence')",activation value,artificial intelligence,3,-1
+"('artificialintelligence', 'inputunit')",input unit,artificial intelligence,4,-1
+"('artificialintelligence', 'outputunit')",output unit,artificial intelligence,4,-1
+"('artificialintelligence', 'modernhistoryofcomputing')",modern history of computing,artificial intelligence,3,-1
+"('artificialintelligence', 'leibnizsphilosophyofmind')",leibniz's philosophy of mind,artificial intelligence,2,-1
+"('artificialintelligence', 'computationandrepresentation')",computation and representation,artificial intelligence,4,-1
+"('artificialintelligence', 'computationaltheoryofmind')",computational theory of mind,artificial intelligence,4,-1
+"('artificialintelligence', 'computation')",computation,artificial intelligence,4,-1
+"('artificialintelligence', 'informallogic')",informal logic,artificial intelligence,3,-1
+"('artificialintelligence', 'connectionistmodel')",connectionist model,artificial intelligence,4,-1
+"('artificialintelligence', 'thinkingmachine')",thinking machine,artificial intelligence,4,-1
+"('artificialintelligence', 'folkpsychology')",folk psychology,artificial intelligence,3,-1
+"('artificialintelligence', 'turingmachine')",turing machine,artificial intelligence,4,-1
+"('artificialintelligence', 'mentalimagery')",mental imagery,artificial intelligence,3,-1
+"('artificialintelligence', 'logicalbehaviorism')",logical behaviorism,artificial intelligence,3,-1
+"('artificialintelligence', 'logicofconditionals')",logic of conditionals,artificial intelligence,3,-1
+"('artificialintelligence', 'connectionism')",connectionism,artificial intelligence,4,-1
+"('artificialintelligence', 'cognitivescience')",cognitive science,artificial intelligence,4,-1
+"('artificialintelligence', 'prooftheory')",proof theory,artificial intelligence,4,-1
+"('artificialintelligence', 'epistemiclogic')",epistemic logic,artificial intelligence,3,-1
+"('artificialintelligence', 'nonclassicallogic')",non-classical logic,artificial intelligence,3,-1
+"('absentqualia', 'artificialintelligence')",absent qualia,artificial intelligence,4,-1
+"('artificialintelligence', 'booleanalgebra')",boolean algebra,artificial intelligence,3,-1
+"('artificialintelligence', 'speakermeaning')",speaker meaning,artificial intelligence,3,-1
+"('artificialintelligence', 'mentalese')",mentalese,artificial intelligence,3,-1
+"('artificialintelligence', 'modularity')",modularity,artificial intelligence,3,-1
+"('artificialintelligence', 'neuralnetwork')",neural network,artificial intelligence,4,-1
+"('19thcenturyphilosophy', 'artificialintelligence')",19th century philosophy,artificial intelligence,2,-1
+"('artificialintelligence', 'churchturingthesis')",church-turing thesis,artificial intelligence,4,-1
+"('artificialintelligence', 'modallogic')",modal logic,artificial intelligence,3,-1
+"('artificialintelligence', 'networkmodel')",network model,artificial intelligence,4,-1
+"('artificialintelligence', 'classicallogic')",classical logic,artificial intelligence,3,-1
+"('artificialintelligence', 'chauvinism')",chauvinism,artificial intelligence,1,-1
+"('artificialintelligence', 'quantumcomputing')",quantum computing,artificial intelligence,3,-1
+"('artificialintelligence', 'deonticlogic')",deontic logic,artificial intelligence,3,-1
+"('artificialintelligence', 'classicism')",classicism,artificial intelligence,3,-1
+"('artificialintelligence', 'probabilisticcausation')",probabilistic causation,artificial intelligence,2,-1
+"('artificialintelligence', 'psychologicaltheory')",psychological theory,artificial intelligence,4,-1
+"('artificialintelligence', 'dynamicalsystem')",dynamical system,artificial intelligence,3,-1
+"('artificialintelligence', 'humanintelligence')",human intelligence,artificial intelligence,4,-1
+"('artificialintelligence', 'intuitionisticlogic')",intuitionistic logic,artificial intelligence,3,-1
+"('artificialintelligence', 'eliminativematerialism')",eliminative materialism,artificial intelligence,4,-1
+"('artificialintelligence', 'explanatorygap')",explanatory gap,artificial intelligence,4,-1
+"('artificialintelligence', 'causalprocesses')",causal processes,artificial intelligence,3,-1
+"('artificialintelligence', 'multiplerealizability')",multiple realizability,artificial intelligence,4,-1
+"('artificialintelligence', 'qualia')",qualia,artificial intelligence,4,-1
+"('artificialintelligence', 'inductivelogic')",inductive logic,artificial intelligence,4,-1
+"('artificialintelligence', 'consciousnessandscience')",consciousness and science,artificial intelligence,4,-1
+"('artificialintelligence', 'relevancelogic')",relevance logic,artificial intelligence,3,-1
+"('artificialintelligence', 'digitalphilosophy')",digital philosophy,artificial intelligence,3,-1
+"('artificialintelligence', 'logicism')",logicism,artificial intelligence,3,-1
+"('artificialintelligence', 'semantictheories')",semantic theories,artificial intelligence,4,-1
+"('artificialintelligence', 'phenomenalconsciousness')",phenomenal consciousness,artificial intelligence,4,-1
+"('artificialintelligence', 'languageofthoughthypothesis')",language of thought hypothesis,artificial intelligence,4,-1
+"('artificialintelligence', 'commonknowledge')",common knowledge,artificial intelligence,3,-1
+"('artificialintelligence', 'molecularbiology')",molecular biology,artificial intelligence,2,-1
+"('artificialintelligence', 'modeltheory')",model theory,artificial intelligence,3,-1
+"('artificialintelligence', 'solipsism')",solipsism,artificial intelligence,3,-1
+"('artificialintelligence', 'deductivereasoning')",deductive reasoning,artificial intelligence,4,-1
+"('artificialintelligence', 'symbolsystem')",symbol system,artificial intelligence,4,-1
+"('algebra', 'artificialintelligence')",algebra,artificial intelligence,2,-1
+"('artificialintelligence', 'cartesiandualism')",cartesian dualism,artificial intelligence,3,-1
+"('artificialintelligence', 'probability')",probability,artificial intelligence,3,-1
+"('artificialintelligence', 'polishphilosophy')",polish philosophy,artificial intelligence,1,-1
+"('artificialintelligence', 'mathematicallogic')",mathematical logic,artificial intelligence,3,-1
+"('artificialintelligence', 'selfdeception')",self-deception,artificial intelligence,2,-1
+"('artificialintelligence', 'philosophyofneuroscience')",philosophy of neuroscience,artificial intelligence,2,-1
+"('artificialintelligence', 'humancognition')",human cognition,artificial intelligence,4,-1
+"('artificialintelligence', 'implicature')",implicature,artificial intelligence,2,-1
+"('artificialintelligence', 'logicalconstant')",logical constant,artificial intelligence,3,-1
+"('artificialintelligence', 'representationalism')",representationalism,artificial intelligence,4,-1
+"('artificialintelligence', 'settheory')",set theory,artificial intelligence,3,-1
+"('artificialintelligence', 'replication')",replication,artificial intelligence,3,-1
+"('artificialintelligence', 'moralpsychology')",moral psychology,artificial intelligence,3,-1
+"('artificialintelligence', 'logicaltruth')",logical truth,artificial intelligence,3,-1
+"('artificialintelligence', 'gametheory')",game theory,artificial intelligence,3,-1
+"('artificialintelligence', 'scienceandsociety')",science and society,artificial intelligence,4,-1
+"('artificialintelligence', 'scientificexplanation')",scientific explanation,artificial intelligence,3,-1
+"('artificialintelligence', 'connectives')",connectives,artificial intelligence,3,-1
+"('artificialintelligence', 'speechact')",speech act,artificial intelligence,3,-1
+"('artificialintelligence', 'existentialism')",existentialism,artificial intelligence,2,-1
+"('artificialintelligence', 'decisiontheory')",decision theory,artificial intelligence,3,-1
+"('artificialintelligence', 'denotation')",denotation,artificial intelligence,4,-1
+"('artificialintelligence', 'russianphilosophy')",russian philosophy,artificial intelligence,1,-1
+"('ancientphilosophy', 'artificialintelligence')",ancient philosophy,artificial intelligence,1,-1
+"('artificialintelligence', 'privacy')",privacy,artificial intelligence,2,-1
+"('artificialintelligence', 'computing')",computing,artificial intelligence,4,-1
+"('cognitivescience', 'mentalimagery')",mental imagery,cognitive science,4,-1
+"('cognitivescience', 'computationandrepresentation')",computation and representation,cognitive science,4,-1
+"('cognitivescience', 'symbolicprocessing')",symbolic processing,cognitive science,4,-1
+"('cognitivescience', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,cognitive science,2,-1
+"('cognitivescience', 'folkpsychology')",folk psychology,cognitive science,4,-1
+"('cognitivescience', 'connectionistmodel')",connectionist model,cognitive science,4,-1
+"('cognitivescience', 'connectionism')",connectionism,cognitive science,4,-1
+"('cognitivescience', 'externalismaboutmentalcontent')",externalism about mental content,cognitive science,3,-1
+"('cognitivescience', 'neuralnetwork')",neural network,cognitive science,4,-1
+"('cognitivescience', 'philosophyofscience')",philosophy of science,cognitive science,3,-1
+"('cognitivescience', 'computationalism')",computationalism,cognitive science,4,-1
+"('animalcognition', 'cognitivescience')",animal cognition,cognitive science,4,-1
+"('cognitivescience', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,cognitive science,3,-1
+"('cognitivescience', 'philosophyofcomputerscience')",philosophy of computer science,cognitive science,4,-1
+"('cognitivescience', 'distributedrepresentation')",distributed representation,cognitive science,4,-1
+"('cognitivescience', 'computationaltheoryofmind')",computational theory of mind,cognitive science,4,-1
+"('cognitivescience', 'consciousnessandmentalcontent')",consciousness and mental content,cognitive science,4,-1
+"('cognitivescience', 'intertheoryrelations')",intertheory relations,cognitive science,3,-1
+"('cognitivescience', 'philosophyofneuroscience')",philosophy of neuroscience,cognitive science,4,-1
+"('cognitivescience', 'psychiatry')",psychiatry,cognitive science,3,-1
+"('cognitivescience', 'logicandcomputation')",logic and computation,cognitive science,4,-1
+"('cognitivescience', 'phenomenalconsciousness')",phenomenal consciousness,cognitive science,4,-1
+"('cognitivescience', 'intentionalstance')",intentional stance,cognitive science,4,-1
+"('cognitivescience', 'ordinarylanguagephilosophy')",ordinary language philosophy,cognitive science,2,-1
+"('chineseroomargument', 'cognitivescience')",chinese room argument,cognitive science,4,-1
+"('causaltheoriesofmentalcontent', 'cognitivescience')",causal theories of mental content,cognitive science,3,-1
+"('cognitivescience', 'metaphysicsofmind')",metaphysics of mind,cognitive science,3,-1
+"('cognitivescience', 'mentalese')",mentalese,cognitive science,4,-1
+"('cognitivescience', 'philosophyofpsychology')",philosophy of psychology,cognitive science,4,-1
+"('cognitivescience', 'qualia')",qualia,cognitive science,3,-1
+"('cognitivescience', 'thetheorytheory')",the theory theory,cognitive science,4,-1
+"('cognitivescience', 'consciousnessandcontent')",consciousness and content,cognitive science,4,-1
+"('blindsight', 'cognitivescience')",blindsight,cognitive science,4,-1
+"('cognitivescience', 'teleosemantics')",teleosemantics,cognitive science,3,-1
+"('cognitivescience', 'newtonianism')",newtonianism,cognitive science,2,-1
+"('cognitivescience', 'dynamicalsystem')",dynamical system,cognitive science,4,-1
+"('cognitivescience', 'theoriesofmentalcontent')",theories of mental content,cognitive science,3,-1
+"('cognitivescience', 'psychologicalrelation')",psychological relation,cognitive science,4,-1
+"('cognitivescience', 'performance')",performance,cognitive science,4,-1
+"('cognitivescience', 'consciousnessandintentionality')",consciousness and intentionality,cognitive science,4,-1
+"('cognitivescience', 'consciousnessandpsychology')",consciousness and psychology,cognitive science,4,-1
+"('artificialintelligence', 'cognitivescience')",artificial intelligence,cognitive science,4,-1
+"('cognitivescience', 'nonconceptualcontent')",non-conceptual content,cognitive science,4,-1
+"('cognitivescience', 'languageofthoughthypothesis')",language of thought hypothesis,cognitive science,4,-1
+"('cognitivescience', 'philosophyofaction')",philosophy of action,cognitive science,3,-1
+"('cognitivescience', 'folkpsychologyasmentalsimulation')",folk psychology as mental simulation,cognitive science,4,-1
+"('cognitivescience', 'semanticconceptionsofinformation')",semantic conceptions of information,cognitive science,4,-1
+"('cognitivescience', 'reductivematerialism')",reductive materialism,cognitive science,4,-1
+"('cognitivescience', 'scientifictheory')",scientific theory,cognitive science,4,-1
+"('cognitivescience', 'nativism')",nativism,cognitive science,4,-1
+"('cognitivescience', 'speakermeaning')",speaker meaning,cognitive science,3,-1
+"('cognitivescience', 'languagelearning')",language learning,cognitive science,4,-1
+"('cognitivescience', 'quantumcomputing')",quantum computing,cognitive science,3,-1
+"('cognitivescience', 'intertheoryrelationsinphysics')",intertheory relations in physics,cognitive science,3,-1
+"('cognitivescience', 'meaningholism')",meaning holism,cognitive science,4,-1
+"('cognitivescience', 'evolutionarypsychology')",evolutionary psychology,cognitive science,3,-1
+"('classicism', 'cognitivescience')",classicism,cognitive science,4,-1
+"('cognitivescience', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,cognitive science,4,-1
+"('cognitivescience', 'materialism')",materialism,cognitive science,4,-1
+"('cognitivescience', 'simulationtheory')",simulation theory,cognitive science,3,-1
+"('cognitivescience', 'nonhumananimals')",nonhuman animals,cognitive science,3,-1
+"('cognitivescience', 'nonconceptualmentalcontent')",nonconceptual mental content,cognitive science,3,-1
+"('cognitivescience', 'falsificationism')",falsificationism,cognitive science,2,-1
+"('cognitivescience', 'emergentproperties')",emergent properties,cognitive science,4,-1
+"('cognitivescience', 'transcendentalarguments')",transcendental arguments,cognitive science,1,-1
+"('cognitivescience', 'modeltheory')",model theory,cognitive science,3,-1
+"('cognitivescience', 'pinealgland')",pineal gland,cognitive science,2,-1
+"('bayesianism', 'cognitivescience')",bayesianism,cognitive science,3,-1
+"('cognitivescience', 'epistemologyofscience')",epistemology of science,cognitive science,3,-1
+"('cognitivescience', 'neuralcorrelates')",neural correlates,cognitive science,4,-1
+"('causalprocesses', 'cognitivescience')",causal processes,cognitive science,3,-1
+"('cognitivescience', 'leibnizsphilosophyofmind')",leibniz's philosophy of mind,cognitive science,2,-1
+"('cognitivescience', 'vitalism')",vitalism,cognitive science,2,-1
+"('cartesiandualism', 'cognitivescience')",cartesian dualism,cognitive science,2,-1
+"('cognitivescience', 'rulefollowing')",rule-following,cognitive science,4,-1
+"('cognitivescience', 'philosophyoflogic')",philosophy of logic,cognitive science,4,-1
+"('cognitivescience', 'indeterminacyoftranslation')",indeterminacy of translation,cognitive science,3,-1
+"('churchturingthesis', 'cognitivescience')",church-turing thesis,cognitive science,4,-1
+"('20thcenturyphilosophy', 'cognitivescience')",20th century philosophy,cognitive science,3,-1
+"('cognitivescience', 'mentalcausation')",mental causation,cognitive science,3,-1
+"('cognitivescience', 'methodologicalindividualism')",methodological individualism,cognitive science,4,-1
+"('cognitivescience', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,cognitive science,3,-1
+"('cognitivescience', 'irrealism')",irrealism,cognitive science,3,-1
+"('cognitivescience', 'deductivereasoning')",deductive reasoning,cognitive science,4,-1
+"('animalconsciousness', 'cognitivescience')",animal consciousness,cognitive science,4,-1
+"('cognitivescience', 'compositionality')",compositionality,cognitive science,4,-1
+"('cognitivescience', 'scientificprogress')",scientific progress,cognitive science,4,-1
+"('atheismandagnosticism', 'cognitivescience')",atheism and agnosticism,cognitive science,2,-1
+"('cognitivescience', 'scientificmethodology')",scientific methodology,cognitive science,3,-1
+"('cognitivescience', 'otherminds')",other minds,cognitive science,4,-1
+"('cognitivescience', 'representationalism')",representationalism,cognitive science,4,-1
+"('cognitivescience', 'externalism')",externalism,cognitive science,3,-1
+"('cognitivescience', 'selfreference')",self-reference,cognitive science,3,-1
+"('cognitivescience', 'humancognition')",human cognition,cognitive science,4,-1
+"('cognitivescience', 'modularity')",modularity,cognitive science,4,-1
+"('bayesianepistemology', 'cognitivescience')",bayesian epistemology,cognitive science,3,-1
+"('cognitivescience', 'humanintelligence')",human intelligence,cognitive science,4,-1
+"('biologicalnotionofanindividual', 'cognitivescience')",biological notion of an individual,cognitive science,3,-1
+"('cognitivescience', 'metaphysicsofscience')",metaphysics of science,cognitive science,4,-1
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,1,0
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,1,0
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,0,-1
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,3,0
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,4,0
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,4,0
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,0,-1
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,3,0
+"('descartesmodalmetaphysics', 'philosophyofmind')",descartes' modal metaphysics,philosophy of mind,4,0
+"('mind', 'philosophyofmind')",mind,philosophy of mind,4,1
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,4,0
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,1,0
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,2,0
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,1,1
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,3,0
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,4,2
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,4,0
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,4,0
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,3,0
+"('matter', 'philosophyofmind')",matter,philosophy of mind,2,1
+"('mentalcausation', 'philosophyofmind')",mental causation,philosophy of mind,4,0
+"('philosophyofmind', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,philosophy of mind,0,-1
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,4,0
+"('philosophyofmind', 'philosophyofpsychology')",philosophy of psychology,philosophy of mind,4,0
+"('consciousness', 'philosophyofmind')",consciousness,philosophy of mind,4,0
+"('philosophyofmind', 'psychiatry')",psychiatry,philosophy of mind,3,2
+"('philosophiesoftheparticularsciences', 'philosophyofmind')",philosophies of the particular sciences,philosophy of mind,0,-1
+"('folkpsychology', 'philosophyofmind')",folk psychology,philosophy of mind,4,0
+"('ideas', 'philosophyofmind')",ideas,philosophy of mind,3,0
+"('philosophyofmind', 'philosophyofphysics')",philosophy of physics,philosophy of mind,2,3
+"('eliminativematerialism', 'philosophyofmind')",eliminative materialism,philosophy of mind,4,0
+"('epistemologicalproblemsofmemory', 'philosophyofmind')",epistemological problems of memory,philosophy of mind,4,0
+"('philosophyofmind', 'teleologicalargumentsforgodsexistence')",teleological arguments for god's existence,philosophy of mind,0,-1
+"('mentalrepresentation', 'philosophyofmind')",mental representation,philosophy of mind,4,0
+"('ancienttheoriesofsoul', 'philosophyofmind')",ancient theories of soul,philosophy of mind,2,3
+"('metaphysicsofmind', 'philosophyofmind')",metaphysics of mind,philosophy of mind,4,0
+"('philosophyofmind', 'syntacticanalysis')",syntactic analysis,philosophy of mind,3,0
+"('philosophyofmind', 'spinozaspsychologicaltheory')",spinoza's psychological theory,philosophy of mind,2,0
+"('philosophyofmind', 'philosophyofnature')",philosophy of nature,philosophy of mind,1,2
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,1,1
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,0,-1
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,4,0
+"('greatapes', 'philosophyofmind')",great apes,philosophy of mind,1,2
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,4,0
+"('philosophyofmind', 'probabilityandstatistics')",probability and statistics,philosophy of mind,0,-1
+"('everettsrelativestateformulationofquantummechanics', 'philosophyofmind')",everett's relative-state formulation of quantum mechanics,philosophy of mind,0,-1
+"('intentionality', 'philosophyofmind')",intentionality,philosophy of mind,4,0
+"('body', 'philosophyofmind')",body,philosophy of mind,3,2
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,4,0
+"('philosophyofmind', 'propositionalattitude')",propositional attitude,philosophy of mind,4,0
+"('perception', 'philosophyofmind')",perception,philosophy of mind,4,3
+"('philosophyofchemistry', 'philosophyofmind')",philosophy of chemistry,philosophy of mind,1,3
+"('philosophyofmind', 'philosophyofperception')",philosophy of perception,philosophy of mind,3,3
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,1,3
+"('philosophyofmind', 'sensedata')",sense-data,philosophy of mind,4,3
+"('philosophyofmind', 'unityofconsciousness')",unity of consciousness,philosophy of mind,4,0
+"('ancientphilosophyaristotle', 'philosophyofmind')",ancient philosophy (aristotle),philosophy of mind,0,-1
+"('existence', 'philosophyofmind')",existence,philosophy of mind,0,-1
+"('koreanphilosophy', 'philosophyofmind')",korean philosophy,philosophy of mind,0,-1
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,2,3
+"('consciousnessandcontent', 'philosophyofmind')",consciousness and content,philosophy of mind,4,0
+"('philosophyofmind', 'probability')",probability,philosophy of mind,0,-1
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,2
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,0
+"('nonhumananimals', 'philosophyofmind')",nonhuman animals,philosophy of mind,3,1
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,2
+"('philosophyofmind', 'sensedata')",sense data,philosophy of mind,4,2
+"('philosophyofmind', 'universals')",universals,philosophy of mind,1,1
+"('philosophyofmind', 'problemofperception')",problem of perception,philosophy of mind,3,0
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,4,0
+"('induction', 'philosophyofmind')",induction,philosophy of mind,2,0
+"('artificialintelligence', 'philosophyofmind')",artificial intelligence,philosophy of mind,4,0
+"('consciousnessandpsychology', 'philosophyofmind')",consciousness and psychology,philosophy of mind,4,0
+"('mentalcontent', 'philosophyofmind')",mental content,philosophy of mind,4,0
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,3,3
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,3,2
+"('philosophyofbiology', 'philosophyofmind')",philosophy of biology,philosophy of mind,2,2
+"('interactionism', 'philosophyofmind')",interactionism,philosophy of mind,4,0
+"('mentalstate', 'philosophyofmind')",mental state,philosophy of mind,4,0
+"('modularity', 'philosophyofmind')",modularity,philosophy of mind,4,0
+"('philosophyofart', 'philosophyofmind')",philosophy of art,philosophy of mind,0,-1
+"('philosophyofmind', 'symbolicprocessing')",symbolic processing,philosophy of mind,4,0
+"('philosophyofmind', 'realism')",realism,philosophy of mind,2,2
+"('modernphilosophy', 'philosophyofmind')",modern philosophy,philosophy of mind,2,1
+"('epistemologicalproblemsofperception', 'philosophyofmind')",epistemological problems of perception,philosophy of mind,3,0
+"('computationandrepresentation', 'philosophyofmind')",computation and representation,philosophy of mind,4,0
+"('introspection', 'philosophyofmind')",introspection,philosophy of mind,4,0
+"('mindbodyproblem', 'philosophyofmind')",mind-body problem,philosophy of mind,4,0
+"('imagery', 'philosophyofmind')",imagery,philosophy of mind,4,0
+"('digitalphilosophy', 'philosophyofmind')",digital philosophy,philosophy of mind,3,2
+"('philosophyofmind', 'simulationtheory')",simulation theory,philosophy of mind,4,0
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,1,3
+"('internalism', 'philosophyofmind')",internalism,philosophy of mind,4,0
+"('philosophyofmind', 'virtuesandvices')",virtues and vices,philosophy of mind,0,-1
+"('kantscritiqueofmetaphysics', 'metaphysics')",kant's critique of metaphysics,metaphysics,2,0
+"('metaphysics', 'metaphysicsofscience')",metaphysics of science,metaphysics,3,0
+"('metaphysics', 'philosophyofphysics')",philosophy of physics,metaphysics,2,3
+"('metaphysics', 'processtheism')",process theism,metaphysics,2,0
+"('metaphysics', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,metaphysics,3,3
+"('medievaltheoriesofthecategories', 'metaphysics')",medieval theories of the categories,metaphysics,3,0
+"('metaphysics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,metaphysics,3,3
+"('aristotleoncausality', 'metaphysics')",aristotle on causality,metaphysics,2,0
+"('metaphysics', 'philosophyofpsychology')",philosophy of psychology,metaphysics,2,3
+"('matter', 'metaphysics')",matter,metaphysics,3,0
+"('metaphysics', 'metaphysicsofmind')",metaphysics of mind,metaphysics,4,0
+"('metaphysics', 'philosophyofmathematics')",philosophy of mathematics,metaphysics,2,3
+"('feministmetaphysics', 'metaphysics')",feminist metaphysics,metaphysics,3,0
+"('aristotleandmathematics', 'metaphysics')",aristotle and mathematics,metaphysics,3,2
+"('medievaltheoriesofanalogy', 'metaphysics')",medieval theories of analogy,metaphysics,1,0
+"('metaphysics', 'realismandantirealism')",realism and anti-realism,metaphysics,4,0
+"('metaphysics', 'realismandantirealism')",realism and anti-realism,metaphysics,4,0
+"('metaphysics', 'naturalphilosophy')",natural philosophy,metaphysics,3,2
+"('metaphysics', 'philosophyofscience')",philosophy of science,metaphysics,3,3
+"('aristotleslogic', 'metaphysics')",aristotle's logic,metaphysics,1,0
+"('metaphysics', 'realism')",realism,metaphysics,4,0
+"('kantsphilosophyofreligion', 'metaphysics')",kant's philosophy of religion,metaphysics,3,0
+"('medievaltheoriesofrelations', 'metaphysics')",medieval theories of relations,metaphysics,3,0
+"('kantsphilosophicaldevelopment', 'metaphysics')",kant's philosophical development,metaphysics,1,0
+"('18thcenturygermanaesthetics', 'metaphysics')",18th century german aesthetics,metaphysics,0,-1
+"('metaphysics', 'philosophyofspaceandtime')",philosophy of space and time,metaphysics,3,3
+"('existence', 'metaphysics')",existence,metaphysics,4,0
+"('ancientphilosophyaristotle', 'metaphysics')",ancient philosophy (aristotle),metaphysics,2,3
+"('hylomorphism', 'metaphysics')",hylomorphism,metaphysics,4,0
+"('metaphysics', 'philosophyofmind')",philosophy of mind,metaphysics,3,2
+"('metaphysics', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,metaphysics,0,-1
+"('analyticfeminism', 'metaphysics')",analytic feminism,metaphysics,0,-1
+"('inherence', 'metaphysics')",inherence,metaphysics,4,0
+"('metaphysics', 'mindbodyproblem')",mind-body problem,metaphysics,4,0
+"('metaphysics', 'platoonutopia')",plato on utopia,metaphysics,0,-1
+"('metaphysics', 'modernphilosophy')",modern philosophy,metaphysics,3,3
+"('kantsphilosophyofscience', 'metaphysics')",kant's philosophy of science,metaphysics,1,0
+"('medievaltheoriesofcausality', 'metaphysics')",medieval theories of causality,metaphysics,4,0
+"('logos', 'metaphysics')",logos,metaphysics,3,0
+"('metaphysics', 'philosophyofperception')",philosophy of perception,metaphysics,1,3
+"('metaphysics', 'philosophyofchemistry')",philosophy of chemistry,metaphysics,2,3
+"('metaphysics', 'universals')",universals,metaphysics,4,0
+"('metaphysics', 'principleofsufficientreason')",principle of sufficient reason,metaphysics,3,3
+"('aristotlesnaturalphilosophy', 'metaphysics')",aristotle's natural philosophy,metaphysics,3,0
+"('metaphysics', 'time')",time,metaphysics,3,3
+"('abstractobject', 'metaphysics')",abstract object,metaphysics,4,3
+"('metaphysics', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,metaphysics,2,0
+"('metaphysics', 'mind')",mind,metaphysics,3,3
+"('metaphysics', 'propernames')",proper names,metaphysics,1,0
+"('metaphysics', 'personalidentityandethics')",personal identity and ethics,metaphysics,3,3
+"('cosmology', 'metaphysics')",cosmology,metaphysics,3,2
+"('continuant', 'metaphysics')",continuant,metaphysics,4,0
+"('causeandeffect', 'metaphysics')",cause and effect,metaphysics,3,3
+"('metaphysics', 'theoryofforms')",theory of forms,metaphysics,4,0
+"('interpretation', 'metaphysics')",interpretation,metaphysics,0,-1
+"('leibnizsinfluenceonkant', 'metaphysics')",leibniz's influence on kant,metaphysics,2,3
+"('aristotelianism', 'metaphysics')",aristotelianism,metaphysics,3,0
+"('existenceofgod', 'metaphysics')",existence of god,metaphysics,3,3
+"('metaphysics', 'motionandtime')",motion and time,metaphysics,3,3
+"('lawsofnature', 'metaphysics')",laws of nature,metaphysics,3,3
+"('mathematicallogic', 'metaphysics')",mathematical logic,metaphysics,1,2
+"('descartesmodalmetaphysics', 'metaphysics')",descartes' modal metaphysics,metaphysics,4,0
+"('metaphysics', 'metaphysicsofcausation')",metaphysics of causation,metaphysics,4,0
+"('metaphysics', 'theoryoftruth')",theory of truth,metaphysics,1,2
+"('metaphysics', 'vitalism')",vitalism,metaphysics,2,0
+"('arabicphilosophyandislamicphilosophy', 'metaphysics')",arabic philosophy and islamic philosophy,metaphysics,1,0
+"('metaphysics', 'singularpropositions')",singular propositions,metaphysics,2,0
+"('metaphysics', 'philosophyofbiology')",philosophy of biology,metaphysics,2,3
+"('metaphysics', 'philosophyofart')",philosophy of art,metaphysics,0,-1
+"('metaphysics', 'naturaltheology')",natural theology,metaphysics,3,3
+"('metaphysics', 'peripatetic')",peripatetic,metaphysics,2,0
+"('compositionalityandlogicalform', 'metaphysics')",compositionality and logical form,metaphysics,0,-1
+"('eternityoftheworld', 'metaphysics')",eternity of the world,metaphysics,3,0
+"('ideas', 'metaphysics')",ideas,metaphysics,2,3
+"('meaning', 'metaphysics')",meaning,metaphysics,0,2
+"('metaphysics', 'sophists')",sophists,metaphysics,2,0
+"('epistemologyofscience', 'metaphysics')",epistemology of science,metaphysics,1,0
+"('metaphysics', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,metaphysics,0,-1
+"('metaphysics', 'socialandpoliticalphilosophy')",social and political philosophy,metaphysics,0,-1
+"('goodness', 'metaphysics')",goodness,metaphysics,2,0
+"('mereology', 'metaphysics')",mereology,metaphysics,4,0
+"('identitytheoryoftruth', 'metaphysics')",identity theory of truth,metaphysics,2,0
+"('analysis', 'metaphysics')",analysis,metaphysics,3,0
+"('eternityinchristianthought', 'metaphysics')",Eternity in Christian Thought,metaphysics,3,0
+"('goodnessandvaluetheory', 'metaphysics')",goodness and value theory,metaphysics,1,2
+"('metaphysics', 'platonism')",platonism,metaphysics,4,0
+"('epistemeandtechne', 'metaphysics')",episteme and techne,metaphysics,2,0
+"('identityofindiscernibles', 'metaphysics')",identity of indiscernibles,metaphysics,4,0
+"('identityandindividualityinquantumtheory', 'metaphysics')",identity and individuality in quantum theory,metaphysics,3,0
+"('metaphysics', 'simultaneity')",simultaneity,metaphysics,3,0
+"('metaphysics', 'substance')",substance,metaphysics,3,0
+"('confirmationandinduction', 'metaphysics')",confirmation and induction,metaphysics,1,0
+"('metaphysics', 'processphilosophy')",process philosophy,metaphysics,2,0
+"('philosophyofreligion', 'religiousdiversity')",religious diversity,philosophy of religion,3,0
+"('philosophyofreligion', 'religion')",religion,philosophy of religion,4,1
+"('kantsphilosophyofreligion', 'philosophyofreligion')",kant's philosophy of religion,philosophy of religion,2,0
+"('epistemologyofreligion', 'philosophyofreligion')",epistemology of religion,philosophy of religion,4,0
+"('philosophyofreligion', 'religionandscience')",religion and science,philosophy of religion,4,0
+"('fideism', 'philosophyofreligion')",fideism,philosophy of religion,4,0
+"('humeonreligion', 'philosophyofreligion')",hume on religion,philosophy of religion,4,0
+"('philosophyofreligion', 'religionandmorality')",religion and morality,philosophy of religion,4,0
+"('philosophyofreligion', 'scienceandreligion')",science and religion,philosophy of religion,4,0
+"('pantheism', 'philosophyofreligion')",pantheism,philosophy of religion,3,0
+"('definitionofmorality', 'philosophyofreligion')",definition of morality,philosophy of religion,2,3
+"('lockespoliticalphilosophy', 'philosophyofreligion')",locke's political philosophy,philosophy of religion,1,-1
+"('philosophyofreligion', 'pragmaticargumentsandbeliefingod')",pragmatic arguments and belief in god,philosophy of religion,3,0
+"('philosophyofreligion', 'religiouslanguage')",religious language,philosophy of religion,3,0
+"('philosophyofreligion', 'theism')",theism,philosophy of religion,4,0
+"('conceptsofgod', 'philosophyofreligion')",concepts of god,philosophy of religion,4,0
+"('miracles', 'philosophyofreligion')",miracles,philosophy of religion,4,0
+"('influenceofislamicthoughtonmaimonides', 'philosophyofreligion')",influence of islamic thought on maimonides,philosophy of religion,3,0
+"('cosmologicalargumentsfortheexistenceofgod', 'philosophyofreligion')",cosmological arguments for the existence of god,philosophy of religion,4,0
+"('argumentsfortheexistenceofgod', 'philosophyofreligion')",arguments for the existence of god,philosophy of religion,4,0
+"('christiantheology', 'philosophyofreligion')",christian theology,philosophy of religion,4,0
+"('philosophyofreligion', 'problemofevil')",problem of evil,philosophy of religion,4,0
+"('ontologicalargument', 'philosophyofreligion')",ontological argument,philosophy of religion,4,0
+"('afterlife', 'philosophyofreligion')",afterlife,philosophy of religion,3,3
+"('philosophyandchristiantheology', 'philosophyofreligion')",philosophy and christian theology,philosophy of religion,4,0
+"('modernphilosophy', 'philosophyofreligion')",modern philosophy,philosophy of religion,3,3
+"('islamicphilosophy', 'philosophyofreligion')",islamic philosophy,philosophy of religion,3,0
+"('atheism', 'philosophyofreligion')",atheism,philosophy of religion,4,3
+"('cosmologicalargument', 'philosophyofreligion')",cosmological argument,philosophy of religion,4,0
+"('eternityinchristianthought', 'philosophyofreligion')",Eternity in Christian Thought,philosophy of religion,3,3
+"('atonement', 'philosophyofreligion')",atonement,philosophy of religion,2,0
+"('evolutionarypsychology', 'philosophyofreligion')",evolutionary psychology,philosophy of religion,2,3
+"('creationism', 'philosophyofreligion')",creationism,philosophy of religion,3,3
+"('churchandstate', 'philosophyofreligion')",church and state,philosophy of religion,3,3
+"('omniscience', 'philosophyofreligion')",omniscience,philosophy of religion,4,0
+"('divinerevelation', 'philosophyofreligion')",divine revelation,philosophy of religion,4,0
+"('divinelaw', 'philosophyofreligion')",divine law,philosophy of religion,3,3
+"('monotheism', 'philosophyofreligion')",monotheism,philosophy of religion,4,0
+"('philosophyofreligion', 'sovereignty')",sovereignty,philosophy of religion,3,0
+"('agnosticism', 'philosophyofreligion')",agnosticism,philosophy of religion,4,0
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,4,0
+"('epistemology', 'feministsocialepistemology')",feminist social epistemology,epistemology,4,0
+"('epistemology', 'naturalizedepistemology')",naturalized epistemology,epistemology,4,0
+"('epistemology', 'virtueepistemology')",virtue epistemology,epistemology,4,0
+"('coherentism', 'epistemology')",coherentism,epistemology,4,0
+"('epistemology', 'epistemologyofreligion')",epistemology of religion,epistemology,2,0
+"('epistemology', 'moralepistemology')",moral epistemology,epistemology,2,0
+"('epistemology', 'epistemologyofscience')",epistemology of science,epistemology,3,0
+"('epistemology', 'evolutionaryepistemology')",evolutionary epistemology,epistemology,2,0
+"('epistemology', 'knowledge')",knowledge,epistemology,4,0
+"('epistemology', 'foundationalism')",foundationalism,epistemology,4,0
+"('epistemology', 'reliabilism')",reliabilism,epistemology,4,0
+"('epistemology', 'feministphilosophy')",feminist philosophy,epistemology,2,1
+"('contextualism', 'epistemology')",contextualism,epistemology,4,0
+"('belief', 'epistemology')",belief,epistemology,4,0
+"('epistemology', 'philosophyofpsychology')",philosophy of psychology,epistemology,3,2
+"('epistemology', 'psychiatry')",psychiatry,epistemology,2,1
+"('epistemology', 'naturalisminlegalphilosophy')",naturalism in legal philosophy,epistemology,0,3
+"('epistemology', 'philosophyofscience')",philosophy of science,epistemology,3,1
+"('coherentisttheoriesofjustification', 'epistemology')",coherentist theories of justification,epistemology,4,0
+"('epistemology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,epistemology,2,1
+"('epistemology', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,epistemology,2,2
+"('epistemology', 'philosophyofphysics')",philosophy of physics,epistemology,1,1
+"('epistemology', 'realismandantirealism')",realism and anti-realism,epistemology,3,2
+"('epistemology', 'philosophyofnature')",philosophy of nature,epistemology,1,1
+"('epistemology', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,epistemology,0,-1
+"('epistemology', 'probabilityandstatistics')",probability and statistics,epistemology,3,0
+"('epistemology', 'gettierproblem')",gettier problem,epistemology,4,0
+"('epistemology', 'realism')",realism,epistemology,3,0
+"('earlyphilosophicalinterpretationsofgeneralrelativity', 'epistemology')",early philosophical interpretations of general relativity,epistemology,0,-1
+"('epistemology', 'introspection')",introspection,epistemology,4,0
+"('epistemology', 'experimentinphysics')",experiment in physics,epistemology,1,2
+"('confirmationandinduction', 'epistemology')",confirmation and induction,epistemology,4,0
+"('epistemology', 'philosophyofmathematics')",philosophy of mathematics,epistemology,2,1
+"('epistemology', 'otherminds')",other minds,epistemology,3,0
+"('epistemologicalproblemsofmemory', 'epistemology')",epistemological problems of memory,epistemology,4,0
+"('epistemology', 'philosophyofperception')",philosophy of perception,epistemology,4,2
+"('epistemology', 'internalismandexternalism')",internalism and externalism,epistemology,4,0
+"('epistemology', 'platoonutopia')",plato on utopia,epistemology,0,-1
+"('epistemology', 'testimony')",testimony,epistemology,4,0
+"('epistemology', 'perception')",perception,epistemology,4,1
+"('epistemology', 'melanism')",melanism,epistemology,0,-1
+"('epistemology', 'matter')",matter,epistemology,0,-1
+"('epistemology', 'internalism')",internalism,epistemology,4,0
+"('epistemology', 'metaphysicsofscience')",metaphysics of science,epistemology,1,2
+"('epistemology', 'induction')",induction,epistemology,4,0
+"('epistemology', 'justifiedtruebelief')",justified true belief,epistemology,4,0
+"('epistemology', 'externalism')",externalism,epistemology,4,0
+"('epistemology', 'philosophyofmind')",philosophy of mind,epistemology,3,2
+"('epistemology', 'philosophyofbiology')",philosophy of biology,epistemology,3,2
+"('epistemology', 'knowledgebyacquaintanceandknowledgebydescription')",knowledge by acquaintance and knowledge by description,epistemology,4,0
+"('epistemology', 'ideas')",ideas,epistemology,4,0
+"('epistemology', 'probability')",probability,epistemology,4,0
+"('epistemology', 'frameproblem')",frame problem,epistemology,4,0
+"('epistemology', 'inductivelogicanddecisiontheory')",inductive logic and decision theory,epistemology,4,0
+"('epistemology', 'inductivelogicanddecisiontheory')",inductive logic and decision theory,epistemology,4,0
+"('epistemology', 'scientificmethodology')",scientific methodology,epistemology,3,0
+"('epistemology', 'perspectivism')",perspectivism,epistemology,4,0
+"('antirealism', 'epistemology')",anti-realism,epistemology,4,0
+"('epistemology', 'philosophyofsocialscience')",philosophy of social science,epistemology,3,1
+"('epistemology', 'sensedata')",sense data,epistemology,4,0
+"('boundedrationality', 'epistemology')",bounded rationality,epistemology,3,2
+"('epistemology', 'scientifictheory')",scientific theory,epistemology,3,1
+"('defeasiblereasoning', 'epistemology')",defeasible reasoning,epistemology,4,0
+"('epistemology', 'generalrelativity')",general relativity,epistemology,1,1
+"('epistemology', 'theoryofforms')",theory of forms,epistemology,1,1
+"('epistemology', 'platonicrealism')",platonic realism,epistemology,1,1
+"('epistemology', 'philosophyofchemistry')",philosophy of chemistry,epistemology,1,1
+"('epistemology', 'logos')",logos,epistemology,0,-1
+"('epistemology', 'historyofscience')",history of science,epistemology,3,1
+"('analysis', 'epistemology')",analysis,epistemology,3,1
+"('epistemology', 'lawsofnature')",laws of nature,epistemology,3,1
+"('epistemology', 'methodsinfeminism')",methods in feminism,epistemology,2,1
+"('epistemology', 'optimism')",optimism,epistemology,0,-1
+"('epistemology', 'indeterminism')",indeterminism,epistemology,3,2
+"('epistemology', 'transworldidentity')",transworld identity,epistemology,0,-1
+"('baptism', 'epistemology')",baptism,epistemology,0,-1
+"('ambiguity', 'epistemology')",ambiguity,epistemology,0,-1
+"('epistemology', 'vitalism')",vitalism,epistemology,0,-1
+"('epistemology', 'interpretation')",interpretation,epistemology,3,0
+"('epistemology', 'logicandlanguage')",logic and language,epistemology,2,1
+"('epistemology', 'historyoffeminism')",history of feminism,epistemology,1,1
+"('epistemology', 'falsificationism')",falsificationism,epistemology,4,0
+"('epistemology', 'propernames')",proper names,epistemology,0,-1
+"('epistemology', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,epistemology,0,-1
+"('epistemology', 'socialandpoliticalphilosophy')",social and political philosophy,epistemology,0,-1
+"('epistemology', 'logicalconstruction')",logical construction,epistemology,3,0
+"('epistemology', 'philosophyoflogic')",philosophy of logic,epistemology,4,1
+"('epistemology', 'modernphilosophy')",modern philosophy,epistemology,3,1
+"('epistemology', 'pragmatistfeminism')",pragmatist feminism,epistemology,0,-1
+"('internalistvsexternalistconceptionsofepistemicjustification', 'justification')",internalist vs. externalist conceptions of epistemic justification,justification,4,0
+"('foundationalisttheoriesofepistemicjustification', 'justification')",foundationalist theories of epistemic justification,justification,4,0
+"('analysisofknowledge', 'justification')",analysis of knowledge,justification,4,1
+"('coherentisttheoriesofepistemicjustification', 'justification')",coherentist theories of epistemic justification,justification,4,0
+"('justification', 'publicjustification')",public justification,justification,4,2
+"('coherentism', 'justification')",coherentism,justification,4,0
+"('internalism', 'justification')",internalism,justification,4,0
+"('internalismandexternalism', 'justification')",internalism and externalism,justification,4,0
+"('justification', 'knowledge')",knowledge,justification,4,1
+"('justification', 'virtueepistemology')",virtue epistemology,justification,4,1
+"('justification', 'reliabilism')",reliabilism,justification,4,0
+"('foundationalism', 'justification')",foundationalism,justification,4,0
+"('justification', 'mentalism')",mentalism,justification,4,0
+"('justification', 'probabilityandstatistics')",probability and statistics,justification,3,2
+"('justification', 'punishment')",punishment,justification,0,-1
+"('justification', 'moralrelativism')",moral relativism,justification,0,-1
+"('epistemologicalproblemsoftestimony', 'justification')",epistemological problems of testimony,justification,4,1
+"('coherentisttheoriesofjustification', 'justification')",coherentist theories of justification,justification,4,2
+"('justification', 'matter')",matter,justification,0,-1
+"('justification', 'legalpunishment')",legal punishment,justification,0,-1
+"('induction', 'justification')",induction,justification,3,1
+"('justification', 'politicalauthority')",political authority,justification,2,1
+"('confirmationandinduction', 'justification')",confirmation and induction,justification,4,2
+"('justification', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,justification,0,-1
+"('externalism', 'justification')",externalism,justification,4,0
+"('justification', 'socialcontract')",social contract,justification,0,-1
+"('justification', 'justifiedtruebelief')",justified true belief,justification,4,1
+"('justification', 'philosophyofnature')",philosophy of nature,justification,0,-1
+"('coercion', 'justification')",coercion,justification,3,1
+"('justification', 'liberty')",liberty,justification,0,-1
+"('justification', 'philosophyofpsychology')",philosophy of psychology,justification,3,1
+"('justification', 'taxation')",taxation,justification,0,-1
+"('justification', 'psychiatry')",psychiatry,justification,0,-1
+"('justification', 'politicalmorality')",political morality,justification,0,-1
+"('justification', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,justification,0,-1
+"('justification', 'socialandpoliticalphilosophy')",social and political philosophy,justification,0,-1
+"('justification', 'toleration')",toleration,justification,0,-1
+"('belief', 'justification')",belief,justification,4,2
+"('justification', 'realismandantirealism')",realism and anti-realism,justification,3,1
+"('justification', 'rights')",rights,justification,0,-1
+"('justification', 'realismandantirealism')",realism and anti-realism,justification,3,1
+"('justification', 'philosophyofmathematics')",philosophy of mathematics,justification,3,1
+"('justification', 'realism')",realism,justification,3,1
+"('commongood', 'justification')",common good,justification,0,-1
+"('justification', 'terrorism')",terrorism,justification,0,-1
+"('justification', 'positivelaw')",positive law,justification,0,-1
+"('justification', 'philosophyofphysics')",philosophy of physics,justification,3,1
+"('justification', 'voting')",voting,justification,0,-1
+"('gettierproblem', 'justification')",gettier problem,justification,4,1
+"('justification', 'politicalobligation')",political obligation,justification,0,-1
+"('justification', 'utilitarianism')",utilitarianism,justification,0,-1
+"('justification', 'privacy')",privacy,justification,0,-1
+"('justification', 'socialnorm')",social norm,justification,3,1
+"('distributiveandeconomicjustice', 'justification')",distributive and economic justice,justification,0,-1
+"('justification', 'wellbeing')",well-being,justification,0,-1
+"('justification', 'philosophyofmind')",philosophy of mind,justification,3,1
+"('action', 'justification')",action,justification,3,1
+"('justification', 'testimony')",testimony,justification,4,0
+"('justification', 'publicreason')",public reason,justification,4,1
+"('justification', 'socialjustice')",social justice,justification,0,-1
+"('justification', 'time')",time,justification,0,-1
+"('democracy', 'justification')",democracy,justification,0,-1
+"('equality', 'justification')",equality,justification,0,-1
+"('function', 'justification')",function,justification,0,-1
+"('inductivelogicanddecisiontheory', 'justification')",inductive logic and decision theory,justification,4,1
+"('inductivelogicanddecisiontheory', 'justification')",inductive logic and decision theory,justification,4,1
+"('justification', 'liberalism')",liberalism,justification,0,-1
+"('justification', 'philosophyofscience')",philosophy of science,justification,4,1
+"('justification', 'naturalizedepistemology')",naturalized epistemology,justification,4,1
+"('justification', 'politicallegitimacy')",political legitimacy,justification,0,-1
+"('justification', 'meaning')",meaning,justification,0,-1
+"('justification', 'semantics')",semantics,justification,0,-1
+"('justification', 'war')",war,justification,0,-1
+"('justification', 'philosophyofperception')",philosophy of perception,justification,4,1
+"('justification', 'relativism')",relativism,justification,4,1
+"('justification', 'value')",value,justification,4,1
+"('confirmation', 'justification')",confirmation,justification,4,1
+"('instrumentalism', 'justification')",instrumentalism,justification,4,1
+"('formsofgovernment', 'justification')",forms of government,justification,0,-1
+"('justification', 'philosophyofbiology')",philosophy of biology,justification,4,1
+"('justification', 'socialepistemology')",social epistemology,justification,4,1
+"('functionandteleology', 'justification')",function and teleology,justification,0,-1
+"('generalwill', 'justification')",general will,justification,0,-1
+"('friendship', 'justification')",friendship,justification,0,-1
+"('goodness', 'justification')",goodness,justification,0,-1
+"('interpretation', 'justification')",interpretation,justification,3,1
+"('justification', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,justification,4,1
+"('justification', 'publicity')",publicity,justification,0,-1
+"('justification', 'perception')",perception,justification,4,1
+"('justification', 'philosophyofsocialscience')",philosophy of social science,justification,4,1
+"('justification', 'originalsin')",original sin,justification,0,-1
+"('justification', 'negation')",negation,justification,0,-1
+"('goodnessandvaluetheory', 'justification')",goodness and value theory,justification,0,-1
+"('justification', 'logicandlanguage')",logic and language,justification,2,1
+"('epistemicbasingrelation', 'justification')",epistemic basing relation,justification,4,0
+"('analysis', 'justification')",analysis,justification,4,1
+"('coherentism', 'coherentisttheoriesofepistemicjustification')",coherentist theories of epistemic justification,coherentism,4,0
+"('coherencetheoryoftruth', 'coherentism')",coherence theory of truth,coherentism,4,1
+"('coherentism', 'virtueepistemology')",virtue epistemology,coherentism,4,1
+"('coherentism', 'epistemologicalproblemsofmemory')",epistemological problems of memory,coherentism,4,1
+"('coherentism', 'valueofknowledge')",value of knowledge,coherentism,4,1
+"('coherentism', 'pyrrhonianskepticism')",pyrrhonian skepticism,coherentism,4,1
+"('coherentism', 'logicofbeliefrevision')",logic of belief revision,coherentism,4,1
+"('coherentism', 'internalistvsexternalistconceptionsofepistemicjustification')",internalist vs. externalist conceptions of epistemic justification,coherentism,4,0
+"('coherentism', 'gettierproblem')",gettier problem,coherentism,4,1
+"('coherentism', 'foundationalism')",foundationalism,coherentism,4,0
+"('coherentism', 'ruleconsequentialism')",rule consequentialism,coherentism,0,-1
+"('coherentism', 'epistemologicalproblemsoftestimony')",epistemological problems of testimony,coherentism,4,1
+"('coherentism', 'socialepistemology')",social epistemology,coherentism,4,1
+"('coherentism', 'moralnaturalism')",moral naturalism,coherentism,0,-1
+"('coherentism', 'moralepistemology')",moral epistemology,coherentism,3,1
+"('analysisofknowledge', 'coherentism')",analysis of knowledge,coherentism,4,1
+"('coherentism', 'commonknowledge')",common knowledge,coherentism,4,1
+"('coherentism', 'contextualism')",contextualism,coherentism,4,2
+"('contextualism', 'kochenspeckertheorem')",kochen-specker theorem,contextualism,0,-1
+"('contextualism', 'virtueepistemology')",virtue epistemology,contextualism,4,1
+"('contextualism', 'soritesparadox')",sorites paradox,contextualism,0,-1
+"('contextualism', 'deweysmoralphilosophy')",dewey's moral philosophy,contextualism,0,-1
+"('contextualism', 'manyvaluedlogic')",many-valued logic,contextualism,0,-1
+"('coherentism', 'contextualism')",coherentism,contextualism,4,2
+"('contextualism', 'epistemologicalproblemsoftestimony')",epistemological problems of testimony,contextualism,4,1
+"('contextualism', 'reliabilism')",reliabilism,contextualism,4,2
+"('contextualism', 'gettierproblem')",gettier problem,contextualism,4,1
+"('contextualism', 'dogmatism')",dogmatism,contextualism,0,-1
+"('contextualism', 'ontologicaldependence')",ontological dependence,contextualism,0,-1
+"('contextualism', 'moralepistemology')",moral epistemology,contextualism,0,-1
+"('contextualism', 'moralnaturalism')",moral naturalism,contextualism,0,-1
+"('contextualism', 'socialepistemology')",social epistemology,contextualism,4,1
+"('contextualism', 'unityofscience')",unity of science,contextualism,1,1
+"('contextualism', 'implicature')",implicature,contextualism,3,1
+"('contextualism', 'indexicals')",indexicals,contextualism,4,1
+"('contextualism', 'scientificprogress')",scientific progress,contextualism,2,-1
+"('contextualism', 'justifiedtruebelief')",justified true belief,contextualism,2,1
+"('contextualism', 'scienceandsociety')",science and society,contextualism,2,1
+"('contextualism', 'statisticalmechanics')",statistical mechanics,contextualism,0,-1
+"('contextualism', 'probabilityandstatistics')",probability and statistics,contextualism,0,-1
+"('contextualism', 'replication')",replication,contextualism,0,-1
+"('classicallogic', 'contextualism')",classical logic,contextualism,0,-1
+"('contextualism', 'languagelearning')",language learning,contextualism,0,-1
+"('dynamicalsystem', 'symbolicprocessing')",symbolic processing,dynamical system,4,2
+"('causaldeterminism', 'dynamicalsystem')",causal determinism,dynamical system,3,1
+"('dynamicalsystem', 'supertasks')",supertasks,dynamical system,3,1
+"('dynamicalsystem', 'philosophyofstatisticalmechanics')",philosophy of statistical mechanics,dynamical system,2,1
+"('bohmianmechanics', 'dynamicalsystem')",bohmian mechanics,dynamical system,0,-1
+"('dynamicalsystem', 'mentalimagery')",mental imagery,dynamical system,2,0
+"('dynamicalsystem', 'folkpsychology')",folk psychology,dynamical system,3,2
+"('dynamicalsystem', 'kochenspeckertheorem')",kochen-specker theorem,dynamical system,0,-1
+"('dynamicalsystem', 'holeargument')",hole argument,dynamical system,0,-1
+"('consciousnessandscience', 'dynamicalsystem')",consciousness and science,dynamical system,2,1
+"('dynamicalsystem', 'populationgenetics')",population genetics,dynamical system,1,1
+"('dynamicalsystem', 'molecularbiology')",molecular biology,dynamical system,1,1
+"('dynamicalsystem', 'logicandcomputation')",logic and computation,dynamical system,4,2
+"('dynamicalsystem', 'spacetime')",spacetime,dynamical system,0,-1
+"('dynamicalsystem', 'multiplerealizability')",multiple realizability,dynamical system,4,1
+"('dynamicalsystem', 'unityofscience')",unity of science,dynamical system,2,1
+"('connectionism', 'dynamicalsystem')",connectionism,dynamical system,4,2
+"('dynamicalsystem', 'quantumfieldtheory')",quantum field theory,dynamical system,0,-1
+"('dynamicalsystem', 'neuralnetwork')",neural network,dynamical system,4,0
+"('dynamicalsystem', 'scienceandsociety')",science and society,dynamical system,3,1
+"('dynamicalsystem', 'electromagnetism')",electromagnetism,dynamical system,0,-1
+"('classicalphysics', 'dynamicalsystem')",classical physics,dynamical system,1,1
+"('dynamicalsystem', 'statisticalmechanics')",statistical mechanics,dynamical system,0,-1
+"('perception', 'problemofperception')",problem of perception,perception,4,0
+"('leibnizsphilosophyofmind', 'perception')",leibniz's philosophy of mind,perception,3,0
+"('perception', 'platoonknowledgeinthetheaetetus')",plato on knowledge in the theaetetus,perception,3,0
+"('leibnizoncausation', 'perception')",leibniz on causation,perception,2,0
+"('malebranchestheoryofideasandvisioningod', 'perception')",malebranche's theory of ideas and vision in god,perception,3,0
+"('experienceandperceptionoftime', 'perception')",experience and perception of time,perception,2,0
+"('descartesepistemology', 'perception')",descartes' epistemology,perception,4,0
+"('aristotlespsychology', 'perception')",aristotle's psychology,perception,3,0
+"('perception', 'sensedata')",sense-data,perception,4,0
+"('object', 'perception')",object,perception,4,2
+"('mentalimagery', 'perception')",mental imagery,perception,3,2
+"('nonconceptualmentalcontent', 'perception')",nonconceptual mental content,perception,4,0
+"('perception', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,perception,2,2
+"('higherordertheoriesofconsciousness', 'perception')",higher-order theories of consciousness,perception,3,0
+"('deweysaesthetics', 'perception')",dewey's aesthetics,perception,2,-1
+"('descartesontologicalargument', 'perception')",descartes' ontological argument,perception,1,0
+"('perception', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,perception,2,0
+"('kantsviewofthemindandconsciousnessofself', 'perception')",kant's view of the mind and consciousness of self,perception,3,0
+"('epistemologicalproblemsofperception', 'perception')",epistemological problems of perception,perception,4,0
+"('ideas', 'perception')",ideas,perception,4,2
+"('neutralmonism', 'perception')",neutral monism,perception,1,0
+"('mysticism', 'perception')",mysticism,perception,0,-1
+"('collapsetheories', 'perception')",collapse theories,perception,2,0
+"('perception', 'sensedata')",sense data,perception,4,0
+"('perception', 'selfknowledge')",self-knowledge,perception,3,2
+"('leibnizsinfluenceonkant', 'perception')",leibniz's influence on kant,perception,3,3
+"('ancienttheoriesofsoul', 'perception')",ancient theories of soul,perception,3,0
+"('perception', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,perception,3,0
+"('consciousnessandintentionality', 'perception')",consciousness and intentionality,perception,4,2
+"('perception', 'unitarianism')",unitarianism,perception,0,-1
+"('ancientskepticism', 'perception')",ancient skepticism,perception,3,0
+"('18thcenturygermanaesthetics', 'perception')",18th century german aesthetics,perception,3,0
+"('consciousnessandcontent', 'perception')",consciousness and content,perception,4,2
+"('blindsight', 'perception')",blindsight,perception,3,0
+"('17thand18thcenturytheoriesofemotions', 'perception')",17th and 18th century theories of emotions,perception,1,0
+"('epistemologicalproblemsoftestimony', 'perception')",epistemological problems of testimony,perception,3,0
+"('introspection', 'perception')",introspection,perception,4,2
+"('18thcenturybritishaesthetics', 'perception')",18th century british aesthetics,perception,2,0
+"('matter', 'perception')",matter,perception,3,2
+"('consciousness', 'perception')",consciousness,perception,4,2
+"('imagery', 'perception')",imagery,perception,4,2
+"('descartesandthepinealgland', 'perception')",descartes and the pineal gland,perception,3,0
+"('nonconceptualcontent', 'perception')",non-conceptual content,perception,4,0
+"('externalism', 'perception')",externalism,perception,3,3
+"('folkpsychology', 'perception')",folk psychology,perception,3,3
+"('cognitivescience', 'perception')",cognitive science,perception,4,2
+"('aposterioriknowledge', 'perception')",a posteriori knowledge,perception,4,2
+"('currentphilosophy', 'perception')",current philosophy,perception,4,1
+"('perception', 'reliabilism')",reliabilism,perception,3,0
+"('mentalrepresentation', 'perception')",mental representation,perception,4,0
+"('cartesiandualism', 'perception')",cartesian dualism,perception,3,3
+"('perception', 'philosophyofphysics')",philosophy of physics,perception,1,1
+"('animalcognition', 'perception')",animal cognition,perception,3,1
+"('hylomorphism', 'perception')",hylomorphism,perception,0,-1
+"('aristotleonnoncontradiction', 'perception')",aristotle on non-contradiction,perception,0,-1
+"('intentionality', 'perception')",intentionality,perception,3,2
+"('perception', 'unityofconsciousness')",unity of consciousness,perception,3,0
+"('body', 'perception')",body,perception,3,2
+"('perception', 'representationalism')",representationalism,perception,4,0
+"('gettierproblem', 'perception')",gettier problem,perception,2,3
+"('internalismandexternalism', 'perception')",internalism and externalism,perception,3,1
+"('dialecticalmaterialism', 'perception')",dialectical materialism,perception,0,-1
+"('logos', 'perception')",logos,perception,1,3
+"('perception', 'qualia')",qualia,perception,4,2
+"('perception', 'propositionalattitude')",propositional attitude,perception,4,0
+"('justifiedtruebelief', 'perception')",justified true belief,perception,2,3
+"('absoluteknowledge', 'perception')",absolute knowledge,perception,0,-1
+"('modernphilosophy', 'perception')",modern philosophy,perception,4,1
+"('perception', 'perspectivism')",perspectivism,perception,2,0
+"('cognitivevalueofart', 'perception')",cognitive value of art,perception,2,0
+"('hardproblem', 'perception')",hard problem,perception,3,0
+"('artisticrepresentation', 'perception')",artistic representation,perception,3,0
+"('consciousnessandscience', 'perception')",consciousness and science,perception,3,2
+"('hegelianism', 'perception')",hegelianism,perception,0,-1
+"('koreanphilosophy', 'perception')",korean philosophy,perception,1,3
+"('computationandrepresentation', 'perception')",computation and representation,perception,2,2
+"('causaltheoriesofmentalcontent', 'perception')",causal theories of mental content,perception,4,2
+"('perception', 'processphilosophy')",process philosophy,perception,0,-1
+"('perception', 'philosophyofperception')",philosophy of perception,perception,4,2
+"('neuralcorrelates', 'perception')",neural correlates,perception,3,0
+"('computationallinguistics', 'perception')",computational linguistics,perception,0,-1
+"('pakistaniphilosophy', 'perception')",pakistani philosophy,perception,0,-1
+"('connectionistmodel', 'perception')",connectionist model,perception,2,0
+"('perception', 'teleosemantics')",teleosemantics,perception,2,2
+"('expressionism', 'perception')",expressionism,perception,0,-1
+"('abstractexpressionism', 'perception')",abstract expressionism,perception,0,-1
+"('measurementinquantumtheory', 'perception')",measurement in quantum theory,perception,1,0
+"('existence', 'perception')",existence,perception,2,2
+"('autism', 'perception')",autism,perception,1,3
+"('identitytheoryofmind', 'perception')",identity theory of mind,perception,3,2
+"('perception', 'surrealism')",surrealism,perception,2,0
+"('dadaism', 'perception')",dadaism,perception,0,-1
+"('perception', 'philosophyofpsychology')",philosophy of psychology,perception,4,1
+"('perception', 'psychologicaltheory')",psychological theory,perception,4,1
+"('magnetism', 'perception')",magnetism,perception,0,-1
+"('causeandeffect', 'perception')",cause and effect,perception,2,2
+"('perception', 'psychologicalrelation')",psychological relation,perception,4,1
+"('concepts', 'perception')",concepts,perception,4,2
+"('consciousnessandphysics', 'freewill')",free will,consciousness and physics,2,1
+"('consciousnessandneuroscience', 'quantumapproachestoconsciousness')",quantum approaches to consciousness,consciousness and neuroscience,2,0
+"('consciousnessandneuroscience', 'reductivematerialism')",reductive materialism,consciousness and neuroscience,4,1
+"('aspectsofconsciousness', 'selfconsciousness')",self-consciousness,aspects of consciousness,4,0
+"('aspectsofconsciousness', 'unityofconsciousness')",unity of consciousness,aspects of consciousness,4,0
+"('aspectsofconsciousness', 'functionofconsciousness')",function of consciousness,aspects of consciousness,4,0
+"('aspectsofconsciousness', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,aspects of consciousness,3,3
+"('afterlife', 'heavenandhell')",heaven and hell,afterlife,4,0
+"('afterlife', 'meaningoflife')",meaning of life,afterlife,3,2
+"('afterlife', 'eternityoftheworld')",eternity of the world,afterlife,2,2
+"('africansagephilosophy', 'afterlife')",african sage philosophy,afterlife,2,3
+"('afterlife', 'incompatibilism')",incompatibilism,afterlife,2,3
+"('chinesephilosophy', 'chineseroomargument')",chinese room argument,chinese philosophy,0,-1
+"('chinesephilosophy', 'chinesewesterncomparativephilosophy')",chinese-western comparative philosophy,chinese philosophy,4,1
+"('japaneseconfucianphilosophy', 'japanesephilosophy')",japanese confucian philosophy,japanese philosophy,4,0
+"('dynamism', 'japanesephilosophy')",dynamism,japanese philosophy,-1,-1
+"('socialandpoliticalphilosophy', 'socialphilosophy')",social philosophy,social and political philosophy,4,1
+"('hobbessmoralandpoliticalphilosophy', 'socialandpoliticalphilosophy')",hobbes's moral and political philosophy,social and political philosophy,4,0
+"('medievalpoliticalphilosophy', 'socialandpoliticalphilosophy')",medieval political philosophy,social and political philosophy,4,0
+"('causation', 'metaphysicsofcausation')",metaphysics of causation,causation,4,0
+"('causation', 'counterfactualtheoriesofcausation')",counterfactual theories of causation,causation,4,0
+"('causation', 'probabilisticcausation')",probabilistic causation,causation,4,0
+"('causation', 'leibnizoncausation')",leibniz on causation,causation,4,0
+"('backwardcausation', 'causation')",backward causation,causation,4,0
+"('causation', 'causationandmanipulability')",causation and manipulability,causation,4,0
+"('causation', 'mentalcausation')",mental causation,causation,4,0
+"('causalprocesses', 'causation')",causal processes,causation,4,0
+"('causation', 'incompatibilisttheoriesoffreewill')",incompatibilist theories of free will,causation,4,0
+"('causation', 'explanation')",explanation,causation,4,2
+"('chinesephilosophy', 'zenbuddhism')",zen buddhism,chinese philosophy,4,3
+"('buddhistphilosophy', 'chinesephilosophy')",buddhist philosophy,chinese philosophy,4,3
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,4,0
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,0
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,0
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,3,0
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,2,3
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,3,3
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,4,1
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,4,0
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,0,-1
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,2,3
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,4,0
+"('perception', 'philosophyofmind')",perception,philosophy of mind,4,0
+"('functionalism', 'philosophyofmind')",functionalism,philosophy of mind,4,1
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,2,3
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,2,2
+"('induction', 'philosophyofmind')",induction,philosophy of mind,0,3
+"('occasionalism', 'philosophyofmind')",occasionalism,philosophy of mind,2,0
+"('philosophyofmind', 'thetheorytheory')",the theory theory,philosophy of mind,3,0
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,3,0
+"('change', 'philosophyofmind')",change,philosophy of mind,0,-1
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,1,3
+"('foreknowledgeandfreewill', 'freewill')",foreknowledge and free will,free will,4,-1
+"('divineprovidence', 'freewill')",divine providence,free will,4,-1
+"('causaldeterminism', 'freewill')",causal determinism,free will,4,-1
+"('freewill', 'problemofevil')",problem of evil,free will,4,-1
+"('faith', 'freewill')",faith,free will,0,-1
+"('freewill', 'moralresponsibility')",moral responsibility,free will,4,-1
+"('fatalism', 'freewill')",fatalism,free will,4,-1
+"('determinism', 'freewill')",determinism,free will,4,-1
+"('freewill', 'moralluck')",moral luck,free will,4,-1
+"('freewill', 'perfectgoodness')",perfect goodness,free will,0,-1
+"('freewill', 'hypnotism')",hypnotism,free will,2,-1
+"('freewill', 'omniscience')",omniscience,free will,3,-1
+"('divinelaw', 'freewill')",divine law,free will,-1,-1
+"('freewill', 'lutheranism')",lutheranism,free will,-1,-1
+"('freewill', 'vitalism')",vitalism,free will,1,-1
+"('freewill', 'processtheism')",process theism,free will,0,-1
+"('freewill', 'futurecontingents')",future contingents,free will,2,-1
+"('freewill', 'omnipotence')",omnipotence,free will,1,-1
+"('freewill', 'paganism')",paganism,free will,-1,-1
+"('aposterioriknowledge', 'freewill')",a posteriori knowledge,free will,2,-1
+"('causationandoccasionalism', 'freewill')",causation and occasionalism,free will,4,-1
+"('freewill', 'neuralcorrelates')",neural correlates,free will,3,-1
+"('argumentsfortheexistenceofgod', 'freewill')",arguments for the existence of god,free will,0,-1
+"('eternityandtime', 'freewill')",eternity and time,free will,3,-1
+"('animalconsciousness', 'consciousness')",animal consciousness,consciousness,4,-1
+"('consciousness', 'phenomenalconsciousness')",phenomenal consciousness,consciousness,4,-1
+"('consciousness', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,consciousness,4,-1
+"('consciousness', 'consciousnessandcontent')",consciousness and content,consciousness,4,-1
+"('consciousness', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,consciousness,4,-1
+"('consciousness', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,consciousness,4,-1
+"('consciousness', 'self')",self,consciousness,4,-1
+"('consciousness', 'zombies')",zombies,consciousness,4,-1
+"('consciousness', 'consciousnessandpsychology')",consciousness and psychology,consciousness,4,-1
+"('consciousness', 'functionofconsciousness')",function of consciousness,consciousness,4,-1
+"('consciousness', 'qualia')",qualia,consciousness,4,-1
+"('consciousness', 'selfconsciousness')",self-consciousness,consciousness,4,-1
+"('distributiveandeconomicjustice', 'distributivejustice')",distributive justice,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'economicjustice')",economic justice,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'internationaljustice')",international justice,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'economicsandeconomicjustice')",economics and economic justice,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'egalitarianism')",egalitarianism,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'redistribution')",redistribution,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'gametheoryandethics')",game theory and ethics,distributive and economic justice,4,-1
+"('distributiveandeconomicjustice', 'socialjustice')",social justice,distributive and economic justice,4,-1
+"('analyticfeminism', 'naturalizedepistemology')",analytic feminism,naturalized epistemology,0,-1
+"('feministsocialepistemology', 'naturalizedepistemology')",feminist social epistemology,naturalized epistemology,1,-1
+"('feministepistemologyandphilosophyofscience', 'naturalizedepistemology')",feminist epistemology and philosophy of science,naturalized epistemology,1,-1
+"('moralepistemology', 'naturalizedepistemology')",moral epistemology,naturalized epistemology,2,-1
+"('naturalizedepistemology', 'problemofinduction')",problem of induction,naturalized epistemology,3,-1
+"('geocentrism', 'naturalizedepistemology')",geocentrism,naturalized epistemology,0,-1
+"('moralnaturalism', 'naturalizedepistemology')",moral naturalism,naturalized epistemology,2,-1
+"('evolutionism', 'naturalizedepistemology')",evolutionism,naturalized epistemology,3,-1
+"('naturalisminlegalphilosophy', 'naturalizedepistemology')",naturalism in legal philosophy,naturalized epistemology,2,-1
+"('epistemologyofscience', 'naturalizedepistemology')",epistemology of science,naturalized epistemology,2,-1
+"('evolutionaryepistemology', 'naturalizedepistemology')",evolutionary epistemology,naturalized epistemology,4,-1
+"('naturalizedepistemology', 'reliabilism')",reliabilism,naturalized epistemology,4,-1
+"('naturalizedepistemology', 'socialepistemology')",social epistemology,naturalized epistemology,2,-1
+"('moralnonnaturalism', 'naturalizedepistemology')",moral non-naturalism,naturalized epistemology,1,-1
+"('naturalizedepistemology', 'psychologicalrelation')",psychological relation,naturalized epistemology,1,-1
+"('inductivelogic', 'naturalizedepistemology')",inductive logic,naturalized epistemology,1,-1
+"('molecularbiology', 'naturalizedepistemology')",molecular biology,naturalized epistemology,1,-1
+"('naturalizedepistemology', 'unitsandlevelsofselection')",units and levels of selection,naturalized epistemology,2,-1
+"('naturalizedepistemology', 'populationgenetics')",population genetics,naturalized epistemology,3,-1
+"('conservatism', 'naturalizedepistemology')",conservatism,naturalized epistemology,0,-1
+"('logicandlanguage', 'philosophyoflanguage')",logic and language,philosophy of language,-1,0
+"('idiolects', 'philosophyoflanguage')",idiolects,philosophy of language,-1,0
+"('infinitarylogic', 'philosophyoflanguage')",infinitary logic,philosophy of language,-1,3
+"('philosophyoflanguage', 'privatelanguage')",private language,philosophy of language,-1,0
+"('feministphilosophyoflanguage', 'philosophyoflanguage')",feminist philosophy of language,philosophy of language,-1,0
+"('philosophyoflanguage', 'tarskistruthdefinition')",tarski's truth definition,philosophy of language,-1,0
+"('languagelearning', 'philosophyoflanguage')",language learning,philosophy of language,-1,0
+"('axiomatictheoriesoftruth', 'philosophyoflanguage')",axiomatic theories of truth,philosophy of language,-1,0
+"('lawandlanguage', 'philosophyoflanguage')",law and language,philosophy of language,-1,2
+"('argument', 'philosophyoflanguage')",argument,philosophy of language,-1,3
+"('philosophyoflanguage', 'privatelanguageargument')",private language argument,philosophy of language,-1,0
+"('philosophyoflanguage', 'revisiontheoryoftruth')",revision theory of truth,philosophy of language,-1,0
+"('languageofthoughthypothesis', 'philosophyoflanguage')",language of thought hypothesis,philosophy of language,-1,0
+"('philosophyoflanguage', 'propositionalconsequencerelationsandalgebraiclogic')",propositional consequence relations and algebraic logic,philosophy of language,-1,3
+"('compositionality', 'philosophyoflanguage')",compositionality,philosophy of language,-1,0
+"('modeltheory', 'philosophyoflanguage')",model theory,philosophy of language,-1,3
+"('logicalform', 'philosophyoflanguage')",logical form,philosophy of language,-1,0
+"('firstordermodeltheory', 'philosophyoflanguage')",first-order model theory,philosophy of language,-1,2
+"('meaning', 'philosophyoflanguage')",meaning,philosophy of language,-1,0
+"('interpretation', 'philosophyoflanguage')",interpretation,philosophy of language,-1,0
+"('philosophyoflanguage', 'sentence')",sentence,philosophy of language,-1,0
+"('metaphysicsandlanguage', 'philosophyoflanguage')",metaphysics and language,philosophy of language,-1,2
+"('compositionalityandlogicalform', 'philosophyoflanguage')",compositionality and logical form,philosophy of language,-1,0
+"('philosophyoflanguage', 'syntax')",syntax,philosophy of language,-1,0
+"('connectives', 'philosophyoflanguage')",connectives,philosophy of language,-1,0
+"('languageandsociety', 'philosophyoflanguage')",language and society,philosophy of language,-1,2
+"('modallogic', 'philosophyoflanguage')",modal logic,philosophy of language,-1,2
+"('philosophyoflanguage', 'selfreference')",self-reference,philosophy of language,-1,0
+"('philosophyoflanguage', 'quantifiersandquanitification')",quantifiers and quanitification,philosophy of language,-1,0
+"('matter', 'philosophyoflanguage')",matter,philosophy of language,-1,3
+"('animallanguage', 'philosophyoflanguage')",animal language,philosophy of language,-1,0
+"('function', 'philosophyoflanguage')",function,philosophy of language,-1,0
+"('negation', 'philosophyoflanguage')",negation,philosophy of language,-1,0
+"('philosophyoflanguage', 'philosophyofmind')",philosophy of mind,philosophy of language,-1,2
+"('functionandteleology', 'philosophyoflanguage')",function and teleology,philosophy of language,-1,3
+"('philosophyoflanguage', 'wittgensteinsaesthetics')",wittgenstein's aesthetics,philosophy of language,-1,3
+"('logicaltruth', 'philosophyoflanguage')",logical truth,philosophy of language,-1,0
+"('philosophiesoftheparticularsciences', 'philosophyoflanguage')",philosophies of the particular sciences,philosophy of language,-1,2
+"('disjunction', 'philosophyoflanguage')",disjunction,philosophy of language,-1,0
+"('philosophyofcomputerscience', 'philosophyoflanguage')",philosophy of computer science,philosophy of language,-1,2
+"('animalcognition', 'philosophyoflanguage')",animal cognition,philosophy of language,-1,2
+"('mentalese', 'philosophyoflanguage')",mentalese,philosophy of language,-1,0
+"('philosophyoflanguage', 'philosophyofpsychology')",philosophy of psychology,philosophy of language,-1,2
+"('natureoflanguage', 'philosophyoflanguage')",nature of language,philosophy of language,-1,0
+"('philosophyoflanguage', 'psychiatry')",psychiatry,philosophy of language,-1,1
+"('philosophyoflanguage', 'secondorderandhigherorderlogic')",second-order and higher-order logic,philosophy of language,-1,0
+"('medievalsemiotics', 'philosophyoflanguage')",medieval semiotics,philosophy of language,-1,0
+"('philosophyoflanguage', 'philosophyofphysics')",philosophy of physics,philosophy of language,-1,2
+"('philosophyoflanguage', 'religiouslanguage')",religious language,philosophy of language,-1,0
+"('philosophyoflanguage', 'reference')",reference,philosophy of language,-1,0
+"('logicalconstant', 'philosophyoflanguage')",logical constant,philosophy of language,-1,0
+"('philosophyoflanguage', 'propernames')",proper names,philosophy of language,-1,0
+"('confirmationandinduction', 'philosophyoflanguage')",confirmation and induction,philosophy of language,-1,0
+"('philosophyoflanguage', 'settheory')",set theory,philosophy of language,-1,2
+"('philosophyoflanguage', 'prooftheory')",proof theory,philosophy of language,-1,2
+"('ideas', 'philosophyoflanguage')",ideas,philosophy of language,-1,1
+"('knowledgeandskepticism', 'philosophyoflanguage')",knowledge and skepticism,philosophy of language,-1,2
+"('medievaltheoriesofthecategories', 'philosophyoflanguage')",medieval theories of the categories,philosophy of language,-1,2
+"('goodmansaesthetics', 'philosophyoflanguage')",goodman's aesthetics,philosophy of language,-1,3
+"('logicandontology', 'philosophyoflanguage')",logic and ontology,philosophy of language,-1,2
+"('induction', 'philosophyoflanguage')",induction,philosophy of language,-1,3
+"('denotation', 'philosophyoflanguage')",denotation,philosophy of language,-1,0
+"('logicandartificialintelligence', 'philosophyoflanguage')",logic and artificial intelligence,philosophy of language,-1,2
+"('combininglogics', 'philosophyoflanguage')",combining logics,philosophy of language,-1,2
+"('philosophyoflanguage', 'pluralquantification')",plural quantification,philosophy of language,-1,0
+"('analysis', 'philosophyoflanguage')",analysis,philosophy of language,-1,3
+"('manyvaluedlogic', 'philosophyoflanguage')",many-valued logic,philosophy of language,-1,0
+"('knowledge', 'philosophyoflanguage')",knowledge,philosophy of language,-1,1
+"('philosophyoflanguage', 'philosophyofscience')",philosophy of science,philosophy of language,-1,2
+"('liarparadox', 'philosophyoflanguage')",liar paradox,philosophy of language,-1,0
+"('philosophyoflanguage', 'propositionalattitude')",propositional attitude,philosophy of language,-1,0
+"('philosophyoflanguage', 'semantictheories')",semantic theories,philosophy of language,-1,0
+"('philosophyoflanguage', 'referenceanddenotation')",reference and denotation,philosophy of language,-1,0
+"('philosophyoflanguage', 'philosophyofperception')",philosophy of perception,philosophy of language,-1,3
+"('generalizedquantifiers', 'philosophyoflanguage')",generalized quantifiers,philosophy of language,-1,0
+"('philosophyoflanguage', 'value')",value,philosophy of language,-1,3
+"('ordinarylanguagephilosophy', 'philosophyoflanguage')",ordinary language philosophy,philosophy of language,-1,0
+"('bilingualism', 'philosophyoflanguage')",bilingualism,philosophy of language,-1,0
+"('philosophyoflanguage', 'predicationandinstantiation')",predication and instantiation,philosophy of language,-1,0
+"('cognitivescience', 'philosophyoflanguage')",cognitive science,philosophy of language,-1,1
+"('perception', 'philosophyoflanguage')",perception,philosophy of language,-1,3
+"('philosophyoflanguage', 'theoryoftruth')",theory of truth,philosophy of language,-1,2
+"('actualism', 'philosophyoflanguage')",actualism,philosophy of language,-1,0
+"('philosophyofart', 'philosophyoflanguage')",philosophy of art,philosophy of language,-1,2
+"('logicofconditionals', 'philosophyoflanguage')",logic of conditionals,philosophy of language,-1,0
+"('modelsandidealization', 'philosophyoflanguage')",models and idealization,philosophy of language,-1,2
+"('nativism', 'philosophyoflanguage')",nativism,philosophy of language,-1,0
+"('names', 'philosophyoflanguage')",names,philosophy of language,-1,0
+"('philosophyoflanguage', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of language,-1,2
+"('philosophyoflanguage', 'possibleworlds')",possible worlds,philosophy of language,-1,0
+"('philosophyoflanguage', 'time')",time,philosophy of language,-1,3
+"('philosophyoflanguage', 'realismandantirealism')",realism and anti-realism,philosophy of language,-1,0
+"('philosophyoflanguage', 'realismandantirealism')",realism and anti-realism,philosophy of language,-1,0
+"('philosophyoflanguage', 'probabilityandstatistics')",probability and statistics,philosophy of language,-1,1
+"('mathematicallogic', 'philosophyoflanguage')",mathematical logic,philosophy of language,-1,2
+"('life', 'philosophyoflanguage')",life,philosophy of language,-1,1
+"('scientificrealism', 'scientifictheory')",scientific realism,scientific theory,4,0
+"('probabilityandstatistics', 'scientifictheory')",probability and statistics,scientific theory,4,0
+"('probability', 'scientifictheory')",probability,scientific theory,4,2
+"('folkpsychology', 'scientifictheory')",folk psychology,scientific theory,4,2
+"('philosophyofmathematics', 'scientifictheory')",philosophy of mathematics,scientific theory,-1,0
+"('scientificexplanation', 'scientifictheory')",scientific explanation,scientific theory,4,2
+"('observation', 'scientifictheory')",observation,scientific theory,4,1
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,4,0
+"('epistemology', 'feministsocialepistemology')",feminist social epistemology,epistemology,4,0
+"('epistemology', 'virtueepistemology')",virtue epistemology,epistemology,4,0
+"('epistemology', 'naturalizedepistemology')",naturalized epistemology,epistemology,4,0
+"('coherentism', 'epistemology')",coherentism,epistemology,4,0
+"('epistemology', 'moralepistemology')",moral epistemology,epistemology,4,0
+"('epistemology', 'epistemologyofscience')",epistemology of science,epistemology,4,0
+"('epistemology', 'epistemologyofreligion')",epistemology of religion,epistemology,4,0
+"('epistemology', 'evolutionaryepistemology')",evolutionary epistemology,epistemology,4,0
+"('philosophyofreligion', 'religiousdiversity')",religious diversity,philosophy of religion,4,0
+"('feministphilosophyofreligion', 'philosophyofreligion')",feminist philosophy of religion,philosophy of religion,3,2
+"('phenomenologyofreligion', 'philosophyofreligion')",phenomenology of religion,philosophy of religion,4,0
+"('emotionsinthechristiantradition', 'philosophyofreligion')",emotions in the christian tradition,philosophy of religion,4,0
+"('philosophyofreligion', 'religion')",religion,philosophy of religion,4,1
+"('kantsphilosophyofreligion', 'philosophyofreligion')",kant's philosophy of religion,philosophy of religion,4,0
+"('philosophyofreligion', 'religiousexperience')",religious experience,philosophy of religion,4,0
+"('humeonreligion', 'philosophyofreligion')",hume on religion,philosophy of religion,4,0
+"('epistemologyofreligion', 'philosophyofreligion')",epistemology of religion,philosophy of religion,4,0
+"('life', 'philosophyofreligion')",life,philosophy of religion,4,1
+"('philosophyofreligion', 'religionandscience')",religion and science,philosophy of religion,4,0
+"('philosophyofreligion', 'religionandmorality')",religion and morality,philosophy of religion,4,0
+"('philosophyofreligion', 'scienceandreligion')",science and religion,philosophy of religion,4,0
+"('definitionofmorality', 'philosophyofreligion')",definition of morality,philosophy of religion,4,0
+"('pantheism', 'philosophyofreligion')",pantheism,philosophy of religion,4,0
+"('lockespoliticalphilosophy', 'philosophyofreligion')",locke's political philosophy,philosophy of religion,2,2
+"('philosophyofreligion', 'religionandpolitics')",religion and politics,philosophy of religion,4,0
+"('philosophyofreligion', 'toleration')",toleration,philosophy of religion,4,0
+"('judaism', 'philosophyofreligion')",judaism,philosophy of religion,4,0
+"('belief', 'philosophyofreligion')",belief,philosophy of religion,4,0
+"('philosophyofreligion', 'taoism')",taoism,philosophy of religion,4,0
+"('hinduism', 'philosophyofreligion')",hinduism,philosophy of religion,4,0
+"('conceptsofgod', 'philosophyofreligion')",concepts of god,philosophy of religion,4,0
+"('feministphilosophy', 'philosophyofreligion')",feminist philosophy,philosophy of religion,3,2
+"('philosophyofreligion', 'pragmaticargumentsandbeliefingod')",pragmatic arguments and belief in god,philosophy of religion,4,0
+"('philosophyofreligion', 'secularism')",secularism,philosophy of religion,4,0
+"('philosophyofreligion', 'theism')",theism,philosophy of religion,4,0
+"('divineattributes', 'philosophyofreligion')",divine attributes,philosophy of religion,4,0
+"('hobbessmoralandpoliticalphilosophy', 'philosophyofreligion')",hobbes's moral and political philosophy,philosophy of religion,2,2
+"('matter', 'philosophyofreligion')",matter,philosophy of religion,1,1
+"('philosophyofreligion', 'secularhumanism')",secular humanism,philosophy of religion,1,0
+"('mysticism', 'philosophyofreligion')",mysticism,philosophy of religion,4,0
+"('philosophyofreligion', 'satanism')",satanism,philosophy of religion,3,0
+"('argumentsfortheexistenceofgod', 'philosophyofreligion')",arguments for the existence of god,philosophy of religion,4,0
+"('influenceofislamicthoughtonmaimonides', 'philosophyofreligion')",influence of islamic thought on maimonides,philosophy of religion,4,0
+"('existenceofgod', 'philosophyofreligion')",existence of god,philosophy of religion,4,0
+"('lebensphilosophie', 'philosophyofreligion')",lebensphilosophie,philosophy of religion,4,1
+"('christiantheology', 'philosophyofreligion')",christian theology,philosophy of religion,4,0
+"('philosophyofreligion', 'polytheism')",polytheism,philosophy of religion,4,0
+"('miracles', 'philosophyofreligion')",miracles,philosophy of religion,4,0
+"('medievalpoliticalphilosophy', 'philosophyofreligion')",medieval political philosophy,philosophy of religion,2,2
+"('churchandstate', 'philosophyofreligion')",church and state,philosophy of religion,4,0
+"('afterlife', 'philosophyofreligion')",afterlife,philosophy of religion,4,0
+"('lawandmorality', 'philosophyofreligion')",law and morality,philosophy of religion,4,0
+"('ethnocentrism', 'philosophyofreligion')",ethnocentrism,philosophy of religion,4,1
+"('indianphilosophy', 'philosophyofreligion')",indian philosophy,philosophy of religion,4,0
+"('formsofgovernment', 'philosophyofreligion')",forms of government,philosophy of religion,2,2
+"('languageandsociety', 'philosophyofreligion')",language and society,philosophy of religion,2,2
+"('culture', 'philosophyofreligion')",culture,philosophy of religion,4,1
+"('philosophyofreligion', 'publicreason')",public reason,philosophy of religion,4,2
+"('naturallawtradition', 'philosophyofreligion')",natural law tradition,philosophy of religion,2,1
+"('philosophyofreligion', 'pietism')",pietism,philosophy of religion,4,0
+"('atheism', 'philosophyofreligion')",atheism,philosophy of religion,4,0
+"('philosophyofreligion', 'transcendentalism')",transcendentalism,philosophy of religion,4,0
+"('pacifism', 'philosophyofreligion')",pacifism,philosophy of religion,2,1
+"('daoism', 'philosophyofreligion')",daoism,philosophy of religion,4,0
+"('philosophyofreligion', 'politicalauthority')",political authority,philosophy of religion,4,0
+"('naturaltheology', 'philosophyofreligion')",natural theology,philosophy of religion,4,0
+"('hobbessmoralandpoliticalphilosophy', 'religionandpolitics')",hobbes's moral and political philosophy,religion and politics,4,0
+"('religionandpolitics', 'secularism')",secularism,religion and politics,4,0
+"('divineprovidence', 'religionandpolitics')",divine providence,religion and politics,4,0
+"('lutheranism', 'religionandpolitics')",lutheranism,religion and politics,0,-1
+"('kantsphilosophyofreligion', 'religionandpolitics')",kant's philosophy of religion,religion and politics,3,0
+"('polytheism', 'religionandpolitics')",polytheism,religion and politics,0,-1
+"('religionandpolitics', 'revelation')",revelation,religion and politics,0,-1
+"('influenceofislamicthoughtonmaimonides', 'religionandpolitics')",influence of islamic thought on maimonides,religion and politics,4,0
+"('politicalauthority', 'religionandpolitics')",political authority,religion and politics,4,0
+"('politicalobligation', 'religionandpolitics')",political obligation,religion and politics,4,0
+"('naturallawtheories', 'religionandpolitics')",natural law theories,religion and politics,4,0
+"('divinelaw', 'religionandpolitics')",divine law,religion and politics,4,0
+"('homosexuality', 'religionandpolitics')",homosexuality,religion and politics,0,-1
+"('faithandreason', 'religionandpolitics')",faith and reason,religion and politics,0,-1
+"('problemofevil', 'religionandpolitics')",problem of evil,religion and politics,0,-1
+"('equalityofopportunity', 'religionandpolitics')",equality of opportunity,religion and politics,0,-1
+"('politicallegitimacy', 'religionandpolitics')",political legitimacy,religion and politics,4,0
+"('ontologicalargument', 'religionandpolitics')",ontological argument,religion and politics,0,-1
+"('anarchism', 'religionandpolitics')",anarchism,religion and politics,4,0
+"('germanphilosophy', 'religionandpolitics')",german philosophy,religion and politics,-1,1
+"('catholicism', 'religionandpolitics')",catholicism,religion and politics,-1,1
+"('eternityoftheworld', 'religionandpolitics')",eternity of the world,religion and politics,-1,1
+"('divineillumination', 'religionandpolitics')",divine illumination,religion and politics,3,0
+"('religionandpolitics', 'toleration')",toleration,religion and politics,4,0
+"('religionandpolitics', 'sovereignty')",sovereignty,religion and politics,4,0
+"('bioethics', 'feministbioethics')",feminist bioethics,bioethics,4,0
+"('bioethics', 'cloning')",cloning,bioethics,4,0
+"('bioethics', 'biomedicalethics')",biomedical ethics,bioethics,4,2
+"('bioethics', 'personalidentityandethics')",personal identity and ethics,bioethics,2,1
+"('bioethics', 'businessethics')",business ethics,bioethics,2,2
+"('appliedethics', 'bioethics')",applied ethics,bioethics,4,1
+"('bioethics', 'personalautonomy')",personal autonomy,bioethics,4,0
+"('bioethics', 'feministethics')",feminist ethics,bioethics,2,1
+"('bioethics', 'doctrineofdoubleeffect')",doctrine of double effect,bioethics,4,0
+"('bioethics', 'culturalrelativism')",cultural relativism,bioethics,1,1
+"('appliedethics', 'environmentalethics')",environmental ethics,applied ethics,4,0
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,3,-1
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,3,-1
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,0,-1
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,4,-1
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,4,-1
+"('neutralmonism', 'philosophyofmind')",neutral monism,philosophy of mind,3,-1
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,0,-1
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,2,-1
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,4,-1
+"('mind', 'philosophyofmind')",mind,philosophy of mind,4,-1
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,2,0
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,3,0
+"('continentalrationalism', 'philosophyofmind')",continental rationalism,philosophy of mind,2,0
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,1,0
+"('animalcognition', 'philosophyofmind')",animal cognition,philosophy of mind,4,0
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,2,0
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,2,0
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,4,0
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,4,0
+"('matter', 'philosophyofmind')",matter,philosophy of mind,2,1
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,4,0
+"('philosophiesoftheparticularsciences', 'philosophyofmind')",philosophies of the particular sciences,philosophy of mind,3,0
+"('japaneseconfucianphilosophy', 'philosophyofmind')",japanese confucian philosophy,philosophy of mind,1,0
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,4,0
+"('mentalimagery', 'philosophyofmind')",mental imagery,philosophy of mind,4,0
+"('folkpsychology', 'philosophyofmind')",folk psychology,philosophy of mind,4,0
+"('philosophyofmind', 'philosophyofpsychology')",philosophy of psychology,philosophy of mind,4,0
+"('controversiessurroundinginnateness', 'philosophyofmind')",controversies surrounding innateness,philosophy of mind,4,1
+"('philosophyofmind', 'psychiatry')",psychiatry,philosophy of mind,4,1
+"('ideas', 'philosophyofmind')",ideas,philosophy of mind,4,1
+"('mentalcausation', 'philosophyofmind')",mental causation,philosophy of mind,4,0
+"('mentalrepresentation', 'philosophyofmind')",mental representation,philosophy of mind,4,0
+"('philosophyofmind', 'teleologicalargumentsforgodsexistence')",teleological arguments for god's existence,philosophy of mind,1,3
+"('epistemologicalproblemsofmemory', 'philosophyofmind')",epistemological problems of memory,philosophy of mind,3,0
+"('philosophyofmathematics', 'philosophyofmind')",philosophy of mathematics,philosophy of mind,1,2
+"('ancienttheoriesofsoul', 'philosophyofmind')",ancient theories of soul,philosophy of mind,1,0
+"('eliminativematerialism', 'philosophyofmind')",eliminative materialism,philosophy of mind,4,0
+"('metaphysicsofmind', 'philosophyofmind')",metaphysics of mind,philosophy of mind,4,0
+"('philosophyofmind', 'probabilityandstatistics')",probability and statistics,philosophy of mind,2,1
+"('body', 'philosophyofmind')",body,philosophy of mind,4,1
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,4,0
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,1
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,4,1
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,4,0
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,2,3
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,4,1
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,4,0
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,4,1
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,1,0
+"('philosophyofmind', 'philosophyofperception')",philosophy of perception,philosophy of mind,4,2
+"('perception', 'philosophyofmind')",perception,philosophy of mind,4,0
+"('evolutionarypsychology', 'philosophyofmind')",evolutionary psychology,philosophy of mind,4,0
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,1,1
+"('occasionalism', 'philosophyofmind')",occasionalism,philosophy of mind,4,0
+"('philosophyofmind', 'thetheorytheory')",the theory theory,philosophy of mind,4,0
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,3,3
+"('induction', 'philosophyofmind')",induction,philosophy of mind,3,1
+"('philosophyofmind', 'selfconsciousness')",self-consciousness,philosophy of mind,4,0
+"('change', 'philosophyofmind')",change,philosophy of mind,2,1
+"('modularity', 'philosophyofmind')",modularity,philosophy of mind,4,0
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,4,2
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,3,0
+"('confirmationandinduction', 'philosophyofmind')",confirmation and induction,philosophy of mind,2,1
+"('philosophyofmind', 'probability')",probability,philosophy of mind,2,1
+"('everettsrelativestateformulationofquantummechanics', 'philosophyofmind')",everett's relative-state formulation of quantum mechanics,philosophy of mind,1,0
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,2,1
+"('philosophyofmind', 'sensedata')",sense-data,philosophy of mind,3,1
+"('intentionality', 'philosophyofmind')",intentionality,philosophy of mind,4,0
+"('existence', 'philosophyofmind')",existence,philosophy of mind,4,1
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,4,1
+"('philosophyofchemistry', 'philosophyofmind')",philosophy of chemistry,philosophy of mind,1,2
+"('logicandlanguage', 'philosophyofmind')",logic and language,philosophy of mind,1,3
+"('philosophyofmind', 'simulationtheory')",simulation theory,philosophy of mind,4,0
+"('philosophyofbiology', 'philosophyofmind')",philosophy of biology,philosophy of mind,3,2
+"('philosophyofmind', 'propositionalattitude')",propositional attitude,philosophy of mind,4,0
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,1,3
+"('philosophyofmind', 'unityofconsciousness')",unity of consciousness,philosophy of mind,4,0
+"('motionandtime', 'philosophyofmind')",motion and time,philosophy of mind,2,1
+"('monism', 'philosophyofmind')",monism,philosophy of mind,4,1
+"('philosophyofmind', 'realism')",realism,philosophy of mind,4,1
+"('consciousnessandpsychology', 'philosophyofmind')",consciousness and psychology,philosophy of mind,4,0
+"('internalism', 'philosophyofmind')",internalism,philosophy of mind,4,1
+"('philosophyofart', 'philosophyofmind')",philosophy of art,philosophy of mind,1,2
+"('identitytheoryofmind', 'philosophyofmind')",identity theory of mind,philosophy of mind,4,0
+"('philosophyofmind', 'syntacticanalysis')",syntactic analysis,philosophy of mind,3,0
+"('medievaltheoriesofthecategories', 'philosophyofmind')",medieval theories of the categories,philosophy of mind,1,0
+"('metaphysicsandlanguage', 'philosophyofmind')",metaphysics and language,philosophy of mind,4,1
+"('philosophyofmind', 'virtuesandvices')",virtues and vices,philosophy of mind,1,2
+"('philosophyofmind', 'sensedata')",sense data,philosophy of mind,4,1
+"('philosophyofmind', 'problemofperception')",problem of perception,philosophy of mind,4,1
+"('ancientphilosophyaristotle', 'philosophyofmind')",ancient philosophy (aristotle),philosophy of mind,1,1
+"('computationandrepresentation', 'philosophyofmind')",computation and representation,philosophy of mind,4,0
+"('epistemologicalproblemsofperception', 'philosophyofmind')",epistemological problems of perception,philosophy of mind,4,0
+"('nonhumananimals', 'philosophyofmind')",nonhuman animals,philosophy of mind,2,3
+"('imagery', 'philosophyofmind')",imagery,philosophy of mind,4,0
+"('inherence', 'philosophyofmind')",inherence,philosophy of mind,0,-1
+"('existenceofgod', 'philosophyofmind')",existence of god,philosophy of mind,1,1
+"('concepts', 'philosophyofmind')",concepts,philosophy of mind,4,0
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,1,3
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,4,0
+"('epistemology', 'feministsocialepistemology')",feminist social epistemology,epistemology,4,0
+"('epistemology', 'virtueepistemology')",virtue epistemology,epistemology,4,0
+"('epistemology', 'naturalizedepistemology')",naturalized epistemology,epistemology,4,0
+"('coherentism', 'epistemology')",coherentism,epistemology,3,0
+"('epistemology', 'moralepistemology')",moral epistemology,epistemology,4,0
+"('epistemology', 'epistemologyofscience')",epistemology of science,epistemology,4,0
+"('epistemology', 'evolutionaryepistemology')",evolutionary epistemology,epistemology,4,0
+"('epistemology', 'epistemologyofreligion')",epistemology of religion,epistemology,4,0
+"('epistemology', 'matter')",matter,epistemology,0,-1
+"('epistemology', 'knowledgeandskepticism')",knowledge and skepticism,epistemology,3,3
+"('epistemology', 'feministepistemologyandphilosophyofscience')",feminist epistemology and philosophy of science,epistemology,2,1
+"('epistemology', 'knowledge')",knowledge,epistemology,4,1
+"('epistemology', 'foundationalism')",foundationalism,epistemology,4,0
+"('epistemology', 'formalepistemology')",formal epistemology,epistemology,4,0
+"('analyticfeminism', 'epistemology')",analytic feminism,epistemology,1,1
+"('epistemology', 'perceptualexperience')",perceptual experience,epistemology,3,1
+"('epistemology', 'reliabilism')",reliabilism,epistemology,4,0
+"('epistemologicalproblemsofperception', 'epistemology')",epistemological problems of perception,epistemology,4,0
+"('epistemology', 'virtuesandvices')",virtues and vices,epistemology,1,1
+"('epistemologicalproblemsoftestimony', 'epistemology')",epistemological problems of testimony,epistemology,3,0
+"('epistemology', 'philosophyofscience')",philosophy of science,epistemology,3,2
+"('epistemology', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,epistemology,1,0
+"('epistemology', 'valueofknowledge')",value of knowledge,epistemology,2,0
+"('epistemology', 'philosophyofpsychology')",philosophy of psychology,epistemology,3,0
+"('epistemology', 'psychiatry')",psychiatry,epistemology,1,3
+"('epistemology', 'philosophyofmathematics')",philosophy of mathematics,epistemology,1,0
+"('epistemology', 'moralepistemologyandmoralreasoning')",moral epistemology and moral reasoning,epistemology,2,0
+"('epistemology', 'interpretation')",interpretation,epistemology,1,1
+"('philosophyofscienceandthesciences', 'probabilityandstatistics')",probability and statistics,philosophy of science and the sciences,2,1
+"('philosophyofscienceandthesciences', 'probability')",probability,philosophy of science and the sciences,2,1
+"('philosophiesoftheparticularsciences', 'philosophyofscienceandthesciences')",philosophies of the particular sciences,philosophy of science and the sciences,3,0
+"('philosophyofmathematics', 'philosophyofscienceandthesciences')",philosophy of mathematics,philosophy of science and the sciences,1,2
+"('interpretationsofprobability', 'philosophyofscienceandthesciences')",interpretations of probability,philosophy of science and the sciences,2,0
+"('folkpsychology', 'philosophyofscienceandthesciences')",folk psychology,philosophy of science and the sciences,1,0
+"('philosophyofscienceandthesciences', 'socialdimensionsofscientificknowledge')",social dimensions of scientific knowledge,philosophy of science and the sciences,2,0
+"('molecularbiology', 'philosophyofscienceandthesciences')",molecular biology,philosophy of science and the sciences,-1,-1
+"('philosophyofscienceandthesciences', 'unityofscience')",unity of science,philosophy of science and the sciences,4,0
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science,philosophy of science and the sciences,4,2
+"('philosophyofcomputerscience', 'philosophyofscienceandthesciences')",philosophy of computer science,philosophy of science and the sciences,3,0
+"('philosophyofscienceandthesciences', 'scientificrealism')",scientific realism,philosophy of science and the sciences,4,0
+"('bayesstheorem', 'philosophyofscienceandthesciences')",bayes's theorem,philosophy of science and the sciences,3,0
+"('philosophyofphysics', 'philosophyofscienceandthesciences')",philosophy of physics,philosophy of science and the sciences,3,0
+"('constructivemathematics', 'philosophyofscienceandthesciences')",constructive mathematics,philosophy of science and the sciences,0,-1
+"('historicisttheoriesofrationality', 'philosophyofscienceandthesciences')",historicist theories of rationality,philosophy of science and the sciences,3,0
+"('boltzmannsworkinstatisticalphysics', 'philosophyofscienceandthesciences')",boltzmann's work in statistical physics,philosophy of science and the sciences,-1,-1
+"('indispensabilityargumentsinthephilosophyofmathematics', 'philosophyofscienceandthesciences')",indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,4,0
+"('aristotleandmathematics', 'philosophyofscienceandthesciences')",aristotle and mathematics,philosophy of science and the sciences,1,0
+"('explanation', 'philosophyofscienceandthesciences')",explanation,philosophy of science and the sciences,4,0
+"('evolutionarypsychology', 'philosophyofscienceandthesciences')",evolutionary psychology,philosophy of science and the sciences,1,0
+"('molecularbiologyandgenetics', 'philosophyofscienceandthesciences')",molecular biology and genetics,philosophy of science and the sciences,0,-1
+"('einsteinsphilosophyofscience', 'philosophyofscienceandthesciences')",einstein's philosophy of science,philosophy of science and the sciences,3,0
+"('conservationbiology', 'philosophyofscienceandthesciences')",conservation biology,philosophy of science and the sciences,1,0
+"('methodologicaldebatesincosmologythe1930sand1940s', 'philosophyofscienceandthesciences')",methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,3,0
+"('folkpsychologyasatheory', 'philosophyofscienceandthesciences')",folk psychology as a theory,philosophy of science and the sciences,3,0
+"('hilbertsprogram', 'philosophyofscienceandthesciences')",hilbert's program,philosophy of science and the sciences,1,0
+"('philosophyofscienceandthesciences', 'scientificprogress')",scientific progress,philosophy of science and the sciences,4,0
+"('classicalphysics', 'philosophyofscienceandthesciences')",classical physics,philosophy of science and the sciences,2,0
+"('literature', 'philosophyofscienceandthesciences')",literature,philosophy of science and the sciences,0,-1
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,0,-1
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,1,-1
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,0,-1
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,4,-1
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,4,-1
+"('neutralmonism', 'philosophyofmind')",neutral monism,philosophy of mind,0,-1
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,0,-1
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,0,-1
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,0,-1
+"('mind', 'philosophyofmind')",mind,philosophy of mind,4,-1
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,0,-1
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,0,-1
+"('continentalrationalism', 'philosophyofmind')",continental rationalism,philosophy of mind,0,-1
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,0,-1
+"('animalcognition', 'philosophyofmind')",animal cognition,philosophy of mind,0,-1
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,0,-1
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,0,-1
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,3,-1
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,4,-1
+"('matter', 'philosophyofmind')",matter,philosophy of mind,0,-1
+"('aspectsofmind', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,aspects of mind,3,-1
+"('aspectsofmind', 'consciousnessandpsychology')",consciousness and psychology,aspects of mind,2,-1
+"('mentalcontent', 'theoriesofmentalcontent')",theories of mental content,mental content,3,-1
+"('externalismaboutmentalcontent', 'mentalcontent')",externalism about mental content,mental content,4,-1
+"('mentalcontent', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,mental content,1,-1
+"('mentalcontent', 'narrowmentalcontent')",narrow mental content,mental content,3,-1
+"('consciousnessandintentionality', 'mentalcontent')",consciousness and intentionality,mental content,3,-1
+"('consciousnessandmentalcontent', 'mentalcontent')",consciousness and mental content,mental content,4,-1
+"('causaltheoriesofmentalcontent', 'mentalcontent')",causal theories of mental content,mental content,0,-1
+"('externalism', 'mentalcontent')",externalism,mental content,4,-1
+"('internalismandexternalism', 'mentalcontent')",internalism and externalism,mental content,4,-1
+"('mentalcontent', 'westernphilosophy')",western philosophy,mental content,4,-1
+"('ethics', 'gametheoryinethics')",game theory in ethics,ethics,4,0
+"('ethics', 'religionandmorality')",religion and morality,ethics,4,3
+"('ethics', 'medievaltheoriesofpracticalreason')",medieval theories of practical reason,ethics,1,0
+"('aesthetics', 'environmentalaesthetics')",environmental aesthetics,aesthetics,4,0
+"('existence', 'existenceofgod')",existence of god,existence,3,0
+"('essenceandexistence', 'existence')",essence and existence,existence,4,0
+"('existence', 'properties')",properties,existence,4,3
+"('aspectsofconsciousness', 'consciousness')",aspects of consciousness,consciousness,4,1
+"('aspectsofconsciousness', 'diversity')",aspects of consciousness,diversity,0,3
+"('aspectsofconsciousness', 'mindinindianbuddhistphilosophy')",aspects of consciousness,mind in indian buddhist philosophy,3,3
+"('aspectsofconsciousness', 'self')",aspects of consciousness,self,4,3
+"('aspectsofconsciousness', 'conscience')",aspects of consciousness,conscience,3,3
+"('aspectsofconsciousness', 'literature')",aspects of consciousness,literature,0,3
+"('aspectsofconsciousness', 'modelsandidealization')",aspects of consciousness,models and idealization,0,3
+"('aspectsofconsciousness', 'perceptualexperience')",aspects of consciousness,perceptual experience,4,0
+"('aspectsofconsciousness', 'consciousnessandintentionality')",aspects of consciousness,consciousness and intentionality,4,1
+"('eliminativematerialism', 'materialism')",eliminative materialism,materialism,4,1
+"('eliminativematerialism', 'folkpsychology')",eliminative materialism,folk psychology,4,1
+"('eliminativematerialism', 'philosophyofpsychology')",eliminative materialism,philosophy of psychology,4,1
+"('eliminativematerialism', 'psychiatry')",eliminative materialism,psychiatry,3,1
+"('eliminativematerialism', 'eliminativism')",eliminative materialism,eliminativism,4,2
+"('eliminativematerialism', 'philosophiesoftheparticularsciences')",eliminative materialism,philosophies of the particular sciences,2,1
+"('eliminativematerialism', 'mentalstate')",eliminative materialism,mental state,4,1
+"('eliminativematerialism', 'philosophyofscienceandthesciences')",eliminative materialism,philosophy of science and the sciences,2,1
+"('belief', 'eliminativematerialism')",eliminative materialism,belief,4,0
+"('mind', 'mindbodyproblem')",mind-body problem,mind,4,1
+"('mindbodyproblem', 'neutralmonism')",mind-body problem,neutral monism,4,0
+"('consciousness', 'mindbodyproblem')",mind-body problem,consciousness,4,1
+"('mindbodyproblem', 'philosophyofmind')",mind-body problem,philosophy of mind,4,1
+"('metaphysics', 'mindbodyproblem')",mind-body problem,metaphysics,4,1
+"('mindbodyproblem', 'pain')",mind-body problem,pain,3,0
+"('functionalism', 'mindbodyproblem')",mind-body problem,functionalism,4,0
+"('mindbodyproblem', 'philosophyofpsychology')",mind-body problem,philosophy of psychology,3,1
+"('mindbodyproblem', 'psychiatry')",mind-body problem,psychiatry,2,1
+"('behaviorism', 'philosophyofpsychology')",behaviorism,philosophy of psychology,4,1
+"('behaviorism', 'psychiatry')",behaviorism,psychiatry,3,1
+"('behaviorism', 'functionalism')",behaviorism,functionalism,4,2
+"('behaviorism', 'mentalstate')",behaviorism,mental state,4,1
+"('behaviorism', 'philosophiesoftheparticularsciences')",behaviorism,philosophies of the particular sciences,3,1
+"('behaviorism', 'cognitivescience')",behaviorism,cognitive science,4,3
+"('behaviorism', 'philosophyofmind')",behaviorism,philosophy of mind,4,1
+"('behaviorism', 'referenceanddenotation')",behaviorism,reference and denotation,1,3
+"('dualism', 'mind')",dualism,mind,4,1
+"('body', 'dualism')",dualism,body,4,1
+"('dualism', 'propertydualism')",dualism,property dualism,4,0
+"('dualism', 'substance')",dualism,substance,4,1
+"('cartesiandualism', 'dualism')",dualism,cartesian dualism,4,0
+"('dualism', 'materialism')",dualism,materialism,4,2
+"('dualism', 'matter')",dualism,matter,2,1
+"('consciousness', 'dualism')",dualism,consciousness,4,1
+"('functionalism', 'mentalstate')",functionalism,mental state,4,1
+"('functionalism', 'pain')",functionalism,pain,3,3
+"('behaviorism', 'functionalism')",functionalism,behaviorism,4,2
+"('belief', 'functionalism')",functionalism,belief,3,3
+"('functionalism', 'qualia')",functionalism,qualia,3,3
+"('desire', 'functionalism')",functionalism,desire,3,3
+"('functionalism', 'invertedqualia')",functionalism,inverted qualia,4,0
+"('desires', 'functionalism')",functionalism,desires,3,3
+"('physicalism', 'supervenience')",physicalism,supervenience,4,1
+"('physicalism', 'propertyandownership')",physicalism,property and ownership,4,1
+"('knowledgeargument', 'physicalism')",physicalism,knowledge argument,4,0
+"('aprioriandaposteriori', 'physicalism')",physicalism,a priori and a posteriori,3,3
+"('materialism', 'physicalism')",physicalism,materialism,4,2
+"('physicalism', 'properties')",physicalism,properties,4,1
+"('physicalism', 'zombies')",physicalism,zombies,4,3
+"('philosophyofphysics', 'physicalism')",physicalism,philosophy of physics,2,1
+"('naturalism', 'physicalism')",physicalism,naturalism,4,1
+"('mind', 'philosophyofmind')",philosophy of mind,mind,4,2
+"('body', 'philosophyofmind')",philosophy of mind,body,3,2
+"('ideas', 'philosophyofmind')",philosophy of mind,ideas,4,0
+"('matter', 'philosophyofmind')",philosophy of mind,matter,3,1
+"('attention', 'philosophyofmind')",philosophy of mind,attention,3,0
+"('existence', 'philosophyofmind')",philosophy of mind,existence,2,1
+"('concepts', 'philosophyofmind')",philosophy of mind,concepts,4,0
+"('change', 'philosophyofmind')",philosophy of mind,change,1,1
+"('literature', 'philosophyofmind')",philosophy of mind,literature,0,3
+"('japanesephilosophy', 'zenbuddhism')",japanese philosophy,zen buddhism,-1,0
+"('moralcharacter', 'spaceandtime')",moral character,space and time,0,-1
+"('god', 'moralcharacter')",moral character,god,4,3
+"('moralcharacter', 'philosophyofeducation')",moral character,philosophy of education,4,3
+"('moralcharacter', 'philosophyofpsychology')",moral character,philosophy of psychology,4,1
+"('moralcharacter', 'virtuesandvices')",moral character,virtues and vices,4,0
+"('ancientphilosophyaristotle', 'moralcharacter')",moral character,ancient philosophy (aristotle),3,1
+"('moralcharacter', 'philosophyofeconomics')",moral character,philosophy of economics,2,1
+"('moralcharacter', 'socialphilosophyandpoliticalphilosophy')",moral character,social philosophy and political philosophy,3,1
+"('mentalstate', 'philosophyofmind')",philosophy of mind,mental state,4,1
+"('occasionalism', 'philosophyofmind')",philosophy of mind,occasionalism,4,0
+"('dualismandmetaphysicsofmind', 'philosophyofmind')",philosophy of mind,dualism and metaphysics of mind,4,0
+"('divineillumination', 'philosophyofmind')",philosophy of mind,divine illumination,4,1
+"('philosophyofmind', 'spinozaspsychologicaltheory')",philosophy of mind,spinoza's psychological theory,4,0
+"('modularityofmind', 'philosophyofmind')",philosophy of mind,modularity of mind,4,0
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",philosophy of mind,mental representation in medieval philosophy,4,0
+"('philosophyofmind', 'syntacticanalysis')",philosophy of mind,syntactic analysis,2,1
+"('artificialintelligence', 'philosophyofmind')",philosophy of mind,artificial intelligence,4,0
+"('consciousness', 'philosophyofmind')",philosophy of mind,consciousness,4,0
+"('mentalcontent', 'philosophyofmind')",philosophy of mind,mental content,4,0
+"('concepts', 'mentalcontent')",mental content,concepts,4,2
+"('mentalcontent', 'mentalrepresentation')",mental content,mental representation,4,2
+"('mentalcontent', 'nonconceptualcontent')",mental content,non-conceptual content,4,0
+"('mentalcontent', 'narrowmentalcontent')",mental content,narrow mental content,4,0
+"('mentalcontent', 'nonconceptualmentalcontent')",mental content,nonconceptual mental content,4,0
+"('intentionality', 'mentalcontent')",mental content,intentionality,4,2
+"('internalismandexternalism', 'mentalcontent')",mental content,internalism and externalism,4,0
+"('mentalcontent', 'propositionalattitude')",mental content,propositional attitude,4,2
+"('mentalcontent', 'theoriesofmentalcontent')",mental content,theories of mental content,4,0
+"('consciousnessandmentalcontent', 'mentalcontent')",mental content,consciousness and mental content,4,0
+"('contentsofperception', 'mentalcontent')",mental content,contents of perception,4,0
+"('mentalcontent', 'mentalimagery')",mental content,mental imagery,4,2
+"('externalism', 'mentalcontent')",mental content,externalism,4,1
+"('mentalcontent', 'representation')",mental content,representation,4,1
+"('chinesebuddhism', 'chinesephilosophy')",chinese philosophy,chinese buddhism,4,0
+"('chinesephilosophy', 'taoism')",chinese philosophy,taoism,4,0
+"('chinesephilosophy', 'philosophyofeducation')",chinese philosophy,philosophy of education,0,-1
+"('aprioriandaposteriori', 'apriorijustificationandknowledge')",a priori and a posteriori,a priori justification and knowledge,4,0
+"('aprioriandaposteriori', 'knowledgeandskepticism')",a priori and a posteriori,knowledge and skepticism,4,1
+"('aprioriandaposteriori', 'epistemology')",a priori and a posteriori,epistemology,4,-1
+"('aprioriandaposteriori', 'epistemology')",a priori and a posteriori,epistemology,-1,1
+"('aprioriandaposteriori', 'reference')",a priori and a posteriori,reference,2,2
+"('aprioriandaposteriori', 'philosophyofmind')",a priori and a posteriori,philosophy of mind,1,1
+"('aprioriandaposteriori', 'warandpacifism')",a priori and a posteriori,war and pacifism,0,-1
+"('aprioriandaposteriori', 'philosophyofscience')",a priori and a posteriori,philosophy of science,2,1
+"('knowledge', 'rationalismvsempiricism')",knowledge,rationalism vs. empiricism,4,0
+"('knowledge', 'platoonknowledgeinthetheaetetus')",knowledge,plato on knowledge in the theaetetus,4,0
+"('analysisofknowledge', 'knowledge')",knowledge,analysis of knowledge,4,0
+"('metaphysicsofmind', 'philosophyofmind')",philosophy of mind,metaphysics of mind,0,0
+"('metaphysicsofmind', 'philosophyofmind')",philosophy of mind,metaphysics of mind,4,-1
+"('functionandteleology', 'turingmachine')",turing machine,function and teleology,0,-1
+"('turingmachine', 'universals')",turing machine,universals,0,-1
+"('methodandmetaphysicsinplatossophistandstatesman', 'sophists')",sophists,method and metaphysics in plato's sophist and statesman,3,3
+"('names', 'sophists')",sophists,names,2,1
+"('philosophyofart', 'sophists')",sophists,philosophy of art,0,-1
+"('sophists', 'virtuesandvices')",sophists,virtues and vices,2,1
+"('sophists', 'wisdom')",sophists,wisdom,4,1
+"('abilities', 'sophists')",sophists,abilities,0,-1
+"('purpose', 'sophists')",sophists,purpose,0,-1
+"('attention', 'sophists')",sophists,attention,0,-1
+"('philosophyofeducation', 'sophists')",sophists,philosophy of education,1,1
+"('death', 'sophists')",sophists,death,0,-1
+"('philosophyofreligion', 'zenbuddhism')",zen buddhism,philosophy of religion,4,1
+"('consciousnessandmentalcontent', 'mentalcontent')",consciousness and mental content,mental content,2,-1
+"('philosophyofreligion', 'pietism')",pietism,philosophy of religion,4,1
+"('aristotleslogic', 'syllogism')",aristotle's logic,syllogism,4,1
+"('aristotleslogic', 'categories')",aristotle's logic,categories,4,1
+"('argument', 'aristotleslogic')",aristotle's logic,argument,4,1
+"('aristotleslogic', 'contradiction')",aristotle's logic,contradiction,-1,3
+"('aristotleslogic', 'metaphysics')",aristotle's logic,metaphysics,3,3
+"('empathy', 'empiricalapproachestomoralpsychology')",empathy,empirical approaches to moral psychology,4,3
+"('altruism', 'empathy')",empathy,altruism,4,2
+"('empathy', 'person')",empathy,person,2,3
+"('abilities', 'empathy')",empathy,abilities,1,3
+"('empathy', 'situations')",empathy,situations,0,-1
+"('emotion', 'empathy')",empathy,emotion,4,1
+"('empathy', 'recognition')",empathy,recognition,1,3
+"('desires', 'empathy')",empathy,desires,-1,-1
+"('empathy', 'philosophyofmind')",empathy,philosophy of mind,3,1
+"('empathy', 'psychiatry')",empathy,psychiatry,3,1
+"('imagery', 'perception')",perception,imagery,4,2
+"('perception', 'selfknowledge')",perception,self-knowledge,2,2
+"('ancientskepticism', 'perception')",perception,ancient skepticism,4,3
+"('artisticrepresentation', 'perception')",perception,artistic representation,4,2
+"('revisiontheoryoftruth', 'truth')",revision theory of truth,truth,4,1
+"('revisiontheoryoftruth', 'truth')",revision theory of truth,truth,4,1
+"('relativism', 'truth')",truth,relativism,4,-1
+"('attention', 'philosophyofmathematics')",philosophy of mathematics,attention,0,-1
+"('analysis', 'philosophyofmathematics')",philosophy of mathematics,analysis,2,3
+"('philosophyofmind', 'purpose')",philosophy of mind,purpose,3,0
+"('trait', 'unitsandlevelsofselection')",units and levels of selection,trait,4,2
+"('evolution', 'unitsandlevelsofselection')",units and levels of selection,evolution,4,1
+"('gene', 'unitsandlevelsofselection')",units and levels of selection,gene,4,0
+"('modelsandidealization', 'unitsandlevelsofselection')",units and levels of selection,models and idealization,3,3
+"('naturalselection', 'unitsandlevelsofselection')",units and levels of selection,natural selection,4,1
+"('fitness', 'unitsandlevelsofselection')",units and levels of selection,fitness,4,1
+"('species', 'unitsandlevelsofselection')",units and levels of selection,species,4,1
+"('ethicsandart', 'philosophyofart')",ethics and art,philosophy of art,4,1
+"('naturalizedepistemology', 'populationgenetics')",naturalized epistemology,population genetics,0,-1
+"('ethics', 'socialcontract')",ethics,social contract,4,1
+"('attention', 'psychiatry')",psychiatry,attention,3,2
+"('consciousness', 'intentionality')",intentionality,consciousness,4,2
+"('consciousnessandintentionality', 'intentionality')",intentionality,consciousness and intentionality,4,0
+"('intentionality', 'mentalstate')",intentionality,mental state,4,1
+"('computation', 'turingmachine')",turing machine,computation,4,0
+"('metaphor', 'philosophyoflanguage')",metaphor,philosophy of language,4,-1
+"('existence', 'possibleworlds')",existence,possible worlds,3,2
+"('ancientphilosophy', 'knowledge')",ancient philosophy,knowledge,1,3
+"('feministepistemologyandphilosophyofscience', 'postmodernism')",postmodernism,feminist epistemology and philosophy of science,2,3
+"('deconstruction', 'postmodernism')",postmodernism,deconstruction,4,1
+"('postmodernism', 'rationalismandempiricism')",postmodernism,rationalism and empiricism,3,2
+"('meaning', 'postmodernism')",postmodernism,meaning,3,3
+"('life', 'perspectivism')",perspectivism,life,0,-1
+"('historicism', 'perspectivism')",perspectivism,historicism,1,2
+"('cognitivescience', 'computationandrepresentation')",computation and representation,cognitive science,4,0
+"('computationandrepresentation', 'philosophyofpsychology')",computation and representation,philosophy of psychology,3,0
+"('artificialintelligence', 'computationandrepresentation')",computation and representation,artificial intelligence,4,0
+"('computationandrepresentation', 'psychiatry')",computation and representation,psychiatry,1,3
+"('computationandrepresentation', 'folkpsychology')",computation and representation,folk psychology,3,0
+"('computationandrepresentation', 'connectionism')",computation and representation,connectionism,4,3
+"('computationandrepresentation', 'philosophiesoftheparticularsciences')",computation and representation,philosophies of the particular sciences,2,0
+"('computationandrepresentation', 'events')",computation and representation,events,2,0
+"('computationandrepresentation', 'neuralnetwork')",computation and representation,neural network,3,3
+"('computationandrepresentation', 'mentalrepresentation')",computation and representation,mental representation,4,0
+"('philosophyoflanguage', 'privatelanguage')",philosophy of language,private language,4,1
+"('identitytheoryofmind', 'physicalism')",physicalism,identity theory of mind,4,1
+"('interpretation', 'quantummechanics')",quantum mechanics,interpretation,1,3
+"('philosophyofphysics', 'quantummechanics')",quantum mechanics,philosophy of physics,4,0
+"('bohmianmechanics', 'quantummechanics')",quantum mechanics,bohmian mechanics,4,1
+"('probability', 'quantummechanics')",quantum mechanics,probability,3,3
+"('classicalphysics', 'quantummechanics')",quantum mechanics,classical physics,3,2
+"('descriptions', 'quantummechanics')",quantum mechanics,descriptions,0,-1
+"('philosophiesoftheparticularsciences', 'quantummechanics')",quantum mechanics,philosophies of the particular sciences,4,0
+"('formalism', 'quantummechanics')",quantum mechanics,formalism,0,-1
+"('probabilityandstatistics', 'quantummechanics')",quantum mechanics,probability and statistics,3,3
+"('bellstheorem', 'quantummechanics')",quantum mechanics,bell's theorem,4,1
+"('cognitivescience', 'philosophiesoftheparticularsciences')",cognitive science,philosophies of the particular sciences,4,0
+"('cognitivescience', 'philosophyofscienceandthesciences')",cognitive science,philosophy of science and the sciences,4,0
+"('cognitivescience', 'philosophyofpsychology')",cognitive science,philosophy of psychology,4,2
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,4,2
+"('cognitivescience', 'embodiedcognition')",cognitive science,embodied cognition,4,1
+"('cognitivescience', 'psychiatry')",cognitive science,psychiatry,3,2
+"('cognitivescience', 'representation')",cognitive science,representation,4,1
+"('cognitivescience', 'modelsandidealization')",cognitive science,models and idealization,4,3
+"('cognitivescience', 'philosophyofscience')",cognitive science,philosophy of science,4,0
+"('cognitivescience', 'explanation')",cognitive science,explanation,4,3
+"('cognitivescience', 'information')",cognitive science,Information,4,3
+"('attention', 'cognitivescience')",cognitive science,attention,4,1
+"('cognitivescience', 'descriptions')",cognitive science,descriptions,1,3
+"('cognitivescience', 'mentalrepresentation')",cognitive science,mental representation,4,1
+"('cognitivescience', 'memory')",cognitive science,memory,4,1
+"('cognitivescience', 'philosophyofneuroscience')",cognitive science,philosophy of neuroscience,4,2
+"('cognitivescience', 'computation')",cognitive science,computation,4,3
+"('cognitivescience', 'observation')",cognitive science,observation,1,0
+"('body', 'cognitivescience')",cognitive science,body,3,3
+"('cognitivescience', 'mechanism')",cognitive science,mechanism,4,3
+"('cognitivescience', 'philosophyoflanguage')",cognitive science,philosophy of language,3,2
+"('cognitivescience', 'functionandteleology')",cognitive science,function and teleology,2,1
+"('cognitivescience', 'concepts')",cognitive science,concepts,4,1
+"('cognitivescience', 'function')",cognitive science,function,4,1
+"('absurdity', 'contradiction')",absurdity,contradiction,3,2
+"('absurdity', 'existence')",absurdity,existence,4,0
+"('absurdity', 'meaning')",absurdity,meaning,4,0
+"('absurdity', 'purpose')",absurdity,purpose,4,0
+"('logic', 'philosophiesoftheparticularsciences')",logic,philosophies of the particular sciences,1,3
+"('consequences', 'logic')",logic,consequences,4,1
+"('idealism', 'modernism')",modernism,idealism,-1,-1
+"('change', 'modernism')",modernism,change,4,0
+"('continentalphilosophy', 'epistemology')",continental philosophy,epistemology,4,0
+"('attention', 'continentalphilosophy')",continental philosophy,attention,2,1
+"('continentalphilosophy', 'feminism')",continental philosophy,feminism,3,1
+"('continentalphilosophy', 'historyofphilosophy')",continental philosophy,history of philosophy,4,0
+"('analyticphilosophy', 'continentalphilosophy')",continental philosophy,analytic philosophy,4,2
+"('continentalphilosophy', 'psychoanalysis')",continental philosophy,psychoanalysis,4,1
+"('continentalfeminism', 'continentalphilosophy')",continental philosophy,continental feminism,3,1
+"('aesthetics', 'philosophyofart')",philosophy of art,aesthetics,4,2
+"('artisticform', 'artisticobject')",artistic form,artistic object,4,2
+"('interpretation', 'judaicphilosophy')",judaic philosophy,interpretation,1,3
+"('eternityinchristianthought', 'spaceandtime')",Eternity in Christian Thought,space and time,3,2
+"('eternityinchristianthought', 'time')",Eternity in Christian Thought,time,4,0
+"('eternityinchristianthought', 'god')",Eternity in Christian Thought,god,4,2
+"('interpretation', 'meaning')",interpretation,meaning,4,0
+"('interpretation', 'purpose')",interpretation,purpose,2,3
+"('interpretation', 'time')",interpretation,time,0,-1
+"('interpretation', 'referenceanddenotation')",interpretation,reference and denotation,3,1
+"('attention', 'interpretation')",interpretation,attention,1,3
+"('philosophiesoftheparticularsciences', 'philosophyofchemistry')",philosophy of chemistry,philosophies of the particular sciences,4,0
+"('philosophyofchemistry', 'philosophyofscienceandthesciences')",philosophy of chemistry,philosophy of science and the sciences,4,0
+"('philosophyofchemistry', 'philosophyofphysics')",philosophy of chemistry,philosophy of physics,4,2
+"('philosophyofbiology', 'philosophyofchemistry')",philosophy of chemistry,philosophy of biology,3,2
+"('philosophyofchemistry', 'substance')",philosophy of chemistry,substance,2,3
+"('explanation', 'philosophyofchemistry')",philosophy of chemistry,explanation,3,1
+"('atomismfromthe17thtothe20thcentury', 'philosophyofchemistry')",philosophy of chemistry,atomism from the 17th to the 20th century,4,2
+"('atomism', 'philosophyofchemistry')",philosophy of chemistry,atomism,3,3
+"('mechanism', 'philosophyofchemistry')",philosophy of chemistry,mechanism,3,1
+"('philosophyofchemistry', 'reductionandemergence')",philosophy of chemistry,reduction and emergence,4,1
+"('observation', 'philosophyofchemistry')",philosophy of chemistry,observation,3,1
+"('philosophyofchemistry', 'philosophyofpsychology')",philosophy of chemistry,philosophy of psychology,1,2
+"('literature', 'philosophyofchemistry')",philosophy of chemistry,literature,0,-1
+"('daoism', 'taoism')",taoism,daoism,4,2
+"('confucianism', 'taoism')",taoism,confucianism,3,2
+"('buddhism', 'taoism')",taoism,buddhism,3,2
+"('philosophyofreligion', 'taoism')",taoism,philosophy of religion,3,0
+"('names', 'taoism')",taoism,names,1,3
+"('chinesephilosophy', 'taoism')",taoism,chinese philosophy,4,0
+"('neodaoism', 'taoism')",taoism,Neo-Daoism,4,1
+"('chinesephilosophy', 'daoism')",chinese philosophy,daoism,4,1
+"('fetishism', 'sadomasochism')",sado-masochism,fetishism,2,2
+"('homosexuality', 'sadomasochism')",sado-masochism,homosexuality,1,3
+"('anarchism', 'philosophyofwar')",anarchism,philosophy of war,1,3
+"('anarchism', 'authority')",anarchism,authority,4,2
+"('anarchism', 'revolution')",anarchism,Revolution,3,3
+"('anarchism', 'politicalphilosophy')",anarchism,political philosophy,4,0
+"('anarchism', 'time')",anarchism,time,0,-1
+"('anarchism', 'consequences')",anarchism,consequences,0,-1
+"('anarchism', 'autonomy')",anarchism,autonomy,2,3
+"('idealism', 'solipsism')",solipsism,idealism,2,2
+"('recognition', 'solipsism')",solipsism,recognition,0,-1
+"('philosophyofmind', 'solipsism')",solipsism,philosophy of mind,3,0
+"('self', 'solipsism')",solipsism,self,4,2
+"('developmentalbiology', 'philosophyofbiology')",developmental biology,philosophy of biology,4,0
+"('developmentalbiology', 'philosophiesoftheparticularsciences')",developmental biology,philosophies of the particular sciences,4,0
+"('developmentalbiology', 'philosophyofscienceandthesciences')",developmental biology,philosophy of science and the sciences,3,0
+"('developmentalbiology', 'evolutionarytheory')",developmental biology,evolutionary theory,4,2
+"('developmentalbiology', 'molecularbiologyandgenetics')",developmental biology,molecular biology and genetics,4,2
+"('developmentalbiology', 'gene')",developmental biology,gene,4,2
+"('developmentalbiology', 'molecularbiology')",developmental biology,molecular biology,4,2
+"('developmentalbiology', 'trait')",developmental biology,trait,4,2
+"('developmentalbiology', 'evolution')",developmental biology,evolution,4,2
+"('developmentalbiology', 'mechanism')",developmental biology,mechanism,4,3
+"('metaphysics', 'ontology')",metaphysics,ontology,4,1
+"('matter', 'metaphysics')",metaphysics,matter,3,1
+"('existence', 'metaphysics')",metaphysics,existence,4,1
+"('attention', 'metaphysics')",metaphysics,attention,0,-1
+"('metaphysics', 'universals')",metaphysics,universals,4,1
+"('metaphysics', 'time')",metaphysics,time,3,3
+"('metaphysics', 'philosophyofscience')",metaphysics,philosophy of science,2,3
+"('metaphysics', 'philosophyofmind')",metaphysics,philosophy of mind,3,3
+"('metaphysics', 'spaceandtime')",metaphysics,space and time,4,3
+"('aestheticexperience', 'aesthetics')",aesthetic experience,aesthetics,4,1
+"('argument', 'fallaciesduplicatetoremove')",fallacies_(duplicate_to_remove),argument,4,0
+"('fallaciesduplicatetoremove', 'ontology')",fallacies_(duplicate_to_remove),ontology,1,3
+"('fallaciesduplicatetoremove', 'inference')",fallacies_(duplicate_to_remove),inference,4,0
+"('fallaciesduplicatetoremove', 'reference')",fallacies_(duplicate_to_remove),reference,2,3
+"('consequences', 'fallaciesduplicatetoremove')",fallacies_(duplicate_to_remove),consequences,2,3
+"('analysis', 'fallaciesduplicatetoremove')",fallacies_(duplicate_to_remove),analysis,3,3
+"('definition', 'fallaciesduplicatetoremove')",fallacies_(duplicate_to_remove),definition,2,3
+"('fallaciesduplicatetoremove', 'interpretation')",fallacies_(duplicate_to_remove),interpretation,1,3
+"('lesbianism', 'sexuality')",lesbianism,sexuality,4,0
+"('homosexuality', 'lesbianism')",lesbianism,homosexuality,4,0
+"('lesbianism', 'race')",lesbianism,race,2,3
+"('definition', 'lesbianism')",lesbianism,definition,0,-1
+"('davidlewissmetaphysics', 'possibleworlds')",david lewis's metaphysics,possible worlds,4,3
+"('contextofdiscovery', 'contextofjustification')",context of discovery,context of justification,4,2
+"('contextofdiscovery', 'justification')",context of discovery,justification,2,3
+"('contextofdiscovery', 'scientifictheory')",context of discovery,scientific theory,4,0
+"('contextofdiscovery', 'scientificdiscovery')",context of discovery,Scientific Discovery,4,0
+"('contextofdiscovery', 'ontology')",context of discovery,ontology,2,3
+"('contextofdiscovery', 'historyofscience')",context of discovery,history of science,4,3
+"('contextofdiscovery', 'philosophyofphysics')",context of discovery,philosophy of physics,3,3
+"('contextofdiscovery', 'progress')",context of discovery,progress,1,3
+"('contextofdiscovery', 'rationalismandempiricism')",context of discovery,rationalism and empiricism,3,3
+"('contextofdiscovery', 'scientificmethodology')",context of discovery,scientific methodology,4,0
+"('analysis', 'contextofdiscovery')",context of discovery,analysis,1,3
+"('contextofdiscovery', 'empiricism')",context of discovery,empiricism,4,0
+"('contextofdiscovery', 'philosophyofbiology')",context of discovery,philosophy of biology,2,3
+"('contextofdiscovery', 'referenceanddenotation')",context of discovery,reference and denotation,0,-1
+"('contextofdiscovery', 'reference')",context of discovery,reference,0,-1
+"('contextofdiscovery', 'evidence')",context of discovery,evidence,4,3
+"('contextofdiscovery', 'philosophyofscience')",context of discovery,philosophy of science,4,0
+"('contextofdiscovery', 'respect')",context of discovery,respect,0,-1
+"('contextofdiscovery', 'knowledgeandskepticism')",context of discovery,knowledge and skepticism,1,3
+"('attention', 'contextofdiscovery')",context of discovery,attention,0,-1
+"('contextofdiscovery', 'knowledge')",context of discovery,knowledge,1,3
+"('concepts', 'contextofdiscovery')",context of discovery,concepts,2,3
+"('parsimony', 'simplicity')",parsimony,simplicity,4,2
+"('ontology', 'parsimony')",parsimony,ontology,3,3
+"('chinesephilosophy', 'scienceandchinesephilosophy')",chinese philosophy,Science and Chinese Philosophy,4,1
+"('chinesephilosophy', 'confucianism')",chinese philosophy,confucianism,4,1
+"('chinesephilosophy', 'ontology')",chinese philosophy,ontology,2,3
+"('chinesephilosophy', 'translatingandinterpretingchinesephilosophy')",chinese philosophy,Translating and Interpreting Chinese Philosophy,4,1
+"('buddhism', 'chinesephilosophy')",chinese philosophy,buddhism,3,2
+"('chinesephilosophy', 'wisdom')",chinese philosophy,wisdom,3,0
+"('chinesephilosophy', 'chinesewesterncomparativephilosophy')",chinese philosophy,chinese-western comparative philosophy,4,3
+"('chinesephilosophy', 'westernphilosophy')",chinese philosophy,western philosophy,2,2
+"('chinesephilosophy', 'culture')",chinese philosophy,culture,3,0
+"('chinesephilosophy', 'ethics')",chinese philosophy,ethics,4,3
+"('pain', 'pleasure')",pain,pleasure,3,2
+"('ontology', 'pain')",pain,ontology,0,-1
+"('attention', 'pain')",pain,attention,1,3
+"('pain', 'virtuesandvices')",pain,virtues and vices,1,3
+"('matter', 'pain')",pain,matter,0,-1
+"('pain', 'respect')",pain,respect,0,-1
+"('consequences', 'pain')",pain,consequences,1,3
+"('pain', 'qualities')",pain,qualities,1,0
+"('mind', 'pain')",pain,mind,4,0
+"('pain', 'philosophyofmind')",pain,philosophy of mind,4,0
+"('body', 'pain')",pain,body,3,3
+"('existence', 'pain')",pain,existence,0,-1
+"('pain', 'purpose')",pain,purpose,0,-1
+"('life', 'pain')",pain,life,1,0
+"('pain', 'referenceanddenotation')",pain,reference and denotation,0,-1
+"('change', 'pain')",pain,change,0,-1
+"('goodness', 'metaphysics')",metaphysics,goodness,0,-1
+"('consciousness', 'unityofconsciousness')",consciousness,unity of consciousness,4,1
+"('consciousness', 'ontology')",consciousness,ontology,1,3
+"('consciousness', 'self')",consciousness,self,4,2
+"('consciousness', 'philosophyofmind')",consciousness,philosophy of mind,4,0
+"('attention', 'consciousness')",consciousness,attention,4,2
+"('animalconsciousness', 'consciousness')",consciousness,animal consciousness,4,1
+"('consciousness', 'perception')",consciousness,perception,4,2
+"('consciousness', 'philosophyofperception')",consciousness,philosophy of perception,4,2
+"('consciousness', 'consciousnessandintentionality')",consciousness,consciousness and intentionality,4,2
+"('fallacies', 'fallaciesduplicatetoremove')",fallacies,fallacies_(duplicate_to_remove),4,2
+"('argument', 'fallacies')",fallacies,argument,3,2
+"('fallacies', 'ontology')",fallacies,ontology,1,3
+"('fallacies', 'inference')",fallacies,inference,4,0
+"('fallacies', 'referenceanddenotation')",fallacies,reference and denotation,0,-1
+"('analysis', 'fallacies')",fallacies,analysis,0,-1
+"('consequences', 'fallacies')",fallacies,consequences,0,-1
+"('fallacies', 'reference')",fallacies,reference,0,-1
+"('definition', 'fallacies')",fallacies,definition,0,-1
+"('fallacies', 'interpretation')",fallacies,interpretation,0,-1
+"('boundedrationality', 'rationality')",bounded rationality,rationality,4,0
+"('boundedrationality', 'information')",bounded rationality,Information,3,3
+"('boundedrationality', 'probability')",bounded rationality,probability,3,3
+"('boundedrationality', 'philosophyoftechnology')",bounded rationality,philosophy of technology,0,-1
+"('boundedrationality', 'philosophyofeconomics')",bounded rationality,philosophy of economics,3,3
+"('medievaltheoriesofcausality', 'medievaltheoriesofcausation')",medieval theories of causality,medieval theories of causation,4,2
+"('medievalphilosophy', 'medievaltheoriesofcausality')",medieval theories of causality,medieval philosophy,4,0
+"('literature', 'medievaltheoriesofcausality')",medieval theories of causality,literature,0,-1
+"('defaults', 'defaultsinsemanticsandpragmatics')",defaults in semantics and pragmatics,defaults,4,0
+"('daoism', 'taoism')",daoism,taoism,4,2
+"('religion', 'taoism')",taoism,religion,4,0
+"('ruleconsequentialism', 'ruleconsequentialism')",rule-consequentialism,rule consequentialism,4,2
+"('essentialversusaccidentalproperties', 'essentialvsaccidentalproperties')",essential versus accidental properties,essential vs. accidental properties,4,2
+"('essentialversusaccidentalproperties', 'propertyandownership')",essential versus accidental properties,property and ownership,4,0
+"('essentialversusaccidentalproperties', 'properties')",essential versus accidental properties,properties,4,0
+"('essentialism', 'essentialversusaccidentalproperties')",essential versus accidental properties,essentialism,4,0
+"('essentialversusaccidentalproperties', 'object')",essential versus accidental properties,object,4,0
+"('abstractobject', 'essentialversusaccidentalproperties')",essential versus accidental properties,abstract object,4,0
+"('experimentinbiology', 'philosophyofbiology')",Experiment in Biology,philosophy of biology,4,0
+"('experimentinbiology', 'molecularbiologyandgenetics')",Experiment in Biology,molecular biology and genetics,4,1
+"('experimentinbiology', 'mechanism')",Experiment in Biology,mechanism,4,3
+"('experimentinbiology', 'philosophiesoftheparticularsciences')",Experiment in Biology,philosophies of the particular sciences,4,0
+"('experimentation', 'experimentinbiology')",Experiment in Biology,experimentation,4,0
+"('evidence', 'experimentinbiology')",Experiment in Biology,evidence,4,0
+"('experimentinbiology', 'replication')",Experiment in Biology,replication,3,3
+"('experimentinbiology', 'modelsandidealization')",Experiment in Biology,models and idealization,3,3
+"('eliminativism', 'ontology')",eliminativism,ontology,4,0
+"('eliminativematerialism', 'eliminativism')",eliminativism,eliminative materialism,4,2
+"('argument', 'eliminativism')",eliminativism,argument,0,-1
+"('eliminativism', 'existence')",eliminativism,existence,2,3
+"('attention', 'eliminativism')",eliminativism,attention,1,3
+"('eliminativism', 'pain')",eliminativism,pain,2,3
+"('eliminativism', 'psychiatry')",eliminativism,psychiatry,3,3
+"('attributes', 'eliminativism')",eliminativism,attributes,1,3
+"('eliminativism', 'interpretation')",eliminativism,interpretation,0,-1
+"('eliminativism', 'philosophyofpsychology')",eliminativism,philosophy of psychology,4,0
+"('eliminativism', 'literature')",eliminativism,literature,0,-1
+"('eliminativism', 'relations')",eliminativism,relations,0,-1
+"('eliminativism', 'virtuesandvices')",eliminativism,virtues and vices,0,-1
+"('belief', 'eliminativism')",eliminativism,belief,4,3
+"('eliminativism', 'philosophiesoftheparticularsciences')",eliminativism,philosophies of the particular sciences,4,0
+"('eliminativism', 'referenceanddenotation')",eliminativism,reference and denotation,1,3
+"('descriptions', 'eliminativism')",eliminativism,descriptions,1,3
+"('eliminativism', 'propositionalattitude')",eliminativism,propositional attitude,4,3
+"('eliminativism', 'mentalstate')",eliminativism,mental state,4,3
+"('eliminativism', 'purpose')",eliminativism,purpose,2,3
+"('coherentism', 'foundationalism')",foundationalism,coherentism,4,2
+"('epistemology', 'foundationalism')",foundationalism,epistemology,4,0
+"('foundationalism', 'justification')",foundationalism,justification,4,0
+"('belief', 'foundationalism')",foundationalism,belief,4,3
+"('epistemologicalproblemsofperception', 'foundationalism')",foundationalism,epistemological problems of perception,4,3
+"('foundationalism', 'ontology')",foundationalism,ontology,2,3
+"('foundationalism', 'foundationalisttheoriesofepistemicjustification')",foundationalism,foundationalist theories of epistemic justification,4,1
+"('explanation', 'foundationalism')",foundationalism,explanation,1,3
+"('foundationalism', 'skepticism')",foundationalism,skepticism,4,2
+"('facts', 'foundationalism')",foundationalism,facts,3,3
+"('computation', 'computationalcomplexitytheory')",computational complexity theory,computation,4,0
+"('computationalcomplexitytheory', 'ontology')",computational complexity theory,ontology,2,3
+"('computabilityandcomplexity', 'computationalcomplexitytheory')",computational complexity theory,computability and complexity,4,2
+"('computationalcomplexitytheory', 'logic')",computational complexity theory,logic,3,0
+"('computationalcomplexitytheory', 'functionandteleology')",computational complexity theory,function and teleology,0,-1
+"('computationalcomplexitytheory', 'literature')",computational complexity theory,literature,0,-1
+"('computationalcomplexitytheory', 'function')",computational complexity theory,function,1,3
+"('change', 'computationalcomplexitytheory')",computational complexity theory,change,0,-1
+"('computationalcomplexitytheory', 'information')",computational complexity theory,Information,3,3
+"('computationalcomplexitytheory', 'secondorderandhigherorderlogic')",computational complexity theory,second-order and higher-order logic,2,3
+"('computationalcomplexitytheory', 'situations')",computational complexity theory,situations,0,-1
+"('computationalcomplexitytheory', 'interpretation')",computational complexity theory,interpretation,0,-1
+"('computationalcomplexitytheory', 'facts')",computational complexity theory,facts,0,-1
+"('computationalcomplexitytheory', 'semantics')",computational complexity theory,semantics,0,-1
+"('computationalcomplexitytheory', 'syntax')",computational complexity theory,syntax,0,-1
+"('computationalcomplexitytheory', 'respect')",computational complexity theory,respect,0,-1
+"('computationalcomplexitytheory', 'intuition')",computational complexity theory,intuition,0,-1
+"('computationalcomplexitytheory', 'formalism')",computational complexity theory,formalism,2,3
+"('computationalcomplexitytheory', 'inference')",computational complexity theory,inference,1,3
+"('computationalcomplexitytheory', 'modelsandidealization')",computational complexity theory,models and idealization,1,3
+"('brainsinavat', 'reference')",brains in a vat,reference,3,3
+"('brainsinavat', 'skepticismandcontentexternalism')",brains in a vat,Skepticism and Content Externalism,4,0
+"('brainsinavat', 'ontology')",brains in a vat,ontology,2,3
+"('brainsinavat', 'mentalstate')",brains in a vat,mental state,4,3
+"('brainsinavat', 'sounds')",brains in a vat,sounds,0,-1
+"('brainsinavat', 'semantics')",brains in a vat,semantics,4,3
+"('brainsinavat', 'situations')",brains in a vat,situations,1,3
+"('brainsinavat', 'skepticism')",brains in a vat,skepticism,3,3
+"('belief', 'brainsinavat')",brains in a vat,belief,4,3
+"('argument', 'brainsinavat')",brains in a vat,argument,1,3
+"('churchturingthesis', 'turingmachine')",church-turing thesis,turing machine,4,1
+"('churchturingthesis', 'function')",church-turing thesis,function,2,3
+"('ontology', 'suffering')",Suffering,ontology,0,-1
+"('life', 'suffering')",Suffering,life,2,0
+"('pain', 'suffering')",Suffering,pain,4,2
+"('person', 'suffering')",Suffering,person,2,3
+"('consequences', 'suffering')",Suffering,consequences,0,-1
+"('death', 'suffering')",Suffering,death,3,3
+"('purpose', 'suffering')",Suffering,purpose,1,3
+"('attention', 'suffering')",Suffering,attention,1,3
+"('matter', 'suffering')",Suffering,matter,0,-1
+"('respect', 'suffering')",Suffering,respect,0,-1
+"('individuals', 'suffering')",Suffering,individuals,1,3
+"('situations', 'suffering')",Suffering,situations,0,-1
+"('action', 'suffering')",Suffering,action,1,3
+"('suffering', 'virtuesandvices')",Suffering,virtues and vices,1,3
+"('abilities', 'suffering')",Suffering,abilities,0,-1
+"('desire', 'suffering')",Suffering,desire,2,2
+"('desires', 'suffering')",Suffering,desires,2,2
+"('suffering', 'value')",Suffering,value,3,3
+"('rights', 'suffering')",Suffering,rights,2,3
+"('family', 'suffering')",Suffering,family,0,-1
+"('consciousness', 'panpsychism')",panpsychism,consciousness,4,0
+"('monismandpluralism', 'panpsychism')",panpsychism,monism and pluralism,1,3
+"('monism', 'panpsychism')",panpsychism,monism,3,3
+"('panpsychism', 'physicalism')",panpsychism,physicalism,2,3
+"('matter', 'panpsychism')",panpsychism,matter,2,3
+"('mind', 'panpsychism')",panpsychism,mind,4,0
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,4,0
+"('panpsychism', 'reductionandemergence')",panpsychism,reduction and emergence,3,2
+"('panpsychism', 'qualities')",panpsychism,qualities,3,3
+"('emergence', 'panpsychism')",panpsychism,emergence,3,2
+"('panpsychism', 'philosophyofphysics')",panpsychism,philosophy of physics,1,3
+"('dualism', 'panpsychism')",panpsychism,dualism,3,2
+"('argument', 'panpsychism')",panpsychism,argument,0,-1
+"('neutralmonism', 'panpsychism')",panpsychism,neutral monism,3,2
+"('materialism', 'panpsychism')",panpsychism,materialism,3,2
+"('mindbodyproblem', 'panpsychism')",panpsychism,mind-body problem,4,0
+"('panpsychism', 'philosophyofpsychology')",panpsychism,philosophy of psychology,2,3
+"('philosophyofscienceandthesciences', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,philosophy of science and the sciences,4,0
+"('philosophyofscience', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,philosophy of science,4,0
+"('historyofscience', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,history of science,4,0
+"('realism', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,realism,4,0
+"('realismandantirealism', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,realism and anti-realism,4,2
+"('induction', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,induction,3,3
+"('realismandtheorychangeinscience', 'scientifictheory')",Realism and Theory Change in Science,scientific theory,4,0
+"('pessimism', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,pessimism,2,3
+"('confirmationandinduction', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,confirmation and induction,4,2
+"('argument', 'realismandtheorychangeinscience')",Realism and Theory Change in Science,argument,2,3
+"('ceterisparibuslaws', 'philosophyoflaw')",ceteris paribus laws,philosophy of law,0,-1
+"('ceterisparibuslaws', 'philosophyofscience')",ceteris paribus laws,philosophy of science,4,0
+"('ceterisparibuslaws', 'counterfactuals')",ceteris paribus laws,counterfactuals,2,3
+"('ceterisparibuslaws', 'philosophyofscienceandthesciences')",ceteris paribus laws,philosophy of science and the sciences,4,0
+"('ceterisparibuslaws', 'philosophyofphysics')",ceteris paribus laws,philosophy of physics,3,0
+"('ceterisparibuslaws', 'suppositionandcopulation')",ceteris paribus laws,supposition and copulation,0,-1
+"('ceterisparibuslaws', 'philosophiesoftheparticularsciences')",ceteris paribus laws,philosophies of the particular sciences,4,0
+"('ceterisparibuslaws', 'philosophyofeconomics')",ceteris paribus laws,philosophy of economics,4,3
+"('ceterisparibuslaws', 'inference')",ceteris paribus laws,inference,0,-1
+"('naturallaw', 'philosophyoflaw')",natural law,philosophy of law,4,0
+"('naturallaw', 'naturallawtheories')",natural law,natural law theories,4,2
+"('naturallaw', 'naturallawtraditioninethics')",natural law,natural law tradition in ethics,4,1
+"('naturallaw', 'rights')",natural law,rights,4,2
+"('naturallaw', 'naturallawtradition')",natural law,natural law tradition,4,1
+"('matter', 'naturallaw')",natural law,matter,0,-1
+"('naturallaw', 'reference')",natural law,reference,0,-1
+"('authority', 'naturallaw')",natural law,authority,2,3
+"('naturallaw', 'ontology')",natural law,ontology,3,3
+"('continentalphilosophy', 'intersectionsbetweenpragmatistandcontinentalfeminism')",continental philosophy,intersections between pragmatist and continental feminism,4,1
+"('continentalphilosophy', 'historyofphilosophy')",continental philosophy,history of philosophy,3,3
+"('approachestofeministphilosophy', 'continentalphilosophy')",continental philosophy,approaches to feminist philosophy,3,3
+"('continentalphilosophy', 'ontology')",continental philosophy,ontology,2,3
+"('continentalphilosophy', 'reductionandemergence')",continental philosophy,reduction and emergence,0,-1
+"('continentalphilosophy', 'knowledgeandskepticism')",continental philosophy,knowledge and skepticism,3,3
+"('continentalphilosophy', 'knowledge')",continental philosophy,knowledge,3,3
+"('continentalphilosophy', 'philosophyofhistory')",continental philosophy,philosophy of history,2,3
+"('attention', 'continentalphilosophy')",continental philosophy,attention,0,-1
+"('continentalphilosophy', 'situations')",continental philosophy,situations,0,-1
+"('continentalphilosophy', 'phenomenology')",continental philosophy,phenomenology,4,1
+"('continentalphilosophy', 'culture')",continental philosophy,culture,2,3
+"('continentalphilosophy', 'hermeneutics')",continental philosophy,hermeneutics,4,1
+"('continentalphilosophy', 'pragmatism')",continental philosophy,pragmatism,2,2
+"('continentalphilosophy', 'interpretation')",continental philosophy,interpretation,2,3
+"('continentalphilosophy', 'modelsandidealization')",continental philosophy,models and idealization,0,-1
+"('continentalphilosophy', 'pragmatics')",continental philosophy,pragmatics,0,-1
+"('continentalphilosophy', 'philosophyofscience')",continental philosophy,philosophy of science,1,3
+"('body', 'continentalphilosophy')",continental philosophy,body,3,3
+"('continentalphilosophy', 'purpose')",continental philosophy,purpose,0,-1
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science,philosophy of science and the sciences,4,1
+"('philosophiesoftheparticularsciences', 'philosophyofscience')",philosophy of science,philosophies of the particular sciences,4,2
+"('ontology', 'philosophyofscience')",philosophy of science,ontology,3,3
+"('philosophyofscience', 'philosophyofsocialscience')",philosophy of science,philosophy of social science,4,1
+"('cognitivescience', 'philosophyofscience')",philosophy of science,cognitive science,3,3
+"('explanation', 'philosophyofscience')",philosophy of science,explanation,4,1
+"('historyofphilosophy', 'ontology')",history of philosophy,ontology,3,3
+"('historyofphilosophy', 'philosophyofscience')",history of philosophy,philosophy of science,4,1
+"('causation', 'counterfactuals')",counterfactuals,causation,3,3
+"('counterfactuals', 'counterfactualtheoriesofcausation')",counterfactuals,counterfactual theories of causation,4,1
+"('counterfactuals', 'truth')",counterfactuals,truth,3,2
+"('counterfactuals', 'possibleworlds')",counterfactuals,possible worlds,4,2
+"('mind', 'otherminds')",other minds,mind,4,0
+"('inference', 'otherminds')",other minds,inference,3,3
+"('mentalstate', 'otherminds')",other minds,mental state,4,2
+"('knowledgeandskepticism', 'otherminds')",other minds,knowledge and skepticism,3,3
+"('knowledge', 'otherminds')",other minds,knowledge,3,3
+"('otherminds', 'pain')",other minds,pain,3,3
+"('otherminds', 'perception')",other minds,perception,2,3
+"('evidence', 'otherminds')",other minds,evidence,2,3
+"('otherminds', 'skepticism')",other minds,skepticism,3,0
+"('aesthetics', 'aestheticsandphilosophyofart')",aesthetics,aesthetics and philosophy of art,4,2
+"('ethics', 'ontology')",ethics,ontology,1,3
+"('logicofconditionals', 'probabilityandstatistics')",logic of conditionals,probability and statistics,4,3
+"('logicofconditionals', 'modelsandidealization')",logic of conditionals,models and idealization,4,3
+"('mechanism', 'philosophyofbiology')",philosophy of biology,mechanism,4,3
+"('explanation', 'philosophyofbiology')",philosophy of biology,explanation,4,3
+"('evolution', 'philosophyofbiology')",philosophy of biology,evolution,4,3
+"('philosophyofbiology', 'philosophyofsystemsandsyntheticbiology')",philosophy of biology,Philosophy of Systems and Synthetic Biology,4,3
+"('philosophyofbiology', 'philosophyofscience')",philosophy of biology,philosophy of science,4,3
+"('molecularbiology', 'philosophyofbiology')",philosophy of biology,molecular biology,4,3
+"('molecularbiologyandgenetics', 'philosophyofbiology')",philosophy of biology,molecular biology and genetics,4,3
+"('philosophyofmedicine', 'purpose')",philosophy of medicine,purpose,4,3
+"('life', 'philosophyofmedicine')",philosophy of medicine,life,4,3
+"('philosophyofscienceandthesciences', 'probabilityandstatistics')",philosophy of science and the sciences,probability and statistics,4,3
+"('philosophyofbiology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of biology,4,3
+"('philosophyofpsychology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of psychology,4,3
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of science,4,3
+"('philosophyofmathematics', 'philosophyofscience')",philosophy of mathematics,philosophy of science,4,3
+"('philosophyofmathematics', 'questions')",philosophy of mathematics,Questions,4,3
+"('consequences', 'philosophyofmathematics')",philosophy of mathematics,consequences,4,3
+"('analysis', 'philosophyofmathematics')",philosophy of mathematics,analysis,4,3
+"('philosophyofmathematics', 'platonism')",philosophy of mathematics,platonism,4,3
+"('philosophyofmathematics', 'settheory')",philosophy of mathematics,set theory,4,3
+"('artificialintelligence', 'logic')",artificial intelligence,logic,3,3
+"('commonknowledge', 'formalapproachestosocialprocedures')",Formal Approaches to Social Procedures,common knowledge,3,0
+"('aestheticproperties', 'definitionofart')",definition of art,aesthetic properties,3,2
+"('aestheticsandphilosophyofart', 'definitionofart')",definition of art,aesthetics and philosophy of art,4,0
+"('aesthetics', 'definitionofart')",definition of art,aesthetics,4,0
+"('definition', 'definitionofart')",definition of art,definition,3,0
+"('definitionofart', 'philosophyofart')",definition of art,philosophy of art,4,0
+"('concepts', 'definitionofart')",definition of art,concepts,1,3
+"('animalconsciousness', 'consciousness')",animal consciousness,consciousness,4,0
+"('animalconsciousness', 'phenomenalconsciousness')",animal consciousness,phenomenal consciousness,3,2
+"('animalbehavior', 'animalconsciousness')",animal consciousness,animal behavior,3,3
+"('animalconsciousness', 'pain')",animal consciousness,pain,3,2
+"('animalconsciousness', 'mentalstate')",animal consciousness,mental state,4,0
+"('animalconsciousness', 'greatapes')",animal consciousness,great apes,3,3
+"('animalconsciousness', 'nonhumananimals')",animal consciousness,nonhuman animals,4,0
+"('animalconsciousness', 'animalmind')",animal consciousness,Animal Mind,4,0
+"('animalconsciousness', 'mind')",animal consciousness,mind,4,0
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,3,0
+"('animalconsciousness', 'blindsight')",animal consciousness,blindsight,2,3
+"('animalconsciousness', 'evidence')",animal consciousness,evidence,1,3
+"('animalconsciousness', 'functionofconsciousness')",animal consciousness,function of consciousness,4,3
+"('animalconsciousness', 'emotion')",animal consciousness,emotion,3,3
+"('animalcognition', 'animalconsciousness')",animal consciousness,animal cognition,4,2
+"('animalconsciousness', 'evolutionofconsciousness')",animal consciousness,evolution of consciousness,4,2
+"('animalconsciousness', 'neuralcorrelates')",animal consciousness,neural correlates,4,3
+"('animalconsciousness', 'species')",animal consciousness,species,2,3
+"('animalconsciousness', 'distribution')",animal consciousness,distribution,0,-1
+"('animalconsciousness', 'animalwelfare')",animal consciousness,animal welfare,4,2
+"('animalconsciousness', 'consciousnessandneuroscience')",animal consciousness,consciousness and neuroscience,3,2
+"('externalism', 'externalismaboutmentalcontent')",externalism about mental content,externalism,3,0
+"('externalismaboutmentalcontent', 'internalismandexternalism')",externalism about mental content,internalism and externalism,4,0
+"('cognitivescience', 'mind')",cognitive science,mind,4,0
+"('animalmind', 'philosophyofmind')",Animal Mind,philosophy of mind,4,0
+"('animalmind', 'mind')",Animal Mind,mind,4,0
+"('animalcognition', 'animalmind')",Animal Mind,animal cognition,4,2
+"('animalconsciousness', 'animalmind')",Animal Mind,animal consciousness,4,1
+"('animalmind', 'humancognition')",Animal Mind,human cognition,3,2
+"('animalbehavior', 'animalmind')",Animal Mind,animal behavior,3,2
+"('animalmind', 'modality')",Animal Mind,modality,0,-1
+"('animalmind', 'explanation')",Animal Mind,explanation,2,3
+"('animalmind', 'nonhumananimals')",Animal Mind,nonhuman animals,4,0
+"('animalmind', 'epistemology')",Animal Mind,epistemology,3,3
+"('chinesephilosophy', 'philosophyinhandynastychina')",chinese philosophy,Philosophy in Han Dynasty China,4,1
+"('chineseandwestern', 'chinesephilosophy')",chinese philosophy,chinese and western,3,1
+"('chinesephilosophy', 'theemotionsinearlychinesephilosophy')",chinese philosophy,The Emotions in Early Chinese Philosophy,4,1
