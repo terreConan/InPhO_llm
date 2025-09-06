@@ -1,0 +1,14 @@
+For the following concept pair, answer using ONLY the allowed options.
+Idea A: "{idea_a}"
+Idea B: "{idea_b}"
+
+1) Relatedness (choose one):
+Not Related / Marginally Related / Somewhat Related / Related / Highly Related
+
+2) If your answer to (1) is NOT "Not Related", choose one for how A relates to B in
+generality:
+More Specific Than / More General Than / As General As / Incomparable To
+
+Reply on two lines exactly:
+Relatedness: <option>
+Generality: <option or N/A>
