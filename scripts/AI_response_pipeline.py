@@ -42,6 +42,10 @@ gen_options = {
 }
 PROMPT_VERSION = "v1"
 
+def truthy(val):
+    """Convert string representations of boolean values to actual booleans"""
+    return str(val).strip().lower() in ["1", "true", "t", "yes", "y"]
+
 def load_user_prompt(ideaA, ideaB):
     with open(f"./prompts/{PROMPT_VERSION}/user_prompt.txt", "r") as f:
         base = f.read()
@@ -73,10 +77,10 @@ def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/generated.csv"
+    output_f = "./data/processed/ai_prompts_v1.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
-    fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
+    fieldnames = ["key", "ideaA", "ideaB", "persona", "system_prompt", "user_prompt", "metadata"]
     with open(output_f, "w") as output_csv:
         writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
         writer.writeheader()
@@ -92,13 +96,10 @@ def main():
                 user_prompt = load_user_prompt(ideaA, ideaB)
 
                 for coverage, persona in coverage_to_persona.items():
-                    if pair.get(coverage):
+                    if truthy(pair.get(coverage)):
                         system_prompt = load_system_prompt(persona)
 
                         #TODO: generate ai response using the system_prompt and user_prompt with according API key
-                        ai_response = "More Specifc Than, Incomparable To"
-
-                        rel, gen = response_to_index(ai_response)
 
                         metadata = {
                             "model": None,
@@ -112,8 +113,6 @@ def main():
                             "key": key,
                             "ideaA": ideaA,
                             "ideaB": ideaB,
-                            "relatedness": rel,
-                            "generality": gen,
                             "persona": persona,
                             "system_prompt": PROMPT_VERSION,
                             "user_prompt": PROMPT_VERSION,
