@@ -1,0 +1,713 @@
+key,idea_a,idea_b,id_a,id_b,has_ids,edge_i_to_j,edge_j_to_i,edge_any
+"('chinesephilosophy', 'taoism')",taoism,chinese philosophy,559,624,True,True,True,True
+"('meaning', 'philosophyoflanguage')",philosophy of language,meaning,712,1923,True,True,True,True
+"('philosophyofscience', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of science,1826,722,True,True,True,True
+"('epistemology', 'epistemologyofscience')",epistemology,epistemology of science,646,1829,True,True,True,True
+"('metaphysics', 'substance')",metaphysics,substance,681,1504,True,True,True,True
+"('philosophyofbiology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of biology,1826,704,True,True,True,True
+"('artificialintelligence', 'neuralnetwork')",artificial intelligence,neural network,890,946,True,True,True,True
+"('epistemology', 'moralepistemologyandmoralreasoning')",epistemology,moral epistemology and moral reasoning,646,868,True,True,True,True
+"('revisiontheoryoftruth', 'truth')",revision theory of truth,truth,1013,1709,True,True,True,True
+"('philosophyofreligion', 'religion')",philosophy of religion,religion,724,1893,True,True,True,True
+"('artificialintelligence', 'thinkingmachine')",thinking machine,artificial intelligence,894,890,True,True,True,True
+"('belief', 'philosophyofreligion')",philosophy of religion,belief,724,880,True,True,True,True
+"('chinesephilosophy', 'daoism')",chinese philosophy,daoism,624,148,True,True,True,True
+"('artificialintelligence', 'philosophyofcomputerscience')",artificial intelligence,philosophy of computer science,890,903,True,True,True,True
+"('cognitivescience', 'philosophyofscience')",cognitive science,philosophy of science,892,722,True,True,True,True
+"('philosophyofreligion', 'religiousdiversity')",philosophy of religion,religious diversity,724,1042,True,True,True,True
+"('cognitivescience', 'mind')",cognitive science,mind,892,2067,True,True,True,True
+"('japaneseconfucianphilosophy', 'japanesephilosophy')",japanese confucian philosophy,japanese philosophy,1695,671,True,True,True,True
+"('artificialintelligence', 'logicandartificialintelligence')",artificial intelligence,logic and artificial intelligence,890,1196,True,True,True,True
+"('cognitivescience', 'philosophyofmind')",cognitive science,philosophy of mind,892,715,True,True,True,True
+"('philosophyofmathematics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mathematics,1826,714,True,True,True,True
+"('cognitivescience', 'connectionism')",connectionism,cognitive science,893,892,True,True,True,True
+"('feministphilosophyofreligion', 'philosophyofreligion')",philosophy of religion,feminist philosophy of religion,724,1029,True,True,True,True
+"('philosophyofreligion', 'religionandscience')",philosophy of religion,religion and science,724,1575,True,True,True,True
+"('chinesebuddhism', 'chinesephilosophy')",chinese buddhism,chinese philosophy,1692,624,True,True,True,True
+"('cognitivescience', 'philosophyofpsychology')",cognitive science,philosophy of psychology,892,720,True,True,True,True
+"('cognitivescience', 'representation')",cognitive science,representation,892,885,True,True,True,True
+"('philosophyofscienceandthesciences', 'probabilityandstatistics')",philosophy of science and the sciences,probability and statistics,1826,939,True,True,True,True
+"('artificialintelligence', 'logic')",artificial intelligence,logic,890,674,True,True,True,True
+"('bioethics', 'biomedicalethics')",biomedical ethics,bioethics,1986,621,True,True,True,True
+"('mentalcontent', 'representation')",representation,mental content,885,925,True,True,True,True
+"('cognitivescience', 'folkpsychology')",folk psychology,cognitive science,891,892,True,True,True,True
+"('aristotleonnoncontradiction', 'perception')",aristotle on non-contradiction,perception,1857,2078,True,True,True,True
+"('epistemology', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,epistemology,943,646,True,True,True,True
+"('epistemology', 'realism')",realism,epistemology,480,646,True,True,True,True
+"('epistemology', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,epistemology,1827,646,True,True,True,True
+"('metaphysics', 'realismandantirealism')",realism and anti-realism,metaphysics,978,681,True,True,True,True
+"('einsteinsphilosophyofscience', 'philosophyofscienceandthesciences')",einstein's philosophy of science,philosophy of science and the sciences,1173,1826,True,True,True,True
+"('medievaltheoriesofrelations', 'metaphysics')",medieval theories of relations,metaphysics,1027,681,True,True,True,True
+"('epistemology', 'probability')",probability,epistemology,770,646,True,True,True,True
+"('epistemologicalproblemsoftestimony', 'epistemology')",epistemological problems of testimony,epistemology,1538,646,True,True,True,True
+"('epistemology', 'reliabilism')",reliabilism,epistemology,486,646,True,True,True,True
+"('connectionism', 'connectionistmodel')",connectionism,connectionist model,893,947,True,True,True,True
+"('japanesezenbuddhistphilosophy', 'philosophyofmind')",japanese zen buddhist philosophy,philosophy of mind,1696,715,True,True,True,True
+"('autism', 'perception')",autism,perception,57,2078,True,True,True,True
+"('internalismandexternalism', 'philosophyofmind')",internalism and externalism,philosophy of mind,2163,715,True,True,True,True
+"('knowledge', 'rationalismvsempiricism')",rationalism vs. empiricism,knowledge,1160,2075,True,True,True,True
+"('higherordertheoriesofconsciousness', 'perception')",higher-order theories of consciousness,perception,1228,2078,True,True,True,True
+"('artisticrepresentation', 'perception')",artistic representation,perception,2003,2078,True,True,True,True
+"('chineseandwestern', 'chinesephilosophy')",chinese and western,chinese philosophy,1689,624,True,True,True,True
+"('philosophyofcomputerscience', 'philosophyofmathematics')",philosophy of computer science,philosophy of mathematics,903,714,True,True,True,True
+"('epistemologicalproblemsoftestimony', 'perception')",epistemological problems of testimony,perception,1538,2078,True,True,True,True
+"('everettsrelativestateformulationofquantummechanics', 'philosophyofmind')",everett's relative-state formulation of quantum mechanics,philosophy of mind,1248,715,True,True,True,True
+"('consciousness', 'unityofconsciousness')",unity of consciousness,consciousness,877,923,True,True,True,True
+"('foreknowledgeandfreewill', 'freewill')",foreknowledge and free will,free will,1565,992,True,True,True,True
+"('aristotleslogic', 'metaphysics')",aristotle's logic,metaphysics,1011,681,True,True,True,True
+"('intentionality', 'perception')",intentionality,perception,1325,2078,True,True,True,True
+"('philosophyandchristiantheology', 'philosophyofreligion')",philosophy and christian theology,philosophy of religion,1136,724,True,True,True,True
+"('computationallinguistics', 'perception')",computational linguistics,perception,1994,2078,True,True,True,True
+"('metaphysics', 'naturaltheology')",natural theology,metaphysics,1571,681,True,True,True,True
+"('artificialintelligence', 'outputunit')",output unit,artificial intelligence,950,890,True,False,False,False
+"('externalism', 'philosophyofmind')",externalism,philosophy of mind,201,715,True,True,True,True
+"('philosophyoflanguage', 'sentence')",sentence,philosophy of language,1940,712,True,True,True,True
+"('perception', 'selfknowledge')",self-knowledge,perception,808,2078,True,True,True,True
+"('continuant', 'metaphysics')",continuant,metaphysics,1513,681,True,True,True,True
+"('matter', 'philosophyofreligion')",matter,philosophy of religion,1497,724,True,True,True,True
+"('metaphysics', 'philosophyofart')",philosophy of art,metaphysics,702,681,True,True,True,True
+"('philosophyofscience', 'philosophyofsocialscience')",philosophy of social science,philosophy of science,919,722,True,True,True,True
+"('aesthetics', 'aestheticsandphilosophyofart')",aesthetics,aesthetics and philosophy of art,614,1788,True,True,True,True
+"('epistemology', 'probabilityandstatistics')",probability and statistics,epistemology,939,646,True,True,True,True
+"('essenceandexistence', 'existence')",essence and existence,existence,1684,1478,True,True,True,True
+"('epistemology', 'foundationalism')",foundationalism,epistemology,223,646,True,True,True,True
+"('body', 'philosophyofmind')",body,philosophy of mind,2040,715,True,True,True,True
+"('philosophyofcomputerscience', 'philosophyofscience')",philosophy of computer science,philosophy of science,903,722,True,True,True,True
+"('causalprocesses', 'causation')",causal processes,causation,1080,969,True,True,True,True
+"('ethics', 'gametheoryinethics')",game theory in ethics,ethics,1596,647,True,True,True,True
+"('cognitivescience', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,cognitive science,1058,892,True,True,True,True
+"('metaphysics', 'realism')",realism,metaphysics,480,681,True,True,True,True
+"('perception', 'sensedata')",sense-data,perception,1541,2078,True,True,True,True
+"('continentalphilosophy', 'philosophyofhistory')",philosophy of history,continental philosophy,711,631,True,True,True,True
+"('cognitivescience', 'mentalimagery')",mental imagery,cognitive science,1223,892,True,True,True,True
+"('humeonreligion', 'philosophyofreligion')",hume on religion,philosophy of religion,1780,724,True,True,True,True
+"('epistemology', 'justifiedtruebelief')",justified true belief,epistemology,1549,646,True,True,True,True
+"('bioethics', 'cloning')",cloning,bioethics,2015,621,True,True,True,True
+"('epistemology', 'knowledge')",knowledge,epistemology,2075,646,True,True,True,True
+"('civildisobedience', 'philosophyoflaw')",philosophy of law,civil disobedience,713,1732,True,True,True,True
+"('emergence', 'panpsychism')",panpsychism,emergence,695,909,True,True,True,True
+"('kantsphilosophyofscience', 'metaphysics')",kant's philosophy of science,metaphysics,1055,681,True,True,True,True
+"('historyoflogic', 'medievallogic')",medieval logic,history of logic,1813,917,True,True,True,True
+"('idiolects', 'philosophyoflanguage')",idiolects,philosophy of language,1384,712,True,True,True,True
+"('divineillumination', 'philosophyofmind')",divine illumination,philosophy of mind,1383,715,True,True,True,True
+"('consciousness', 'consciousnessandintentionality')",consciousness and intentionality,consciousness,1227,923,True,True,True,True
+"('ethnocentrism', 'philosophyofreligion')",ethnocentrism,philosophy of religion,192,724,True,True,True,True
+"('foundationalism', 'skepticism')",foundationalism,skepticism,223,527,True,True,True,True
+"('folkpsychology', 'philosophyofmind')",folk psychology,philosophy of mind,891,715,True,True,True,True
+"('perception', 'qualia')",qualia,perception,737,2078,True,True,True,True
+"('metaphysics', 'motionandtime')",motion and time,metaphysics,1821,681,True,True,True,True
+"('metaphysics', 'naturalphilosophy')",natural philosophy,metaphysics,1632,681,True,True,True,True
+"('pantheism', 'philosophyofreligion')",pantheism,philosophy of religion,417,724,True,True,True,True
+"('epistemology', 'naturalizedepistemology')",naturalized epistemology,epistemology,1145,646,True,True,True,True
+"('logos', 'perception')",logos,perception,1612,2078,True,True,True,True
+"('analyticfeminism', 'metaphysics')",analytic feminism,metaphysics,1121,681,True,True,True,True
+"('chinesephilosophy', 'chinesewesterncomparativephilosophy')",chinese-western comparative philosophy,chinese philosophy,1130,624,True,True,True,True
+"('koreanphilosophy', 'perception')",korean philosophy,perception,673,2078,True,True,True,True
+"('originofaesthetic', 'philosophyofmind')",origin of aesthetic,philosophy of mind,857,715,True,True,True,True
+"('connectionism', 'trainingset')",connectionism,training set,893,949,True,True,True,True
+"('evolution', 'unitsandlevelsofselection')",units and levels of selection,evolution,1300,1125,True,True,True,True
+"('consciousness', 'consciousnessandcontent')",consciousness and content,consciousness,924,923,True,True,True,True
+"('perception', 'philosophyofphysics')",philosophy of physics,perception,719,2078,True,True,True,True
+"('dynamicalsystem', 'supertasks')",supertasks,dynamical system,1187,938,True,False,False,False
+"('modularity', 'philosophyofmind')",modularity,philosophy of mind,829,715,True,True,True,True
+"('logic', 'philosophyofmathematics')",logic,philosophy of mathematics,674,714,True,True,True,True
+"('defeasiblereasoning', 'epistemology')",defeasible reasoning,epistemology,1054,646,True,True,True,True
+"('descartesontologicalargument', 'perception')",descartes' ontological argument,perception,1281,2078,True,True,True,True
+"('bioethics', 'feministbioethics')",feminist bioethics,bioethics,1030,621,True,True,True,True
+"('justifiedtruebelief', 'perception')",justified true belief,perception,1549,2078,True,True,True,True
+"('philosophyofreligion', 'polytheism')",polytheism,philosophy of religion,451,724,True,True,True,True
+"('philosophyofmind', 'philosophyofpsychology')",philosophy of psychology,philosophy of mind,720,715,True,True,True,True
+"('metaphysics', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,metaphysics,1826,681,True,True,True,True
+"('consciousness', 'phenomenalconsciousness')",phenomenal consciousness,consciousness,965,923,True,True,True,True
+"('artificialintelligence', 'logicandcomputation')",logic and computation,artificial intelligence,940,890,True,False,False,False
+"('analysis', 'philosophyofmathematics')",analysis,philosophy of mathematics,1508,714,True,True,True,True
+"('metaphysics', 'principleofsufficientreason')",principle of sufficient reason,metaphysics,1640,681,True,True,True,True
+"('perception', 'unityofconsciousness')",unity of consciousness,perception,877,2078,True,True,True,True
+"('meaning', 'metaphysics')",meaning,metaphysics,1923,681,True,True,True,True
+"('philosophiesoftheparticularsciences', 'philosophyofscienceandthesciences')",philosophies of the particular sciences,philosophy of science and the sciences,1827,1826,True,True,True,True
+"('metaphysics', 'mind')",mind,metaphysics,2067,681,True,True,True,True
+"('epistemology', 'propernames')",proper names,epistemology,2019,646,True,True,True,True
+"('metaphysics', 'simultaneity')",simultaneity,metaphysics,1997,681,True,True,True,True
+"('philosophyofmathematics', 'settheory')",philosophy of mathematics,set theory,714,1287,True,True,True,True
+"('historyoflogic', 'medievaltheoriesofthesyllogism')",medieval theories of the syllogism,history of logic,1243,917,True,True,True,True
+"('metaphysicsofmind', 'panpsychism')",panpsychism,metaphysics of mind,695,897,True,True,True,True
+"('philosophyofmind', 'symbolicprocessing')",symbolic processing,philosophy of mind,954,715,True,True,True,True
+"('modernphilosophy', 'philosophyofmind')",modern philosophy,philosophy of mind,899,715,True,True,True,True
+"('chineseroomargument', 'cognitivescience')",chinese room argument,cognitive science,1137,892,True,True,True,True
+"('arabicphilosophyandislamicphilosophy', 'metaphysics')",arabic philosophy and islamic philosophy,metaphysics,930,681,True,True,True,True
+"('consciousness', 'higherordertheoriesofconsciousness')",higher-order theories of consciousness,consciousness,1228,923,True,True,True,True
+"('afterlife', 'meaningoflife')",meaning of life,afterlife,1603,1581,True,True,True,True
+"('philosophyofmind', 'syntacticanalysis')",syntactic analysis,philosophy of mind,810,715,True,False,False,False
+"('metaphysics', 'universals')",universals,metaphysics,1483,681,True,True,True,True
+"('epistemology', 'matter')",matter,epistemology,1497,646,True,True,True,True
+"('philosophyofreligion', 'religiousexperience')",philosophy of religion,religious experience,724,1574,True,True,True,True
+"('interpretation', 'judaicphilosophy')",judaic philosophy,interpretation,921,845,True,False,False,False
+"('epistemology', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,epistemology,1826,646,True,True,True,True
+"('causeandeffect', 'perception')",cause and effect,perception,1897,2078,True,True,True,True
+"('chinesephilosophy', 'westernphilosophy')",western philosophy,chinese philosophy,758,624,True,True,True,True
+"('naturallaw', 'philosophyoflaw')",natural law,philosophy of law,2044,713,True,True,True,True
+"('chinesephilosophy', 'zenbuddhism')",zen buddhism,chinese philosophy,759,624,True,False,False,False
+"('metaphysics', 'metaphysicsofscience')",metaphysics of science,metaphysics,1828,681,True,True,True,True
+"('cognitivescience', 'philosophyofscienceandthesciences')",cognitive science,philosophy of science and the sciences,892,1826,True,True,True,True
+"('metaphysics', 'modernphilosophy')",modern philosophy,metaphysics,899,681,True,True,True,True
+"('metaphysics', 'personalidentityandethics')",personal identity and ethics,metaphysics,1598,681,True,True,True,True
+"('perception', 'unitarianism')",unitarianism,perception,590,2078,True,True,True,True
+"('epistemology', 'feministepistemologyandphilosophyofscience')",feminist epistemology and philosophy of science,epistemology,1043,646,True,True,True,True
+"('18thcenturygermanaesthetics', 'metaphysics')",18th century german aesthetics,metaphysics,1856,681,True,True,True,True
+"('activationvalue', 'folkpsychology')",activation value,folk psychology,955,891,True,True,True,True
+"('hilbertsprogram', 'philosophyofmathematics')",hilbert's program,philosophy of mathematics,1356,714,True,True,True,True
+"('eliminativematerialism', 'philosophyofmind')",eliminative materialism,philosophy of mind,641,715,True,True,True,True
+"('historyoflogic', 'intuitionisticlogic')",intuitionistic logic,history of logic,1211,917,True,False,False,False
+"('blindsight', 'perception')",blindsight,perception,870,2078,True,True,True,True
+"('scientificmethodology', 'unityofscience')",unity of science,scientific methodology,983,1830,True,True,True,True
+"('cognitivescience', 'neuralnetwork')",neural network,cognitive science,946,892,True,True,True,True
+"('metaphysics', 'time')",time,metaphysics,1488,681,True,True,True,True
+"('functionalism', 'philosophyofmind')",functionalism,philosophy of mind,226,715,True,True,True,True
+"('foundationalism', 'foundationalisttheoriesofepistemicjustification')",foundationalist theories of epistemic justification,foundationalism,1321,223,True,True,True,True
+"('intuitionisticlogic', 'logic')",logic,intuitionistic logic,674,1211,True,True,True,True
+"('connectionism', 'neuralnetwork')",connectionism,neural network,893,946,True,True,True,True
+"('causaltheoriesofmentalcontent', 'perception')",causal theories of mental content,perception,1699,2078,True,True,True,True
+"('metaphysics', 'mindbodyproblem')",mind-body problem,metaphysics,819,681,True,True,True,True
+"('greatapes', 'philosophyofmind')",great apes,philosophy of mind,962,715,True,True,True,True
+"('philosophyofreligion', 'problemofevil')",problem of evil,philosophy of religion,1126,724,True,True,True,True
+"('epistemology', 'gettierproblem')",gettier problem,epistemology,1550,646,True,True,True,True
+"('epistemology', 'internalism')",internalism,epistemology,666,646,True,True,True,True
+"('eternityinchristianthought', 'philosophyofreligion')",Eternity in Christian Thought,philosophy of religion,1580,724,True,True,True,True
+"('miracles', 'philosophyofreligion')",miracles,philosophy of religion,1219,724,True,True,True,True
+"('existence', 'metaphysics')",existence,metaphysics,1478,681,True,True,True,True
+"('philosophyofreligion', 'sovereignty')",sovereignty,philosophy of religion,1213,724,True,True,True,True
+"('philosophyofpsychology', 'philosophyofscienceandthesciences')",philosophy of psychology,philosophy of science and the sciences,720,1826,True,True,True,True
+"('epistemology', 'naturalisminlegalphilosophy')",naturalism in legal philosophy,epistemology,1167,646,True,True,True,True
+"('perception', 'philosophyofperception')",philosophy of perception,perception,718,2078,True,True,True,True
+"('epistemology', 'platonicrealism')",platonic realism,epistemology,727,646,True,True,True,True
+"('computationaltheoryofmind', 'philosophyofmind')",computational theory of mind,philosophy of mind,1235,715,True,True,True,True
+"('civilrights', 'racism')",racism,civil rights,473,1134,True,True,True,True
+"('epistemology', 'feministsocialepistemology')",feminist social epistemology,epistemology,1775,646,True,True,True,True
+"('leibnizoncausation', 'perception')",leibniz on causation,perception,1181,2078,True,True,True,True
+"('philosophyofscienceandthesciences', 'scientificprogress')",scientific progress,philosophy of science and the sciences,1203,1826,True,True,True,True
+"('epistemology', 'sensedata')",sense data,epistemology,1288,646,True,True,True,True
+"('epistemology', 'testimony')",testimony,epistemology,2077,646,True,True,True,True
+"('epistemology', 'scientifictheory')",scientific theory,epistemology,981,646,True,True,True,True
+"('medievaltheoriesofcausality', 'metaphysics')",medieval theories of causality,metaphysics,1083,681,True,False,False,False
+"('artificialintelligence', 'connectionistmodel')",connectionist model,artificial intelligence,947,890,True,True,True,True
+"('classicallogic', 'logic')",logic,classical logic,674,1195,True,True,True,True
+"('epistemology', 'modernphilosophy')",modern philosophy,epistemology,899,646,True,True,True,True
+"('philosophyofreligion', 'scienceandreligion')",science and religion,philosophy of religion,979,724,True,True,True,True
+"('philosophyofmind', 'spinozaspsychologicaltheory')",spinoza's psychological theory,philosophy of mind,1172,715,True,True,True,True
+"('intellectualism', 'philosophyofreligion')",intellectualism,philosophy of religion,278,724,True,True,True,True
+"('existence', 'existenceofgod')",existence of god,existence,1905,1478,True,True,True,True
+"('philosophyofmind', 'philosophyofscienceandthesciences')",philosophy of science and the sciences,philosophy of mind,1826,715,True,True,True,True
+"('introspection', 'philosophyofmind')",introspection,philosophy of mind,2076,715,True,True,True,True
+"('physicalism', 'zombies')",zombies,physicalism,1374,726,True,True,True,True
+"('metaphysics', 'theoryoftruth')",theory of truth,metaphysics,1704,681,True,True,True,True
+"('cartesiandualism', 'philosophyofmind')",cartesian dualism,philosophy of mind,98,715,True,True,True,True
+"('metaphysics', 'theoryofforms')",theory of forms,metaphysics,1822,681,True,True,True,True
+"('epistemology', 'historyoffeminism')",history of feminism,epistemology,1847,646,True,False,False,False
+"('causation', 'metaphysicsofcausation')",metaphysics of causation,causation,1082,969,True,True,True,True
+"('folkpsychology', 'perception')",folk psychology,perception,891,2078,True,True,True,True
+"('computerethics', 'ethics')",computer ethics,ethics,629,647,True,True,True,True
+"('essentialversusaccidentalproperties', 'propertyandownership')",essential versus accidental properties,property and ownership,1773,1706,True,False,False,False
+"('philosophyofreligion', 'publicreason')",public reason,philosophy of religion,1399,724,True,True,True,True
+"('agnosticism', 'philosophyofreligion')",agnosticism,philosophy of religion,13,724,True,True,True,True
+"('chinesephilosophy', 'confucianism')",chinese philosophy,confucianism,624,127,True,True,True,True
+"('symmetryandinvariance', 'symmetryandsymmetrybreaking')",symmetry and symmetry breaking,symmetry and invariance,1119,968,True,True,True,True
+"('epistemology', 'socialandpoliticalphilosophy')",social and political philosophy,epistemology,1787,646,True,True,True,True
+"('ideas', 'metaphysics')",ideas,metaphysics,1641,681,True,True,True,True
+"('matter', 'perception')",matter,perception,1497,2078,True,True,True,True
+"('20thcenturycontinentalphilosophy', 'philosophyofmind')",20th century continental philosophy,philosophy of mind,1845,715,True,False,False,False
+"('epistemology', 'philosophyofmathematics')",philosophy of mathematics,epistemology,714,646,True,True,True,True
+"('churchturingthesis', 'turingmachine')",church-turing thesis,turing machine,1135,1002,True,True,True,True
+"('cognitivevalueofart', 'perception')",cognitive value of art,perception,2007,2078,True,False,False,False
+"('kantscritiqueofmetaphysics', 'metaphysics')",kant's critique of metaphysics,metaphysics,1059,681,True,True,True,True
+"('koreanphilosophy', 'philosophyofmind')",korean philosophy,philosophy of mind,673,715,True,True,True,True
+"('artificialintelligence', 'churchturingthesis')",church-turing thesis,artificial intelligence,1135,890,True,True,True,True
+"('nonconceptualmentalcontent', 'perception')",nonconceptual mental content,perception,1274,2078,True,True,True,True
+"('cognitivescience', 'eliminativematerialism')",eliminative materialism,cognitive science,641,892,True,True,True,True
+"('epistemologyofscience', 'metaphysics')",epistemology of science,metaphysics,1829,681,True,True,True,True
+"('medievalproblemofuniversals', 'philosophyofmind')",medieval problem of universals,philosophy of mind,989,715,True,True,True,True
+"('bellstheorem', 'quantummechanics')",bell's theorem,quantum mechanics,1017,1158,True,True,True,True
+"('africanandafricanamericanphilosophy', 'akanphilosophyoftheperson')",akan philosophy of the person,african and african-american philosophy,1655,1652,True,False,False,False
+"('epistemology', 'theoryofforms')",theory of forms,epistemology,1822,646,True,True,True,True
+"('philosophyofscienceandthesciences', 'socialdimensionsofscientificknowledge')",social dimensions of scientific knowledge,philosophy of science and the sciences,1204,1826,True,True,True,True
+"('chinesephilosophy', 'chineseroomargument')",chinese room argument,chinese philosophy,1137,624,True,False,False,False
+"('inherence', 'metaphysics')",inherence,metaphysics,1506,681,True,True,True,True
+"('cosmologicalargumentsfortheexistenceofgod', 'philosophyofreligion')",cosmological arguments for the existence of god,philosophy of religion,1584,724,True,False,False,False
+"('logic', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,logic,1827,674,True,True,True,True
+"('analyticfeminism', 'epistemology')",analytic feminism,epistemology,1121,646,True,True,True,True
+"('cognitivescience', 'perception')",cognitive science,perception,892,2078,True,True,True,True
+"('confirmationandinduction', 'metaphysics')",confirmation and induction,metaphysics,1804,681,True,True,True,True
+"('malebranchestheoryofideasandvisioningod', 'philosophyofmind')",malebranche's theory of ideas and vision in god,philosophy of mind,1253,715,True,True,True,True
+"('philosophyofphysics', 'quantummechanics')",quantum mechanics,philosophy of physics,1158,719,True,True,True,True
+"('relativism', 'truth')",relativism,truth,485,1709,True,True,True,True
+"('philosophyofreligion', 'theism')",theism,philosophy of religion,563,724,True,True,True,True
+"('fregestheoremandfoundationsforarithmetic', 'philosophyoflaw')",frege's theorem and foundations for arithmetic,philosophy of law,1340,713,True,True,True,True
+"('futurecontingents', 'historyoflogic')",future contingents,history of logic,1479,917,True,True,True,True
+"('nonconceptualcontent', 'perception')",non-conceptual content,perception,873,2078,True,True,True,True
+"('foundationalisttheoriesofepistemicjustification', 'justification')",foundationalist theories of epistemic justification,justification,1321,2068,True,True,True,True
+"('philosophyofmind', 'selfconsciousness')",self-consciousness,philosophy of mind,1299,715,True,True,True,True
+"('philosophyofcomputerscience', 'philosophyofmind')",philosophy of computer science,philosophy of mind,903,715,True,True,True,True
+"('artificialintelligence', 'philosophyofmind')",artificial intelligence,philosophy of mind,890,715,True,True,True,True
+"('animalconsciousness', 'consciousness')",animal consciousness,consciousness,1229,923,True,True,True,True
+"('17thand18thcenturytheoriesofemotions', 'perception')",17th and 18th century theories of emotions,perception,1770,2078,True,True,True,True
+"('combininglogics', 'logic')",logic,combining logics,674,1455,True,True,True,True
+"('consciousnessandscience', 'perception')",consciousness and science,perception,957,2078,True,True,True,True
+"('epistemology', 'otherminds')",other minds,epistemology,1750,646,True,True,True,True
+"('mindbodyproblem', 'philosophyofmind')",mind-body problem,philosophy of mind,819,715,True,True,True,True
+"('existence', 'possibleworlds')",possible worlds,existence,1501,1478,True,True,True,True
+"('afterlife', 'incompatibilism')",incompatibilism,afterlife,1531,1581,True,True,True,True
+"('mathematicallogic', 'metaphysics')",mathematical logic,metaphysics,914,681,True,True,True,True
+"('animalconsciousness', 'philosophyofmind')",animal consciousness,philosophy of mind,1229,715,True,True,True,True
+"('philosophyofmind', 'teleologicalargumentsforgodsexistence')",teleological arguments for god's existence,philosophy of mind,1482,715,True,True,True,True
+"('christiantheology', 'philosophyofreligion')",christian theology,philosophy of religion,763,724,True,True,True,True
+"('historicisttheoriesofrationality', 'philosophyofscienceandthesciences')",historicist theories of rationality,philosophy of science and the sciences,1115,1826,True,True,True,True
+"('explanation', 'philosophyofscienceandthesciences')",explanation,philosophy of science and the sciences,975,1826,True,True,True,True
+"('modernphilosophy', 'perception')",modern philosophy,perception,899,2078,True,True,True,True
+"('culture', 'philosophyofreligion')",culture,philosophy of religion,1392,724,True,True,True,True
+"('mentalcontent', 'mentalrepresentation')",mental representation,mental content,1222,925,True,True,True,True
+"('cognitivescience', 'connectionistmodel')",connectionist model,cognitive science,947,892,True,True,True,True
+"('epistemology', 'philosophyofmind')",philosophy of mind,epistemology,715,646,True,True,True,True
+"('conservationbiology', 'philosophyofscienceandthesciences')",conservation biology,philosophy of science and the sciences,1277,1826,True,True,True,True
+"('coherentisttheoriesofjustification', 'epistemology')",coherentist theories of justification,epistemology,1322,646,True,False,False,False
+"('eliminativematerialism', 'philosophyofscienceandthesciences')",eliminative materialism,philosophy of science and the sciences,641,1826,True,True,True,True
+"('artificialintelligence', 'inputunit')",input unit,artificial intelligence,951,890,True,True,True,True
+"('lebensphilosophie', 'philosophyofreligion')",lebensphilosophie,philosophy of religion,1954,724,True,False,False,False
+"('perception', 'platoonknowledgeinthetheaetetus')",plato on knowledge in the theaetetus,perception,1366,2078,True,True,True,True
+"('cognitivescience', 'nativism')",nativism,cognitive science,374,892,True,True,True,True
+"('conceptsofgod', 'philosophyofreligion')",concepts of god,philosophy of religion,1583,724,True,True,True,True
+"('churchturingthesis', 'philosophyofcomputerscience')",philosophy of computer science,church-turing thesis,903,1135,True,True,True,True
+"('hylomorphism', 'metaphysics')",hylomorphism,metaphysics,2042,681,True,True,True,True
+"('cognitivescience', 'symbolicprocessing')",symbolic processing,cognitive science,954,892,True,True,True,True
+"('pacifism', 'philosophyofreligion')",pacifism,philosophy of religion,409,724,True,True,True,True
+"('epistemology', 'lawsofnature')",laws of nature,epistemology,1164,646,True,True,True,True
+"('philosophyofmind', 'probabilityandstatistics')",probability and statistics,philosophy of mind,939,715,True,True,True,True
+"('metaphysics', 'philosophyofperception')",philosophy of perception,metaphysics,718,681,True,True,True,True
+"('cognitivescience', 'modularity')",modularity,cognitive science,829,892,True,True,True,True
+"('matter', 'metaphysics')",matter,metaphysics,1497,681,True,True,True,True
+"('artificialintelligence', 'cognitivescience')",artificial intelligence,cognitive science,890,892,True,True,True,True
+"('cartesiandualism', 'dualism')",cartesian dualism,dualism,98,168,True,True,True,True
+"('definitionofmorality', 'philosophyofreligion')",definition of morality,philosophy of religion,1096,724,True,True,True,True
+"('aesthetics', 'environmentalaesthetics')",environmental aesthetics,aesthetics,1862,614,True,True,True,True
+"('leibnizsphilosophyofmind', 'philosophyofmind')",leibniz's philosophy of mind,philosophy of mind,1178,715,True,True,True,True
+"('descartesmodalmetaphysics', 'metaphysics')",descartes' modal metaphysics,metaphysics,1282,681,True,True,True,True
+"('logic', 'philosophyoflanguage')",logic,philosophy of language,674,712,True,True,True,True
+"('atomism', 'philosophyofchemistry')",atomism,philosophy of chemistry,52,861,True,True,True,True
+"('philosophyofbiology', 'philosophyofscience')",philosophy of biology,philosophy of science,704,722,True,True,True,True
+"('molecularbiology', 'philosophyofscienceandthesciences')",molecular biology,philosophy of science and the sciences,1215,1826,True,True,True,True
+"('epistemology', 'induction')",induction,epistemology,662,646,True,True,True,True
+"('causeandeffect', 'metaphysics')",cause and effect,metaphysics,1897,681,True,True,True,True
+"('metaphysics', 'metaphysicsofmind')",metaphysics,metaphysics of mind,681,897,True,True,True,True
+"('contextualism', 'epistemology')",contextualism,epistemology,130,646,True,True,True,True
+"('18thcenturybritishaesthetics', 'philosophyofmind')",18th century british aesthetics,philosophy of mind,1721,715,True,True,True,True
+"('metaphysics', 'propernames')",proper names,metaphysics,2019,681,True,True,True,True
+"('panpsychism', 'philosophyofmind')",panpsychism,philosophy of mind,695,715,True,True,True,True
+"('philosophyofreligion', 'religionandpolitics')",religion and politics,philosophy of religion,1558,724,True,True,True,True
+"('18thcenturygermanaesthetics', 'perception')",18th century german aesthetics,perception,1856,2078,True,True,True,True
+"('knowledge', 'platoonknowledgeinthetheaetetus')",plato on knowledge in the theaetetus,knowledge,1366,2075,True,True,True,True
+"('appliedethics', 'bioethics')",bioethics,applied ethics,621,619,True,True,True,True
+"('gettierproblem', 'perception')",gettier problem,perception,1550,2078,True,True,True,True
+"('chinesephilosophy', 'mohism')",mohism,chinese philosophy,352,624,True,True,True,True
+"('artificialintelligence', 'computationandrepresentation')",computation and representation,artificial intelligence,936,890,True,True,True,True
+"('epistemologicalproblemsofmemory', 'epistemology')",epistemological problems of memory,epistemology,1241,646,True,True,True,True
+"('mentalcontent', 'teleologicaltheoriesofmentalcontent')",teleological theories of mental content,mental content,1272,925,True,True,True,True
+"('confirmationandinduction', 'epistemology')",confirmation and induction,epistemology,1804,646,True,True,True,True
+"('islamicphilosophy', 'philosophyofreligion')",islamic philosophy,philosophy of religion,670,724,True,True,True,True
+"('boltzmannsworkinstatisticalphysics', 'philosophyofscienceandthesciences')",boltzmann's work in statistical physics,philosophy of science and the sciences,1156,1826,True,True,True,True
+"('formsofgovernment', 'philosophyofreligion')",forms of government,philosophy of religion,1794,724,True,True,True,True
+"('logicalform', 'philosophyoflanguage')",philosophy of language,logical form,712,934,True,True,True,True
+"('philosophyofreligion', 'religiouslanguage')",religious language,philosophy of religion,1573,724,True,True,True,True
+"('perception', 'philosophyofmind')",perception,philosophy of mind,2078,715,True,True,True,True
+"('philosophyofmind', 'propositionalattitude')",propositional attitude,philosophy of mind,944,715,True,True,True,True
+"('neuralcorrelates', 'perception')",neural correlates,perception,879,2078,True,True,True,True
+"('descartesandthepinealgland', 'perception')",descartes and the pineal gland,perception,1371,2078,True,True,True,True
+"('literature', 'philosophyofscienceandthesciences')",literature,philosophy of science and the sciences,1898,1826,True,True,True,True
+"('perception', 'surrealism')",surrealism,perception,552,2078,True,True,True,True
+"('philosophyofreligion', 'toleration')",toleration,philosophy of religion,1995,724,True,True,True,True
+"('metaphysics', 'philosophyofmind')",philosophy of mind,metaphysics,715,681,True,True,True,True
+"('aspectsofconsciousness', 'functionofconsciousness')",function of consciousness,aspects of consciousness,878,1785,True,False,False,False
+"('earlyphilosophicalinterpretationsofgeneralrelativity', 'epistemology')",early philosophical interpretations of general relativity,epistemology,1335,646,True,True,True,True
+"('medievaltheoriesofanalogy', 'metaphysics')",medieval theories of analogy,metaphysics,1329,681,True,True,True,True
+"('metaphysics', 'platoonutopia')",plato on utopia,metaphysics,1365,681,True,True,True,True
+"('continentalphilosophy', 'pragmatism')",continental philosophy,pragmatism,631,461,True,True,True,True
+"('artificialintelligence', 'symbolicprocessing')",symbolic processing,artificial intelligence,954,890,True,True,True,True
+"('aristotlesnaturalphilosophy', 'metaphysics')",aristotle's natural philosophy,metaphysics,1855,681,True,True,True,True
+"('consciousnessandintentionality', 'perception')",consciousness and intentionality,perception,1227,2078,True,True,True,True
+"('metaphysics', 'philosophyofpsychology')",philosophy of psychology,metaphysics,720,681,True,True,True,True
+"('epistemology', 'philosophyofperception')",philosophy of perception,epistemology,718,646,True,True,True,True
+"('hinduism', 'philosophyofreligion')",hinduism,philosophy of religion,256,724,True,True,True,True
+"('cognitivescience', 'psychiatry')",cognitive science,psychiatry,892,906,True,True,True,True
+"('causaltheoriesofmentalcontent', 'cognitivescience')",causal theories of mental content,cognitive science,1699,892,True,False,False,False
+"('philosophyofbiology', 'philosophyofchemistry')",philosophy of chemistry,philosophy of biology,861,704,True,True,True,True
+"('perception', 'propositionalattitude')",propositional attitude,perception,944,2078,True,True,True,True
+"('philosophyofreligion', 'politicalauthority')",political authority,philosophy of religion,1022,724,True,True,True,True
+"('influenceofislamicthoughtonmaimonides', 'philosophyofreligion')",influence of islamic thought on maimonides,philosophy of religion,1254,724,True,True,True,True
+"('kantsviewofthemindandconsciousnessofself', 'perception')",kant's view of the mind and consciousness of self,perception,1058,2078,True,True,True,True
+"('coherentism', 'epistemology')",coherentism,epistemology,115,646,True,True,True,True
+"('internalistvsexternalistconceptionsofepistemicjustification', 'justification')",internalist vs. externalist conceptions of epistemic justification,justification,1320,2068,True,True,True,True
+"('externalismaboutmentalcontent', 'internalismandexternalism')",externalism about mental content,internalism and externalism,1275,2163,True,True,True,True
+"('philosophyofreligion', 'secularism')",secularism,philosophy of religion,515,724,True,True,True,True
+"('mentalcontent', 'philosophyofmind')",mental content,philosophy of mind,925,715,True,True,True,True
+"('animalcognition', 'philosophyofmind')",animal cognition,philosophy of mind,812,715,True,True,True,True
+"('metaphysicsofmind', 'philosophyofmind')",metaphysics of mind,philosophy of mind,897,715,True,True,True,True
+"('aspectsofmind', 'philosophyofmind')",aspects of mind,philosophy of mind,1784,715,True,True,True,True
+"('mentalcontent', 'nonconceptualcontent')",non-conceptual content,mental content,873,925,True,False,False,False
+"('folkpsychology', 'folkpsychologyasmentalsimulation')",folk psychology as mental simulation,folk psychology,997,891,True,True,True,True
+"('18thcenturybritishaesthetics', 'perception')",18th century british aesthetics,perception,1721,2078,True,True,True,True
+"('bioethics', 'businessethics')",business ethics,bioethics,760,621,True,True,True,True
+"('18thcenturygermanaesthetics', 'aestheticsandphilosophyofart')",aesthetics and philosophy of art,18th century german aesthetics,1788,1856,True,True,True,True
+"('ideas', 'philosophyofmind')",ideas,philosophy of mind,1641,715,True,True,True,True
+"('methodologicaldebatesincosmologythe1930sand1940s', 'philosophyofscienceandthesciences')",methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,1304,1826,True,True,True,True
+"('compositionalityandlogicalform', 'metaphysics')",compositionality and logical form,metaphysics,1825,681,True,True,True,True
+"('leibnizsinfluenceonkant', 'perception')",leibniz's influence on kant,perception,1060,2078,True,True,True,True
+"('chinesephilosophy', 'mohistcanons')",mohist canons,chinese philosophy,1693,624,True,True,True,True
+"('deweysaesthetics', 'perception')",dewey's aesthetics,perception,1703,2078,True,True,True,True
+"('consciousness', 'perception')",consciousness,perception,923,2078,True,True,True,True
+"('epistemology', 'philosophyofpsychology')",philosophy of psychology,epistemology,720,646,True,True,True,True
+"('logos', 'metaphysics')",logos,metaphysics,1612,681,True,True,True,True
+"('artificialintelligence', 'turingmachine')",turing machine,artificial intelligence,1002,890,True,True,True,True
+"('interpretation', 'philosophyoflanguage')",philosophy of language,interpretation,712,845,True,True,True,True
+"('cognitivescience', 'dynamicalsystem')",dynamical system,cognitive science,938,892,True,True,True,True
+"('churchandstate', 'philosophyofreligion')",church and state,philosophy of religion,1950,724,True,True,True,True
+"('bohmianmechanics', 'quantummechanics')",bohmian mechanics,quantum mechanics,1239,1158,True,True,True,True
+"('philosophyofart', 'philosophyofmind')",philosophy of art,philosophy of mind,702,715,True,True,True,True
+"('africansagephilosophy', 'afterlife')",african sage philosophy,afterlife,1662,1581,True,False,False,False
+"('ethicsandart', 'philosophyofart')",philosophy of art,ethics and art,702,916,True,True,True,True
+"('modernphilosophy', 'philosophyofreligion')",modern philosophy,philosophy of religion,899,724,True,True,True,True
+"('imagery', 'philosophyofmind')",imagery,philosophy of mind,1900,715,True,True,True,True
+"('philosophyofreligion', 'zenbuddhism')",zen buddhism,philosophy of religion,759,724,True,True,True,True
+"('kantsphilosophyofreligion', 'philosophyofreligion')",kant's philosophy of religion,philosophy of religion,1056,724,True,True,True,True
+"('cognitivescience', 'networkmodel')",network model,cognitive science,952,892,True,True,True,True
+"('historyoflogic', 'squareofopposition')",square of opposition,history of logic,1606,917,True,False,False,False
+"('epistemology', 'falsificationism')",falsificationism,epistemology,649,646,True,True,True,True
+"('dynamism', 'japanesephilosophy')",dynamism,japanese philosophy,171,671,True,True,True,True
+"('cosmology', 'metaphysics')",cosmology,metaphysics,1831,681,True,True,True,True
+"('autism', 'folkpsychology')",autism,folk psychology,57,891,True,True,True,True
+"('kantsviewofthemindandconsciousnessofself', 'philosophyofmind')",kant's view of the mind and consciousness of self,philosophy of mind,1058,715,True,True,True,True
+"('nonhumananimals', 'philosophyofmind')",nonhuman animals,philosophy of mind,963,715,True,True,True,True
+"('languagelearning', 'philosophyoflanguage')",philosophy of language,language learning,712,805,True,True,True,True
+"('pakistaniphilosophy', 'perception')",pakistani philosophy,perception,693,2078,True,False,False,False
+"('dualism', 'propertydualism')",property dualism,dualism,734,168,True,True,True,True
+"('analysisofknowledge', 'knowledge')",analysis of knowledge,knowledge,1117,2075,True,True,True,True
+"('epistemology', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,epistemology,1368,646,True,True,True,True
+"('causaldeterminism', 'freewill')",causal determinism,free will,1266,992,True,True,True,True
+"('leibnizsinfluenceonkant', 'metaphysics')",leibniz's influence on kant,metaphysics,1060,681,True,True,True,True
+"('conservationbiology', 'philosophyofbiology')",conservation biology,philosophy of biology,1277,704,True,True,True,True
+"('metaphysics', 'platonism')",platonism,metaphysics,443,681,True,True,True,True
+"('epistemology', 'metaphysicsofscience')",metaphysics of science,epistemology,1828,646,True,True,True,True
+"('afterlife', 'philosophyofreligion')",afterlife,philosophy of religion,1581,724,True,True,True,True
+"('epistemology', 'socialepistemology')",social epistemology,epistemology,1144,646,True,True,True,True
+"('perception', 'reliabilism')",reliabilism,perception,486,2078,True,True,True,True
+"('evolutionarypsychology', 'philosophyofmind')",evolutionary psychology,philosophy of mind,1833,715,True,True,True,True
+"('interactionism', 'philosophyofmind')",interactionism,philosophy of mind,815,715,True,True,True,True
+"('cognitivescience', 'computationandrepresentation')",computation and representation,cognitive science,936,892,True,True,True,True
+"('historyoflogic', 'hypotheticalsyllogism')",hypothetical syllogism,history of logic,2034,917,True,True,True,True
+"('currentphilosophy', 'perception')",current philosophy,perception,862,2078,True,True,True,True
+"('hobbessmoralandpoliticalphilosophy', 'socialandpoliticalphilosophy')",hobbes's moral and political philosophy,social and political philosophy,1387,1787,True,True,True,True
+"('magnetism', 'perception')",magnetism,perception,324,2078,True,True,True,True
+"('mentalcausation', 'philosophyofmind')",mental causation,philosophy of mind,1240,715,True,True,True,True
+"('africanandafricanamericanphilosophy', 'ethnophilosophy')",ethnophilosophy,african and african-american philosophy,762,1652,True,True,True,True
+"('epistemology', 'generalrelativity')",general relativity,epistemology,1921,646,True,True,True,True
+"('induction', 'philosophyofmind')",induction,philosophy of mind,662,715,True,True,True,True
+"('epistemologyofreligion', 'philosophyofreligion')",epistemology of religion,philosophy of religion,1026,724,True,True,True,True
+"('mentalimagery', 'philosophyofmind')",mental imagery,philosophy of mind,1223,715,True,True,True,True
+"('baptism', 'epistemology')",baptism,epistemology,65,646,True,True,True,True
+"('causation', 'probabilisticcausation')",probabilistic causation,causation,1081,969,True,True,True,True
+"('measurementinquantumtheory', 'perception')",measurement in quantum theory,perception,1190,2078,True,False,False,False
+"('interpretation', 'metaphysics')",interpretation,metaphysics,845,681,True,True,True,True
+"('perception', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,perception,1713,2078,True,True,True,True
+"('philosophyofchemistry', 'philosophyofscienceandthesciences')",philosophy of chemistry,philosophy of science and the sciences,861,1826,True,True,True,True
+"('goodness', 'metaphysics')",goodness,metaphysics,869,681,True,True,True,True
+"('concepts', 'mentalcontent')",concepts,mental content,1734,925,True,True,True,True
+"('languageandsociety', 'philosophyoflanguage')",philosophy of language,language and society,712,804,True,True,True,True
+"('epistemology', 'philosophyofsocialscience')",philosophy of social science,epistemology,919,646,True,True,True,True
+"('perception', 'representationalism')",representationalism,perception,772,2078,True,True,True,True
+"('philosophyofreligion', 'secularhumanism')",secular humanism,philosophy of religion,743,724,True,False,False,False
+"('philosophyofmind', 'philosophyofnature')",philosophy of nature,philosophy of mind,716,715,True,True,True,True
+"('metaphysics', 'philosophyofchemistry')",philosophy of chemistry,metaphysics,861,681,True,True,True,True
+"('africanandafricanamericanphilosophy', 'africanphilosophy')",african philosophy,african and african-american philosophy,615,1652,True,True,True,True
+"('japaneseaesthetics', 'japanesephilosophy')",japanese aesthetics,japanese philosophy,1698,671,True,True,True,True
+"('ancientlogic', 'historyoflogic')",ancient logic,history of logic,1624,917,True,True,True,True
+"('philosophyofreligion', 'pietism')",pietism,philosophy of religion,439,724,True,True,True,True
+"('ontologicalargument', 'philosophyofreligion')",ontological argument,philosophy of religion,1073,724,True,True,True,True
+"('eliminativematerialism', 'folkpsychology')",eliminative materialism,folk psychology,641,891,True,True,True,True
+"('externalism', 'perception')",externalism,perception,201,2078,True,True,True,True
+"('epistemology', 'experimentinphysics')",experiment in physics,epistemology,1358,646,True,True,True,True
+"('existenceofgod', 'metaphysics')",existence of god,metaphysics,1905,681,True,True,True,True
+"('philosophyofcomputerscience', 'philosophyofscienceandthesciences')",philosophy of computer science,philosophy of science and the sciences,903,1826,True,True,True,True
+"('ethics', 'utilitarianism')",ethics,utilitarianism,647,594,True,True,True,True
+"('scientificmethodology', 'scientificrealism')",scientific realism,scientific methodology,1202,1830,True,True,True,True
+"('metaphysics', 'philosophyofscience')",philosophy of science,metaphysics,722,681,True,True,True,True
+"('epistemology', 'introspection')",introspection,epistemology,2076,646,True,True,True,True
+"('logicandlanguage', 'philosophyofcomputerscience')",philosophy of computer science,logic and language,903,941,True,True,True,True
+"('medievaltheoriesofthecategories', 'metaphysics')",medieval theories of the categories,metaphysics,1760,681,True,True,True,True
+"('lockespoliticalphilosophy', 'philosophyofreligion')",locke's political philosophy,philosophy of religion,1763,724,True,True,True,True
+"('consciousness', 'kantsviewofthemindandconsciousnessofself')",kant's view of the mind and consciousness of self,consciousness,1058,923,True,True,True,True
+"('metaphysics', 'philosophyofphysics')",philosophy of physics,metaphysics,719,681,True,True,True,True
+"('identitytheoryofmind', 'perception')",identity theory of mind,perception,818,2078,True,True,True,True
+"('metaphysics', 'vitalism')",vitalism,metaphysics,757,681,True,True,True,True
+"('philosophyofmind', 'realism')",realism,philosophy of mind,480,715,True,True,True,True
+"('imagery', 'perception')",imagery,perception,1900,2078,True,True,True,True
+"('aspectsofconsciousness', 'selfconsciousness')",self-consciousness,aspects of consciousness,1299,1785,True,False,False,False
+"('aristotlespsychology', 'philosophyofmind')",aristotle's psychology,philosophy of mind,1008,715,True,True,True,True
+"('folkpsychologyasatheory', 'philosophyofmind')",folk psychology as a theory,philosophy of mind,996,715,True,True,True,True
+"('modularityofmind', 'philosophyofmind')",modularity of mind,philosophy of mind,1705,715,True,True,True,True
+"('languageofthoughthypothesis', 'philosophyoflanguage')",language of thought hypothesis,philosophy of language,882,712,True,True,True,True
+"('probabilityandstatistics', 'scientificmethodology')",probability and statistics,scientific methodology,939,1830,True,True,True,True
+"('externalismaboutmentalcontent', 'mentalcontent')",externalism about mental content,mental content,1275,925,True,True,True,True
+"('descartesepistemology', 'perception')",descartes' epistemology,perception,1284,2078,True,True,True,True
+"('mereology', 'metaphysics')",mereology,metaphysics,1221,681,True,True,True,True
+"('artificialintelligence', 'turingtest')",turing test,artificial intelligence,990,890,True,True,True,True
+"('philosophyofmind', 'universals')",universals,philosophy of mind,1483,715,True,True,True,True
+"('consciousnessandcontent', 'philosophyofmind')",consciousness and content,philosophy of mind,924,715,True,True,True,True
+"('philosophyofmathematics', 'zenosparadoxes')",zeno's paradoxes,philosophy of mathematics,1313,714,True,False,False,False
+"('chineseethics', 'chinesephilosophy')",chinese ethics,chinese philosophy,1694,624,True,True,True,True
+"('matter', 'philosophyofmind')",matter,philosophy of mind,1497,715,True,True,True,True
+"('epistemologicalproblemsofperception', 'epistemology')",epistemological problems of perception,epistemology,1361,646,True,True,True,True
+"('epistemology', 'knowledgebyacquaintanceandknowledgebydescription')",knowledge by acquaintance and knowledge by description,epistemology,1118,646,True,True,True,True
+"('philosophyofscienceandthesciences', 'unityofscience')",unity of science,philosophy of science and the sciences,983,1826,True,True,True,True
+"('eternityoftheworld', 'metaphysics')",eternity of the world,metaphysics,1892,681,True,True,True,True
+"('consciousnessandmentalcontent', 'mentalcontent')",consciousness and mental content,mental content,961,925,True,False,False,False
+"('philosophyofreligion', 'taoism')",taoism,philosophy of religion,559,724,True,True,True,True
+"('bioethics', 'personalidentityandethics')",personal identity and ethics,bioethics,1598,621,True,True,True,True
+"('ancienttheoriesofsoul', 'philosophyofmind')",ancient theories of soul,philosophy of mind,1327,715,True,True,True,True
+"('atheism', 'philosophyofreligion')",atheism,philosophy of religion,50,724,True,True,True,True
+"('cartesiandualism', 'perception')",cartesian dualism,perception,98,2078,True,True,True,True
+"('aristotelianism', 'metaphysics')",aristotelianism,metaphysics,48,681,True,True,True,True
+"('ethics', 'religionandmorality')",religion and morality,ethics,1576,647,True,True,True,True
+"('philosophyofreligion', 'satanism')",satanism,philosophy of religion,506,724,True,False,False,False
+"('perception', 'teleosemantics')",teleosemantics,perception,1987,2078,True,True,True,True
+"('internalismandexternalism', 'perception')",internalism and externalism,perception,2163,2078,True,True,True,True
+"('hilbertsprogram', 'philosophyofscienceandthesciences')",hilbert's program,philosophy of science and the sciences,1356,1826,True,True,True,True
+"('philosophyofreligion', 'pragmaticargumentsandbeliefingod')",pragmatic arguments and belief in god,philosophy of religion,1850,724,True,True,True,True
+"('continentalfeminism', 'continentalphilosophy')",continental feminism,continental philosophy,1120,631,True,True,True,True
+"('epistemology', 'logos')",logos,epistemology,1612,646,True,True,True,True
+"('artificialintelligence', 'computation')",artificial intelligence,computation,890,937,True,True,True,True
+"('classicalphysics', 'philosophyofscienceandthesciences')",classical physics,philosophy of science and the sciences,931,1826,True,True,True,True
+"('feministmetaphysics', 'metaphysics')",feminist metaphysics,metaphysics,1863,681,True,True,True,True
+"('japanesephilosophy', 'zenbuddhism')",zen buddhism,japanese philosophy,759,671,True,True,True,True
+"('socialandpoliticalphilosophy', 'socialphilosophy')",social philosophy,social and political philosophy,746,1787,True,True,True,True
+"('philosophyoflanguage', 'privatelanguageargument')",private language argument,philosophy of language,1941,712,True,True,True,True
+"('implicature', 'pragmatics')",implicature,pragmatics,1380,807,True,True,True,True
+"('axiomatictheoriesoftruth', 'philosophyoflanguage')",axiomatic theories of truth,philosophy of language,1452,712,True,True,True,True
+"('naturallawtradition', 'philosophyofreligion')",natural law tradition,philosophy of religion,1597,724,True,True,True,True
+"('bayesstheorem', 'philosophyofscienceandthesciences')",bayes's theorem,philosophy of science and the sciences,1728,1826,True,False,False,False
+"('biologicalaltruism', 'philosophyofbiology')",biological altruism,philosophy of biology,1330,704,True,True,True,True
+"('artificialintelligence', 'temporallogic')",temporal logic,artificial intelligence,1294,890,True,True,True,True
+"('metaphysicsandlanguage', 'philosophyoflanguage')",metaphysics and language,philosophy of language,2066,712,True,True,True,True
+"('ethics', 'medievaltheoriesofpracticalreason')",medieval theories of practical reason,ethics,1070,647,True,True,True,True
+"('indispensabilityargumentsinthephilosophyofmathematics', 'philosophyofscienceandthesciences')",indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,1246,1826,True,True,True,True
+"('metaphysics', 'metaphysicsofcausation')",metaphysics of causation,metaphysics,1082,681,True,True,True,True
+"('activationvalue', 'artificialintelligence')",activation value,artificial intelligence,955,890,True,True,True,True
+"('developmentalbiology', 'trait')",trait,developmental biology,1938,1832,True,True,True,True
+"('bioethics', 'doctrineofdoubleeffect')",doctrine of double effect,bioethics,1258,621,True,False,False,False
+"('philosophyofchemistry', 'philosophyofphysics')",philosophy of chemistry,philosophy of physics,861,719,True,True,True,True
+"('metaphysics', 'platosmiddleperiodmetaphysicsandepistemology')",plato's middle period metaphysics and epistemology,metaphysics,1368,681,True,True,True,True
+"('statisticalmechanicsandthermodynamics', 'thermodynamicasymmetryintime')",thermodynamic asymmetry in time,statistical mechanics and thermodynamics,1066,967,True,True,True,True
+"('interpretation', 'quantummechanics')",interpretation,quantum mechanics,845,1158,True,True,True,True
+"('approachestofeministphilosophy', 'continentalphilosophy')",approaches to feminist philosophy,continental philosophy,1045,631,True,True,True,True
+"('life', 'philosophyofreligion')",life,philosophy of religion,1764,724,True,True,True,True
+"('contentsofperception', 'mentalcontent')",contents of perception,mental content,874,925,True,True,True,True
+"('mentalrepresentation', 'perception')",mental representation,perception,1222,2078,True,True,True,True
+"('goodnessandvaluetheory', 'metaphysics')",goodness and value theory,metaphysics,653,681,True,False,False,False
+"('intentionality', 'philosophyofmind')",intentionality,philosophy of mind,1325,715,True,True,True,True
+"('hardproblem', 'perception')",hard problem,perception,875,2078,True,True,True,True
+"('concepts', 'perception')",concepts,perception,1734,2078,True,True,True,True
+"('philosophyofmind', 'propernames')",proper names,philosophy of mind,2019,715,True,True,True,True
+"('folkpsychology', 'philosophyofscienceandthesciences')",folk psychology,philosophy of science and the sciences,891,1826,True,True,True,True
+"('computationandrepresentation', 'philosophyofmind')",computation and representation,philosophy of mind,936,715,True,True,True,True
+"('mentalrepresentation', 'philosophyofmind')",mental representation,philosophy of mind,1222,715,True,True,True,True
+"('metaphysics', 'processphilosophy')",process philosophy,metaphysics,733,681,True,True,True,True
+"('metaphysics', 'philosophyofmathematics')",philosophy of mathematics,metaphysics,714,681,True,True,True,True
+"('epistemology', 'epistemologyofreligion')",epistemology of religion,epistemology,1026,646,True,True,True,True
+"('ancientphilosophyaristotle', 'metaphysics')",ancient philosophy (aristotle),metaphysics,1846,681,True,False,False,False
+"('philosophyofchemistry', 'philosophyofmind')",philosophy of chemistry,philosophy of mind,861,715,True,True,True,True
+"('abstractobject', 'philosophyofmind')",abstract object,philosophy of mind,846,715,True,True,True,True
+"('japanesephilosophy', 'japanesezenbuddhistphilosophy')",japanese zen buddhist philosophy,japanese philosophy,1696,671,True,False,False,False
+"('perception', 'philosophyofpsychology')",philosophy of psychology,perception,720,2078,True,True,True,True
+"('epistemology', 'feministphilosophy')",feminist philosophy,epistemology,920,646,True,True,True,True
+"('aristotleoncausality', 'metaphysics')",aristotle on causality,metaphysics,1725,681,True,False,False,False
+"('historyoflogic', 'inductivelogic')",inductive logic,history of logic,912,917,True,True,True,True
+"('philosophyofmind', 'psychiatry')",psychiatry,philosophy of mind,906,715,True,True,True,True
+"('epistemologicalproblemsofmemory', 'philosophyofmind')",epistemological problems of memory,philosophy of mind,1241,715,True,True,True,True
+"('medievalpoliticalphilosophy', 'philosophyofreligion')",medieval political philosophy,philosophy of religion,1700,724,True,True,True,True
+"('lawandlanguage', 'philosophyoflanguage')",law and language,philosophy of language,1168,712,True,True,True,True
+"('perception', 'problemofperception')",problem of perception,perception,872,2078,True,True,True,True
+"('philosophyofbiology', 'philosophyofmind')",philosophy of biology,philosophy of mind,704,715,True,True,True,True
+"('metaphysics', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,metaphysics,1713,681,True,True,True,True
+"('metaphysics', 'socialandpoliticalphilosophy')",social and political philosophy,metaphysics,1787,681,True,True,True,True
+"('continentalphilosophy', 'intersectionsbetweenpragmatistandcontinentalfeminism')",intersections between pragmatist and continental feminism,continental philosophy,1048,631,True,True,True,True
+"('ethics', 'virtuesandvices')",ethics,virtues and vices,647,1879,True,True,True,True
+"('mathematicallogic', 'philosophyofmind')",mathematical logic,philosophy of mind,914,715,True,True,True,True
+"('eternityinchristianthought', 'metaphysics')",Eternity in Christian Thought,metaphysics,1580,681,True,True,True,True
+"('historyoflogic', 'logicandgames')",logic and games,history of logic,1193,917,True,False,False,False
+"('philosophyofmind', 'realismandantirealism')",realism and anti-realism,philosophy of mind,978,715,True,True,True,True
+"('falsificationism', 'scientificmethodology')",falsificationism,scientific methodology,649,1830,True,True,True,True
+"('perception', 'psychologicalrelation')",psychological relation,perception,886,2078,True,True,True,True
+"('philosophyofscienceandthesciences', 'probability')",probability,philosophy of science and the sciences,770,1826,True,True,True,True
+"('ethics', 'socialcontract')",social contract,ethics,1388,647,True,True,True,True
+"('epistemology', 'philosophyofbiology')",philosophy of biology,epistemology,704,646,True,True,True,True
+"('identityofindiscernibles', 'metaphysics')",identity of indiscernibles,metaphysics,1351,681,True,True,True,True
+"('backwardcausation', 'causation')",backward causation,causation,1087,969,True,True,True,True
+"('aestheticsandphilosophyofart', 'philosophyofcomposition')",aesthetics and philosophy of art,philosophy of composition,1788,707,True,True,True,True
+"('epistemology', 'scientificmethodology')",scientific methodology,epistemology,1830,646,True,True,True,True
+"('animalcognition', 'cognitivescience')",animal cognition,cognitive science,812,892,True,True,True,True
+"('argumentsfortheexistenceofgod', 'philosophyofreligion')",arguments for the existence of god,philosophy of religion,1559,724,True,True,True,True
+"('identityandindividualityinquantumtheory', 'metaphysics')",identity and individuality in quantum theory,metaphysics,1191,681,True,True,True,True
+"('mentalstate', 'philosophyofmind')",mental state,philosophy of mind,964,715,True,True,True,True
+"('philosophyofmathematics', 'philosophyofscience')",philosophy of mathematics,philosophy of science,714,722,True,True,True,True
+"('monotheism', 'philosophyofreligion')",monotheism,philosophy of religion,360,724,True,True,True,True
+"('logicandlanguage', 'philosophyofmind')",logic and language,philosophy of mind,941,715,True,True,True,True
+"('chineseroomargument', 'philosophyofmind')",chinese room argument,philosophy of mind,1137,715,True,True,True,True
+"('neutralmonism', 'philosophyofmind')",neutral monism,philosophy of mind,689,715,True,True,True,True
+"('consciousness', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,consciousness,1298,923,True,True,True,True
+"('omniscience', 'philosophyofreligion')",omniscience,philosophy of religion,1577,724,True,True,True,True
+"('epistemeandtechne', 'metaphysics')",episteme and techne,metaphysics,1608,681,True,True,True,True
+"('aristotleandmathematics', 'philosophyofmathematics')",aristotle and mathematics,philosophy of mathematics,1010,714,True,True,True,True
+"('logic', 'philosophyofcomputerscience')",philosophy of computer science,logic,903,674,True,True,True,True
+"('thinkingmachine', 'turingtest')",thinking machine,turing test,894,990,True,True,True,True
+"('mentalrepresentationinmedievalphilosophy', 'philosophyofmind')",mental representation in medieval philosophy,philosophy of mind,1040,715,True,True,True,True
+"('epistemology', 'philosophyofnature')",philosophy of nature,epistemology,716,646,True,True,True,True
+"('philosophyofreligion', 'religionandmorality')",religion and morality,philosophy of religion,1576,724,True,True,True,True
+"('philosophyoflanguage', 'privatelanguage')",private language,philosophy of language,1097,712,True,True,True,True
+"('epistemology', 'indeterminism')",indeterminism,epistemology,973,646,True,True,True,True
+"('evolutionarypsychology', 'philosophyofreligion')",evolutionary psychology,philosophy of religion,1833,724,True,True,True,True
+"('philosophyofmind', 'philosophyofperception')",philosophy of perception,philosophy of mind,718,715,True,True,True,True
+"('algebra', 'philosophyofmathematics')",philosophy of mathematics,algebra,714,1421,True,True,True,True
+"('metaphysics', 'philosophyofbiology')",philosophy of biology,metaphysics,704,681,True,True,True,True
+"('afterlife', 'eternityoftheworld')",eternity of the world,afterlife,1892,1581,True,True,True,True
+"('artificialintelligence', 'modernhistoryofcomputing')",modern history of computing,artificial intelligence,1234,890,True,False,False,False
+"('ambiguity', 'epistemology')",ambiguity,epistemology,1883,646,True,True,True,True
+"('artificialintelligence', 'frameproblem')",frame problem,artificial intelligence,831,890,True,True,True,True
+"('consciousnessandcontent', 'perception')",consciousness and content,perception,924,2078,True,True,True,True
+"('epistemology', 'interpretation')",interpretation,epistemology,845,646,True,True,True,True
+"('dualism', 'philosophyofmind')",dualism,philosophy of mind,168,715,True,True,True,True
+"('cognitivescience', 'philosophiesoftheparticularsciences')",cognitive science,philosophies of the particular sciences,892,1827,True,True,True,True
+"('animalcognition', 'perception')",animal cognition,perception,812,2078,True,True,True,True
+"('epistemology', 'virtueepistemology')",virtue epistemology,epistemology,1143,646,True,True,True,True
+"('mentalcontent', 'theoriesofmentalcontent')",theories of mental content,mental content,927,925,True,True,True,True
+"('mentalcontent', 'mentalimagery')",mental imagery,mental content,1223,925,True,True,True,True
+"('continentalphilosophy', 'feminism')",feminism,continental philosophy,215,631,True,True,True,True
+"('epistemology', 'psychiatry')",psychiatry,epistemology,906,646,True,True,True,True
+"('africanandafricanamericanphilosophy', 'africansagephilosophy')",african sage philosophy,african and african-american philosophy,1662,1652,True,True,True,True
+"('molecularbiology', 'philosophyofbiology')",molecular biology,philosophy of biology,1215,704,True,True,True,True
+"('churchturingthesis', 'function')",church-turing thesis,function,1135,1436,True,True,True,True
+"('analysis', 'metaphysics')",analysis,metaphysics,1508,681,True,True,True,True
+"('philosophyoflanguage', 'syntax')",philosophy of language,syntax,712,841,True,True,True,True
+"('africanandafricanamericanphilosophy', 'race')",race,african and african-american philosophy,1400,1652,True,True,True,True
+"('cognitivescience', 'languagelearning')",language learning,cognitive science,805,892,True,True,True,True
+"('aspectsofconsciousness', 'unityofconsciousness')",unity of consciousness,aspects of consciousness,877,1785,True,False,False,False
+"('epistemology', 'transworldidentity')",transworld identity,epistemology,1519,646,True,True,True,True
+"('judaism', 'philosophyofreligion')",judaism,philosophy of religion,293,724,True,True,True,True
+"('metaphysics', 'processtheism')",process theism,metaphysics,1153,681,True,True,True,True
+"('metaphysics', 'philosophiesoftheparticularsciences')",philosophies of the particular sciences,metaphysics,1827,681,True,True,True,True
+"('creationism', 'philosophyofreligion')",creationism,philosophy of religion,140,724,True,True,True,True
+"('epistemology', 'historyofscience')",history of science,epistemology,1841,646,True,True,True,True
+"('causation', 'counterfactualtheoriesofcausation')",counterfactual theories of causation,causation,1086,969,True,True,True,True
+"('consciousnessandintentionality', 'philosophyofmind')",consciousness and intentionality,philosophy of mind,1227,715,True,True,True,True
+"('descartesepistemology', 'philosophyofmind')",descartes' epistemology,philosophy of mind,1284,715,True,True,True,True
+"('descartesmodalmetaphysics', 'philosophyofmind')",descartes' modal metaphysics,philosophy of mind,1282,715,True,True,True,True
+"('cognitivescience', 'explanation')",cognitive science,explanation,892,975,True,True,True,True
+"('philosophyofmind', 'probability')",probability,philosophy of mind,770,715,True,True,True,True
+"('dadaism', 'perception')",dadaism,perception,147,2078,True,False,False,False
+"('cognitivescience', 'computationaltheoryofmind')",computational theory of mind,cognitive science,1235,892,True,True,True,True
+"('artificialintelligence', 'chineseroomargument')",chinese room argument,artificial intelligence,1137,890,True,True,True,True
+"('daoism', 'philosophyofreligion')",daoism,philosophy of religion,148,724,True,True,True,True
+"('epistemology', 'evolutionaryepistemology')",evolutionary epistemology,epistemology,1146,646,True,True,True,True
+"('causationinthelaw', 'philosophyoflaw')",causation in the law,philosophy of law,1085,713,True,True,True,True
+"('philosophyofmind', 'problemofperception')",problem of perception,philosophy of mind,872,715,True,True,True,True
+"('consciousnessandpsychology', 'philosophyofmind')",consciousness and psychology,philosophy of mind,960,715,True,False,False,False
+"('body', 'perception')",body,perception,2040,2078,True,True,True,True
+"('metaphysics', 'singularpropositions')",singular propositions,metaphysics,1151,681,True,True,True,True
+"('philosophyofmind', 'philosophyofphysics')",philosophy of physics,philosophy of mind,719,715,True,True,True,True
+"('aposterioriknowledge', 'perception')",a posteriori knowledge,perception,1533,2078,True,False,False,False
+"('emotionsinthechristiantradition', 'philosophyofreligion')",emotions in the christian tradition,philosophy of religion,1557,724,True,True,True,True
+"('consciousnessandintentionality', 'intentionality')",consciousness and intentionality,intentionality,1227,1325,True,True,True,True
+"('perception', 'phenomenologicalapproachestoselfconsciousness')",phenomenological approaches to self-consciousness,perception,1298,2078,True,True,True,True
+"('antirealism', 'epistemology')",anti-realism,epistemology,616,646,True,True,True,True
+"('experienceandperceptionoftime', 'perception')",experience and perception of time,perception,1078,2078,True,False,False,False
+"('scientificmethodology', 'thescientificmethod')",the scientific method,scientific methodology,1916,1830,True,True,True,True
+"('mentalcontent', 'nonconceptualmentalcontent')",nonconceptual mental content,mental content,1274,925,True,True,True,True
+"('epistemology', 'philosophyofphysics')",philosophy of physics,epistemology,719,646,True,True,True,True
+"('metaphysics', 'peripatetic')",peripatetic,metaphysics,698,681,True,True,True,True
+"('expressionism', 'perception')",expressionism,perception,200,2078,True,False,False,False
+"('philosophiesoftheparticularsciences', 'philosophyofmind')",philosophies of the particular sciences,philosophy of mind,1827,715,True,True,True,True
+"('africanamericanphilosophy', 'africanandafricanamericanphilosophy')",african american philosophy,african and african-american philosophy,800,1652,True,False,False,False
+"('philosophyofmind', 'scottishphilosophyinthe19thcentury')",scottish philosophy in the 19th century,philosophy of mind,1713,715,True,True,True,True
+"('aristotleandmathematics', 'metaphysics')",aristotle and mathematics,metaphysics,1010,681,True,True,True,True
+"('epistemology', 'logicandlanguage')",logic and language,epistemology,941,646,True,True,True,True
+"('idealism', 'modernism')",modernism,idealism,350,267,True,True,True,True
+"('epistemology', 'philosophyofchemistry')",philosophy of chemistry,epistemology,861,646,True,True,True,True
+"('africanandafricanamericanphilosophy', 'humanrights')",human rights,african and african-american philosophy,1038,1652,True,False,False,False
+"('logic', 'modallogic')",logic,modal logic,674,1209,True,True,True,True
+"('epistemology', 'platoonutopia')",plato on utopia,epistemology,1365,646,True,True,True,True
+"('introspection', 'perception')",introspection,perception,2076,2078,True,True,True,True
+"('philosophyofreligion', 'transcendentalism')",transcendentalism,philosophy of religion,569,724,True,True,True,True
+"('connectionistmodel', 'perception')",connectionist model,perception,947,2078,True,True,True,True
+"('philosophyofcomputerscience', 'philosophyoflanguage')",philosophy of computer science,philosophy of language,903,712,True,True,True,True
+"('atonement', 'philosophyofreligion')",atonement,philosophy of religion,1570,724,True,True,True,True
+"('cosmologicalargument', 'philosophyofreligion')",cosmological argument,philosophy of religion,1305,724,True,True,True,True
+"('epistemology', 'internalismandexternalism')",internalism and externalism,epistemology,2163,646,True,True,True,True
+"('historyoflogic', 'informallogic')",informal logic,history of logic,675,917,True,False,False,False
+"('metaphysics', 'socialphilosophyandpoliticalphilosophy')",social philosophy and political philosophy,metaphysics,943,681,True,True,True,True
+"('medievalpoliticalphilosophy', 'socialandpoliticalphilosophy')",medieval political philosophy,social and political philosophy,1700,1787,True,True,True,True
+"('determinatesvsdeterminables', 'historyoflogic')",determinates vs. determinables,history of logic,1267,917,True,False,False,False
+"('epistemology', 'optimism')",optimism,epistemology,404,646,True,True,True,True
+"('phenomenologyofreligion', 'philosophyofreligion')",phenomenology of religion,philosophy of religion,1563,724,True,True,True,True
+"('metaphysics', 'philosophyofspaceandtime')",philosophy of space and time,metaphysics,723,681,True,True,True,True
+"('epistemology', 'philosophyoflogic')",philosophy of logic,epistemology,1791,646,True,True,True,True
+"('existence', 'perception')",existence,perception,1478,2078,True,True,True,True
+"('computationandrepresentation', 'perception')",computation and representation,perception,936,2078,True,True,True,True
+"('ancientphilosophyaristotle', 'philosophyofmind')",ancient philosophy (aristotle),philosophy of mind,1846,715,True,False,False,False
+"('philosophyofmind', 'virtuesandvices')",virtues and vices,philosophy of mind,1879,715,True,True,True,True
+"('epistemology', 'ideas')",ideas,epistemology,1641,646,True,True,True,True
+"('identitytheoryoftruth', 'metaphysics')",identity theory of truth,metaphysics,1014,681,True,True,True,True
+"('abstractobject', 'metaphysics')",abstract object,metaphysics,846,681,True,True,True,True
+"('internalism', 'philosophyofmind')",internalism,philosophy of mind,666,715,True,True,True,True
+"('artificialintelligence', 'distributedrepresentation')",distributed representation,artificial intelligence,825,890,True,False,False,False
+"('consciousness', 'philosophyofmind')",consciousness,philosophy of mind,923,715,True,True,True,True
+"('epistemology', 'inductivelogicanddecisiontheory')",inductive logic and decision theory,epistemology,1790,646,True,True,True,True
+"('folkpsychology', 'inputunit')",input unit,folk psychology,951,891,True,False,False,False
+"('dualismandmetaphysicsofmind', 'philosophyofmind')",dualism and metaphysics of mind,philosophy of mind,907,715,True,False,False,False
+"('philosophyofphysics', 'philosophyofscienceandthesciences')",philosophy of physics,philosophy of science and the sciences,719,1826,True,True,True,True
+"('mentalimagery', 'perception')",mental imagery,perception,1223,2078,True,True,True,True
+"('afterlife', 'heavenandhell')",heaven and hell,afterlife,1343,1581,True,True,True,True
+"('divinerevelation', 'philosophyofreligion')",divine revelation,philosophy of religion,1560,724,True,True,True,True
+"('mind', 'philosophyofmind')",mind,philosophy of mind,2067,715,True,True,True,True
+"('folkpsychology', 'simulationtheory')",simulation theory,folk psychology,817,891,True,True,True,True
+"('existence', 'existentialism')",existentialism,existence,197,1478,True,True,True,True
+"('interpretationsofprobability', 'philosophyofscienceandthesciences')",interpretations of probability,philosophy of science and the sciences,1155,1826,True,True,True,True
+"('deontology', 'ethics')",ethics,deontology,647,638,True,True,True,True
+"('logic', 'logicandlanguage')",logic,logic and language,674,941,True,True,True,True
+"('constructivemathematics', 'philosophyofscienceandthesciences')",constructive mathematics,philosophy of science and the sciences,1251,1826,True,True,True,True
+"('philosophyofmind', 'unityofconsciousness')",unity of consciousness,philosophy of mind,877,715,True,True,True,True
+"('otherminds', 'philosophyofmind')",other minds,philosophy of mind,1750,715,True,True,True,True
+"('perception', 'psychologicaltheory')",psychological theory,perception,887,2078,True,True,True,True
+"('knowledgeargument', 'physicalism')",knowledge argument,physicalism,813,726,True,True,True,True
+"('epistemology', 'moralepistemology')",moral epistemology,epistemology,866,646,True,True,True,True
+"('epistemology', 'externalism')",externalism,epistemology,201,646,True,True,True,True
+"('epistemology', 'realismandantirealism')",realism and anti-realism,epistemology,978,646,True,True,True,True
+"('object', 'perception')",object,perception,1499,2078,True,True,True,True
+"('artificialintelligence', 'logicandlanguage')",logic and language,artificial intelligence,941,890,True,True,True,True
+"('animalcognition', 'folkpsychology')",animal cognition,folk psychology,812,891,True,False,False,False
+"('metaphysics', 'sophists')",sophists,metaphysics,1622,681,True,True,True,True
+"('fideism', 'philosophyofreligion')",fideism,philosophy of religion,219,724,True,True,True,True
+"('logicandlanguage', 'philosophyoflanguage')",logic and language,philosophy of language,941,712,True,True,True,True
+"('determinism', 'freewill')",determinism,free will,157,992,True,True,True,True
+"('kantsphilosophyofreligion', 'metaphysics')",kant's philosophy of religion,metaphysics,1056,681,True,True,True,True
+"('causaltheoriesofmentalcontent', 'mentalcontent')",causal theories of mental content,mental content,1699,925,True,True,True,True
+"('bioethics', 'culturalrelativism')",cultural relativism,bioethics,144,621,True,False,False,False
+"('judaicphilosophy', 'judaism')",judaic philosophy,judaism,921,293,True,False,False,False
+"('epistemologicalproblemsofperception', 'philosophyofmind')",epistemological problems of perception,philosophy of mind,1361,715,True,True,True,True
+"('epistemologicalproblemsofperception', 'perception')",epistemological problems of perception,perception,1361,2078,True,True,True,True
+"('kantsphilosophicaldevelopment', 'metaphysics')",kant's philosophical development,metaphysics,1062,681,True,True,True,True
+"('abstractexpressionism', 'perception')",abstract expressionism,perception,4,2078,True,False,False,False
+"('mentalcontent', 'narrowmentalcontent')",narrow mental content,mental content,1273,925,True,True,True,True
+"('epistemology', 'perception')",perception,epistemology,2078,646,True,True,True,True
+"('causaltheoriesofmentalcontent', 'theoriesofmentalcontent')",theories of mental content,causal theories of mental content,927,1699,True,True,True,True
+"('philosophyofmind', 'sensedata')",sense-data,philosophy of mind,1541,715,True,True,True,True
+"('belief', 'epistemology')",belief,epistemology,880,646,True,True,True,True
+"('feministphilosophyoflanguage', 'philosophyoflanguage')",feminist philosophy of language,philosophy of language,1033,712,True,True,True,True
+"('divinelaw', 'philosophyofreligion')",divine law,philosophy of religion,2012,724,True,True,True,True
+"('existence', 'philosophyofmind')",existence,philosophy of mind,1478,715,True,True,True,True
+"('epistemology', 'philosophyofscience')",philosophy of science,epistemology,722,646,True,True,True,True
+"('lawsofnature', 'metaphysics')",laws of nature,metaphysics,1164,681,True,True,True,True
+"('ideas', 'perception')",ideas,perception,1641,2078,True,True,True,True
