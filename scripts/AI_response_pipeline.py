@@ -13,10 +13,10 @@ from mistralai import Mistral
 from datetime import datetime, timezone
 
 # Tested using Mistral:
-# api_key = os.environ["MISTRAL_API_KEY"]
-# model = "open-mistral-nemo"
+api_key = os.environ["MISTRAL_API_KEY"]
+model = "open-mistral-nemo"
 
-# client = Mistral(api_key=api_key)
+client = Mistral(api_key=api_key)
 
 
 coverage_to_persona = {
