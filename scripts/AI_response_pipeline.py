@@ -9,22 +9,21 @@ with model, temperature, date, prompt version, persona.)
 import os
 import csv
 import json
-from openai import OpenAI
-from groq import Groq
+from mistralai import Mistral
 from datetime import datetime, timezone
 
-# client = OpenAI(
-#     api_key=os.getenv("OPENAI_API_KEY")
-# )
-# client = Groq(
-#     api_key=os.getenv("GROQ_API_KEY")
-# )
+# Tested using Mistral:
+api_key = os.environ["MISTRAL_API_KEY"]
+model = "open-mistral-nemo"
+
+client = Mistral(api_key=api_key)
+
 
 coverage_to_persona = {
     "has_amateur": "novice",
     "has_course_taker": "course_taker",
-    "has_phd_student": "phd",
     "has_expert": "expert",
+    "has_phd_student": "phd",
 }
 rel_options = {
     "Not Related":        0,
@@ -58,15 +57,19 @@ def load_system_prompt(persona):
     return content
 
 def response_to_index(txt):
+    txt = txt.lower()
     relate = -1
     general = -1
     
-    for key, val in rel_options.items():
-        if key in txt:
-            relate = val
-            break
+    if "highly related" in txt:
+        relate = 4
+    else:
+        for key, val in rel_options.items():
+            if key.lower() in txt:
+                relate = val
+                break
     for key, val in gen_options.items():
-        if key in txt:
+        if key.lower() in txt:
             general = val
             break
 
@@ -77,10 +80,10 @@ def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/ai_prompts_v1.csv"
+    output_f = "./data/processed/test.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
-    fieldnames = ["key", "ideaA", "ideaB", "persona", "system_prompt", "user_prompt", "metadata"]
+    fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
     with open(output_f, "w") as output_csv:
         writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
         writer.writeheader()
@@ -94,12 +97,28 @@ def main():
                 ideaB = pair.get("ideaB")
 
                 user_prompt = load_user_prompt(ideaA, ideaB)
+                
 
                 for coverage, persona in coverage_to_persona.items():
                     if truthy(pair.get(coverage)):
                         system_prompt = load_system_prompt(persona)
-
-                        #TODO: generate ai response using the system_prompt and user_prompt with according API key
+                        
+                        chat_response = client.chat.complete(
+                            model = model,
+                            messages = [
+                                {
+                                    "role": "system",
+                                    "content": system_prompt
+                                },
+                                {
+                                    "role": "user",
+                                    "content": user_prompt
+                                }
+                            ],
+                            temperature = 0
+                        )
+                        
+                        rel, gen = response_to_index(chat_response.choices[0].message.content)
 
                         metadata = {
                             "model": None,
@@ -113,11 +132,15 @@ def main():
                             "key": key,
                             "ideaA": ideaA,
                             "ideaB": ideaB,
+                            "relatedness": rel,
+                            "generality": gen,
                             "persona": persona,
                             "system_prompt": PROMPT_VERSION,
                             "user_prompt": PROMPT_VERSION,
                             "metadata": json.dumps(metadata, ensure_ascii=False),
                         })
+                        
+
     print("Output finished in " + output_f)
 
 if __name__ == "__main__":
