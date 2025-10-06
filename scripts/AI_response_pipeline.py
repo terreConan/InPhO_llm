@@ -10,14 +10,20 @@ import os
 import csv
 import json
 from mistralai import Mistral
+from google import genai
+from google.genai import types
 from datetime import datetime, timezone
 
 # Tested using Mistral:
-api_key = os.environ["MISTRAL_API_KEY"]
-model = "open-mistral-nemo"
+# api_key = os.environ["MISTRAL_API_KEY"]
+# model = "open-mistral-nemo"
 
-client = Mistral(api_key=api_key)
+# client = Mistral(api_key=api_key)
 
+api_key = os.environ["GEMINI_API_KEY"]
+model = "gemini-2.0-flash"
+
+client = genai.Client(api_key=api_key)
 
 coverage_to_persona = {
     "has_amateur": "novice",
@@ -80,7 +86,7 @@ def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/test.csv"
+    output_f = "./data/processed/gemini_outputs_v1.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
     fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
@@ -103,26 +109,19 @@ def main():
                     if truthy(pair.get(coverage)):
                         system_prompt = load_system_prompt(persona)
                         
-                        chat_response = client.chat.complete(
-                            model = model,
-                            messages = [
-                                {
-                                    "role": "system",
-                                    "content": system_prompt
-                                },
-                                {
-                                    "role": "user",
-                                    "content": user_prompt
-                                }
-                            ],
-                            temperature = 0
+                        response = client.models.generate_content(
+                            model="gemini-2.0-flash",
+                            config=types.GenerateContentConfig(
+                                system_instruction=system_prompt,
+                                temperature=0.0),
+                            contents=user_prompt,
                         )
                         
-                        rel, gen = response_to_index(chat_response.choices[0].message.content)
+                        rel, gen = response_to_index(response.text)
 
                         metadata = {
-                            "model": None,
-                            "temperature": None,
+                            "model": "gemini-2.0-flash",
+                            "temperature": 0,
                             "date": datetime.now(timezone.utc).isoformat(),
                             "prompt_version": PROMPT_VERSION,
                             "persona": persona
