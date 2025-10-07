@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 # client = Mistral(api_key=api_key)
 
 api_key = os.environ["GEMINI_API_KEY"]
-model = "gemini-2.0-flash"
+model = "gemini-2.5-pro"
 
 client = genai.Client(api_key=api_key)
 
@@ -86,7 +86,7 @@ def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/gemini_outputs_v1.csv"
+    output_f = "./data/processed/gemini-pro_outputs_v1.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
     fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
@@ -110,7 +110,7 @@ def main():
                         system_prompt = load_system_prompt(persona)
                         
                         response = client.models.generate_content(
-                            model="gemini-2.0-flash",
+                            model="gemini-2.5-pro",
                             config=types.GenerateContentConfig(
                                 system_instruction=system_prompt,
                                 temperature=0.0),
@@ -120,7 +120,7 @@ def main():
                         rel, gen = response_to_index(response.text)
 
                         metadata = {
-                            "model": "gemini-2.0-flash",
+                            "model": "gemini-2.5-pro",
                             "temperature": 0,
                             "date": datetime.now(timezone.utc).isoformat(),
                             "prompt_version": PROMPT_VERSION,
