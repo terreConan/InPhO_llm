@@ -72,10 +72,19 @@ InPhO_llm/
    ```
 
 2. **Set up API keys:**
-   ```bash
-   export GROQ_API_KEY="your_key_here"
-   export ANTHROPIC_API_KEY="your_key_here"
-   ```
+   - Copy `.env.example` to `.env` and fill in your keys
+     ```bash
+     cp .env.example .env
+     ```
+   - Or export in your shell profile:
+     ```bash
+     export GROQ_API_KEY="your_key_here"
+     export ANTHROPIC_API_KEY="your_key_here"
+     export GEMINI_API_KEY="your_key_here"
+     export OPENAI_API_KEY="your_key_here"
+     export MISTRAL_API_KEY="your_key_here"
+     export GOOGLE_API_KEY="your_key_here"
+     ```
 
 3. **Run cost analysis:**
    ```bash

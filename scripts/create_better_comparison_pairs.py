@@ -3,7 +3,7 @@ Create a better comparison pairs file that shows expertise level coverage
 """
 
 import pandas as pd
-from config import EXPERTISE_LEVELS
+from src.config import EXPERTISE_LEVELS, DATA_PATHS
 
 def create_better_comparison_pairs():
     """Create a comparison pairs file with expertise level coverage"""
@@ -13,7 +13,7 @@ def create_better_comparison_pairs():
     expertise_data = {}
     for level, level_name in EXPERTISE_LEVELS.items():
         try:
-            data = pd.read_csv(f"human_data_{level_name}.csv")
+            data = pd.read_csv(f"{DATA_PATHS['output_dir']}human_data_{level_name}.csv")
             expertise_data[level_name] = data
             print(f"Loaded {len(data)} pairs for {level_name}")
         except FileNotFoundError:
@@ -61,7 +61,8 @@ def create_better_comparison_pairs():
     
     # Create DataFrame and sort by number of levels (most coverage first)
     comparison_df = pd.DataFrame(coverage_data)
-    comparison_df = comparison_df.sort_values("num_levels", ascending=False)
+    if not comparison_df.empty:
+        comparison_df = comparison_df.sort_values("num_levels", ascending=False)
     
     print(f"\nPairs with data in 2+ levels: {len(comparison_df)}")
     
@@ -72,7 +73,7 @@ def create_better_comparison_pairs():
         print(f"  {num_levels} levels: {count} pairs")
     
     # Save the better comparison file
-    output_file = "comparison_pairs_with_coverage.csv"
+    output_file = f"{DATA_PATHS['output_dir']}comparison_pairs_with_coverage.csv"
     comparison_df.to_csv(output_file, index=False)
     print(f"\nSaved {len(comparison_df)} pairs to {output_file}")
     

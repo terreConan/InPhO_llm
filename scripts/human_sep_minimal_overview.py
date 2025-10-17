@@ -18,7 +18,7 @@ def undirected_key(a: str, b: str) -> tuple:
 def load_sep_baseline() -> pd.DataFrame:
     sep = pd.read_csv("data/processed/sep_similarity_baseline.csv")
     sep["pair_key"] = [undirected_key(a, b) for a, b in zip(sep["ideaA"], sep["ideaB"])]
-    return sep[["pair_key", "j_sym", "has_sep"]].rename(columns={"j_sym": "sep_sim"})
+    return sep[["pair_key", "j_sym", "has_sep", "jweight"]].rename(columns={"jweight": "sep_sim"})
 
 def load_human_all() -> pd.DataFrame:
     files = sorted(glob.glob("data/processed/human_data_*.csv"))
@@ -105,6 +105,7 @@ def main():
     plot_sep_hist(sep, FIG_DIR / "sep_histogram.png")
     plot_human_box(human, FIG_DIR / "human_boxplot_by_expertise.png")
     plot_sep_vs_human(merged, FIG_DIR / "sep_vs_human_scatter.png")
+
 
     print("Saved figures to:", FIG_DIR.resolve())
 

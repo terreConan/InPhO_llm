@@ -98,12 +98,16 @@ def main():
 
     banner("COMPUTING BASELINE FIELDS")
 
-    out["j_sym"] = out.apply(lambda r: nanmean(r["j_i_to_j"], r["j_j_to_i"]), axis=1)
+    out["j_sym"] = out.apply(
+    lambda r: max([v for v in (r["j_i_to_j"], r["j_j_to_i"]) if pd.notna(v)])
+              if (pd.notna(r["j_i_to_j"]) or pd.notna(r["j_j_to_i"])) else float("nan"),
+    axis=1
+)
     out["has_sep"] = out["j_i_to_j"].notna() | out["j_j_to_i"].notna()
-
+    out["jweight"] = out["j_i_to_j"]
     final = out[[
         "pair_id", "ideaA", "ideaB", "i_id", "j_id",
-        "j_i_to_j", "j_j_to_i", "j_sym", "has_sep"
+        "j_i_to_j", "j_j_to_i", "j_sym", "has_sep", "jweight"
     ]]
 
     os.makedirs(os.path.dirname(OUT_CSV), exist_ok=True)

@@ -1,713 +1,713 @@
-pair_id,ideaA,ideaB,i_id,j_id,j_i_to_j,j_j_to_i,j_sym,has_sep
-1,taoism,chinese philosophy,559,624,0.000164886,0.000165674,0.00016528000000000002,True
-2,philosophy of language,meaning,712,1923,0.00367021,0.00368185,0.0036760300000000003,True
-3,philosophy of science and the sciences,philosophy of science,1826,722,0.0392497,0.0495814,0.04441555,True
-4,epistemology,epistemology of science,646,1829,0.000515651,0.000601684,0.0005586675000000001,True
-5,metaphysics,substance,681,1504,0.00203354,0.00202536,0.00202945,True
-6,philosophy of science and the sciences,philosophy of biology,1826,704,0.00671789,0.00959043,0.00815416,True
-7,artificial intelligence,neural network,890,946,0.000203645,0.000207693,0.000205669,True
-8,epistemology,moral epistemology and moral reasoning,646,868,0.000350926,0.000371315,0.0003611205,True
-9,revision theory of truth,truth,1013,1709,0.000326893,0.000294932,0.00031091249999999995,True
-10,philosophy of religion,religion,724,1893,0.0217955,0.0252333,0.023514399999999998,True
-11,thinking machine,artificial intelligence,894,890,5.42939e-05,5.26194e-05,5.345665e-05,True
-12,philosophy of religion,belief,724,880,0.00218722,0.0021095,0.00214836,True
-13,chinese philosophy,daoism,624,148,0.000129637,0.000128049,0.000128843,True
-14,artificial intelligence,philosophy of computer science,890,903,0.000245657,0.000246011,0.000245834,True
-15,cognitive science,philosophy of science,892,722,0.00278644,0.00230006,0.00254325,True
-16,philosophy of religion,religious diversity,724,1042,0.000914413,0.00101114,0.0009627765,True
-17,cognitive science,mind,892,2067,0.000652006,0.000599954,0.0006259799999999999,True
-18,japanese confucian philosophy,japanese philosophy,1695,671,1.64425e-05,1.64355e-05,1.6439e-05,True
-19,artificial intelligence,logic and artificial intelligence,890,1196,1.18176e-05,1.18353e-05,1.182645e-05,True
-20,cognitive science,philosophy of mind,892,715,0.000652006,0.000599954,0.0006259799999999999,True
-21,philosophy of science and the sciences,philosophy of mathematics,1826,714,0.000871514,0.0010508,0.000961157,True
-22,connectionism,cognitive science,893,892,8.64762e-05,8.62305e-05,8.635335e-05,True
-23,philosophy of religion,feminist philosophy of religion,724,1029,0.000690622,0.000751964,0.000721293,True
-24,philosophy of religion,religion and science,724,1575,0.000963908,0.00104341,0.001003659,True
-25,chinese buddhism,chinese philosophy,1692,624,4.11238e-05,4.04422e-05,4.0783e-05,True
-26,cognitive science,philosophy of psychology,892,720,0.000626572,0.000605935,0.0006162535,True
-27,cognitive science,representation,892,885,0.000592531,0.00056528,0.0005789055,True
-28,philosophy of science and the sciences,probability and statistics,1826,939,0.0153886,0.0199511,0.01766985,True
-29,artificial intelligence,logic,890,674,0.000242756,0.000229466,0.000236111,True
-30,biomedical ethics,bioethics,1986,621,2.92616e-05,2.83263e-05,2.879395e-05,True
-31,representation,mental content,885,925,0.000203432,0.000213818,0.000208625,True
-32,folk psychology,cognitive science,891,892,0.000141244,0.000139433,0.0001403385,True
-33,aristotle on non-contradiction,perception,1857,2078,4.5102e-06,4.43499e-06,4.472595e-06,True
-34,social philosophy and political philosophy,epistemology,943,646,0.000217493,0.000212946,0.0002152195,True
-35,realism,epistemology,480,646,0.000694569,0.000691379,0.0006929740000000001,True
-36,philosophies of the particular sciences,epistemology,1827,646,0.00109563,0.00117598,0.0011358050000000001,True
-37,realism and anti-realism,metaphysics,978,681,0.00117498,0.00115524,0.00116511,True
-38,einstein's philosophy of science,philosophy of science and the sciences,1173,1826,9.5269e-05,8.40028e-05,8.96359e-05,True
-39,medieval theories of relations,metaphysics,1027,681,5.33955e-07,5.30308e-07,5.321315000000001e-07,True
-40,probability,epistemology,770,646,0.000378381,0.000382779,0.00038058,True
-41,epistemological problems of testimony,epistemology,1538,646,3.39609e-06,3.36491e-06,3.3805e-06,True
-42,reliabilism,epistemology,486,646,0.000120035,0.000117624,0.00011882949999999999,True
-43,connectionism,connectionist model,893,947,0.000235899,0.000247032,0.00024146550000000001,True
-44,japanese zen buddhist philosophy,philosophy of mind,1696,715,0.000120294,0.000113856,0.000117075,True
-45,autism,perception,57,2078,3.36761e-05,3.19313e-05,3.28037e-05,True
-46,internalism and externalism,philosophy of mind,2163,715,0.000214569,0.000202693,0.000208631,True
-47,rationalism vs. empiricism,knowledge,1160,2075,0.000464875,0.000416113,0.00044049400000000004,True
-48,higher-order theories of consciousness,perception,1228,2078,9.98297e-05,9.67715e-05,9.830059999999999e-05,True
-49,artistic representation,perception,2003,2078,2.57454e-05,2.40994e-05,2.4922399999999997e-05,True
-50,chinese and western,chinese philosophy,1689,624,0.000167414,0.000163599,0.0001655065,True
-51,philosophy of computer science,philosophy of mathematics,903,714,2.22965e-05,2.22786e-05,2.228755e-05,True
-52,epistemological problems of testimony,perception,1538,2078,9.96351e-07,9.83938e-07,9.901445000000001e-07,True
-53,everett's relative-state formulation of quantum mechanics,philosophy of mind,1248,715,1.10318e-05,1.06511e-05,1.0841450000000001e-05,True
-54,unity of consciousness,consciousness,877,923,0.000986294,0.000925711,0.0009560025,True
-55,foreknowledge and free will,free will,1565,992,0.000154311,0.000152126,0.0001532185,True
-56,aristotle's logic,metaphysics,1011,681,7.6278e-07,7.55401e-07,7.590905e-07,True
-57,intentionality,perception,1325,2078,0.000375406,0.000366901,0.0003711535,True
-58,philosophy and christian theology,philosophy of religion,1136,724,4.81716e-05,4.66895e-05,4.7430549999999996e-05,True
-59,computational linguistics,perception,1994,2078,4.34714e-06,4.31559e-06,4.331365e-06,True
-60,natural theology,metaphysics,1571,681,0.00027905,0.000263324,0.000271187,True
-61,output unit,artificial intelligence,950,890,,,,False
-62,externalism,philosophy of mind,201,715,0.000188628,0.000176301,0.0001824645,True
-63,sentence,philosophy of language,1940,712,0.00272649,0.00269281,0.00270965,True
-64,self-knowledge,perception,808,2078,0.000214724,0.000208699,0.00021171150000000001,True
-65,continuant,metaphysics,1513,681,7.5699e-05,6.93395e-05,7.251925e-05,True
-66,matter,philosophy of religion,1497,724,0.00155237,0.00159069,0.00157153,True
-67,philosophy of art,metaphysics,702,681,0.000819536,0.000824599,0.0008220675000000001,True
-68,philosophy of social science,philosophy of science,919,722,0.00403139,0.00298253,0.00350696,True
-69,aesthetics,aesthetics and philosophy of art,614,1788,0.0359973,0.0375302,0.03676375,True
-70,probability and statistics,epistemology,939,646,0.000399685,0.000403873,0.000401779,True
-71,essence and existence,existence,1684,1478,0.001223,0.000906266,0.001064633,True
-72,foundationalism,epistemology,223,646,0.00034764,0.000331748,0.000339694,True
-73,body,philosophy of mind,2040,715,0.00465876,0.00459098,0.00462487,True
-74,philosophy of computer science,philosophy of science,903,722,0.00144397,0.00127909,0.0013615300000000001,True
-75,causal processes,causation,1080,969,0.000455255,0.000437592,0.0004464235,True
-76,game theory in ethics,ethics,1596,647,4.82079e-05,3.80975e-05,4.3152700000000004e-05,True
-77,kant's view of the mind and consciousness of self,cognitive science,1058,892,1.61191e-05,1.6092e-05,1.610555e-05,True
-78,realism,metaphysics,480,681,0.00116819,0.00115475,0.00116147,True
-79,sense-data,perception,1541,2078,0.000533419,0.000511297,0.000522358,True
-80,philosophy of history,continental philosophy,711,631,6.88695e-05,7.02638e-05,6.956665e-05,True
-81,mental imagery,cognitive science,1223,892,4.22464e-05,4.21733e-05,4.220985e-05,True
-82,hume on religion,philosophy of religion,1780,724,0.000218361,0.000209879,0.00021412,True
-83,justified true belief,epistemology,1549,646,0.000138933,0.000131918,0.0001354255,True
-84,cloning,bioethics,2015,621,6.24529e-05,6.24131e-05,6.2433e-05,True
-85,knowledge,epistemology,2075,646,0.00248063,0.00267359,0.00257711,True
-86,philosophy of law,civil disobedience,713,1732,0.000295236,0.000330382,0.000312809,True
-87,panpsychism,emergence,695,909,0.000163165,0.000161314,0.0001622395,True
-88,kant's philosophy of science,metaphysics,1055,681,2.70816e-05,2.66333e-05,2.685745e-05,True
-89,medieval logic,history of logic,1813,917,3.09412e-05,3.08649e-05,3.090305e-05,True
-90,idiolects,philosophy of language,1384,712,0.000587884,0.000525308,0.000556596,True
-91,divine illumination,philosophy of mind,1383,715,0.000162645,0.000151113,0.00015687900000000001,True
-92,consciousness and intentionality,consciousness,1227,923,0.00101446,0.000965649,0.0009900545,True
-93,ethnocentrism,philosophy of religion,192,724,7.52798e-05,6.91288e-05,7.22043e-05,True
-94,foundationalism,skepticism,223,527,0.000135474,0.000132356,0.00013391500000000002,True
-95,folk psychology,philosophy of mind,891,715,0.000158641,0.000145813,0.000152227,True
-96,qualia,perception,737,2078,9.48472e-05,9.26944e-05,9.37708e-05,True
-97,motion and time,metaphysics,1821,681,9.19333e-05,8.76927e-05,8.9813e-05,True
-98,natural philosophy,metaphysics,1632,681,0.00082394,0.000789078,0.000806509,True
-99,pantheism,philosophy of religion,417,724,0.000157403,0.00015075,0.00015407650000000001,True
-100,naturalized epistemology,epistemology,1145,646,0.000665687,0.000634188,0.0006499375,True
-101,logos,perception,1612,2078,5.98236e-05,5.64305e-05,5.812705e-05,True
-102,analytic feminism,metaphysics,1121,681,2.08765e-05,2.05425e-05,2.07095e-05,True
-103,chinese-western comparative philosophy,chinese philosophy,1130,624,0.000121765,0.00012273,0.0001222475,True
-104,korean philosophy,perception,673,2078,5.5586e-07,5.50816e-07,5.533380000000001e-07,True
-105,origin of aesthetic,philosophy of mind,857,715,2.83943e-05,2.40409e-05,2.6217599999999998e-05,True
-106,connectionism,training set,893,949,0.000213933,0.000235519,0.00022472600000000002,True
-107,units and levels of selection,evolution,1300,1125,0.000357914,0.000348778,0.000353346,True
-108,consciousness and content,consciousness,924,923,0.000516826,0.00040875,0.000462788,True
-109,philosophy of physics,perception,719,2078,0.000659982,0.00065273,0.0006563560000000001,True
-110,supertasks,dynamical system,1187,938,,,,False
-111,modularity,philosophy of mind,829,715,0.000130383,0.000120928,0.0001256555,True
-112,logic,philosophy of mathematics,674,714,0.000250515,0.000265003,0.000257759,True
-113,defeasible reasoning,epistemology,1054,646,5.13622e-06,5.09104e-06,5.11363e-06,True
-114,descartes' ontological argument,perception,1281,2078,2.91344e-05,2.85064e-05,2.88204e-05,True
-115,feminist bioethics,bioethics,1030,621,0.000769043,0.000768507,0.000768775,True
-116,justified true belief,perception,1549,2078,3.7281e-05,3.59544e-05,3.66177e-05,True
-117,polytheism,philosophy of religion,451,724,0.000131578,0.000117725,0.0001246515,True
-118,philosophy of psychology,philosophy of mind,720,715,0.00208623,0.00197995,0.00203309,True
-119,philosophy of science and the sciences,metaphysics,1826,681,0.00181036,0.00204578,0.00192807,True
-120,phenomenal consciousness,consciousness,965,923,0.00120192,0.000952634,0.001077277,True
-121,logic and computation,artificial intelligence,940,890,,,,False
-122,analysis,philosophy of mathematics,1508,714,0.000284623,0.000298646,0.0002916345,True
-123,principle of sufficient reason,metaphysics,1640,681,7.55472e-05,7.38879e-05,7.471755e-05,True
-124,unity of consciousness,perception,877,2078,3.7036e-05,3.63195e-05,3.667775e-05,True
-125,meaning,metaphysics,1923,681,0.00171135,0.00177337,0.00174236,True
-126,philosophies of the particular sciences,philosophy of science and the sciences,1827,1826,0.10972,0.0856562,0.0976881,True
-127,mind,metaphysics,2067,681,0.00223238,0.00233156,0.00228197,True
-128,proper names,epistemology,2019,646,0.000119795,0.000117611,0.000118703,True
-129,simultaneity,metaphysics,1997,681,0.000166548,0.000159748,0.000163148,True
-130,philosophy of mathematics,set theory,714,1287,0.000404212,0.000401033,0.0004026225,True
-131,medieval theories of the syllogism,history of logic,1243,917,1.82859e-05,1.84258e-05,1.835585e-05,True
-132,panpsychism,metaphysics of mind,695,897,2.03071e-05,2.06449e-05,2.0476e-05,True
-133,symbolic processing,philosophy of mind,954,715,1.42672e-05,1.30011e-05,1.3634149999999999e-05,True
-134,modern philosophy,philosophy of mind,899,715,0.00031337,0.000283358,0.00029836399999999996,True
-135,chinese room argument,cognitive science,1137,892,2.19777e-05,2.19782e-05,2.1977950000000002e-05,True
-136,arabic philosophy and islamic philosophy,metaphysics,930,681,0.00031843,0.000298328,0.000308379,True
-137,higher-order theories of consciousness,consciousness,1228,923,0.000176976,0.000171059,0.0001740175,True
-138,meaning of life,afterlife,1603,1581,3.24148e-05,3.23316e-05,3.23732e-05,True
-139,syntactic analysis,philosophy of mind,810,715,,,,False
-140,universals,metaphysics,1483,681,0.0025007,0.00254371,0.0025222049999999996,True
-141,matter,epistemology,1497,646,0.00164795,0.00173704,0.001692495,True
-142,philosophy of religion,religious experience,724,1574,0.00149637,0.00174373,0.00162005,True
-143,judaic philosophy,interpretation,921,845,,,,False
-144,philosophy of science and the sciences,epistemology,1826,646,0.00113032,0.00127124,0.00120078,True
-145,cause and effect,perception,1897,2078,0.000389591,0.000374965,0.000382278,True
-146,western philosophy,chinese philosophy,758,624,0.000112929,0.00011332,0.0001131245,True
-147,natural law,philosophy of law,2044,713,0.00715272,0.00511521,0.006133965,True
-148,zen buddhism,chinese philosophy,759,624,,,,False
-149,metaphysics of science,metaphysics,1828,681,0.000997364,0.000842226,0.0009197949999999999,True
-150,cognitive science,philosophy of science and the sciences,892,1826,0.00179417,0.0013645,0.001579335,True
-151,modern philosophy,metaphysics,899,681,0.000436332,0.000408214,0.00042227300000000003,True
-152,personal identity and ethics,metaphysics,1598,681,2.83133e-06,2.80439e-06,2.81786e-06,True
-153,unitarianism,perception,590,2078,3.15182e-05,2.95711e-05,3.054465e-05,True
-154,feminist epistemology and philosophy of science,epistemology,1043,646,0.000142807,0.000139952,0.0001413795,True
-155,18th century german aesthetics,metaphysics,1856,681,3.89588e-07,3.86762e-07,3.88175e-07,True
-156,activation value,folk psychology,955,891,2.55083e-05,2.5239e-05,2.537365e-05,True
-157,hilbert's program,philosophy of mathematics,1356,714,6.60536e-06,6.58286e-06,6.59411e-06,True
-158,eliminative materialism,philosophy of mind,641,715,3.97667e-05,3.815e-05,3.895835e-05,True
-159,intuitionistic logic,history of logic,1211,917,,,,False
-160,blindsight,perception,870,2078,0.000110573,0.000101664,0.0001061185,True
-161,unity of science,scientific methodology,983,1830,9.55419e-06,9.56506e-06,9.559625e-06,True
-162,neural network,cognitive science,946,892,0.00018006,0.000177285,0.0001786725,True
-163,time,metaphysics,1488,681,0.00204908,0.002198,0.00212354,True
-164,functionalism,philosophy of mind,226,715,0.000127895,0.000121847,0.000124871,True
-165,foundationalist theories of epistemic justification,foundationalism,1321,223,0.000194986,0.000196266,0.00019562600000000001,True
-166,logic,intuitionistic logic,674,1211,0.00151902,0.0018522,0.0016856100000000001,True
-167,connectionism,neural network,893,946,0.000326039,0.000331425,0.000328732,True
-168,causal theories of mental content,perception,1699,2078,5.45907e-07,5.40947e-07,5.434270000000001e-07,True
-169,mind-body problem,metaphysics,819,681,8.59304e-05,8.1423e-05,8.36767e-05,True
-170,great apes,philosophy of mind,962,715,3.951e-05,3.66194e-05,3.80647e-05,True
-171,problem of evil,philosophy of religion,1126,724,0.000183496,0.000177007,0.0001802515,True
-172,gettier problem,epistemology,1550,646,0.000105055,9.72095e-05,0.00010113225000000001,True
-173,internalism,epistemology,666,646,0.000182134,0.000177822,0.00017997800000000002,True
-174,Eternity in Christian Thought,philosophy of religion,1580,724,0.000366041,0.000352745,0.000359393,True
-175,miracles,philosophy of religion,1219,724,0.000440256,0.000420073,0.0004301645,True
-176,existence,metaphysics,1478,681,0.00248784,0.00260021,0.002544025,True
-177,sovereignty,philosophy of religion,1213,724,0.000305354,0.000292754,0.000299054,True
-178,philosophy of psychology,philosophy of science and the sciences,720,1826,0.0173756,0.0116845,0.014530050000000001,True
-179,naturalism in legal philosophy,epistemology,1167,646,1.48643e-05,1.4689e-05,1.477665e-05,True
-180,philosophy of perception,perception,718,2078,0.0498605,0.0498605,0.0498605,True
-181,platonic realism,epistemology,727,646,3.3639e-05,3.1331e-05,3.2485e-05,True
-182,computational theory of mind,philosophy of mind,1235,715,3.39258e-05,3.27819e-05,3.3353849999999996e-05,True
-183,racism,civil rights,473,1134,0.000163581,0.000163308,0.0001634445,True
-184,feminist social epistemology,epistemology,1775,646,0.00028855,0.000278533,0.0002835415,True
-185,leibniz on causation,perception,1181,2078,0.000174436,0.000167764,0.00017109999999999998,True
-186,scientific progress,philosophy of science and the sciences,1203,1826,0.000779604,0.00062899,0.000704297,True
-187,sense data,epistemology,1288,646,0.000206651,0.000202504,0.0002045775,True
-188,testimony,epistemology,2077,646,0.000732295,0.000715908,0.0007241015,True
-189,scientific theory,epistemology,981,646,0.000525789,0.000512217,0.0005190030000000001,True
-190,medieval theories of causality,metaphysics,1083,681,,,,False
-191,connectionist model,artificial intelligence,947,890,7.09685e-05,6.92386e-05,7.010355e-05,True
-192,logic,classical logic,674,1195,0.00188189,0.00215528,0.002018585,True
-193,modern philosophy,epistemology,899,646,0.000221472,0.000212692,0.000217082,True
-194,science and religion,philosophy of religion,979,724,0.00115674,0.000887763,0.0010222515,True
-195,spinoza's psychological theory,philosophy of mind,1172,715,3.35535e-05,3.20795e-05,3.28165e-05,True
-196,intellectualism,philosophy of religion,278,724,4.73779e-05,4.53633e-05,4.63706e-05,True
-197,existence of god,existence,1905,1478,0.00274219,0.0020381,0.0023901449999999998,True
-198,philosophy of science and the sciences,philosophy of mind,1826,715,0.00107912,0.00115314,0.00111613,True
-199,introspection,philosophy of mind,2076,715,0.000403338,0.000380497,0.0003919175,True
-200,zombies,physicalism,1374,726,0.00023347,0.000230779,0.0002321245,True
-201,theory of truth,metaphysics,1704,681,0.000171385,0.000166999,0.000169192,True
-202,cartesian dualism,philosophy of mind,98,715,8.61542e-05,7.55515e-05,8.085285000000001e-05,True
-203,theory of forms,metaphysics,1822,681,0.000142914,0.000135083,0.0001389985,True
-204,history of feminism,epistemology,1847,646,,,,False
-205,metaphysics of causation,causation,1082,969,0.000232381,0.000227393,0.00022988700000000002,True
-206,folk psychology,perception,891,2078,8.66082e-05,8.32324e-05,8.49203e-05,True
-207,computer ethics,ethics,629,647,9.64158e-05,7.62066e-05,8.631120000000001e-05,True
-208,essential versus accidental properties,property and ownership,1773,1706,,,,False
-209,public reason,philosophy of religion,1399,724,0.000140368,0.000135561,0.0001379645,True
-210,agnosticism,philosophy of religion,13,724,0.000152575,0.000142971,0.00014777300000000002,True
-211,chinese philosophy,confucianism,624,127,0.000248462,0.000245912,0.000247187,True
-212,symmetry and symmetry breaking,symmetry and invariance,1119,968,5.50118e-05,6.51706e-05,6.0091200000000005e-05,True
-213,social and political philosophy,epistemology,1787,646,0.000221785,0.000217176,0.0002194805,True
-214,ideas,metaphysics,1641,681,0.00172729,0.00186585,0.00179657,True
-215,matter,perception,1497,2078,0.00171859,0.00178246,0.0017505250000000002,True
-216,20th century continental philosophy,philosophy of mind,1845,715,,,,False
-217,philosophy of mathematics,epistemology,714,646,0.000125138,0.00012335,0.000124244,True
-218,church-turing thesis,turing machine,1135,1002,0.000655866,0.000654195,0.0006550305,True
-219,cognitive value of art,perception,2007,2078,,,,False
-220,kant's critique of metaphysics,metaphysics,1059,681,7.85975e-05,7.67081e-05,7.76528e-05,True
-221,korean philosophy,philosophy of mind,673,715,9.78974e-05,9.2927e-05,9.54122e-05,True
-222,church-turing thesis,artificial intelligence,1135,890,6.18736e-06,6.18149e-06,6.184425e-06,True
-223,nonconceptual mental content,perception,1274,2078,0.000378852,0.000360113,0.00036948250000000003,True
-224,eliminative materialism,cognitive science,641,892,3.00199e-05,2.9955e-05,2.998745e-05,True
-225,epistemology of science,metaphysics,1829,681,0.000103756,9.8506e-05,0.00010113099999999999,True
-226,medieval problem of universals,philosophy of mind,989,715,0.000199544,0.00018745,0.000193497,True
-227,bell's theorem,quantum mechanics,1017,1158,0.000150946,0.000149609,0.0001502775,True
-228,akan philosophy of the person,african and african-american philosophy,1655,1652,,,,False
-229,theory of forms,epistemology,1822,646,9.60042e-05,9.21935e-05,9.409885e-05,True
-230,social dimensions of scientific knowledge,philosophy of science and the sciences,1204,1826,0.000379475,0.000322845,0.00035116,True
-231,chinese room argument,chinese philosophy,1137,624,,,,False
-232,inherence,metaphysics,1506,681,0.000177456,0.000167728,0.000172592,True
-233,cosmological arguments for the existence of god,philosophy of religion,1584,724,,,,False
-234,philosophies of the particular sciences,logic,1827,674,0.00143084,0.00146616,0.0014485000000000001,True
-235,analytic feminism,epistemology,1121,646,7.04706e-05,6.90732e-05,6.97719e-05,True
-236,cognitive science,perception,892,2078,0.000365876,0.000352304,0.00035909,True
-237,confirmation and induction,metaphysics,1804,681,0.000536415,0.000527376,0.0005318955000000001,True
-238,malebranche's theory of ideas and vision in god,philosophy of mind,1253,715,0.00021162,0.000199768,0.000205694,True
-239,quantum mechanics,philosophy of physics,1158,719,0.000609558,0.000595034,0.000602296,True
-240,relativism,truth,485,1709,0.000628859,0.000583079,0.000605969,True
-241,theism,philosophy of religion,563,724,0.000591288,0.000561362,0.000576325,True
-242,frege's theorem and foundations for arithmetic,philosophy of law,1340,713,0.000202554,0.000186446,0.0001945,True
-243,future contingents,history of logic,1479,917,2.67425e-05,2.7078e-05,2.6910250000000002e-05,True
-244,non-conceptual content,perception,873,2078,3.03307e-05,2.77398e-05,2.903525e-05,True
-245,foundationalist theories of epistemic justification,justification,1321,2068,0.000715806,0.000673892,0.000694849,True
-246,self-consciousness,philosophy of mind,1299,715,0.00028621,0.000270556,0.000278383,True
-247,philosophy of computer science,philosophy of mind,903,715,5.0794e-05,4.89374e-05,4.98657e-05,True
-248,artificial intelligence,philosophy of mind,890,715,7.54898e-05,7.26024e-05,7.40461e-05,True
-249,animal consciousness,consciousness,1229,923,0.00124682,0.00116656,0.00120669,True
-250,17th and 18th century theories of emotions,perception,1770,2078,1.12551e-05,1.10448e-05,1.114995e-05,True
-251,logic,combining logics,674,1455,0.00113609,0.00136475,0.00125042,True
-252,consciousness and science,perception,957,2078,2.11108e-05,1.95387e-05,2.0324750000000002e-05,True
-253,other minds,epistemology,1750,646,8.52264e-05,8.39006e-05,8.456349999999999e-05,True
-254,mind-body problem,philosophy of mind,819,715,9.89508e-05,8.92161e-05,9.408345e-05,True
-255,possible worlds,existence,1501,1478,0.000769281,0.000736247,0.000752764,True
-256,incompatibilism,afterlife,1531,1581,2.17238e-05,2.15551e-05,2.1639449999999998e-05,True
-257,mathematical logic,metaphysics,914,681,0.000154006,0.000148417,0.0001512115,True
-258,animal consciousness,philosophy of mind,1229,715,5.9174e-05,5.68252e-05,5.79996e-05,True
-259,teleological arguments for god's existence,philosophy of mind,1482,715,3.9928e-06,3.87514e-06,3.9339699999999995e-06,True
-260,christian theology,philosophy of religion,763,724,0.000155405,0.000142115,0.00014876,True
-261,historicist theories of rationality,philosophy of science and the sciences,1115,1826,0.000466022,0.000391204,0.000428613,True
-262,explanation,philosophy of science and the sciences,975,1826,0.00250967,0.00228687,0.00239827,True
-263,modern philosophy,perception,899,2078,0.000276994,0.000261004,0.000268999,True
-264,culture,philosophy of religion,1392,724,0.0014715,0.0014321,0.0014518,True
-265,mental representation,mental content,1222,925,0.000183902,0.000185734,0.000184818,True
-266,connectionist model,cognitive science,947,892,0.000131972,0.000127523,0.0001297475,True
-267,philosophy of mind,epistemology,715,646,0.00147393,0.00154167,0.0015078000000000001,True
-268,conservation biology,philosophy of science and the sciences,1277,1826,0.000155638,0.00013776,0.000146699,True
-269,coherentist theories of justification,epistemology,1322,646,,,,False
-270,eliminative materialism,philosophy of science and the sciences,641,1826,0.000134279,0.000117894,0.0001260865,True
-271,input unit,artificial intelligence,951,890,2.10358e-05,2.04376e-05,2.07367e-05,True
-272,lebensphilosophie,philosophy of religion,1954,724,,,,False
-273,plato on knowledge in the theaetetus,perception,1366,2078,0.000155902,0.000151128,0.000153515,True
-274,nativism,cognitive science,374,892,4.26078e-05,4.23225e-05,4.2465150000000005e-05,True
-275,concepts of god,philosophy of religion,1583,724,0.000242367,0.00022306,0.00023271350000000001,True
-276,philosophy of computer science,church-turing thesis,903,1135,7.48347e-05,7.49473e-05,7.4891e-05,True
-277,hylomorphism,metaphysics,2042,681,0.00017263,0.000163624,0.000168127,True
-278,symbolic processing,cognitive science,954,892,2.21177e-05,2.15201e-05,2.1818900000000002e-05,True
-279,pacifism,philosophy of religion,409,724,4.84023e-05,4.72134e-05,4.7807850000000003e-05,True
-280,laws of nature,epistemology,1164,646,0.000297298,0.000292727,0.0002950125,True
-281,probability and statistics,philosophy of mind,939,715,0.00023309,0.000228948,0.000231019,True
-282,philosophy of perception,metaphysics,718,681,0.00129492,0.00130415,0.001299535,True
-283,modularity,cognitive science,829,892,0.000114694,0.000113491,0.0001140925,True
-284,matter,metaphysics,1497,681,0.0025821,0.00272115,0.002651625,True
-285,artificial intelligence,cognitive science,890,892,0.000213169,0.000213628,0.0002133985,True
-286,cartesian dualism,dualism,98,168,0.000415568,0.000347831,0.0003816995,True
-287,definition of morality,philosophy of religion,1096,724,3.51075e-05,3.40355e-05,3.45715e-05,True
-288,environmental aesthetics,aesthetics,1862,614,0.00093212,0.000855199,0.0008936594999999999,True
-289,leibniz's philosophy of mind,philosophy of mind,1178,715,6.38034e-05,6.0497e-05,6.215020000000001e-05,True
-290,descartes' modal metaphysics,metaphysics,1282,681,1.32929e-05,1.31231e-05,1.3208e-05,True
-291,logic,philosophy of language,674,712,0.00254265,0.00255658,0.002549615,True
-292,atomism,philosophy of chemistry,52,861,0.000288453,0.000286841,0.000287647,True
-293,philosophy of biology,philosophy of science,704,722,0.00110103,0.00103872,0.001069875,True
-294,molecular biology,philosophy of science and the sciences,1215,1826,0.000578942,0.000476704,0.000527823,True
-295,induction,epistemology,662,646,0.000473885,0.000466093,0.000469989,True
-296,cause and effect,metaphysics,1897,681,0.000720678,0.000690265,0.0007054715,True
-297,metaphysics,metaphysics of mind,681,897,0.000143831,0.000181692,0.0001627615,True
-298,contextualism,epistemology,130,646,9.43137e-05,9.13555e-05,9.28346e-05,True
-299,18th century british aesthetics,philosophy of mind,1721,715,7.12132e-05,6.76953e-05,6.945424999999999e-05,True
-300,proper names,metaphysics,2019,681,0.000185021,0.000180293,0.000182657,True
-301,panpsychism,philosophy of mind,695,715,0.000147929,0.000140158,0.0001440435,True
-302,religion and politics,philosophy of religion,1558,724,0.000931869,0.000852836,0.0008923525000000001,True
-303,18th century german aesthetics,perception,1856,2078,3.69843e-05,3.64316e-05,3.670795e-05,True
-304,plato on knowledge in the theaetetus,knowledge,1366,2075,0.000445428,0.000402983,0.0004242055,True
-305,bioethics,applied ethics,621,619,3.89218e-05,3.91111e-05,3.901645e-05,True
-306,gettier problem,perception,1550,2078,1.11224e-05,1.07635e-05,1.094295e-05,True
-307,mohism,chinese philosophy,352,624,6.96676e-05,7.01838e-05,6.99257e-05,True
-308,computation and representation,artificial intelligence,936,890,4.7976e-05,4.58923e-05,4.6934150000000005e-05,True
-309,epistemological problems of memory,epistemology,1241,646,4.6828e-05,4.62377e-05,4.653285e-05,True
-310,teleological theories of mental content,mental content,1272,925,0.000139481,0.000140253,0.000139867,True
-311,confirmation and induction,epistemology,1804,646,0.000663511,0.000654559,0.000659035,True
-312,islamic philosophy,philosophy of religion,670,724,0.000215342,0.000200396,0.000207869,True
-313,boltzmann's work in statistical physics,philosophy of science and the sciences,1156,1826,8.55503e-05,7.57701e-05,8.066019999999999e-05,True
-314,forms of government,philosophy of religion,1794,724,0.00016599,0.000152923,0.0001594565,True
-315,philosophy of language,logical form,712,934,0.000604606,0.000646104,0.000625355,True
-316,religious language,philosophy of religion,1573,724,0.00143695,0.00128909,0.00136302,True
-317,perception,philosophy of mind,2078,715,0.0022651,0.00219041,0.0022277549999999997,True
-318,propositional attitude,philosophy of mind,944,715,0.000357955,0.000330813,0.000344384,True
-319,neural correlates,perception,879,2078,8.46666e-05,7.97991e-05,8.223285e-05,True
-320,descartes and the pineal gland,perception,1371,2078,9.3863e-06,9.21205e-06,9.299174999999999e-06,True
-321,literature,philosophy of science and the sciences,1898,1826,0.0023658,0.00208399,0.002224895,True
-322,surrealism,perception,552,2078,1.33509e-05,1.2443e-05,1.2896949999999999e-05,True
-323,toleration,philosophy of religion,1995,724,0.00071632,0.00065446,0.00068539,True
-324,philosophy of mind,metaphysics,715,681,0.00223238,0.00233156,0.00228197,True
-325,function of consciousness,aspects of consciousness,878,1785,,,,False
-326,early philosophical interpretations of general relativity,epistemology,1335,646,1.12874e-06,1.11982e-06,1.1242799999999998e-06,True
-327,medieval theories of analogy,metaphysics,1329,681,7.9807e-06,7.8648e-06,7.92275e-06,True
-328,plato on utopia,metaphysics,1365,681,5.11279e-06,5.04989e-06,5.081339999999999e-06,True
-329,continental philosophy,pragmatism,631,461,7.10191e-05,6.96292e-05,7.032415e-05,True
-330,symbolic processing,artificial intelligence,954,890,2.10358e-05,2.04376e-05,2.07367e-05,True
-331,aristotle's natural philosophy,metaphysics,1855,681,1.04791e-06,1.03643e-06,1.04217e-06,True
-332,consciousness and intentionality,perception,1227,2078,3.609e-05,3.54821e-05,3.578605e-05,True
-333,philosophy of psychology,metaphysics,720,681,0.00156691,0.00155407,0.0015604899999999999,True
-334,philosophy of perception,epistemology,718,646,0.00112761,0.00114187,0.00113474,True
-335,hinduism,philosophy of religion,256,724,0.000137024,0.000122944,0.00012998399999999998,True
-336,cognitive science,psychiatry,892,906,0.000553981,0.000537407,0.000545694,True
-337,causal theories of mental content,cognitive science,1699,892,,,,False
-338,philosophy of chemistry,philosophy of biology,861,704,0.000318031,0.000314515,0.000316273,True
-339,propositional attitude,perception,944,2078,0.00023289,0.000223973,0.0002284315,True
-340,political authority,philosophy of religion,1022,724,0.000201458,0.000191705,0.0001965815,True
-341,influence of islamic thought on maimonides,philosophy of religion,1254,724,2.70582e-05,2.63636e-05,2.6710900000000002e-05,True
-342,kant's view of the mind and consciousness of self,perception,1058,2078,5.06772e-07,5.02144e-07,5.04458e-07,True
-343,coherentism,epistemology,115,646,0.000318179,0.000294284,0.00030623149999999997,True
-344,internalist vs. externalist conceptions of epistemic justification,justification,1320,2068,0.000325169,0.00031237,0.0003187695,True
-345,externalism about mental content,internalism and externalism,1275,2163,0.000351628,0.000348695,0.0003501615,True
-346,secularism,philosophy of religion,515,724,0.000134634,0.000118188,0.000126411,True
-347,mental content,philosophy of mind,925,715,0.000235742,0.000216593,0.0002261675,True
-348,animal cognition,philosophy of mind,812,715,7.22758e-05,6.87458e-05,7.05108e-05,True
-349,metaphysics of mind,philosophy of mind,897,715,0.000142556,0.000105232,0.000123894,True
-350,aspects of mind,philosophy of mind,1784,715,4.75186e-05,3.5071e-05,4.12948e-05,True
-351,non-conceptual content,mental content,873,925,,,,False
-352,folk psychology as mental simulation,folk psychology,997,891,1.02361e-05,1.02603e-05,1.0248200000000001e-05,True
-353,18th century british aesthetics,perception,1721,2078,2.01968e-05,1.98034e-05,2.00001e-05,True
-354,business ethics,bioethics,760,621,8.03503e-06,8.04552e-06,8.040275e-06,True
-355,aesthetics and philosophy of art,18th century german aesthetics,1788,1856,0.000832665,0.000860366,0.0008465155,True
-356,ideas,philosophy of mind,1641,715,0.00384845,0.00400979,0.0039291199999999995,True
-357,methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,1304,1826,8.84536e-05,7.73509e-05,8.290225e-05,True
-358,compositionality and logical form,metaphysics,1825,681,0.000314384,0.000305149,0.0003097665,True
-359,leibniz's influence on kant,perception,1060,2078,3.78598e-05,3.69857e-05,3.742275e-05,True
-360,mohist canons,chinese philosophy,1693,624,3.28507e-05,3.2996e-05,3.292335e-05,True
-361,dewey's aesthetics,perception,1703,2078,6.33374e-06,6.24484e-06,6.28929e-06,True
-362,consciousness,perception,923,2078,0.00127199,0.00126437,0.0012681799999999998,True
-363,philosophy of psychology,epistemology,720,646,0.00100641,0.00100504,0.0010057249999999998,True
-364,logos,metaphysics,1612,681,5.65801e-05,5.38408e-05,5.521045e-05,True
-365,turing machine,artificial intelligence,1002,890,8.23309e-05,8.21959e-05,8.226340000000001e-05,True
-366,philosophy of language,interpretation,712,845,0.0028619,0.00290177,0.002881835,True
-367,dynamical system,cognitive science,938,892,7.89855e-05,7.80774e-05,7.853145e-05,True
-368,church and state,philosophy of religion,1950,724,0.000171328,0.000152689,0.0001620085,True
-369,bohmian mechanics,quantum mechanics,1239,1158,0.000312531,0.000308784,0.0003106575,True
-370,philosophy of art,philosophy of mind,702,715,0.000967398,0.000942723,0.0009550604999999999,True
-371,african sage philosophy,afterlife,1662,1581,,,,False
-372,philosophy of art,ethics and art,702,916,0.000107522,0.000137761,0.0001226415,True
-373,modern philosophy,philosophy of religion,899,724,0.000251346,0.000234848,0.000243097,True
-374,imagery,philosophy of mind,1900,715,0.000248695,0.000234068,0.0002413815,True
-375,zen buddhism,philosophy of religion,759,724,3.06173e-05,2.81998e-05,2.940855e-05,True
-376,kant's philosophy of religion,philosophy of religion,1056,724,0.000290725,0.000274241,0.000282483,True
-377,network model,cognitive science,952,892,7.08336e-05,6.94824e-05,7.0158e-05,True
-378,square of opposition,history of logic,1606,917,,,,False
-379,falsificationism,epistemology,649,646,6.17241e-05,5.82097e-05,5.99669e-05,True
-380,dynamism,japanese philosophy,171,671,3.34601e-05,3.31743e-05,3.33172e-05,True
-381,cosmology,metaphysics,1831,681,0.000589197,0.000567073,0.000578135,True
-382,autism,folk psychology,57,891,5.39517e-05,5.32946e-05,5.362315e-05,True
-383,kant's view of the mind and consciousness of self,philosophy of mind,1058,715,0.00019826,0.000185583,0.0001919215,True
-384,nonhuman animals,philosophy of mind,963,715,0.000168493,0.000151739,0.000160116,True
-385,philosophy of language,language learning,712,805,0.000354008,0.000478258,0.000416133,True
-386,pakistani philosophy,perception,693,2078,,,,False
-387,property dualism,dualism,734,168,0.000461742,0.000386603,0.0004241725,True
-388,analysis of knowledge,knowledge,1117,2075,0.000803322,0.000697856,0.000750589,True
-389,plato's middle period metaphysics and epistemology,epistemology,1368,646,1.83286e-05,1.81457e-05,1.823715e-05,True
-390,causal determinism,free will,1266,992,0.000165285,0.000163041,0.000164163,True
-391,leibniz's influence on kant,metaphysics,1060,681,5.13515e-05,5.02659e-05,5.08087e-05,True
-392,conservation biology,philosophy of biology,1277,704,0.000389922,0.000381959,0.00038594050000000004,True
-393,platonism,metaphysics,443,681,0.000423635,0.000407967,0.00041580100000000004,True
-394,metaphysics of science,epistemology,1828,646,0.000124583,0.000119905,0.000122244,True
-395,afterlife,philosophy of religion,1581,724,0.000271329,0.000260004,0.00026566649999999997,True
-396,social epistemology,epistemology,1144,646,0.000838644,0.000795174,0.000816909,True
-397,reliabilism,perception,486,2078,1.78013e-05,1.75015e-05,1.76514e-05,True
-398,evolutionary psychology,philosophy of mind,1833,715,4.95433e-05,4.744e-05,4.849165e-05,True
-399,interactionism,philosophy of mind,815,715,6.02774e-05,5.39424e-05,5.71099e-05,True
-400,computation and representation,cognitive science,936,892,6.63313e-05,6.29352e-05,6.463325e-05,True
-401,hypothetical syllogism,history of logic,2034,917,2.66213e-05,2.66805e-05,2.66509e-05,True
-402,current philosophy,perception,862,2078,1.56614e-05,1.49243e-05,1.529285e-05,True
-403,hobbes's moral and political philosophy,social and political philosophy,1387,1787,9.73166e-06,9.69182e-06,9.71174e-06,True
-404,magnetism,perception,324,2078,6.42048e-05,6.06988e-05,6.24518e-05,True
-405,mental causation,philosophy of mind,1240,715,5.73837e-05,5.5047e-05,5.621535e-05,True
-406,ethnophilosophy,african and african-american philosophy,762,1652,6.27468e-05,6.20668e-05,6.24068e-05,True
-407,general relativity,epistemology,1921,646,6.00512e-05,5.89793e-05,5.951525e-05,True
-408,induction,philosophy of mind,662,715,0.000474939,0.000450567,0.000462753,True
-409,epistemology of religion,philosophy of religion,1026,724,0.000233958,0.000217582,0.00022577,True
-410,mental imagery,philosophy of mind,1223,715,2.26045e-05,2.18129e-05,2.22087e-05,True
-411,baptism,epistemology,65,646,8.18091e-05,7.81595e-05,7.99843e-05,True
-412,probabilistic causation,causation,1081,969,0.000384354,0.000372487,0.00037842050000000003,True
-413,measurement in quantum theory,perception,1190,2078,,,,False
-414,interpretation,metaphysics,845,681,0.00211956,0.00217958,0.00214957,True
-415,scottish philosophy in the 19th century,perception,1713,2078,5.33466e-05,5.19052e-05,5.26259e-05,True
-416,philosophy of chemistry,philosophy of science and the sciences,861,1826,0.00129842,0.00106677,0.001182595,True
-417,goodness,metaphysics,869,681,0.000820264,0.000803172,0.000811718,True
-418,concepts,mental content,1734,925,0.000137686,0.000150544,0.000144115,True
-419,philosophy of language,language and society,712,804,0.000106133,0.000143478,0.0001248055,True
-420,philosophy of social science,epistemology,919,646,0.000405857,0.000393837,0.000399847,True
-421,representationalism,perception,772,2078,0.0001374,0.000130615,0.00013400750000000001,True
-422,secular humanism,philosophy of religion,743,724,,,,False
-423,philosophy of nature,philosophy of mind,716,715,0.000141747,0.000126994,0.0001343705,True
-424,philosophy of chemistry,metaphysics,861,681,0.000214537,0.000210216,0.0002123765,True
-425,african philosophy,african and african-american philosophy,615,1652,0.000396586,0.000407799,0.00040219249999999995,True
-426,japanese aesthetics,japanese philosophy,1698,671,2.4597e-05,2.45129e-05,2.455495e-05,True
-427,ancient logic,history of logic,1624,917,1.84482e-05,1.85875e-05,1.851785e-05,True
-428,pietism,philosophy of religion,439,724,4.24344e-05,3.91369e-05,4.078565e-05,True
-429,ontological argument,philosophy of religion,1073,724,9.77906e-05,9.47543e-05,9.627245e-05,True
-430,eliminative materialism,folk psychology,641,891,0.000346759,0.000351845,0.000349302,True
-431,externalism,perception,201,2078,0.000151403,0.000145988,0.0001486955,True
-432,experiment in physics,epistemology,1358,646,1.94513e-05,1.92372e-05,1.934425e-05,True
-433,existence of god,metaphysics,1905,681,0.000445878,0.000425322,0.00043559999999999996,True
-434,philosophy of computer science,philosophy of science and the sciences,903,1826,0.00090856,0.00074948,0.00082902,True
-435,ethics,utilitarianism,647,594,0.000543613,0.00056212,0.0005528665,True
-436,scientific realism,scientific methodology,1202,1830,7.79671e-05,7.80318e-05,7.799945e-05,True
-437,philosophy of science,metaphysics,722,681,0.00233065,0.00244398,0.002387315,True
-438,introspection,epistemology,2076,646,0.000256579,0.000252102,0.0002543405,True
-439,philosophy of computer science,logic and language,903,941,0.000156175,0.000157402,0.0001567885,True
-440,medieval theories of the categories,metaphysics,1760,681,2.04317e-05,2.01088e-05,2.0270249999999998e-05,True
-441,locke's political philosophy,philosophy of religion,1763,724,2.95887e-05,2.88433e-05,2.9216e-05,True
-442,kant's view of the mind and consciousness of self,consciousness,1058,923,0.00050601,0.000479787,0.0004928985,True
-443,philosophy of physics,metaphysics,719,681,0.00181872,0.00180407,0.001811395,True
-444,identity theory of mind,perception,818,2078,1.58275e-05,1.55227e-05,1.5675100000000002e-05,True
-445,vitalism,metaphysics,757,681,8.37178e-05,7.9518e-05,8.161790000000001e-05,True
-446,realism,philosophy of mind,480,715,0.00100268,0.000958254,0.000980467,True
-447,imagery,perception,1900,2078,0.000310002,0.000298528,0.00030426499999999996,True
-448,self-consciousness,aspects of consciousness,1299,1785,,,,False
-449,aristotle's psychology,philosophy of mind,1008,715,7.93144e-05,7.492e-05,7.711719999999999e-05,True
-450,folk psychology as a theory,philosophy of mind,996,715,6.60539e-05,6.28659e-05,6.44599e-05,True
-451,modularity of mind,philosophy of mind,1705,715,3.55399e-05,3.39776e-05,3.475875e-05,True
-452,language of thought hypothesis,philosophy of language,882,712,0.00031437,0.000295009,0.0003046895,True
-453,probability and statistics,scientific methodology,939,1830,0.000101596,0.000104749,0.00010317249999999999,True
-454,externalism about mental content,mental content,1275,925,0.000113779,0.000114077,0.000113928,True
-455,descartes' epistemology,perception,1284,2078,0.000132331,0.000129141,0.000130736,True
-456,mereology,metaphysics,1221,681,0.000117916,0.000115589,0.0001167525,True
-457,turing test,artificial intelligence,990,890,6.18016e-05,6.15902e-05,6.169589999999999e-05,True
-458,universals,philosophy of mind,1483,715,0.00263246,0.00256155,0.0025970050000000003,True
-459,consciousness and content,philosophy of mind,924,715,0.00011572,0.000102671,0.0001091955,True
-460,zeno's paradoxes,philosophy of mathematics,1313,714,,,,False
-461,chinese ethics,chinese philosophy,1694,624,4.39714e-05,4.43087e-05,4.414005e-05,True
-462,matter,philosophy of mind,1497,715,0.00358827,0.00361154,0.003599905,True
-463,epistemological problems of perception,epistemology,1361,646,1.18911e-05,1.17662e-05,1.182865e-05,True
-464,knowledge by acquaintance and knowledge by description,epistemology,1118,646,1.83135e-05,1.67847e-05,1.7549099999999998e-05,True
-465,unity of science,philosophy of science and the sciences,983,1826,0.000431086,0.000369647,0.00040036650000000004,True
-466,eternity of the world,metaphysics,1892,681,0.000103037,9.78851e-05,0.00010046105,True
-467,consciousness and mental content,mental content,961,925,,,,False
-468,taoism,philosophy of religion,559,724,0.000170161,0.000161941,0.000166051,True
-469,personal identity and ethics,bioethics,1598,621,6.97277e-06,6.98521e-06,6.97899e-06,True
-470,ancient theories of soul,philosophy of mind,1327,715,1.51338e-05,1.46008e-05,1.4867299999999999e-05,True
-471,atheism,philosophy of religion,50,724,0.000511212,0.000477121,0.0004941665,True
-472,cartesian dualism,perception,98,2078,0.000102076,9.2779e-05,9.742750000000001e-05,True
-473,aristotelianism,metaphysics,48,681,0.000342785,0.000322722,0.00033275350000000004,True
-474,religion and morality,ethics,1576,647,9.25469e-05,9.07224e-05,9.163465e-05,True
-475,satanism,philosophy of religion,506,724,,,,False
-476,teleosemantics,perception,1987,2078,2.83075e-05,2.73215e-05,2.78145e-05,True
-477,internalism and externalism,perception,2163,2078,0.000153331,0.000149073,0.00015120200000000002,True
-478,hilbert's program,philosophy of science and the sciences,1356,1826,9.08119e-05,7.89088e-05,8.486035000000001e-05,True
-479,pragmatic arguments and belief in god,philosophy of religion,1850,724,2.85299e-05,2.78413e-05,2.81856e-05,True
-480,continental feminism,continental philosophy,1120,631,7.25153e-05,7.33735e-05,7.29444e-05,True
-481,logos,epistemology,1612,646,5.20421e-05,4.98925e-05,5.0967299999999996e-05,True
-482,artificial intelligence,computation,890,937,0.000183273,0.000182754,0.0001830135,True
-483,classical physics,philosophy of science and the sciences,931,1826,0.000689334,0.000449793,0.0005695635,True
-484,feminist metaphysics,metaphysics,1863,681,0.000238958,0.000230821,0.00023488950000000001,True
-485,zen buddhism,japanese philosophy,759,671,2.07892e-05,2.04242e-05,2.06067e-05,True
-486,social philosophy,social and political philosophy,746,1787,0.000857024,0.000784131,0.0008205775,True
-487,private language argument,philosophy of language,1941,712,0.000181738,0.000134445,0.0001580915,True
-488,implicature,pragmatics,1380,807,0.000537394,0.000523654,0.000530524,True
-489,axiomatic theories of truth,philosophy of language,1452,712,9.29168e-05,8.76954e-05,9.030609999999999e-05,True
-490,natural law tradition,philosophy of religion,1597,724,6.60836e-05,6.10257e-05,6.355465e-05,True
-491,bayes's theorem,philosophy of science and the sciences,1728,1826,,,,False
-492,biological altruism,philosophy of biology,1330,704,1.33334e-05,1.32206e-05,1.3277e-05,True
-493,temporal logic,artificial intelligence,1294,890,1.95933e-06,1.9585e-06,1.958915e-06,True
-494,metaphysics and language,philosophy of language,2066,712,0.000172173,0.000127367,0.00014977,True
-495,medieval theories of practical reason,ethics,1070,647,3.38964e-05,3.31705e-05,3.3533449999999997e-05,True
-496,indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,1246,1826,0.000133763,0.000113901,0.00012383200000000002,True
-497,metaphysics of causation,metaphysics,1082,681,7.40791e-05,7.24826e-05,7.328085e-05,True
-498,activation value,artificial intelligence,955,890,4.27302e-05,4.14719e-05,4.210105e-05,True
-499,trait,developmental biology,1938,1832,3.91851e-05,3.95669e-05,3.9376e-05,True
-500,doctrine of double effect,bioethics,1258,621,,,,False
-501,philosophy of chemistry,philosophy of physics,861,719,0.000485164,0.000474314,0.00047973899999999997,True
-502,plato's middle period metaphysics and epistemology,metaphysics,1368,681,1.07855e-05,1.06646e-05,1.072505e-05,True
-503,thermodynamic asymmetry in time,statistical mechanics and thermodynamics,1066,967,0.000598043,0.000594547,0.0005962949999999999,True
-504,interpretation,quantum mechanics,845,1158,0.000706531,0.000748545,0.000727538,True
-505,approaches to feminist philosophy,continental philosophy,1045,631,0.000106842,0.000110542,0.000108692,True
-506,life,philosophy of religion,1764,724,0.00213161,0.00218954,0.0021605749999999996,True
-507,contents of perception,mental content,874,925,2.81537e-05,2.82582e-05,2.820595e-05,True
-508,mental representation,perception,1222,2078,0.000233821,0.000226431,0.00023012599999999999,True
-509,goodness and value theory,metaphysics,653,681,,,,False
-510,intentionality,philosophy of mind,1325,715,0.000552466,0.00052406,0.000538263,True
-511,hard problem,perception,875,2078,0.000123288,0.000114607,0.00011894749999999999,True
-512,concepts,perception,1734,2078,0.00134395,0.00140708,0.001375515,True
-513,proper names,philosophy of mind,2019,715,0.000259659,0.000244007,0.00025183299999999997,True
-514,folk psychology,philosophy of science and the sciences,891,1826,0.00083266,0.00054342,0.00068804,True
-515,computation and representation,philosophy of mind,936,715,3.79942e-05,3.31135e-05,3.555385e-05,True
-516,mental representation,philosophy of mind,1222,715,0.000264719,0.000249347,0.00025703300000000004,True
-517,process philosophy,metaphysics,733,681,0.000235747,0.000227602,0.0002316745,True
-518,philosophy of mathematics,metaphysics,714,681,0.00015459,0.000151678,0.000153134,True
-519,epistemology of religion,epistemology,1026,646,0.0001377,0.000132891,0.00013529550000000002,True
-520,ancient philosophy (aristotle),metaphysics,1846,681,,,,False
-521,philosophy of chemistry,philosophy of mind,861,715,0.000158205,0.000151356,0.00015478049999999999,True
-522,abstract object,philosophy of mind,846,715,0.000195043,0.000186364,0.0001907035,True
-523,japanese zen buddhist philosophy,japanese philosophy,1696,671,,,,False
-524,philosophy of psychology,perception,720,2078,0.0012485,0.0012305,0.0012395000000000002,True
-525,feminist philosophy,epistemology,920,646,0.000163514,0.000159167,0.0001613405,True
-526,aristotle on causality,metaphysics,1725,681,,,,False
-527,inductive logic,history of logic,912,917,1.71009e-05,1.72441e-05,1.71725e-05,True
-528,psychiatry,philosophy of mind,906,715,0.00175052,0.00166419,0.001707355,True
-529,epistemological problems of memory,philosophy of mind,1241,715,1.4653e-05,1.44311e-05,1.454205e-05,True
-530,medieval political philosophy,philosophy of religion,1700,724,2.10501e-05,2.06162e-05,2.083315e-05,True
-531,law and language,philosophy of language,1168,712,0.000697259,0.0006328,0.0006650295,True
-532,problem of perception,perception,872,2078,0.000350562,0.0003344,0.000342481,True
-533,philosophy of biology,philosophy of mind,704,715,0.000348072,0.000334783,0.0003414275,True
-534,scottish philosophy in the 19th century,metaphysics,1713,681,3.45324e-05,3.38533e-05,3.4192850000000006e-05,True
-535,social and political philosophy,metaphysics,1787,681,0.000284745,0.000276941,0.000280843,True
-536,intersections between pragmatist and continental feminism,continental philosophy,1048,631,0.000116497,0.000118538,0.0001175175,True
-537,ethics,virtues and vices,647,1879,0.00321305,0.00311408,0.003163565,True
-538,mathematical logic,philosophy of mind,914,715,0.000187987,0.000173967,0.000180977,True
-539,Eternity in Christian Thought,metaphysics,1580,681,0.000444306,0.0004333,0.000438803,True
-540,logic and games,history of logic,1193,917,,,,False
-541,realism and anti-realism,philosophy of mind,978,715,0.00105332,0.000999767,0.0010265435,True
-542,falsificationism,scientific methodology,649,1830,5.97017e-05,5.84472e-05,5.907445e-05,True
-543,psychological relation,perception,886,2078,1.98593e-05,1.89837e-05,1.94215e-05,True
-544,probability,philosophy of science and the sciences,770,1826,0.0217072,0.0167074,0.0192073,True
-545,social contract,ethics,1388,647,0.00025527,0.00024663,0.00025095,True
-546,philosophy of biology,epistemology,704,646,0.000318663,0.000316255,0.00031745899999999997,True
-547,identity of indiscernibles,metaphysics,1351,681,9.76746e-05,9.39485e-05,9.581155e-05,True
-548,backward causation,causation,1087,969,0.000584572,0.000564715,0.0005746435000000001,True
-549,aesthetics and philosophy of art,philosophy of composition,1788,707,0.000187664,0.000190375,0.00018901950000000002,True
-550,scientific methodology,epistemology,1830,646,0.000355193,0.000342772,0.0003489825,True
-551,animal cognition,cognitive science,812,892,5.50265e-06,5.49484e-06,5.498745e-06,True
-552,arguments for the existence of god,philosophy of religion,1559,724,8.94116e-05,8.19041e-05,8.565785e-05,True
-553,identity and individuality in quantum theory,metaphysics,1191,681,1.30877e-05,1.29006e-05,1.299415e-05,True
-554,mental state,philosophy of mind,964,715,0.00126198,0.0011925,0.00122724,True
-555,philosophy of mathematics,philosophy of science,714,722,0.000259782,0.000245895,0.0002528385,True
-556,monotheism,philosophy of religion,360,724,0.000111611,0.000107502,0.0001095565,True
-557,logic and language,philosophy of mind,941,715,0.000191869,0.000178675,0.000185272,True
-558,chinese room argument,philosophy of mind,1137,715,0.00014426,0.000137395,0.0001408275,True
-559,neutral monism,philosophy of mind,689,715,4.69577e-05,4.51254e-05,4.604155e-05,True
-560,phenomenological approaches to self-consciousness,consciousness,1298,923,0.000122687,0.000118507,0.00012059700000000001,True
-561,omniscience,philosophy of religion,1577,724,0.000104008,0.000100393,0.0001022005,True
-562,episteme and techne,metaphysics,1608,681,1.85473e-07,1.84119e-07,1.84796e-07,True
-563,aristotle and mathematics,philosophy of mathematics,1010,714,1.64864e-05,1.64252e-05,1.64558e-05,True
-564,philosophy of computer science,logic,903,674,0.000416172,0.000387657,0.0004019145,True
-565,thinking machine,turing test,894,990,0.000146405,0.000139002,0.0001427035,True
-566,mental representation in medieval philosophy,philosophy of mind,1040,715,2.92328e-05,2.78138e-05,2.85233e-05,True
-567,philosophy of nature,epistemology,716,646,3.39402e-05,3.30327e-05,3.348645e-05,True
-568,religion and morality,philosophy of religion,1576,724,0.000294557,0.000281547,0.000288052,True
-569,private language,philosophy of language,1097,712,0.000485177,0.00043723,0.0004612035,True
-570,indeterminism,epistemology,973,646,5.01132e-05,4.90139e-05,4.956355e-05,True
-571,evolutionary psychology,philosophy of religion,1833,724,1.81335e-07,1.78578e-07,1.799565e-07,True
-572,philosophy of perception,philosophy of mind,718,715,0.0022651,0.00219041,0.0022277549999999997,True
-573,philosophy of mathematics,algebra,714,1421,6.27959e-05,6.26829e-05,6.27394e-05,True
-574,philosophy of biology,metaphysics,704,681,0.000312035,0.000308524,0.0003102795,True
-575,eternity of the world,afterlife,1892,1581,7.64677e-05,7.53348e-05,7.590125e-05,True
-576,modern history of computing,artificial intelligence,1234,890,,,,False
-577,ambiguity,epistemology,1883,646,0.000351528,0.000346688,0.000349108,True
-578,frame problem,artificial intelligence,831,890,2.29082e-05,2.27673e-05,2.283775e-05,True
-579,consciousness and content,perception,924,2078,0.000112203,0.000103956,0.0001080795,True
-580,interpretation,epistemology,845,646,0.00142159,0.00146621,0.0014439,True
-581,dualism,philosophy of mind,168,715,0.00108416,0.00100722,0.0010456900000000002,True
-582,cognitive science,philosophies of the particular sciences,892,1827,0.00216377,0.00174311,0.00195344,True
-583,animal cognition,perception,812,2078,4.03667e-06,3.97897e-06,4.0078200000000005e-06,True
-584,virtue epistemology,epistemology,1143,646,0.000313906,0.00030345,0.000308678,True
-585,theories of mental content,mental content,927,925,0.000550334,0.000484889,0.0005176115,True
-586,mental imagery,mental content,1223,925,8.61437e-06,8.62572e-06,8.620045e-06,True
-587,feminism,continental philosophy,215,631,6.69907e-05,6.8395e-05,6.769285e-05,True
-588,psychiatry,epistemology,906,646,0.000857155,0.000855215,0.000856185,True
-589,african sage philosophy,african and african-american philosophy,1662,1652,7.8426e-05,8.03369e-05,7.938145e-05,True
-590,molecular biology,philosophy of biology,1215,704,0.00159484,0.00150162,0.0015482299999999998,True
-591,church-turing thesis,function,1135,1436,0.000153782,0.00014584,0.00014981100000000002,True
-592,analysis,metaphysics,1508,681,0.00198371,0.00205087,0.00201729,True
-593,philosophy of language,syntax,712,841,0.00113462,0.0012523,0.00119346,True
-594,race,african and african-american philosophy,1400,1652,3.28296e-05,3.41759e-05,3.3502750000000004e-05,True
-595,language learning,cognitive science,805,892,4.4316e-05,4.37367e-05,4.402635e-05,True
-596,unity of consciousness,aspects of consciousness,877,1785,,,,False
-597,transworld identity,epistemology,1519,646,3.0995e-08,3.07919e-08,3.089345e-08,True
-598,judaism,philosophy of religion,293,724,0.000519906,0.000477869,0.0004988875,True
-599,process theism,metaphysics,1153,681,1.81727e-05,1.79711e-05,1.80719e-05,True
-600,philosophies of the particular sciences,metaphysics,1827,681,0.00181111,0.00194861,0.0018798600000000001,True
-601,creationism,philosophy of religion,140,724,4.23942e-05,4.13078e-05,4.1851e-05,True
-602,history of science,epistemology,1841,646,0.000212842,0.000205396,0.00020911900000000001,True
-603,counterfactual theories of causation,causation,1086,969,0.0006122,0.000588572,0.0006003860000000001,True
-604,consciousness and intentionality,philosophy of mind,1227,715,0.000200063,0.000190051,0.000195057,True
-605,descartes' epistemology,philosophy of mind,1284,715,9.7428e-05,9.33652e-05,9.53966e-05,True
-606,descartes' modal metaphysics,philosophy of mind,1282,715,0.000145742,0.000137958,0.00014185,True
-607,cognitive science,explanation,892,975,0.000501754,0.000472607,0.0004871805,True
-608,probability,philosophy of mind,770,715,0.000208031,0.000204629,0.00020633,True
-609,dadaism,perception,147,2078,,,,False
-610,computational theory of mind,cognitive science,1235,892,6.06359e-05,6.06747e-05,6.06553e-05,True
-611,chinese room argument,artificial intelligence,1137,890,3.07228e-05,3.06962e-05,3.07095e-05,True
-612,daoism,philosophy of religion,148,724,0.00011076,0.000107584,0.000109172,True
-613,evolutionary epistemology,epistemology,1146,646,0.000202398,0.000194299,0.0001983485,True
-614,causation in the law,philosophy of law,1085,713,0.000589242,0.000515934,0.000552588,True
-615,problem of perception,philosophy of mind,872,715,2.50544e-05,2.4149e-05,2.46017e-05,True
-616,consciousness and psychology,philosophy of mind,960,715,,,,False
-617,body,perception,2040,2078,0.0015879,0.0016189,0.0016034,True
-618,singular propositions,metaphysics,1151,681,3.57086e-05,3.51875e-05,3.544805e-05,True
-619,philosophy of physics,philosophy of mind,719,715,0.00120061,0.00115082,0.001175715,True
-620,a posteriori knowledge,perception,1533,2078,,,,False
-621,emotions in the christian tradition,philosophy of religion,1557,724,0.000310297,0.000291981,0.000301139,True
-622,consciousness and intentionality,intentionality,1227,1325,0.000938131,0.000922561,0.0009303460000000001,True
-623,phenomenological approaches to self-consciousness,perception,1298,2078,3.16985e-05,3.09357e-05,3.1317100000000005e-05,True
-624,anti-realism,epistemology,616,646,0.000140729,0.000136302,0.0001385155,True
-625,experience and perception of time,perception,1078,2078,,,,False
-626,the scientific method,scientific methodology,1916,1830,0.000742403,0.000694256,0.0007183294999999999,True
-627,nonconceptual mental content,mental content,1274,925,9.22395e-06,9.23364e-06,9.228795e-06,True
-628,philosophy of physics,epistemology,719,646,0.000753408,0.000752861,0.0007531345,True
-629,peripatetic,metaphysics,698,681,0.0002684,0.000254959,0.0002616795,True
-630,expressionism,perception,200,2078,,,,False
-631,philosophies of the particular sciences,philosophy of mind,1827,715,0.00157562,0.00162144,0.00159853,True
-632,african american philosophy,african and african-american philosophy,800,1652,,,,False
-633,scottish philosophy in the 19th century,philosophy of mind,1713,715,7.21262e-05,6.83745e-05,7.025035e-05,True
-634,aristotle and mathematics,metaphysics,1010,681,2.86601e-06,2.83357e-06,2.84979e-06,True
-635,logic and language,epistemology,941,646,0.000152521,0.000148247,0.000150384,True
-636,modernism,idealism,350,267,4.71365e-05,4.55193e-05,4.63279e-05,True
-637,philosophy of chemistry,epistemology,861,646,0.000107297,0.000105914,0.0001066055,True
-638,human rights,african and african-american philosophy,1038,1652,,,,False
-639,logic,modal logic,674,1209,0.00441959,0.00532546,0.004872525,True
-640,plato on utopia,epistemology,1365,646,7.05496e-06,6.97905e-06,7.017004999999999e-06,True
-641,introspection,perception,2076,2078,0.000386802,0.000374927,0.0003808645,True
-642,transcendentalism,philosophy of religion,569,724,6.3247e-05,6.0352e-05,6.17995e-05,True
-643,connectionist model,perception,947,2078,5.25312e-05,4.96578e-05,5.1094500000000004e-05,True
-644,philosophy of computer science,philosophy of language,903,712,0.000294147,0.000277539,0.000285843,True
-645,atonement,philosophy of religion,1570,724,1.81441e-05,1.77645e-05,1.79543e-05,True
-646,cosmological argument,philosophy of religion,1305,724,3.55233e-05,3.47618e-05,3.514255e-05,True
-647,internalism and externalism,epistemology,2163,646,0.000173514,0.000169988,0.000171751,True
-648,informal logic,history of logic,675,917,,,,False
-649,social philosophy and political philosophy,metaphysics,943,681,0.000288318,0.000280272,0.000284295,True
-650,medieval political philosophy,social and political philosophy,1700,1787,9.34342e-05,9.34442e-05,9.34392e-05,True
-651,determinates vs. determinables,history of logic,1267,917,,,,False
-652,optimism,epistemology,404,646,0.000268924,0.00025874,0.000263832,True
-653,phenomenology of religion,philosophy of religion,1563,724,0.000374344,0.000348695,0.0003615195,True
-654,philosophy of space and time,metaphysics,723,681,5.63519e-05,5.30262e-05,5.4689049999999994e-05,True
-655,philosophy of logic,epistemology,1791,646,8.11499e-05,7.75826e-05,7.936625e-05,True
-656,existence,perception,1478,2078,0.00160631,0.00165411,0.00163021,True
-657,computation and representation,perception,936,2078,2.77652e-05,2.57481e-05,2.6756649999999997e-05,True
-658,ancient philosophy (aristotle),philosophy of mind,1846,715,,,,False
-659,virtues and vices,philosophy of mind,1879,715,0.00277853,0.00273647,0.0027575,True
-660,ideas,epistemology,1641,646,0.00124087,0.00134184,0.001291355,True
-661,identity theory of truth,metaphysics,1014,681,1.5347e-06,1.51932e-06,1.52701e-06,True
-662,abstract object,metaphysics,846,681,0.000221012,0.000216729,0.0002188705,True
-663,internalism,philosophy of mind,666,715,0.000154946,0.000146539,0.0001507425,True
-664,distributed representation,artificial intelligence,825,890,,,,False
-665,consciousness,philosophy of mind,923,715,0.00165689,0.00159616,0.001626525,True
-666,inductive logic and decision theory,epistemology,1790,646,0.000220285,0.000213552,0.00021691849999999998,True
-667,input unit,folk psychology,951,891,,,,False
-668,dualism and metaphysics of mind,philosophy of mind,907,715,,,,False
-669,philosophy of physics,philosophy of science and the sciences,719,1826,0.0179359,0.0120097,0.014972800000000001,True
-670,mental imagery,perception,1223,2078,0.000164894,0.000159525,0.0001622095,True
-671,heaven and hell,afterlife,1343,1581,0.000203565,0.000205122,0.0002043435,True
-672,divine revelation,philosophy of religion,1560,724,0.000100962,9.78201e-05,9.939105e-05,True
-673,mind,philosophy of mind,2067,715,0.0898576,0.0898576,0.0898576,True
-674,simulation theory,folk psychology,817,891,5.03986e-05,4.99807e-05,5.018965e-05,True
-675,existentialism,existence,197,1478,0.000234293,0.000219416,0.0002268545,True
-676,interpretations of probability,philosophy of science and the sciences,1155,1826,0.000466997,0.000400907,0.000433952,True
-677,ethics,deontology,647,638,0.00019577,0.00020687,0.00020132,True
-678,logic,logic and language,674,941,0.00149785,0.00203636,0.0017671050000000002,True
-679,constructive mathematics,philosophy of science and the sciences,1251,1826,0.000195406,0.000166194,0.0001808,True
-680,unity of consciousness,philosophy of mind,877,715,4.04658e-05,3.89331e-05,3.9699450000000005e-05,True
-681,other minds,philosophy of mind,1750,715,0.00137733,0.00121498,0.001296155,True
-682,psychological theory,perception,887,2078,0.000171766,0.00016116,0.000166463,True
-683,knowledge argument,physicalism,813,726,0.000235813,0.000233811,0.000234812,True
-684,moral epistemology,epistemology,866,646,0.000404951,0.00039596,0.00040045550000000004,True
-685,externalism,epistemology,201,646,0.000159053,0.000154786,0.0001569195,True
-686,realism and anti-realism,epistemology,978,646,0.000695849,0.000689791,0.00069282,True
-687,object,perception,1499,2078,0.0026493,0.00286046,0.00275488,True
-688,logic and language,artificial intelligence,941,890,5.42995e-05,5.40186e-05,5.415905e-05,True
-689,animal cognition,folk psychology,812,891,,,,False
-690,sophists,metaphysics,1622,681,1.51971e-05,1.49911e-05,1.50941e-05,True
-691,fideism,philosophy of religion,219,724,0.000442998,0.000414437,0.00042871749999999996,True
-692,logic and language,philosophy of language,941,712,0.00209477,0.00155548,0.001825125,True
-693,determinism,free will,157,992,0.00136221,0.001348,0.0013551050000000001,True
-694,kant's philosophy of religion,metaphysics,1056,681,3.47112e-06,3.43273e-06,3.451925e-06,True
-695,causal theories of mental content,mental content,1699,925,0.000250121,0.000251589,0.000250855,True
-696,cultural relativism,bioethics,144,621,,,,False
-697,judaic philosophy,judaism,921,293,,,,False
-698,epistemological problems of perception,philosophy of mind,1361,715,5.82749e-06,5.65634e-06,5.741914999999999e-06,True
-699,epistemological problems of perception,perception,1361,2078,0.000224425,0.000216004,0.0002202145,True
-700,kant's philosophical development,metaphysics,1062,681,4.62022e-05,4.53555e-05,4.577885e-05,True
-701,abstract expressionism,perception,4,2078,,,,False
-702,narrow mental content,mental content,1273,925,9.18513e-05,9.22841e-05,9.20677e-05,True
-703,perception,epistemology,2078,646,0.00112761,0.00114187,0.00113474,True
-704,theories of mental content,causal theories of mental content,927,1699,0.000191341,0.000182871,0.000187106,True
-705,sense-data,philosophy of mind,1541,715,0.000132159,0.000126186,0.0001291725,True
-706,belief,epistemology,880,646,0.0018384,0.00196202,0.00190021,True
-707,feminist philosophy of language,philosophy of language,1033,712,0.000173535,0.000162494,0.0001680145,True
-708,divine law,philosophy of religion,2012,724,0.000192942,0.000177486,0.000185214,True
-709,existence,philosophy of mind,1478,715,0.00307678,0.00307345,0.003075115,True
-710,philosophy of science,epistemology,722,646,0.00160056,0.00168149,0.001641025,True
-711,laws of nature,metaphysics,1164,681,0.000605023,0.000589479,0.000597251,True
-712,ideas,perception,1641,2078,0.00142401,0.00151773,0.00147087,True
+pair_id,ideaA,ideaB,i_id,j_id,j_i_to_j,j_j_to_i,j_sym,has_sep,jweight
+1,taoism,chinese philosophy,559,624,0.000164886,0.000165674,0.000165674,True,0.000164886
+2,philosophy of language,meaning,712,1923,0.00367021,0.00368185,0.00368185,True,0.00367021
+3,philosophy of science and the sciences,philosophy of science,1826,722,0.0392497,0.0495814,0.0495814,True,0.0392497
+4,epistemology,epistemology of science,646,1829,0.000515651,0.000601684,0.000601684,True,0.000515651
+5,metaphysics,substance,681,1504,0.00203354,0.00202536,0.00203354,True,0.00203354
+6,philosophy of science and the sciences,philosophy of biology,1826,704,0.00671789,0.00959043,0.00959043,True,0.00671789
+7,artificial intelligence,neural network,890,946,0.000203645,0.000207693,0.000207693,True,0.000203645
+8,epistemology,moral epistemology and moral reasoning,646,868,0.000350926,0.000371315,0.000371315,True,0.000350926
+9,revision theory of truth,truth,1013,1709,0.000326893,0.000294932,0.000326893,True,0.000326893
+10,philosophy of religion,religion,724,1893,0.0217955,0.0252333,0.0252333,True,0.0217955
+11,thinking machine,artificial intelligence,894,890,5.42939e-05,5.26194e-05,5.42939e-05,True,5.42939e-05
+12,philosophy of religion,belief,724,880,0.00218722,0.0021095,0.00218722,True,0.00218722
+13,chinese philosophy,daoism,624,148,0.000129637,0.000128049,0.000129637,True,0.000129637
+14,artificial intelligence,philosophy of computer science,890,903,0.000245657,0.000246011,0.000246011,True,0.000245657
+15,cognitive science,philosophy of science,892,722,0.00278644,0.00230006,0.00278644,True,0.00278644
+16,philosophy of religion,religious diversity,724,1042,0.000914413,0.00101114,0.00101114,True,0.000914413
+17,cognitive science,mind,892,2067,0.000652006,0.000599954,0.000652006,True,0.000652006
+18,japanese confucian philosophy,japanese philosophy,1695,671,1.64425e-05,1.64355e-05,1.64425e-05,True,1.64425e-05
+19,artificial intelligence,logic and artificial intelligence,890,1196,1.18176e-05,1.18353e-05,1.18353e-05,True,1.18176e-05
+20,cognitive science,philosophy of mind,892,715,0.000652006,0.000599954,0.000652006,True,0.000652006
+21,philosophy of science and the sciences,philosophy of mathematics,1826,714,0.000871514,0.0010508,0.0010508,True,0.000871514
+22,connectionism,cognitive science,893,892,8.64762e-05,8.62305e-05,8.64762e-05,True,8.64762e-05
+23,philosophy of religion,feminist philosophy of religion,724,1029,0.000690622,0.000751964,0.000751964,True,0.000690622
+24,philosophy of religion,religion and science,724,1575,0.000963908,0.00104341,0.00104341,True,0.000963908
+25,chinese buddhism,chinese philosophy,1692,624,4.11238e-05,4.04422e-05,4.11238e-05,True,4.11238e-05
+26,cognitive science,philosophy of psychology,892,720,0.000626572,0.000605935,0.000626572,True,0.000626572
+27,cognitive science,representation,892,885,0.000592531,0.00056528,0.000592531,True,0.000592531
+28,philosophy of science and the sciences,probability and statistics,1826,939,0.0153886,0.0199511,0.0199511,True,0.0153886
+29,artificial intelligence,logic,890,674,0.000242756,0.000229466,0.000242756,True,0.000242756
+30,biomedical ethics,bioethics,1986,621,2.92616e-05,2.83263e-05,2.92616e-05,True,2.92616e-05
+31,representation,mental content,885,925,0.000203432,0.000213818,0.000213818,True,0.000203432
+32,folk psychology,cognitive science,891,892,0.000141244,0.000139433,0.000141244,True,0.000141244
+33,aristotle on non-contradiction,perception,1857,2078,4.5102e-06,4.43499e-06,4.5102e-06,True,4.5102e-06
+34,social philosophy and political philosophy,epistemology,943,646,0.000217493,0.000212946,0.000217493,True,0.000217493
+35,realism,epistemology,480,646,0.000694569,0.000691379,0.000694569,True,0.000694569
+36,philosophies of the particular sciences,epistemology,1827,646,0.00109563,0.00117598,0.00117598,True,0.00109563
+37,realism and anti-realism,metaphysics,978,681,0.00117498,0.00115524,0.00117498,True,0.00117498
+38,einstein's philosophy of science,philosophy of science and the sciences,1173,1826,9.5269e-05,8.40028e-05,9.5269e-05,True,9.5269e-05
+39,medieval theories of relations,metaphysics,1027,681,5.33955e-07,5.30308e-07,5.33955e-07,True,5.33955e-07
+40,probability,epistemology,770,646,0.000378381,0.000382779,0.000382779,True,0.000378381
+41,epistemological problems of testimony,epistemology,1538,646,3.39609e-06,3.36491e-06,3.39609e-06,True,3.39609e-06
+42,reliabilism,epistemology,486,646,0.000120035,0.000117624,0.000120035,True,0.000120035
+43,connectionism,connectionist model,893,947,0.000235899,0.000247032,0.000247032,True,0.000235899
+44,japanese zen buddhist philosophy,philosophy of mind,1696,715,0.000120294,0.000113856,0.000120294,True,0.000120294
+45,autism,perception,57,2078,3.36761e-05,3.19313e-05,3.36761e-05,True,3.36761e-05
+46,internalism and externalism,philosophy of mind,2163,715,0.000214569,0.000202693,0.000214569,True,0.000214569
+47,rationalism vs. empiricism,knowledge,1160,2075,0.000464875,0.000416113,0.000464875,True,0.000464875
+48,higher-order theories of consciousness,perception,1228,2078,9.98297e-05,9.67715e-05,9.98297e-05,True,9.98297e-05
+49,artistic representation,perception,2003,2078,2.57454e-05,2.40994e-05,2.57454e-05,True,2.57454e-05
+50,chinese and western,chinese philosophy,1689,624,0.000167414,0.000163599,0.000167414,True,0.000167414
+51,philosophy of computer science,philosophy of mathematics,903,714,2.22965e-05,2.22786e-05,2.22965e-05,True,2.22965e-05
+52,epistemological problems of testimony,perception,1538,2078,9.96351e-07,9.83938e-07,9.96351e-07,True,9.96351e-07
+53,everett's relative-state formulation of quantum mechanics,philosophy of mind,1248,715,1.10318e-05,1.06511e-05,1.10318e-05,True,1.10318e-05
+54,unity of consciousness,consciousness,877,923,0.000986294,0.000925711,0.000986294,True,0.000986294
+55,foreknowledge and free will,free will,1565,992,0.000154311,0.000152126,0.000154311,True,0.000154311
+56,aristotle's logic,metaphysics,1011,681,7.6278e-07,7.55401e-07,7.6278e-07,True,7.6278e-07
+57,intentionality,perception,1325,2078,0.000375406,0.000366901,0.000375406,True,0.000375406
+58,philosophy and christian theology,philosophy of religion,1136,724,4.81716e-05,4.66895e-05,4.81716e-05,True,4.81716e-05
+59,computational linguistics,perception,1994,2078,4.34714e-06,4.31559e-06,4.34714e-06,True,4.34714e-06
+60,natural theology,metaphysics,1571,681,0.00027905,0.000263324,0.00027905,True,0.00027905
+61,output unit,artificial intelligence,950,890,,,,False,
+62,externalism,philosophy of mind,201,715,0.000188628,0.000176301,0.000188628,True,0.000188628
+63,sentence,philosophy of language,1940,712,0.00272649,0.00269281,0.00272649,True,0.00272649
+64,self-knowledge,perception,808,2078,0.000214724,0.000208699,0.000214724,True,0.000214724
+65,continuant,metaphysics,1513,681,7.5699e-05,6.93395e-05,7.5699e-05,True,7.5699e-05
+66,matter,philosophy of religion,1497,724,0.00155237,0.00159069,0.00159069,True,0.00155237
+67,philosophy of art,metaphysics,702,681,0.000819536,0.000824599,0.000824599,True,0.000819536
+68,philosophy of social science,philosophy of science,919,722,0.00403139,0.00298253,0.00403139,True,0.00403139
+69,aesthetics,aesthetics and philosophy of art,614,1788,0.0359973,0.0375302,0.0375302,True,0.0359973
+70,probability and statistics,epistemology,939,646,0.000399685,0.000403873,0.000403873,True,0.000399685
+71,essence and existence,existence,1684,1478,0.001223,0.000906266,0.001223,True,0.001223
+72,foundationalism,epistemology,223,646,0.00034764,0.000331748,0.00034764,True,0.00034764
+73,body,philosophy of mind,2040,715,0.00465876,0.00459098,0.00465876,True,0.00465876
+74,philosophy of computer science,philosophy of science,903,722,0.00144397,0.00127909,0.00144397,True,0.00144397
+75,causal processes,causation,1080,969,0.000455255,0.000437592,0.000455255,True,0.000455255
+76,game theory in ethics,ethics,1596,647,4.82079e-05,3.80975e-05,4.82079e-05,True,4.82079e-05
+77,kant's view of the mind and consciousness of self,cognitive science,1058,892,1.61191e-05,1.6092e-05,1.61191e-05,True,1.61191e-05
+78,realism,metaphysics,480,681,0.00116819,0.00115475,0.00116819,True,0.00116819
+79,sense-data,perception,1541,2078,0.000533419,0.000511297,0.000533419,True,0.000533419
+80,philosophy of history,continental philosophy,711,631,6.88695e-05,7.02638e-05,7.02638e-05,True,6.88695e-05
+81,mental imagery,cognitive science,1223,892,4.22464e-05,4.21733e-05,4.22464e-05,True,4.22464e-05
+82,hume on religion,philosophy of religion,1780,724,0.000218361,0.000209879,0.000218361,True,0.000218361
+83,justified true belief,epistemology,1549,646,0.000138933,0.000131918,0.000138933,True,0.000138933
+84,cloning,bioethics,2015,621,6.24529e-05,6.24131e-05,6.24529e-05,True,6.24529e-05
+85,knowledge,epistemology,2075,646,0.00248063,0.00267359,0.00267359,True,0.00248063
+86,philosophy of law,civil disobedience,713,1732,0.000295236,0.000330382,0.000330382,True,0.000295236
+87,panpsychism,emergence,695,909,0.000163165,0.000161314,0.000163165,True,0.000163165
+88,kant's philosophy of science,metaphysics,1055,681,2.70816e-05,2.66333e-05,2.70816e-05,True,2.70816e-05
+89,medieval logic,history of logic,1813,917,3.09412e-05,3.08649e-05,3.09412e-05,True,3.09412e-05
+90,idiolects,philosophy of language,1384,712,0.000587884,0.000525308,0.000587884,True,0.000587884
+91,divine illumination,philosophy of mind,1383,715,0.000162645,0.000151113,0.000162645,True,0.000162645
+92,consciousness and intentionality,consciousness,1227,923,0.00101446,0.000965649,0.00101446,True,0.00101446
+93,ethnocentrism,philosophy of religion,192,724,7.52798e-05,6.91288e-05,7.52798e-05,True,7.52798e-05
+94,foundationalism,skepticism,223,527,0.000135474,0.000132356,0.000135474,True,0.000135474
+95,folk psychology,philosophy of mind,891,715,0.000158641,0.000145813,0.000158641,True,0.000158641
+96,qualia,perception,737,2078,9.48472e-05,9.26944e-05,9.48472e-05,True,9.48472e-05
+97,motion and time,metaphysics,1821,681,9.19333e-05,8.76927e-05,9.19333e-05,True,9.19333e-05
+98,natural philosophy,metaphysics,1632,681,0.00082394,0.000789078,0.00082394,True,0.00082394
+99,pantheism,philosophy of religion,417,724,0.000157403,0.00015075,0.000157403,True,0.000157403
+100,naturalized epistemology,epistemology,1145,646,0.000665687,0.000634188,0.000665687,True,0.000665687
+101,logos,perception,1612,2078,5.98236e-05,5.64305e-05,5.98236e-05,True,5.98236e-05
+102,analytic feminism,metaphysics,1121,681,2.08765e-05,2.05425e-05,2.08765e-05,True,2.08765e-05
+103,chinese-western comparative philosophy,chinese philosophy,1130,624,0.000121765,0.00012273,0.00012273,True,0.000121765
+104,korean philosophy,perception,673,2078,5.5586e-07,5.50816e-07,5.5586e-07,True,5.5586e-07
+105,origin of aesthetic,philosophy of mind,857,715,2.83943e-05,2.40409e-05,2.83943e-05,True,2.83943e-05
+106,connectionism,training set,893,949,0.000213933,0.000235519,0.000235519,True,0.000213933
+107,units and levels of selection,evolution,1300,1125,0.000357914,0.000348778,0.000357914,True,0.000357914
+108,consciousness and content,consciousness,924,923,0.000516826,0.00040875,0.000516826,True,0.000516826
+109,philosophy of physics,perception,719,2078,0.000659982,0.00065273,0.000659982,True,0.000659982
+110,supertasks,dynamical system,1187,938,,,,False,
+111,modularity,philosophy of mind,829,715,0.000130383,0.000120928,0.000130383,True,0.000130383
+112,logic,philosophy of mathematics,674,714,0.000250515,0.000265003,0.000265003,True,0.000250515
+113,defeasible reasoning,epistemology,1054,646,5.13622e-06,5.09104e-06,5.13622e-06,True,5.13622e-06
+114,descartes' ontological argument,perception,1281,2078,2.91344e-05,2.85064e-05,2.91344e-05,True,2.91344e-05
+115,feminist bioethics,bioethics,1030,621,0.000769043,0.000768507,0.000769043,True,0.000769043
+116,justified true belief,perception,1549,2078,3.7281e-05,3.59544e-05,3.7281e-05,True,3.7281e-05
+117,polytheism,philosophy of religion,451,724,0.000131578,0.000117725,0.000131578,True,0.000131578
+118,philosophy of psychology,philosophy of mind,720,715,0.00208623,0.00197995,0.00208623,True,0.00208623
+119,philosophy of science and the sciences,metaphysics,1826,681,0.00181036,0.00204578,0.00204578,True,0.00181036
+120,phenomenal consciousness,consciousness,965,923,0.00120192,0.000952634,0.00120192,True,0.00120192
+121,logic and computation,artificial intelligence,940,890,,,,False,
+122,analysis,philosophy of mathematics,1508,714,0.000284623,0.000298646,0.000298646,True,0.000284623
+123,principle of sufficient reason,metaphysics,1640,681,7.55472e-05,7.38879e-05,7.55472e-05,True,7.55472e-05
+124,unity of consciousness,perception,877,2078,3.7036e-05,3.63195e-05,3.7036e-05,True,3.7036e-05
+125,meaning,metaphysics,1923,681,0.00171135,0.00177337,0.00177337,True,0.00171135
+126,philosophies of the particular sciences,philosophy of science and the sciences,1827,1826,0.10972,0.0856562,0.10972,True,0.10972
+127,mind,metaphysics,2067,681,0.00223238,0.00233156,0.00233156,True,0.00223238
+128,proper names,epistemology,2019,646,0.000119795,0.000117611,0.000119795,True,0.000119795
+129,simultaneity,metaphysics,1997,681,0.000166548,0.000159748,0.000166548,True,0.000166548
+130,philosophy of mathematics,set theory,714,1287,0.000404212,0.000401033,0.000404212,True,0.000404212
+131,medieval theories of the syllogism,history of logic,1243,917,1.82859e-05,1.84258e-05,1.84258e-05,True,1.82859e-05
+132,panpsychism,metaphysics of mind,695,897,2.03071e-05,2.06449e-05,2.06449e-05,True,2.03071e-05
+133,symbolic processing,philosophy of mind,954,715,1.42672e-05,1.30011e-05,1.42672e-05,True,1.42672e-05
+134,modern philosophy,philosophy of mind,899,715,0.00031337,0.000283358,0.00031337,True,0.00031337
+135,chinese room argument,cognitive science,1137,892,2.19777e-05,2.19782e-05,2.19782e-05,True,2.19777e-05
+136,arabic philosophy and islamic philosophy,metaphysics,930,681,0.00031843,0.000298328,0.00031843,True,0.00031843
+137,higher-order theories of consciousness,consciousness,1228,923,0.000176976,0.000171059,0.000176976,True,0.000176976
+138,meaning of life,afterlife,1603,1581,3.24148e-05,3.23316e-05,3.24148e-05,True,3.24148e-05
+139,syntactic analysis,philosophy of mind,810,715,,,,False,
+140,universals,metaphysics,1483,681,0.0025007,0.00254371,0.00254371,True,0.0025007
+141,matter,epistemology,1497,646,0.00164795,0.00173704,0.00173704,True,0.00164795
+142,philosophy of religion,religious experience,724,1574,0.00149637,0.00174373,0.00174373,True,0.00149637
+143,judaic philosophy,interpretation,921,845,,,,False,
+144,philosophy of science and the sciences,epistemology,1826,646,0.00113032,0.00127124,0.00127124,True,0.00113032
+145,cause and effect,perception,1897,2078,0.000389591,0.000374965,0.000389591,True,0.000389591
+146,western philosophy,chinese philosophy,758,624,0.000112929,0.00011332,0.00011332,True,0.000112929
+147,natural law,philosophy of law,2044,713,0.00715272,0.00511521,0.00715272,True,0.00715272
+148,zen buddhism,chinese philosophy,759,624,,,,False,
+149,metaphysics of science,metaphysics,1828,681,0.000997364,0.000842226,0.000997364,True,0.000997364
+150,cognitive science,philosophy of science and the sciences,892,1826,0.00179417,0.0013645,0.00179417,True,0.00179417
+151,modern philosophy,metaphysics,899,681,0.000436332,0.000408214,0.000436332,True,0.000436332
+152,personal identity and ethics,metaphysics,1598,681,2.83133e-06,2.80439e-06,2.83133e-06,True,2.83133e-06
+153,unitarianism,perception,590,2078,3.15182e-05,2.95711e-05,3.15182e-05,True,3.15182e-05
+154,feminist epistemology and philosophy of science,epistemology,1043,646,0.000142807,0.000139952,0.000142807,True,0.000142807
+155,18th century german aesthetics,metaphysics,1856,681,3.89588e-07,3.86762e-07,3.89588e-07,True,3.89588e-07
+156,activation value,folk psychology,955,891,2.55083e-05,2.5239e-05,2.55083e-05,True,2.55083e-05
+157,hilbert's program,philosophy of mathematics,1356,714,6.60536e-06,6.58286e-06,6.60536e-06,True,6.60536e-06
+158,eliminative materialism,philosophy of mind,641,715,3.97667e-05,3.815e-05,3.97667e-05,True,3.97667e-05
+159,intuitionistic logic,history of logic,1211,917,,,,False,
+160,blindsight,perception,870,2078,0.000110573,0.000101664,0.000110573,True,0.000110573
+161,unity of science,scientific methodology,983,1830,9.55419e-06,9.56506e-06,9.56506e-06,True,9.55419e-06
+162,neural network,cognitive science,946,892,0.00018006,0.000177285,0.00018006,True,0.00018006
+163,time,metaphysics,1488,681,0.00204908,0.002198,0.002198,True,0.00204908
+164,functionalism,philosophy of mind,226,715,0.000127895,0.000121847,0.000127895,True,0.000127895
+165,foundationalist theories of epistemic justification,foundationalism,1321,223,0.000194986,0.000196266,0.000196266,True,0.000194986
+166,logic,intuitionistic logic,674,1211,0.00151902,0.0018522,0.0018522,True,0.00151902
+167,connectionism,neural network,893,946,0.000326039,0.000331425,0.000331425,True,0.000326039
+168,causal theories of mental content,perception,1699,2078,5.45907e-07,5.40947e-07,5.45907e-07,True,5.45907e-07
+169,mind-body problem,metaphysics,819,681,8.59304e-05,8.1423e-05,8.59304e-05,True,8.59304e-05
+170,great apes,philosophy of mind,962,715,3.951e-05,3.66194e-05,3.951e-05,True,3.951e-05
+171,problem of evil,philosophy of religion,1126,724,0.000183496,0.000177007,0.000183496,True,0.000183496
+172,gettier problem,epistemology,1550,646,0.000105055,9.72095e-05,0.000105055,True,0.000105055
+173,internalism,epistemology,666,646,0.000182134,0.000177822,0.000182134,True,0.000182134
+174,Eternity in Christian Thought,philosophy of religion,1580,724,0.000366041,0.000352745,0.000366041,True,0.000366041
+175,miracles,philosophy of religion,1219,724,0.000440256,0.000420073,0.000440256,True,0.000440256
+176,existence,metaphysics,1478,681,0.00248784,0.00260021,0.00260021,True,0.00248784
+177,sovereignty,philosophy of religion,1213,724,0.000305354,0.000292754,0.000305354,True,0.000305354
+178,philosophy of psychology,philosophy of science and the sciences,720,1826,0.0173756,0.0116845,0.0173756,True,0.0173756
+179,naturalism in legal philosophy,epistemology,1167,646,1.48643e-05,1.4689e-05,1.48643e-05,True,1.48643e-05
+180,philosophy of perception,perception,718,2078,0.0498605,0.0498605,0.0498605,True,0.0498605
+181,platonic realism,epistemology,727,646,3.3639e-05,3.1331e-05,3.3639e-05,True,3.3639e-05
+182,computational theory of mind,philosophy of mind,1235,715,3.39258e-05,3.27819e-05,3.39258e-05,True,3.39258e-05
+183,racism,civil rights,473,1134,0.000163581,0.000163308,0.000163581,True,0.000163581
+184,feminist social epistemology,epistemology,1775,646,0.00028855,0.000278533,0.00028855,True,0.00028855
+185,leibniz on causation,perception,1181,2078,0.000174436,0.000167764,0.000174436,True,0.000174436
+186,scientific progress,philosophy of science and the sciences,1203,1826,0.000779604,0.00062899,0.000779604,True,0.000779604
+187,sense data,epistemology,1288,646,0.000206651,0.000202504,0.000206651,True,0.000206651
+188,testimony,epistemology,2077,646,0.000732295,0.000715908,0.000732295,True,0.000732295
+189,scientific theory,epistemology,981,646,0.000525789,0.000512217,0.000525789,True,0.000525789
+190,medieval theories of causality,metaphysics,1083,681,,,,False,
+191,connectionist model,artificial intelligence,947,890,7.09685e-05,6.92386e-05,7.09685e-05,True,7.09685e-05
+192,logic,classical logic,674,1195,0.00188189,0.00215528,0.00215528,True,0.00188189
+193,modern philosophy,epistemology,899,646,0.000221472,0.000212692,0.000221472,True,0.000221472
+194,science and religion,philosophy of religion,979,724,0.00115674,0.000887763,0.00115674,True,0.00115674
+195,spinoza's psychological theory,philosophy of mind,1172,715,3.35535e-05,3.20795e-05,3.35535e-05,True,3.35535e-05
+196,intellectualism,philosophy of religion,278,724,4.73779e-05,4.53633e-05,4.73779e-05,True,4.73779e-05
+197,existence of god,existence,1905,1478,0.00274219,0.0020381,0.00274219,True,0.00274219
+198,philosophy of science and the sciences,philosophy of mind,1826,715,0.00107912,0.00115314,0.00115314,True,0.00107912
+199,introspection,philosophy of mind,2076,715,0.000403338,0.000380497,0.000403338,True,0.000403338
+200,zombies,physicalism,1374,726,0.00023347,0.000230779,0.00023347,True,0.00023347
+201,theory of truth,metaphysics,1704,681,0.000171385,0.000166999,0.000171385,True,0.000171385
+202,cartesian dualism,philosophy of mind,98,715,8.61542e-05,7.55515e-05,8.61542e-05,True,8.61542e-05
+203,theory of forms,metaphysics,1822,681,0.000142914,0.000135083,0.000142914,True,0.000142914
+204,history of feminism,epistemology,1847,646,,,,False,
+205,metaphysics of causation,causation,1082,969,0.000232381,0.000227393,0.000232381,True,0.000232381
+206,folk psychology,perception,891,2078,8.66082e-05,8.32324e-05,8.66082e-05,True,8.66082e-05
+207,computer ethics,ethics,629,647,9.64158e-05,7.62066e-05,9.64158e-05,True,9.64158e-05
+208,essential versus accidental properties,property and ownership,1773,1706,,,,False,
+209,public reason,philosophy of religion,1399,724,0.000140368,0.000135561,0.000140368,True,0.000140368
+210,agnosticism,philosophy of religion,13,724,0.000152575,0.000142971,0.000152575,True,0.000152575
+211,chinese philosophy,confucianism,624,127,0.000248462,0.000245912,0.000248462,True,0.000248462
+212,symmetry and symmetry breaking,symmetry and invariance,1119,968,5.50118e-05,6.51706e-05,6.51706e-05,True,5.50118e-05
+213,social and political philosophy,epistemology,1787,646,0.000221785,0.000217176,0.000221785,True,0.000221785
+214,ideas,metaphysics,1641,681,0.00172729,0.00186585,0.00186585,True,0.00172729
+215,matter,perception,1497,2078,0.00171859,0.00178246,0.00178246,True,0.00171859
+216,20th century continental philosophy,philosophy of mind,1845,715,,,,False,
+217,philosophy of mathematics,epistemology,714,646,0.000125138,0.00012335,0.000125138,True,0.000125138
+218,church-turing thesis,turing machine,1135,1002,0.000655866,0.000654195,0.000655866,True,0.000655866
+219,cognitive value of art,perception,2007,2078,,,,False,
+220,kant's critique of metaphysics,metaphysics,1059,681,7.85975e-05,7.67081e-05,7.85975e-05,True,7.85975e-05
+221,korean philosophy,philosophy of mind,673,715,9.78974e-05,9.2927e-05,9.78974e-05,True,9.78974e-05
+222,church-turing thesis,artificial intelligence,1135,890,6.18736e-06,6.18149e-06,6.18736e-06,True,6.18736e-06
+223,nonconceptual mental content,perception,1274,2078,0.000378852,0.000360113,0.000378852,True,0.000378852
+224,eliminative materialism,cognitive science,641,892,3.00199e-05,2.9955e-05,3.00199e-05,True,3.00199e-05
+225,epistemology of science,metaphysics,1829,681,0.000103756,9.8506e-05,0.000103756,True,0.000103756
+226,medieval problem of universals,philosophy of mind,989,715,0.000199544,0.00018745,0.000199544,True,0.000199544
+227,bell's theorem,quantum mechanics,1017,1158,0.000150946,0.000149609,0.000150946,True,0.000150946
+228,akan philosophy of the person,african and african-american philosophy,1655,1652,,,,False,
+229,theory of forms,epistemology,1822,646,9.60042e-05,9.21935e-05,9.60042e-05,True,9.60042e-05
+230,social dimensions of scientific knowledge,philosophy of science and the sciences,1204,1826,0.000379475,0.000322845,0.000379475,True,0.000379475
+231,chinese room argument,chinese philosophy,1137,624,,,,False,
+232,inherence,metaphysics,1506,681,0.000177456,0.000167728,0.000177456,True,0.000177456
+233,cosmological arguments for the existence of god,philosophy of religion,1584,724,,,,False,
+234,philosophies of the particular sciences,logic,1827,674,0.00143084,0.00146616,0.00146616,True,0.00143084
+235,analytic feminism,epistemology,1121,646,7.04706e-05,6.90732e-05,7.04706e-05,True,7.04706e-05
+236,cognitive science,perception,892,2078,0.000365876,0.000352304,0.000365876,True,0.000365876
+237,confirmation and induction,metaphysics,1804,681,0.000536415,0.000527376,0.000536415,True,0.000536415
+238,malebranche's theory of ideas and vision in god,philosophy of mind,1253,715,0.00021162,0.000199768,0.00021162,True,0.00021162
+239,quantum mechanics,philosophy of physics,1158,719,0.000609558,0.000595034,0.000609558,True,0.000609558
+240,relativism,truth,485,1709,0.000628859,0.000583079,0.000628859,True,0.000628859
+241,theism,philosophy of religion,563,724,0.000591288,0.000561362,0.000591288,True,0.000591288
+242,frege's theorem and foundations for arithmetic,philosophy of law,1340,713,0.000202554,0.000186446,0.000202554,True,0.000202554
+243,future contingents,history of logic,1479,917,2.67425e-05,2.7078e-05,2.7078e-05,True,2.67425e-05
+244,non-conceptual content,perception,873,2078,3.03307e-05,2.77398e-05,3.03307e-05,True,3.03307e-05
+245,foundationalist theories of epistemic justification,justification,1321,2068,0.000715806,0.000673892,0.000715806,True,0.000715806
+246,self-consciousness,philosophy of mind,1299,715,0.00028621,0.000270556,0.00028621,True,0.00028621
+247,philosophy of computer science,philosophy of mind,903,715,5.0794e-05,4.89374e-05,5.0794e-05,True,5.0794e-05
+248,artificial intelligence,philosophy of mind,890,715,7.54898e-05,7.26024e-05,7.54898e-05,True,7.54898e-05
+249,animal consciousness,consciousness,1229,923,0.00124682,0.00116656,0.00124682,True,0.00124682
+250,17th and 18th century theories of emotions,perception,1770,2078,1.12551e-05,1.10448e-05,1.12551e-05,True,1.12551e-05
+251,logic,combining logics,674,1455,0.00113609,0.00136475,0.00136475,True,0.00113609
+252,consciousness and science,perception,957,2078,2.11108e-05,1.95387e-05,2.11108e-05,True,2.11108e-05
+253,other minds,epistemology,1750,646,8.52264e-05,8.39006e-05,8.52264e-05,True,8.52264e-05
+254,mind-body problem,philosophy of mind,819,715,9.89508e-05,8.92161e-05,9.89508e-05,True,9.89508e-05
+255,possible worlds,existence,1501,1478,0.000769281,0.000736247,0.000769281,True,0.000769281
+256,incompatibilism,afterlife,1531,1581,2.17238e-05,2.15551e-05,2.17238e-05,True,2.17238e-05
+257,mathematical logic,metaphysics,914,681,0.000154006,0.000148417,0.000154006,True,0.000154006
+258,animal consciousness,philosophy of mind,1229,715,5.9174e-05,5.68252e-05,5.9174e-05,True,5.9174e-05
+259,teleological arguments for god's existence,philosophy of mind,1482,715,3.9928e-06,3.87514e-06,3.9928e-06,True,3.9928e-06
+260,christian theology,philosophy of religion,763,724,0.000155405,0.000142115,0.000155405,True,0.000155405
+261,historicist theories of rationality,philosophy of science and the sciences,1115,1826,0.000466022,0.000391204,0.000466022,True,0.000466022
+262,explanation,philosophy of science and the sciences,975,1826,0.00250967,0.00228687,0.00250967,True,0.00250967
+263,modern philosophy,perception,899,2078,0.000276994,0.000261004,0.000276994,True,0.000276994
+264,culture,philosophy of religion,1392,724,0.0014715,0.0014321,0.0014715,True,0.0014715
+265,mental representation,mental content,1222,925,0.000183902,0.000185734,0.000185734,True,0.000183902
+266,connectionist model,cognitive science,947,892,0.000131972,0.000127523,0.000131972,True,0.000131972
+267,philosophy of mind,epistemology,715,646,0.00147393,0.00154167,0.00154167,True,0.00147393
+268,conservation biology,philosophy of science and the sciences,1277,1826,0.000155638,0.00013776,0.000155638,True,0.000155638
+269,coherentist theories of justification,epistemology,1322,646,,,,False,
+270,eliminative materialism,philosophy of science and the sciences,641,1826,0.000134279,0.000117894,0.000134279,True,0.000134279
+271,input unit,artificial intelligence,951,890,2.10358e-05,2.04376e-05,2.10358e-05,True,2.10358e-05
+272,lebensphilosophie,philosophy of religion,1954,724,,,,False,
+273,plato on knowledge in the theaetetus,perception,1366,2078,0.000155902,0.000151128,0.000155902,True,0.000155902
+274,nativism,cognitive science,374,892,4.26078e-05,4.23225e-05,4.26078e-05,True,4.26078e-05
+275,concepts of god,philosophy of religion,1583,724,0.000242367,0.00022306,0.000242367,True,0.000242367
+276,philosophy of computer science,church-turing thesis,903,1135,7.48347e-05,7.49473e-05,7.49473e-05,True,7.48347e-05
+277,hylomorphism,metaphysics,2042,681,0.00017263,0.000163624,0.00017263,True,0.00017263
+278,symbolic processing,cognitive science,954,892,2.21177e-05,2.15201e-05,2.21177e-05,True,2.21177e-05
+279,pacifism,philosophy of religion,409,724,4.84023e-05,4.72134e-05,4.84023e-05,True,4.84023e-05
+280,laws of nature,epistemology,1164,646,0.000297298,0.000292727,0.000297298,True,0.000297298
+281,probability and statistics,philosophy of mind,939,715,0.00023309,0.000228948,0.00023309,True,0.00023309
+282,philosophy of perception,metaphysics,718,681,0.00129492,0.00130415,0.00130415,True,0.00129492
+283,modularity,cognitive science,829,892,0.000114694,0.000113491,0.000114694,True,0.000114694
+284,matter,metaphysics,1497,681,0.0025821,0.00272115,0.00272115,True,0.0025821
+285,artificial intelligence,cognitive science,890,892,0.000213169,0.000213628,0.000213628,True,0.000213169
+286,cartesian dualism,dualism,98,168,0.000415568,0.000347831,0.000415568,True,0.000415568
+287,definition of morality,philosophy of religion,1096,724,3.51075e-05,3.40355e-05,3.51075e-05,True,3.51075e-05
+288,environmental aesthetics,aesthetics,1862,614,0.00093212,0.000855199,0.00093212,True,0.00093212
+289,leibniz's philosophy of mind,philosophy of mind,1178,715,6.38034e-05,6.0497e-05,6.38034e-05,True,6.38034e-05
+290,descartes' modal metaphysics,metaphysics,1282,681,1.32929e-05,1.31231e-05,1.32929e-05,True,1.32929e-05
+291,logic,philosophy of language,674,712,0.00254265,0.00255658,0.00255658,True,0.00254265
+292,atomism,philosophy of chemistry,52,861,0.000288453,0.000286841,0.000288453,True,0.000288453
+293,philosophy of biology,philosophy of science,704,722,0.00110103,0.00103872,0.00110103,True,0.00110103
+294,molecular biology,philosophy of science and the sciences,1215,1826,0.000578942,0.000476704,0.000578942,True,0.000578942
+295,induction,epistemology,662,646,0.000473885,0.000466093,0.000473885,True,0.000473885
+296,cause and effect,metaphysics,1897,681,0.000720678,0.000690265,0.000720678,True,0.000720678
+297,metaphysics,metaphysics of mind,681,897,0.000143831,0.000181692,0.000181692,True,0.000143831
+298,contextualism,epistemology,130,646,9.43137e-05,9.13555e-05,9.43137e-05,True,9.43137e-05
+299,18th century british aesthetics,philosophy of mind,1721,715,7.12132e-05,6.76953e-05,7.12132e-05,True,7.12132e-05
+300,proper names,metaphysics,2019,681,0.000185021,0.000180293,0.000185021,True,0.000185021
+301,panpsychism,philosophy of mind,695,715,0.000147929,0.000140158,0.000147929,True,0.000147929
+302,religion and politics,philosophy of religion,1558,724,0.000931869,0.000852836,0.000931869,True,0.000931869
+303,18th century german aesthetics,perception,1856,2078,3.69843e-05,3.64316e-05,3.69843e-05,True,3.69843e-05
+304,plato on knowledge in the theaetetus,knowledge,1366,2075,0.000445428,0.000402983,0.000445428,True,0.000445428
+305,bioethics,applied ethics,621,619,3.89218e-05,3.91111e-05,3.91111e-05,True,3.89218e-05
+306,gettier problem,perception,1550,2078,1.11224e-05,1.07635e-05,1.11224e-05,True,1.11224e-05
+307,mohism,chinese philosophy,352,624,6.96676e-05,7.01838e-05,7.01838e-05,True,6.96676e-05
+308,computation and representation,artificial intelligence,936,890,4.7976e-05,4.58923e-05,4.7976e-05,True,4.7976e-05
+309,epistemological problems of memory,epistemology,1241,646,4.6828e-05,4.62377e-05,4.6828e-05,True,4.6828e-05
+310,teleological theories of mental content,mental content,1272,925,0.000139481,0.000140253,0.000140253,True,0.000139481
+311,confirmation and induction,epistemology,1804,646,0.000663511,0.000654559,0.000663511,True,0.000663511
+312,islamic philosophy,philosophy of religion,670,724,0.000215342,0.000200396,0.000215342,True,0.000215342
+313,boltzmann's work in statistical physics,philosophy of science and the sciences,1156,1826,8.55503e-05,7.57701e-05,8.55503e-05,True,8.55503e-05
+314,forms of government,philosophy of religion,1794,724,0.00016599,0.000152923,0.00016599,True,0.00016599
+315,philosophy of language,logical form,712,934,0.000604606,0.000646104,0.000646104,True,0.000604606
+316,religious language,philosophy of religion,1573,724,0.00143695,0.00128909,0.00143695,True,0.00143695
+317,perception,philosophy of mind,2078,715,0.0022651,0.00219041,0.0022651,True,0.0022651
+318,propositional attitude,philosophy of mind,944,715,0.000357955,0.000330813,0.000357955,True,0.000357955
+319,neural correlates,perception,879,2078,8.46666e-05,7.97991e-05,8.46666e-05,True,8.46666e-05
+320,descartes and the pineal gland,perception,1371,2078,9.3863e-06,9.21205e-06,9.3863e-06,True,9.3863e-06
+321,literature,philosophy of science and the sciences,1898,1826,0.0023658,0.00208399,0.0023658,True,0.0023658
+322,surrealism,perception,552,2078,1.33509e-05,1.2443e-05,1.33509e-05,True,1.33509e-05
+323,toleration,philosophy of religion,1995,724,0.00071632,0.00065446,0.00071632,True,0.00071632
+324,philosophy of mind,metaphysics,715,681,0.00223238,0.00233156,0.00233156,True,0.00223238
+325,function of consciousness,aspects of consciousness,878,1785,,,,False,
+326,early philosophical interpretations of general relativity,epistemology,1335,646,1.12874e-06,1.11982e-06,1.12874e-06,True,1.12874e-06
+327,medieval theories of analogy,metaphysics,1329,681,7.9807e-06,7.8648e-06,7.9807e-06,True,7.9807e-06
+328,plato on utopia,metaphysics,1365,681,5.11279e-06,5.04989e-06,5.11279e-06,True,5.11279e-06
+329,continental philosophy,pragmatism,631,461,7.10191e-05,6.96292e-05,7.10191e-05,True,7.10191e-05
+330,symbolic processing,artificial intelligence,954,890,2.10358e-05,2.04376e-05,2.10358e-05,True,2.10358e-05
+331,aristotle's natural philosophy,metaphysics,1855,681,1.04791e-06,1.03643e-06,1.04791e-06,True,1.04791e-06
+332,consciousness and intentionality,perception,1227,2078,3.609e-05,3.54821e-05,3.609e-05,True,3.609e-05
+333,philosophy of psychology,metaphysics,720,681,0.00156691,0.00155407,0.00156691,True,0.00156691
+334,philosophy of perception,epistemology,718,646,0.00112761,0.00114187,0.00114187,True,0.00112761
+335,hinduism,philosophy of religion,256,724,0.000137024,0.000122944,0.000137024,True,0.000137024
+336,cognitive science,psychiatry,892,906,0.000553981,0.000537407,0.000553981,True,0.000553981
+337,causal theories of mental content,cognitive science,1699,892,,,,False,
+338,philosophy of chemistry,philosophy of biology,861,704,0.000318031,0.000314515,0.000318031,True,0.000318031
+339,propositional attitude,perception,944,2078,0.00023289,0.000223973,0.00023289,True,0.00023289
+340,political authority,philosophy of religion,1022,724,0.000201458,0.000191705,0.000201458,True,0.000201458
+341,influence of islamic thought on maimonides,philosophy of religion,1254,724,2.70582e-05,2.63636e-05,2.70582e-05,True,2.70582e-05
+342,kant's view of the mind and consciousness of self,perception,1058,2078,5.06772e-07,5.02144e-07,5.06772e-07,True,5.06772e-07
+343,coherentism,epistemology,115,646,0.000318179,0.000294284,0.000318179,True,0.000318179
+344,internalist vs. externalist conceptions of epistemic justification,justification,1320,2068,0.000325169,0.00031237,0.000325169,True,0.000325169
+345,externalism about mental content,internalism and externalism,1275,2163,0.000351628,0.000348695,0.000351628,True,0.000351628
+346,secularism,philosophy of religion,515,724,0.000134634,0.000118188,0.000134634,True,0.000134634
+347,mental content,philosophy of mind,925,715,0.000235742,0.000216593,0.000235742,True,0.000235742
+348,animal cognition,philosophy of mind,812,715,7.22758e-05,6.87458e-05,7.22758e-05,True,7.22758e-05
+349,metaphysics of mind,philosophy of mind,897,715,0.000142556,0.000105232,0.000142556,True,0.000142556
+350,aspects of mind,philosophy of mind,1784,715,4.75186e-05,3.5071e-05,4.75186e-05,True,4.75186e-05
+351,non-conceptual content,mental content,873,925,,,,False,
+352,folk psychology as mental simulation,folk psychology,997,891,1.02361e-05,1.02603e-05,1.02603e-05,True,1.02361e-05
+353,18th century british aesthetics,perception,1721,2078,2.01968e-05,1.98034e-05,2.01968e-05,True,2.01968e-05
+354,business ethics,bioethics,760,621,8.03503e-06,8.04552e-06,8.04552e-06,True,8.03503e-06
+355,aesthetics and philosophy of art,18th century german aesthetics,1788,1856,0.000832665,0.000860366,0.000860366,True,0.000832665
+356,ideas,philosophy of mind,1641,715,0.00384845,0.00400979,0.00400979,True,0.00384845
+357,methodological debates in cosmology the 1930s and 1940s,philosophy of science and the sciences,1304,1826,8.84536e-05,7.73509e-05,8.84536e-05,True,8.84536e-05
+358,compositionality and logical form,metaphysics,1825,681,0.000314384,0.000305149,0.000314384,True,0.000314384
+359,leibniz's influence on kant,perception,1060,2078,3.78598e-05,3.69857e-05,3.78598e-05,True,3.78598e-05
+360,mohist canons,chinese philosophy,1693,624,3.28507e-05,3.2996e-05,3.2996e-05,True,3.28507e-05
+361,dewey's aesthetics,perception,1703,2078,6.33374e-06,6.24484e-06,6.33374e-06,True,6.33374e-06
+362,consciousness,perception,923,2078,0.00127199,0.00126437,0.00127199,True,0.00127199
+363,philosophy of psychology,epistemology,720,646,0.00100641,0.00100504,0.00100641,True,0.00100641
+364,logos,metaphysics,1612,681,5.65801e-05,5.38408e-05,5.65801e-05,True,5.65801e-05
+365,turing machine,artificial intelligence,1002,890,8.23309e-05,8.21959e-05,8.23309e-05,True,8.23309e-05
+366,philosophy of language,interpretation,712,845,0.0028619,0.00290177,0.00290177,True,0.0028619
+367,dynamical system,cognitive science,938,892,7.89855e-05,7.80774e-05,7.89855e-05,True,7.89855e-05
+368,church and state,philosophy of religion,1950,724,0.000171328,0.000152689,0.000171328,True,0.000171328
+369,bohmian mechanics,quantum mechanics,1239,1158,0.000312531,0.000308784,0.000312531,True,0.000312531
+370,philosophy of art,philosophy of mind,702,715,0.000967398,0.000942723,0.000967398,True,0.000967398
+371,african sage philosophy,afterlife,1662,1581,,,,False,
+372,philosophy of art,ethics and art,702,916,0.000107522,0.000137761,0.000137761,True,0.000107522
+373,modern philosophy,philosophy of religion,899,724,0.000251346,0.000234848,0.000251346,True,0.000251346
+374,imagery,philosophy of mind,1900,715,0.000248695,0.000234068,0.000248695,True,0.000248695
+375,zen buddhism,philosophy of religion,759,724,3.06173e-05,2.81998e-05,3.06173e-05,True,3.06173e-05
+376,kant's philosophy of religion,philosophy of religion,1056,724,0.000290725,0.000274241,0.000290725,True,0.000290725
+377,network model,cognitive science,952,892,7.08336e-05,6.94824e-05,7.08336e-05,True,7.08336e-05
+378,square of opposition,history of logic,1606,917,,,,False,
+379,falsificationism,epistemology,649,646,6.17241e-05,5.82097e-05,6.17241e-05,True,6.17241e-05
+380,dynamism,japanese philosophy,171,671,3.34601e-05,3.31743e-05,3.34601e-05,True,3.34601e-05
+381,cosmology,metaphysics,1831,681,0.000589197,0.000567073,0.000589197,True,0.000589197
+382,autism,folk psychology,57,891,5.39517e-05,5.32946e-05,5.39517e-05,True,5.39517e-05
+383,kant's view of the mind and consciousness of self,philosophy of mind,1058,715,0.00019826,0.000185583,0.00019826,True,0.00019826
+384,nonhuman animals,philosophy of mind,963,715,0.000168493,0.000151739,0.000168493,True,0.000168493
+385,philosophy of language,language learning,712,805,0.000354008,0.000478258,0.000478258,True,0.000354008
+386,pakistani philosophy,perception,693,2078,,,,False,
+387,property dualism,dualism,734,168,0.000461742,0.000386603,0.000461742,True,0.000461742
+388,analysis of knowledge,knowledge,1117,2075,0.000803322,0.000697856,0.000803322,True,0.000803322
+389,plato's middle period metaphysics and epistemology,epistemology,1368,646,1.83286e-05,1.81457e-05,1.83286e-05,True,1.83286e-05
+390,causal determinism,free will,1266,992,0.000165285,0.000163041,0.000165285,True,0.000165285
+391,leibniz's influence on kant,metaphysics,1060,681,5.13515e-05,5.02659e-05,5.13515e-05,True,5.13515e-05
+392,conservation biology,philosophy of biology,1277,704,0.000389922,0.000381959,0.000389922,True,0.000389922
+393,platonism,metaphysics,443,681,0.000423635,0.000407967,0.000423635,True,0.000423635
+394,metaphysics of science,epistemology,1828,646,0.000124583,0.000119905,0.000124583,True,0.000124583
+395,afterlife,philosophy of religion,1581,724,0.000271329,0.000260004,0.000271329,True,0.000271329
+396,social epistemology,epistemology,1144,646,0.000838644,0.000795174,0.000838644,True,0.000838644
+397,reliabilism,perception,486,2078,1.78013e-05,1.75015e-05,1.78013e-05,True,1.78013e-05
+398,evolutionary psychology,philosophy of mind,1833,715,4.95433e-05,4.744e-05,4.95433e-05,True,4.95433e-05
+399,interactionism,philosophy of mind,815,715,6.02774e-05,5.39424e-05,6.02774e-05,True,6.02774e-05
+400,computation and representation,cognitive science,936,892,6.63313e-05,6.29352e-05,6.63313e-05,True,6.63313e-05
+401,hypothetical syllogism,history of logic,2034,917,2.66213e-05,2.66805e-05,2.66805e-05,True,2.66213e-05
+402,current philosophy,perception,862,2078,1.56614e-05,1.49243e-05,1.56614e-05,True,1.56614e-05
+403,hobbes's moral and political philosophy,social and political philosophy,1387,1787,9.73166e-06,9.69182e-06,9.73166e-06,True,9.73166e-06
+404,magnetism,perception,324,2078,6.42048e-05,6.06988e-05,6.42048e-05,True,6.42048e-05
+405,mental causation,philosophy of mind,1240,715,5.73837e-05,5.5047e-05,5.73837e-05,True,5.73837e-05
+406,ethnophilosophy,african and african-american philosophy,762,1652,6.27468e-05,6.20668e-05,6.27468e-05,True,6.27468e-05
+407,general relativity,epistemology,1921,646,6.00512e-05,5.89793e-05,6.00512e-05,True,6.00512e-05
+408,induction,philosophy of mind,662,715,0.000474939,0.000450567,0.000474939,True,0.000474939
+409,epistemology of religion,philosophy of religion,1026,724,0.000233958,0.000217582,0.000233958,True,0.000233958
+410,mental imagery,philosophy of mind,1223,715,2.26045e-05,2.18129e-05,2.26045e-05,True,2.26045e-05
+411,baptism,epistemology,65,646,8.18091e-05,7.81595e-05,8.18091e-05,True,8.18091e-05
+412,probabilistic causation,causation,1081,969,0.000384354,0.000372487,0.000384354,True,0.000384354
+413,measurement in quantum theory,perception,1190,2078,,,,False,
+414,interpretation,metaphysics,845,681,0.00211956,0.00217958,0.00217958,True,0.00211956
+415,scottish philosophy in the 19th century,perception,1713,2078,5.33466e-05,5.19052e-05,5.33466e-05,True,5.33466e-05
+416,philosophy of chemistry,philosophy of science and the sciences,861,1826,0.00129842,0.00106677,0.00129842,True,0.00129842
+417,goodness,metaphysics,869,681,0.000820264,0.000803172,0.000820264,True,0.000820264
+418,concepts,mental content,1734,925,0.000137686,0.000150544,0.000150544,True,0.000137686
+419,philosophy of language,language and society,712,804,0.000106133,0.000143478,0.000143478,True,0.000106133
+420,philosophy of social science,epistemology,919,646,0.000405857,0.000393837,0.000405857,True,0.000405857
+421,representationalism,perception,772,2078,0.0001374,0.000130615,0.0001374,True,0.0001374
+422,secular humanism,philosophy of religion,743,724,,,,False,
+423,philosophy of nature,philosophy of mind,716,715,0.000141747,0.000126994,0.000141747,True,0.000141747
+424,philosophy of chemistry,metaphysics,861,681,0.000214537,0.000210216,0.000214537,True,0.000214537
+425,african philosophy,african and african-american philosophy,615,1652,0.000396586,0.000407799,0.000407799,True,0.000396586
+426,japanese aesthetics,japanese philosophy,1698,671,2.4597e-05,2.45129e-05,2.4597e-05,True,2.4597e-05
+427,ancient logic,history of logic,1624,917,1.84482e-05,1.85875e-05,1.85875e-05,True,1.84482e-05
+428,pietism,philosophy of religion,439,724,4.24344e-05,3.91369e-05,4.24344e-05,True,4.24344e-05
+429,ontological argument,philosophy of religion,1073,724,9.77906e-05,9.47543e-05,9.77906e-05,True,9.77906e-05
+430,eliminative materialism,folk psychology,641,891,0.000346759,0.000351845,0.000351845,True,0.000346759
+431,externalism,perception,201,2078,0.000151403,0.000145988,0.000151403,True,0.000151403
+432,experiment in physics,epistemology,1358,646,1.94513e-05,1.92372e-05,1.94513e-05,True,1.94513e-05
+433,existence of god,metaphysics,1905,681,0.000445878,0.000425322,0.000445878,True,0.000445878
+434,philosophy of computer science,philosophy of science and the sciences,903,1826,0.00090856,0.00074948,0.00090856,True,0.00090856
+435,ethics,utilitarianism,647,594,0.000543613,0.00056212,0.00056212,True,0.000543613
+436,scientific realism,scientific methodology,1202,1830,7.79671e-05,7.80318e-05,7.80318e-05,True,7.79671e-05
+437,philosophy of science,metaphysics,722,681,0.00233065,0.00244398,0.00244398,True,0.00233065
+438,introspection,epistemology,2076,646,0.000256579,0.000252102,0.000256579,True,0.000256579
+439,philosophy of computer science,logic and language,903,941,0.000156175,0.000157402,0.000157402,True,0.000156175
+440,medieval theories of the categories,metaphysics,1760,681,2.04317e-05,2.01088e-05,2.04317e-05,True,2.04317e-05
+441,locke's political philosophy,philosophy of religion,1763,724,2.95887e-05,2.88433e-05,2.95887e-05,True,2.95887e-05
+442,kant's view of the mind and consciousness of self,consciousness,1058,923,0.00050601,0.000479787,0.00050601,True,0.00050601
+443,philosophy of physics,metaphysics,719,681,0.00181872,0.00180407,0.00181872,True,0.00181872
+444,identity theory of mind,perception,818,2078,1.58275e-05,1.55227e-05,1.58275e-05,True,1.58275e-05
+445,vitalism,metaphysics,757,681,8.37178e-05,7.9518e-05,8.37178e-05,True,8.37178e-05
+446,realism,philosophy of mind,480,715,0.00100268,0.000958254,0.00100268,True,0.00100268
+447,imagery,perception,1900,2078,0.000310002,0.000298528,0.000310002,True,0.000310002
+448,self-consciousness,aspects of consciousness,1299,1785,,,,False,
+449,aristotle's psychology,philosophy of mind,1008,715,7.93144e-05,7.492e-05,7.93144e-05,True,7.93144e-05
+450,folk psychology as a theory,philosophy of mind,996,715,6.60539e-05,6.28659e-05,6.60539e-05,True,6.60539e-05
+451,modularity of mind,philosophy of mind,1705,715,3.55399e-05,3.39776e-05,3.55399e-05,True,3.55399e-05
+452,language of thought hypothesis,philosophy of language,882,712,0.00031437,0.000295009,0.00031437,True,0.00031437
+453,probability and statistics,scientific methodology,939,1830,0.000101596,0.000104749,0.000104749,True,0.000101596
+454,externalism about mental content,mental content,1275,925,0.000113779,0.000114077,0.000114077,True,0.000113779
+455,descartes' epistemology,perception,1284,2078,0.000132331,0.000129141,0.000132331,True,0.000132331
+456,mereology,metaphysics,1221,681,0.000117916,0.000115589,0.000117916,True,0.000117916
+457,turing test,artificial intelligence,990,890,6.18016e-05,6.15902e-05,6.18016e-05,True,6.18016e-05
+458,universals,philosophy of mind,1483,715,0.00263246,0.00256155,0.00263246,True,0.00263246
+459,consciousness and content,philosophy of mind,924,715,0.00011572,0.000102671,0.00011572,True,0.00011572
+460,zeno's paradoxes,philosophy of mathematics,1313,714,,,,False,
+461,chinese ethics,chinese philosophy,1694,624,4.39714e-05,4.43087e-05,4.43087e-05,True,4.39714e-05
+462,matter,philosophy of mind,1497,715,0.00358827,0.00361154,0.00361154,True,0.00358827
+463,epistemological problems of perception,epistemology,1361,646,1.18911e-05,1.17662e-05,1.18911e-05,True,1.18911e-05
+464,knowledge by acquaintance and knowledge by description,epistemology,1118,646,1.83135e-05,1.67847e-05,1.83135e-05,True,1.83135e-05
+465,unity of science,philosophy of science and the sciences,983,1826,0.000431086,0.000369647,0.000431086,True,0.000431086
+466,eternity of the world,metaphysics,1892,681,0.000103037,9.78851e-05,0.000103037,True,0.000103037
+467,consciousness and mental content,mental content,961,925,,,,False,
+468,taoism,philosophy of religion,559,724,0.000170161,0.000161941,0.000170161,True,0.000170161
+469,personal identity and ethics,bioethics,1598,621,6.97277e-06,6.98521e-06,6.98521e-06,True,6.97277e-06
+470,ancient theories of soul,philosophy of mind,1327,715,1.51338e-05,1.46008e-05,1.51338e-05,True,1.51338e-05
+471,atheism,philosophy of religion,50,724,0.000511212,0.000477121,0.000511212,True,0.000511212
+472,cartesian dualism,perception,98,2078,0.000102076,9.2779e-05,0.000102076,True,0.000102076
+473,aristotelianism,metaphysics,48,681,0.000342785,0.000322722,0.000342785,True,0.000342785
+474,religion and morality,ethics,1576,647,9.25469e-05,9.07224e-05,9.25469e-05,True,9.25469e-05
+475,satanism,philosophy of religion,506,724,,,,False,
+476,teleosemantics,perception,1987,2078,2.83075e-05,2.73215e-05,2.83075e-05,True,2.83075e-05
+477,internalism and externalism,perception,2163,2078,0.000153331,0.000149073,0.000153331,True,0.000153331
+478,hilbert's program,philosophy of science and the sciences,1356,1826,9.08119e-05,7.89088e-05,9.08119e-05,True,9.08119e-05
+479,pragmatic arguments and belief in god,philosophy of religion,1850,724,2.85299e-05,2.78413e-05,2.85299e-05,True,2.85299e-05
+480,continental feminism,continental philosophy,1120,631,7.25153e-05,7.33735e-05,7.33735e-05,True,7.25153e-05
+481,logos,epistemology,1612,646,5.20421e-05,4.98925e-05,5.20421e-05,True,5.20421e-05
+482,artificial intelligence,computation,890,937,0.000183273,0.000182754,0.000183273,True,0.000183273
+483,classical physics,philosophy of science and the sciences,931,1826,0.000689334,0.000449793,0.000689334,True,0.000689334
+484,feminist metaphysics,metaphysics,1863,681,0.000238958,0.000230821,0.000238958,True,0.000238958
+485,zen buddhism,japanese philosophy,759,671,2.07892e-05,2.04242e-05,2.07892e-05,True,2.07892e-05
+486,social philosophy,social and political philosophy,746,1787,0.000857024,0.000784131,0.000857024,True,0.000857024
+487,private language argument,philosophy of language,1941,712,0.000181738,0.000134445,0.000181738,True,0.000181738
+488,implicature,pragmatics,1380,807,0.000537394,0.000523654,0.000537394,True,0.000537394
+489,axiomatic theories of truth,philosophy of language,1452,712,9.29168e-05,8.76954e-05,9.29168e-05,True,9.29168e-05
+490,natural law tradition,philosophy of religion,1597,724,6.60836e-05,6.10257e-05,6.60836e-05,True,6.60836e-05
+491,bayes's theorem,philosophy of science and the sciences,1728,1826,,,,False,
+492,biological altruism,philosophy of biology,1330,704,1.33334e-05,1.32206e-05,1.33334e-05,True,1.33334e-05
+493,temporal logic,artificial intelligence,1294,890,1.95933e-06,1.9585e-06,1.95933e-06,True,1.95933e-06
+494,metaphysics and language,philosophy of language,2066,712,0.000172173,0.000127367,0.000172173,True,0.000172173
+495,medieval theories of practical reason,ethics,1070,647,3.38964e-05,3.31705e-05,3.38964e-05,True,3.38964e-05
+496,indispensability arguments in the philosophy of mathematics,philosophy of science and the sciences,1246,1826,0.000133763,0.000113901,0.000133763,True,0.000133763
+497,metaphysics of causation,metaphysics,1082,681,7.40791e-05,7.24826e-05,7.40791e-05,True,7.40791e-05
+498,activation value,artificial intelligence,955,890,4.27302e-05,4.14719e-05,4.27302e-05,True,4.27302e-05
+499,trait,developmental biology,1938,1832,3.91851e-05,3.95669e-05,3.95669e-05,True,3.91851e-05
+500,doctrine of double effect,bioethics,1258,621,,,,False,
+501,philosophy of chemistry,philosophy of physics,861,719,0.000485164,0.000474314,0.000485164,True,0.000485164
+502,plato's middle period metaphysics and epistemology,metaphysics,1368,681,1.07855e-05,1.06646e-05,1.07855e-05,True,1.07855e-05
+503,thermodynamic asymmetry in time,statistical mechanics and thermodynamics,1066,967,0.000598043,0.000594547,0.000598043,True,0.000598043
+504,interpretation,quantum mechanics,845,1158,0.000706531,0.000748545,0.000748545,True,0.000706531
+505,approaches to feminist philosophy,continental philosophy,1045,631,0.000106842,0.000110542,0.000110542,True,0.000106842
+506,life,philosophy of religion,1764,724,0.00213161,0.00218954,0.00218954,True,0.00213161
+507,contents of perception,mental content,874,925,2.81537e-05,2.82582e-05,2.82582e-05,True,2.81537e-05
+508,mental representation,perception,1222,2078,0.000233821,0.000226431,0.000233821,True,0.000233821
+509,goodness and value theory,metaphysics,653,681,,,,False,
+510,intentionality,philosophy of mind,1325,715,0.000552466,0.00052406,0.000552466,True,0.000552466
+511,hard problem,perception,875,2078,0.000123288,0.000114607,0.000123288,True,0.000123288
+512,concepts,perception,1734,2078,0.00134395,0.00140708,0.00140708,True,0.00134395
+513,proper names,philosophy of mind,2019,715,0.000259659,0.000244007,0.000259659,True,0.000259659
+514,folk psychology,philosophy of science and the sciences,891,1826,0.00083266,0.00054342,0.00083266,True,0.00083266
+515,computation and representation,philosophy of mind,936,715,3.79942e-05,3.31135e-05,3.79942e-05,True,3.79942e-05
+516,mental representation,philosophy of mind,1222,715,0.000264719,0.000249347,0.000264719,True,0.000264719
+517,process philosophy,metaphysics,733,681,0.000235747,0.000227602,0.000235747,True,0.000235747
+518,philosophy of mathematics,metaphysics,714,681,0.00015459,0.000151678,0.00015459,True,0.00015459
+519,epistemology of religion,epistemology,1026,646,0.0001377,0.000132891,0.0001377,True,0.0001377
+520,ancient philosophy (aristotle),metaphysics,1846,681,,,,False,
+521,philosophy of chemistry,philosophy of mind,861,715,0.000158205,0.000151356,0.000158205,True,0.000158205
+522,abstract object,philosophy of mind,846,715,0.000195043,0.000186364,0.000195043,True,0.000195043
+523,japanese zen buddhist philosophy,japanese philosophy,1696,671,,,,False,
+524,philosophy of psychology,perception,720,2078,0.0012485,0.0012305,0.0012485,True,0.0012485
+525,feminist philosophy,epistemology,920,646,0.000163514,0.000159167,0.000163514,True,0.000163514
+526,aristotle on causality,metaphysics,1725,681,,,,False,
+527,inductive logic,history of logic,912,917,1.71009e-05,1.72441e-05,1.72441e-05,True,1.71009e-05
+528,psychiatry,philosophy of mind,906,715,0.00175052,0.00166419,0.00175052,True,0.00175052
+529,epistemological problems of memory,philosophy of mind,1241,715,1.4653e-05,1.44311e-05,1.4653e-05,True,1.4653e-05
+530,medieval political philosophy,philosophy of religion,1700,724,2.10501e-05,2.06162e-05,2.10501e-05,True,2.10501e-05
+531,law and language,philosophy of language,1168,712,0.000697259,0.0006328,0.000697259,True,0.000697259
+532,problem of perception,perception,872,2078,0.000350562,0.0003344,0.000350562,True,0.000350562
+533,philosophy of biology,philosophy of mind,704,715,0.000348072,0.000334783,0.000348072,True,0.000348072
+534,scottish philosophy in the 19th century,metaphysics,1713,681,3.45324e-05,3.38533e-05,3.45324e-05,True,3.45324e-05
+535,social and political philosophy,metaphysics,1787,681,0.000284745,0.000276941,0.000284745,True,0.000284745
+536,intersections between pragmatist and continental feminism,continental philosophy,1048,631,0.000116497,0.000118538,0.000118538,True,0.000116497
+537,ethics,virtues and vices,647,1879,0.00321305,0.00311408,0.00321305,True,0.00321305
+538,mathematical logic,philosophy of mind,914,715,0.000187987,0.000173967,0.000187987,True,0.000187987
+539,Eternity in Christian Thought,metaphysics,1580,681,0.000444306,0.0004333,0.000444306,True,0.000444306
+540,logic and games,history of logic,1193,917,,,,False,
+541,realism and anti-realism,philosophy of mind,978,715,0.00105332,0.000999767,0.00105332,True,0.00105332
+542,falsificationism,scientific methodology,649,1830,5.97017e-05,5.84472e-05,5.97017e-05,True,5.97017e-05
+543,psychological relation,perception,886,2078,1.98593e-05,1.89837e-05,1.98593e-05,True,1.98593e-05
+544,probability,philosophy of science and the sciences,770,1826,0.0217072,0.0167074,0.0217072,True,0.0217072
+545,social contract,ethics,1388,647,0.00025527,0.00024663,0.00025527,True,0.00025527
+546,philosophy of biology,epistemology,704,646,0.000318663,0.000316255,0.000318663,True,0.000318663
+547,identity of indiscernibles,metaphysics,1351,681,9.76746e-05,9.39485e-05,9.76746e-05,True,9.76746e-05
+548,backward causation,causation,1087,969,0.000584572,0.000564715,0.000584572,True,0.000584572
+549,aesthetics and philosophy of art,philosophy of composition,1788,707,0.000187664,0.000190375,0.000190375,True,0.000187664
+550,scientific methodology,epistemology,1830,646,0.000355193,0.000342772,0.000355193,True,0.000355193
+551,animal cognition,cognitive science,812,892,5.50265e-06,5.49484e-06,5.50265e-06,True,5.50265e-06
+552,arguments for the existence of god,philosophy of religion,1559,724,8.94116e-05,8.19041e-05,8.94116e-05,True,8.94116e-05
+553,identity and individuality in quantum theory,metaphysics,1191,681,1.30877e-05,1.29006e-05,1.30877e-05,True,1.30877e-05
+554,mental state,philosophy of mind,964,715,0.00126198,0.0011925,0.00126198,True,0.00126198
+555,philosophy of mathematics,philosophy of science,714,722,0.000259782,0.000245895,0.000259782,True,0.000259782
+556,monotheism,philosophy of religion,360,724,0.000111611,0.000107502,0.000111611,True,0.000111611
+557,logic and language,philosophy of mind,941,715,0.000191869,0.000178675,0.000191869,True,0.000191869
+558,chinese room argument,philosophy of mind,1137,715,0.00014426,0.000137395,0.00014426,True,0.00014426
+559,neutral monism,philosophy of mind,689,715,4.69577e-05,4.51254e-05,4.69577e-05,True,4.69577e-05
+560,phenomenological approaches to self-consciousness,consciousness,1298,923,0.000122687,0.000118507,0.000122687,True,0.000122687
+561,omniscience,philosophy of religion,1577,724,0.000104008,0.000100393,0.000104008,True,0.000104008
+562,episteme and techne,metaphysics,1608,681,1.85473e-07,1.84119e-07,1.85473e-07,True,1.85473e-07
+563,aristotle and mathematics,philosophy of mathematics,1010,714,1.64864e-05,1.64252e-05,1.64864e-05,True,1.64864e-05
+564,philosophy of computer science,logic,903,674,0.000416172,0.000387657,0.000416172,True,0.000416172
+565,thinking machine,turing test,894,990,0.000146405,0.000139002,0.000146405,True,0.000146405
+566,mental representation in medieval philosophy,philosophy of mind,1040,715,2.92328e-05,2.78138e-05,2.92328e-05,True,2.92328e-05
+567,philosophy of nature,epistemology,716,646,3.39402e-05,3.30327e-05,3.39402e-05,True,3.39402e-05
+568,religion and morality,philosophy of religion,1576,724,0.000294557,0.000281547,0.000294557,True,0.000294557
+569,private language,philosophy of language,1097,712,0.000485177,0.00043723,0.000485177,True,0.000485177
+570,indeterminism,epistemology,973,646,5.01132e-05,4.90139e-05,5.01132e-05,True,5.01132e-05
+571,evolutionary psychology,philosophy of religion,1833,724,1.81335e-07,1.78578e-07,1.81335e-07,True,1.81335e-07
+572,philosophy of perception,philosophy of mind,718,715,0.0022651,0.00219041,0.0022651,True,0.0022651
+573,philosophy of mathematics,algebra,714,1421,6.27959e-05,6.26829e-05,6.27959e-05,True,6.27959e-05
+574,philosophy of biology,metaphysics,704,681,0.000312035,0.000308524,0.000312035,True,0.000312035
+575,eternity of the world,afterlife,1892,1581,7.64677e-05,7.53348e-05,7.64677e-05,True,7.64677e-05
+576,modern history of computing,artificial intelligence,1234,890,,,,False,
+577,ambiguity,epistemology,1883,646,0.000351528,0.000346688,0.000351528,True,0.000351528
+578,frame problem,artificial intelligence,831,890,2.29082e-05,2.27673e-05,2.29082e-05,True,2.29082e-05
+579,consciousness and content,perception,924,2078,0.000112203,0.000103956,0.000112203,True,0.000112203
+580,interpretation,epistemology,845,646,0.00142159,0.00146621,0.00146621,True,0.00142159
+581,dualism,philosophy of mind,168,715,0.00108416,0.00100722,0.00108416,True,0.00108416
+582,cognitive science,philosophies of the particular sciences,892,1827,0.00216377,0.00174311,0.00216377,True,0.00216377
+583,animal cognition,perception,812,2078,4.03667e-06,3.97897e-06,4.03667e-06,True,4.03667e-06
+584,virtue epistemology,epistemology,1143,646,0.000313906,0.00030345,0.000313906,True,0.000313906
+585,theories of mental content,mental content,927,925,0.000550334,0.000484889,0.000550334,True,0.000550334
+586,mental imagery,mental content,1223,925,8.61437e-06,8.62572e-06,8.62572e-06,True,8.61437e-06
+587,feminism,continental philosophy,215,631,6.69907e-05,6.8395e-05,6.8395e-05,True,6.69907e-05
+588,psychiatry,epistemology,906,646,0.000857155,0.000855215,0.000857155,True,0.000857155
+589,african sage philosophy,african and african-american philosophy,1662,1652,7.8426e-05,8.03369e-05,8.03369e-05,True,7.8426e-05
+590,molecular biology,philosophy of biology,1215,704,0.00159484,0.00150162,0.00159484,True,0.00159484
+591,church-turing thesis,function,1135,1436,0.000153782,0.00014584,0.000153782,True,0.000153782
+592,analysis,metaphysics,1508,681,0.00198371,0.00205087,0.00205087,True,0.00198371
+593,philosophy of language,syntax,712,841,0.00113462,0.0012523,0.0012523,True,0.00113462
+594,race,african and african-american philosophy,1400,1652,3.28296e-05,3.41759e-05,3.41759e-05,True,3.28296e-05
+595,language learning,cognitive science,805,892,4.4316e-05,4.37367e-05,4.4316e-05,True,4.4316e-05
+596,unity of consciousness,aspects of consciousness,877,1785,,,,False,
+597,transworld identity,epistemology,1519,646,3.0995e-08,3.07919e-08,3.0995e-08,True,3.0995e-08
+598,judaism,philosophy of religion,293,724,0.000519906,0.000477869,0.000519906,True,0.000519906
+599,process theism,metaphysics,1153,681,1.81727e-05,1.79711e-05,1.81727e-05,True,1.81727e-05
+600,philosophies of the particular sciences,metaphysics,1827,681,0.00181111,0.00194861,0.00194861,True,0.00181111
+601,creationism,philosophy of religion,140,724,4.23942e-05,4.13078e-05,4.23942e-05,True,4.23942e-05
+602,history of science,epistemology,1841,646,0.000212842,0.000205396,0.000212842,True,0.000212842
+603,counterfactual theories of causation,causation,1086,969,0.0006122,0.000588572,0.0006122,True,0.0006122
+604,consciousness and intentionality,philosophy of mind,1227,715,0.000200063,0.000190051,0.000200063,True,0.000200063
+605,descartes' epistemology,philosophy of mind,1284,715,9.7428e-05,9.33652e-05,9.7428e-05,True,9.7428e-05
+606,descartes' modal metaphysics,philosophy of mind,1282,715,0.000145742,0.000137958,0.000145742,True,0.000145742
+607,cognitive science,explanation,892,975,0.000501754,0.000472607,0.000501754,True,0.000501754
+608,probability,philosophy of mind,770,715,0.000208031,0.000204629,0.000208031,True,0.000208031
+609,dadaism,perception,147,2078,,,,False,
+610,computational theory of mind,cognitive science,1235,892,6.06359e-05,6.06747e-05,6.06747e-05,True,6.06359e-05
+611,chinese room argument,artificial intelligence,1137,890,3.07228e-05,3.06962e-05,3.07228e-05,True,3.07228e-05
+612,daoism,philosophy of religion,148,724,0.00011076,0.000107584,0.00011076,True,0.00011076
+613,evolutionary epistemology,epistemology,1146,646,0.000202398,0.000194299,0.000202398,True,0.000202398
+614,causation in the law,philosophy of law,1085,713,0.000589242,0.000515934,0.000589242,True,0.000589242
+615,problem of perception,philosophy of mind,872,715,2.50544e-05,2.4149e-05,2.50544e-05,True,2.50544e-05
+616,consciousness and psychology,philosophy of mind,960,715,,,,False,
+617,body,perception,2040,2078,0.0015879,0.0016189,0.0016189,True,0.0015879
+618,singular propositions,metaphysics,1151,681,3.57086e-05,3.51875e-05,3.57086e-05,True,3.57086e-05
+619,philosophy of physics,philosophy of mind,719,715,0.00120061,0.00115082,0.00120061,True,0.00120061
+620,a posteriori knowledge,perception,1533,2078,,,,False,
+621,emotions in the christian tradition,philosophy of religion,1557,724,0.000310297,0.000291981,0.000310297,True,0.000310297
+622,consciousness and intentionality,intentionality,1227,1325,0.000938131,0.000922561,0.000938131,True,0.000938131
+623,phenomenological approaches to self-consciousness,perception,1298,2078,3.16985e-05,3.09357e-05,3.16985e-05,True,3.16985e-05
+624,anti-realism,epistemology,616,646,0.000140729,0.000136302,0.000140729,True,0.000140729
+625,experience and perception of time,perception,1078,2078,,,,False,
+626,the scientific method,scientific methodology,1916,1830,0.000742403,0.000694256,0.000742403,True,0.000742403
+627,nonconceptual mental content,mental content,1274,925,9.22395e-06,9.23364e-06,9.23364e-06,True,9.22395e-06
+628,philosophy of physics,epistemology,719,646,0.000753408,0.000752861,0.000753408,True,0.000753408
+629,peripatetic,metaphysics,698,681,0.0002684,0.000254959,0.0002684,True,0.0002684
+630,expressionism,perception,200,2078,,,,False,
+631,philosophies of the particular sciences,philosophy of mind,1827,715,0.00157562,0.00162144,0.00162144,True,0.00157562
+632,african american philosophy,african and african-american philosophy,800,1652,,,,False,
+633,scottish philosophy in the 19th century,philosophy of mind,1713,715,7.21262e-05,6.83745e-05,7.21262e-05,True,7.21262e-05
+634,aristotle and mathematics,metaphysics,1010,681,2.86601e-06,2.83357e-06,2.86601e-06,True,2.86601e-06
+635,logic and language,epistemology,941,646,0.000152521,0.000148247,0.000152521,True,0.000152521
+636,modernism,idealism,350,267,4.71365e-05,4.55193e-05,4.71365e-05,True,4.71365e-05
+637,philosophy of chemistry,epistemology,861,646,0.000107297,0.000105914,0.000107297,True,0.000107297
+638,human rights,african and african-american philosophy,1038,1652,,,,False,
+639,logic,modal logic,674,1209,0.00441959,0.00532546,0.00532546,True,0.00441959
+640,plato on utopia,epistemology,1365,646,7.05496e-06,6.97905e-06,7.05496e-06,True,7.05496e-06
+641,introspection,perception,2076,2078,0.000386802,0.000374927,0.000386802,True,0.000386802
+642,transcendentalism,philosophy of religion,569,724,6.3247e-05,6.0352e-05,6.3247e-05,True,6.3247e-05
+643,connectionist model,perception,947,2078,5.25312e-05,4.96578e-05,5.25312e-05,True,5.25312e-05
+644,philosophy of computer science,philosophy of language,903,712,0.000294147,0.000277539,0.000294147,True,0.000294147
+645,atonement,philosophy of religion,1570,724,1.81441e-05,1.77645e-05,1.81441e-05,True,1.81441e-05
+646,cosmological argument,philosophy of religion,1305,724,3.55233e-05,3.47618e-05,3.55233e-05,True,3.55233e-05
+647,internalism and externalism,epistemology,2163,646,0.000173514,0.000169988,0.000173514,True,0.000173514
+648,informal logic,history of logic,675,917,,,,False,
+649,social philosophy and political philosophy,metaphysics,943,681,0.000288318,0.000280272,0.000288318,True,0.000288318
+650,medieval political philosophy,social and political philosophy,1700,1787,9.34342e-05,9.34442e-05,9.34442e-05,True,9.34342e-05
+651,determinates vs. determinables,history of logic,1267,917,,,,False,
+652,optimism,epistemology,404,646,0.000268924,0.00025874,0.000268924,True,0.000268924
+653,phenomenology of religion,philosophy of religion,1563,724,0.000374344,0.000348695,0.000374344,True,0.000374344
+654,philosophy of space and time,metaphysics,723,681,5.63519e-05,5.30262e-05,5.63519e-05,True,5.63519e-05
+655,philosophy of logic,epistemology,1791,646,8.11499e-05,7.75826e-05,8.11499e-05,True,8.11499e-05
+656,existence,perception,1478,2078,0.00160631,0.00165411,0.00165411,True,0.00160631
+657,computation and representation,perception,936,2078,2.77652e-05,2.57481e-05,2.77652e-05,True,2.77652e-05
+658,ancient philosophy (aristotle),philosophy of mind,1846,715,,,,False,
+659,virtues and vices,philosophy of mind,1879,715,0.00277853,0.00273647,0.00277853,True,0.00277853
+660,ideas,epistemology,1641,646,0.00124087,0.00134184,0.00134184,True,0.00124087
+661,identity theory of truth,metaphysics,1014,681,1.5347e-06,1.51932e-06,1.5347e-06,True,1.5347e-06
+662,abstract object,metaphysics,846,681,0.000221012,0.000216729,0.000221012,True,0.000221012
+663,internalism,philosophy of mind,666,715,0.000154946,0.000146539,0.000154946,True,0.000154946
+664,distributed representation,artificial intelligence,825,890,,,,False,
+665,consciousness,philosophy of mind,923,715,0.00165689,0.00159616,0.00165689,True,0.00165689
+666,inductive logic and decision theory,epistemology,1790,646,0.000220285,0.000213552,0.000220285,True,0.000220285
+667,input unit,folk psychology,951,891,,,,False,
+668,dualism and metaphysics of mind,philosophy of mind,907,715,,,,False,
+669,philosophy of physics,philosophy of science and the sciences,719,1826,0.0179359,0.0120097,0.0179359,True,0.0179359
+670,mental imagery,perception,1223,2078,0.000164894,0.000159525,0.000164894,True,0.000164894
+671,heaven and hell,afterlife,1343,1581,0.000203565,0.000205122,0.000205122,True,0.000203565
+672,divine revelation,philosophy of religion,1560,724,0.000100962,9.78201e-05,0.000100962,True,0.000100962
+673,mind,philosophy of mind,2067,715,0.0898576,0.0898576,0.0898576,True,0.0898576
+674,simulation theory,folk psychology,817,891,5.03986e-05,4.99807e-05,5.03986e-05,True,5.03986e-05
+675,existentialism,existence,197,1478,0.000234293,0.000219416,0.000234293,True,0.000234293
+676,interpretations of probability,philosophy of science and the sciences,1155,1826,0.000466997,0.000400907,0.000466997,True,0.000466997
+677,ethics,deontology,647,638,0.00019577,0.00020687,0.00020687,True,0.00019577
+678,logic,logic and language,674,941,0.00149785,0.00203636,0.00203636,True,0.00149785
+679,constructive mathematics,philosophy of science and the sciences,1251,1826,0.000195406,0.000166194,0.000195406,True,0.000195406
+680,unity of consciousness,philosophy of mind,877,715,4.04658e-05,3.89331e-05,4.04658e-05,True,4.04658e-05
+681,other minds,philosophy of mind,1750,715,0.00137733,0.00121498,0.00137733,True,0.00137733
+682,psychological theory,perception,887,2078,0.000171766,0.00016116,0.000171766,True,0.000171766
+683,knowledge argument,physicalism,813,726,0.000235813,0.000233811,0.000235813,True,0.000235813
+684,moral epistemology,epistemology,866,646,0.000404951,0.00039596,0.000404951,True,0.000404951
+685,externalism,epistemology,201,646,0.000159053,0.000154786,0.000159053,True,0.000159053
+686,realism and anti-realism,epistemology,978,646,0.000695849,0.000689791,0.000695849,True,0.000695849
+687,object,perception,1499,2078,0.0026493,0.00286046,0.00286046,True,0.0026493
+688,logic and language,artificial intelligence,941,890,5.42995e-05,5.40186e-05,5.42995e-05,True,5.42995e-05
+689,animal cognition,folk psychology,812,891,,,,False,
+690,sophists,metaphysics,1622,681,1.51971e-05,1.49911e-05,1.51971e-05,True,1.51971e-05
+691,fideism,philosophy of religion,219,724,0.000442998,0.000414437,0.000442998,True,0.000442998
+692,logic and language,philosophy of language,941,712,0.00209477,0.00155548,0.00209477,True,0.00209477
+693,determinism,free will,157,992,0.00136221,0.001348,0.00136221,True,0.00136221
+694,kant's philosophy of religion,metaphysics,1056,681,3.47112e-06,3.43273e-06,3.47112e-06,True,3.47112e-06
+695,causal theories of mental content,mental content,1699,925,0.000250121,0.000251589,0.000251589,True,0.000250121
+696,cultural relativism,bioethics,144,621,,,,False,
+697,judaic philosophy,judaism,921,293,,,,False,
+698,epistemological problems of perception,philosophy of mind,1361,715,5.82749e-06,5.65634e-06,5.82749e-06,True,5.82749e-06
+699,epistemological problems of perception,perception,1361,2078,0.000224425,0.000216004,0.000224425,True,0.000224425
+700,kant's philosophical development,metaphysics,1062,681,4.62022e-05,4.53555e-05,4.62022e-05,True,4.62022e-05
+701,abstract expressionism,perception,4,2078,,,,False,
+702,narrow mental content,mental content,1273,925,9.18513e-05,9.22841e-05,9.22841e-05,True,9.18513e-05
+703,perception,epistemology,2078,646,0.00112761,0.00114187,0.00114187,True,0.00112761
+704,theories of mental content,causal theories of mental content,927,1699,0.000191341,0.000182871,0.000191341,True,0.000191341
+705,sense-data,philosophy of mind,1541,715,0.000132159,0.000126186,0.000132159,True,0.000132159
+706,belief,epistemology,880,646,0.0018384,0.00196202,0.00196202,True,0.0018384
+707,feminist philosophy of language,philosophy of language,1033,712,0.000173535,0.000162494,0.000173535,True,0.000173535
+708,divine law,philosophy of religion,2012,724,0.000192942,0.000177486,0.000192942,True,0.000192942
+709,existence,philosophy of mind,1478,715,0.00307678,0.00307345,0.00307678,True,0.00307678
+710,philosophy of science,epistemology,722,646,0.00160056,0.00168149,0.00168149,True,0.00160056
+711,laws of nature,metaphysics,1164,681,0.000605023,0.000589479,0.000605023,True,0.000605023
+712,ideas,perception,1641,2078,0.00142401,0.00151773,0.00151773,True,0.00142401
