@@ -9,21 +9,16 @@ with model, temperature, date, prompt version, persona.)
 import os
 import csv
 import json
-from mistralai import Mistral
-from google import genai
-from google.genai import types
 from datetime import datetime, timezone
+from dotenv import load_dotenv
+import anthropic
 
-# Tested using Mistral:
-# api_key = os.environ["MISTRAL_API_KEY"]
-# model = "open-mistral-nemo"
+load_dotenv()  # loads your .env file so ANTHROPIC_API_KEY is available
 
-# client = Mistral(api_key=api_key)
-
-api_key = os.environ["GEMINI_API_KEY"]
-model = "gemini-2.5-pro"
-
-client = genai.Client(api_key=api_key)
+# Anthropic (Claude)
+api_key = os.getenv("ANTHROPIC_API_KEY")
+model = "claude-3-7-sonnet-20250219"
+client = anthropic.Anthropic(api_key=api_key)
 
 coverage_to_persona = {
     "has_amateur": "novice",
@@ -46,6 +41,7 @@ gen_options = {
     "Incomparable To":    3
 }
 PROMPT_VERSION = "v1"
+NULL_PERSONA = "null"
 
 def truthy(val):
     """Convert string representations of boolean values to actual booleans"""
@@ -81,12 +77,46 @@ def response_to_index(txt):
 
     return relate, general
 
+def call_model(system_prompt: str, user_prompt: str, model: str, client: anthropic.Anthropic):
+    """Call Anthropic Claude and return (relatedness_idx, generality_idx)."""
+    response = client.messages.create(
+        model=model,
+        max_tokens=512,
+        temperature=0.0,
+        system=system_prompt,
+        messages=[{"role": "user", "content": user_prompt}]
+    )
+    text = ""
+    if response.content and len(response.content) > 0:
+        text = response.content[0].text
+    rel, gen = response_to_index((text or "").strip())
+    return rel, gen
+
+def write_response_row(writer, *, key, ideaA, ideaB, persona, rel, gen, model):
+    metadata = {
+        "model": model,
+        "temperature": 0,
+        "date": datetime.now(timezone.utc).isoformat(),
+        "prompt_version": PROMPT_VERSION,
+        "persona": persona
+    }
+    writer.writerow({
+        "key": key,
+        "ideaA": ideaA,
+        "ideaB": ideaB,
+        "relatedness": rel,
+        "generality": gen,
+        "persona": persona,
+        "system_prompt": PROMPT_VERSION,
+        "user_prompt": PROMPT_VERSION,
+        "metadata": json.dumps(metadata, ensure_ascii=False),
+    })
 
 def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/gemini-pro_outputs_v1.csv"
+    output_f = "./data/processed/claude-outputs_v2.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
     fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
@@ -97,48 +127,37 @@ def main():
         with open(input_f, "r") as input_csv:
             reader = csv.DictReader(input_csv)
 
+            seen_pairs = set()
+
             for pair in reader:
                 key   = pair.get("key")
                 ideaA = pair.get("ideaA")
                 ideaB = pair.get("ideaB")
 
+                pair_key = tuple(sorted([ideaA.strip().lower(), ideaB.strip().lower()]))
+
                 user_prompt = load_user_prompt(ideaA, ideaB)
                 
-
                 for coverage, persona in coverage_to_persona.items():
                     if truthy(pair.get(coverage)):
                         system_prompt = load_system_prompt(persona)
-                        
-                        response = client.models.generate_content(
-                            model="gemini-2.5-pro",
-                            config=types.GenerateContentConfig(
-                                system_instruction=system_prompt,
-                                temperature=0.0),
-                            contents=user_prompt,
+                        rel, gen = call_model(system_prompt, user_prompt, model, client)
+                        write_response_row(
+                            writer,
+                            key=key, ideaA=ideaA, ideaB=ideaB,
+                            persona=persona, rel=rel, gen=gen, model=model
                         )
-                        
-                        rel, gen = response_to_index(response.text)
 
-                        metadata = {
-                            "model": "gemini-2.5-pro",
-                            "temperature": 0,
-                            "date": datetime.now(timezone.utc).isoformat(),
-                            "prompt_version": PROMPT_VERSION,
-                            "persona": persona
-                        }
+                if pair_key not in seen_pairs:
+                    seen_pairs.add(pair_key)
 
-                        writer.writerow({
-                            "key": key,
-                            "ideaA": ideaA,
-                            "ideaB": ideaB,
-                            "relatedness": rel,
-                            "generality": gen,
-                            "persona": persona,
-                            "system_prompt": PROMPT_VERSION,
-                            "user_prompt": PROMPT_VERSION,
-                            "metadata": json.dumps(metadata, ensure_ascii=False),
-                        })
-                        
+                    system_prompt = load_system_prompt(NULL_PERSONA)
+                    rel, gen = call_model(system_prompt, user_prompt, model, client)
+                    write_response_row(
+                        writer,
+                        key=key, ideaA=ideaA, ideaB=ideaB,
+                        persona=NULL_PERSONA, rel=rel, gen=gen, model=model
+                    )
 
     print("Output finished in " + output_f)
 

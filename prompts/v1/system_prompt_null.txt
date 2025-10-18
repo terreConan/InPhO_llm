@@ -1,0 +1,7 @@
+For each pair of ideas, please answer:
+1) “How related is <Idea A> to <Idea B>?”
+— Not Related / Marginally Related / Somewhat Related / Related / Highly Related
+2) If your answer is not “Not Related,” say whether A is More Specific Than / More
+General Than / As General As / Incomparable To.
+
+For both parts, say the answer only concisely.
