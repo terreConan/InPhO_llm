@@ -12,13 +12,18 @@ import json
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 import anthropic
+from mistralai import Mistral
+from google import genai
+from google.genai import types
+from groq import Groq
+import time
 
-load_dotenv()  # loads your .env file so ANTHROPIC_API_KEY is available
+load_dotenv()
 
-# Anthropic (Claude)
-api_key = os.getenv("ANTHROPIC_API_KEY")
-model = "claude-3-7-sonnet-20250219"
-client = anthropic.Anthropic(api_key=api_key)
+api_key = os.environ["GEMINI_API_KEY"]
+model = "gemini-2.0-flash"
+
+client = genai.Client(api_key=api_key)
 
 coverage_to_persona = {
     "has_amateur": "novice",
@@ -92,6 +97,55 @@ def call_model(system_prompt: str, user_prompt: str, model: str, client: anthrop
     rel, gen = response_to_index((text or "").strip())
     return rel, gen
 
+def call_mistral(system_prompt: str, user_prompt: str, model: str, client: Mistral):
+    chat_response = client.chat.complete(
+        model = model,
+        messages = [
+            {
+                "role": "system",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": user_prompt
+            }
+        ],
+        temperature = 0
+    )
+    time.sleep(1)
+
+    rel, gen = response_to_index(chat_response.choices[0].message.content)
+    return rel, gen
+
+
+def call_gemini(system_prompt: str, user_prompt: str, model: str, client: genai):
+    response = client.models.generate_content(
+        model=model,
+        config=types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            temperature=0.0),
+        contents=user_prompt,
+    )
+    rel, gen = response_to_index(response.text)
+    return rel, gen
+
+def call_llama(system_prompt: str, user_prompt: str, model: str, client: Groq):
+    completion = client.chat.completions.create(
+        model=model,
+        messages=[
+            {
+                "role": "system",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": user_prompt
+            }
+        ]
+    )
+    rel, gen = response_to_index(completion.choices[0].message.content)
+    return rel, gen
+
 def write_response_row(writer, *, key, ideaA, ideaB, persona, rel, gen, model):
     metadata = {
         "model": model,
@@ -116,7 +170,7 @@ def main():
     """
     pipeline; generated CSV in output_f
     """
-    output_f = "./data/processed/claude-outputs_v2.csv"
+    output_f = "./data/processed/gemini_outputs_v2.csv"
     input_f = "./data/processed/comparison_pairs_with_coverage.csv"
     
     fieldnames = ["key", "ideaA", "ideaB", "relatedness", "generality", "persona", "system_prompt", "user_prompt", "metadata"]
@@ -141,7 +195,7 @@ def main():
                 for coverage, persona in coverage_to_persona.items():
                     if truthy(pair.get(coverage)):
                         system_prompt = load_system_prompt(persona)
-                        rel, gen = call_model(system_prompt, user_prompt, model, client)
+                        rel, gen = call_gemini(system_prompt, user_prompt, model, client)
                         write_response_row(
                             writer,
                             key=key, ideaA=ideaA, ideaB=ideaB,
@@ -152,7 +206,7 @@ def main():
                     seen_pairs.add(pair_key)
 
                     system_prompt = load_system_prompt(NULL_PERSONA)
-                    rel, gen = call_model(system_prompt, user_prompt, model, client)
+                    rel, gen = call_gemini(system_prompt, user_prompt, model, client)
                     write_response_row(
                         writer,
                         key=key, ideaA=ideaA, ideaB=ideaB,

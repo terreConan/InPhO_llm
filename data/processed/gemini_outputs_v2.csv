@@ -1,0 +1,2 @@
+key,ideaA,ideaB,relatedness,generality,persona,system_prompt,user_prompt,metadata
+"('chinesephilosophy', 'taoism')",taoism,chinese philosophy,4,0,novice,v1,v1,"{""model"": ""gemini-2.0-flash"", ""temperature"": 0, ""date"": ""2025-10-21T21:42:14.049203+00:00"", ""prompt_version"": ""v1"", ""persona"": ""novice""}"
